@@ -1,0 +1,11 @@
+c="heparin" 100:0 100:0||r="TrAP"||c="a demand ischemic episode" 100:3 100:6
+c="nstemi" 5:3 5:3||r="PIP"||c="copd exacerbation" 5:0 5:1
+c="troponin leak" 105:3 105:4||r="PIP"||c="copd exacerpation" 105:0 105:1
+c="uri" 132:4 132:4||r="PIP"||c="exacerbation" 132:1 132:1
+c="demand ischemia" 105:9 105:10||r="PIP"||c="nstemi" 105:6 105:6
+c="benzos" 96:3 96:3||r="TrNAP"||c="steroid psychosis" 96:0 96:1
+c="nstemi" 92:10 92:10||r="PIP"||c="copd exacerbation" 92:7 92:8
+c="demand" 124:6 124:6||r="PIP"||c="a nstemi" 124:2 124:3
+c="heparin" 126:2 126:2||r="TrAP"||c="ptt" 126:4 126:4
+c="worsening dyspnea" 108:3 108:4||r="PIP"||c="fatigue" 108:0 108:0
+c="pneumonia" 132:6 132:6||r="PIP"||c="exacerbation" 132:1 132:1

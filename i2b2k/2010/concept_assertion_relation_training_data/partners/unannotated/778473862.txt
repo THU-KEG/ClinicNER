@@ -1,0 +1,29 @@
+778473862
+OMH
+1201694
+841272
+02/18/2005 12:00:00 AM
+ED Discharge Summary
+Unsigned
+DIS
+Report Status :
+Unsigned
+ED DISCHARGE NOTIFICATION
+CAPKOTESKOC , KER
+MRN :
+1201694
+Age :
+96y
+REGISTRATION DATE :
+02/18/2005 03:35 AM
+PRELIMINARY REPORT
+This is to notify you that your patient , CAPKOTESKOC , KER arrived in the Emergency Department at Oaksgekesser/ Memorial Hospital on 02/18/2005 03:35 AM .
+The patient presented with a chief complaint of LETHARGIC .
+Following evaluation and treatment , the patient &apos;s disposition at the end of the visit was admitted as an inpatient to Oaksgekesser/ Memorial Hospital .
+The patient &apos;s preliminary admitting physician is MONES , JOFREDD and the preliminary admitting diagnosis is BOWEL OBSTRUCTION .
+Please note this information may have been updated on the inpatient unit .
+If you need additional information please call 598-754-5083 .
+PCP Name :
+TREFTOBE , ROCIJEN
+Provider Number :
+57483

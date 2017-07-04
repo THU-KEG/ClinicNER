@@ -1,0 +1,60 @@
+Admission Date :
+2019-04-06
+Discharge Date :
+2019-04-15
+Date of Birth :
+1938-02-19
+Sex :
+M
+Service : ORTHOPAEDICS
+Allergies :
+Patient recorded as having No Known Allergies to Drugs
+Attending : Woodrow Y Williams , M.D.
+Addendum :
+On 2019-04-12 he was transfused with 2 units of packed red blood cells due to post-operative anemia .
+Mr. Minton did not get his IVIG until 2019-04-14 .
+The infusion was completed without incidence .
+He remained stable with his vital signs and lab data within normal limits .
+Chief Complaint :
+see below
+Pertinent Results :
+2019-04-15 09:25 AM BLOOD WBC - 3.8 * RBC - 2.88 * Hgb - 8.9 * Hct - 25.9 * MCV - 90 MCH - 30.9 MCHC - 34.3 RDW - 16.4 * Plt Ct - 194
+2019-04-14 08:50 AM BLOOD WBC - 6.5 RBC - 3.02 * Hgb - 9.4 * Hct - 27.1* MCV - 90 MCH - 31.0 MCHC - 34.6 RDW - 16.3 * Plt Ct - 169
+2019-04-13 08:40 AM BLOOD WBC - 6.7 RBC - 3.07 * Hgb - 9.3 * Hct - 27.1 * MCV - 88 MCH - 30.4 MCHC - 34.5 RDW - 16.2 * Plt Ct - 144 *
+2019-04-12 08:00 PM BLOOD Hct - 26.5 *
+2019-04-12 06:35 AM BLOOD Hct - 23.6 *
+2019-04-11 12:55 PM BLOOD Hct - 27.1 *
+2019-04-11 09:50 AM BLOOD WBC - 4.8 RBC - 3.02 * Hgb - 9.5 * Hct - 26.7 * MCV - 89 MCH - 31.4 MCHC - 35.5 * RDW - 15.2 Plt Ct - 103 *
+2019-04-11 06:27 AM BLOOD WBC - 4.4 RBC - 3.03 * Hgb - 9.5 * Hct - 26.7 * MCV - 88 MCH - 31.2 MCHC - 35.4 * RDW - 14.7 Plt Ct - 94 *
+2019-04-10 06:30 AM BLOOD WBC - 4.6 RBC - 2.81 * Hgb - 8.9 * Hct - 24.8 * MCV - 88 MCH - 31.7 MCHC - 36.0 * RDW - 15.2 Plt Ct - 95 *
+2019-04-09 06:45 AM BLOOD WBC - 5.0 RBC - 3.33 * Hgb - 10.4 * Hct - 29.2 * MCV - 88 MCH - 31.2 MCHC - 35.5 * RDW - 15.0 Plt Ct - 72 *
+2019-04-08 12:27 AM BLOOD WBC - 4.9 RBC - 3.11 * Hgb - 9.9 * Hct - 27.1 * MCV - 87 MCH - 32.0 MCHC - 36.6 * RDW - 15.5 Plt Ct - 107 *
+2019-04-07 04:53 PM BLOOD WBC - 4.4 RBC - 2.92 * Hgb - 9.6 *# Hct - 25.8 * MCV - 88 MCH - 32.8 * MCHC - 37.1 * RDW - 14.9 Plt Ct - 81 *
+2019-04-07 11:00 AM BLOOD WBC - 4.4 RBC - 2.34 *# Hgb - 7.5 * Hct - 21.2 *# MCV - 91 MCH - 32.1 * MCHC - 35.4 * RDW - 14.5 Plt Ct - 94 *
+2019-04-07 06:00 AM BLOOD WBC - 3.2 *# RBC - 3.14 * Hgb - 10.0 * Hct - 28.9 * MCV - 92 MCH - 32.0 MCHC - 34.8 RDW - 14.1 Plt Ct - 82 *#
+2019-04-06 10:40 AM BLOOD WBC - 2.1 * RBC - 3.51 * Hgb - 10.9 * Hct - 31.7 * MCV - 90 MCH - 31.1 MCHC - 34.5 RDW - 14.3 Plt Ct - 50 *
+2019-04-15 09:25 AM BLOOD Plt Ct - 194
+2019-04-14 08:50 AM BLOOD Plt Ct - 169
+2019-04-14 08:50 AM BLOOD PT - 12.0 INR(PT) - 1.0
+2019-04-15 09:25 AM BLOOD Glucose - 134 * UreaN - 19 Creat - 0.8 Na - 135 K - 3.5 Cl - 100 HCO3 - 28 AnGap - 11
+Discharge Medications :
+1. Cholecalciferol ( Vitamin D3 ) 400 unit Tablet Sig : One ( 1 ) Tablet PO DAILY ( Daily ).
+2. Pantoprazole 40 mg Tablet , Delayed Release ( E.C. ) Sig : One ( 1 ) Tablet , Delayed Release ( E.C. ) PO Q24H ( every 24 hours ).
+3. Lorazepam 0.5 mg Tablet Sig : One ( 1 ) Tablet PO TID ( 3 times a day ) as needed for anxiety .
+4. Acetaminophen 325 mg Tablet Sig : Two ( 2 ) Tablet PO Q4H ( every 4 hours ).
+5. Lisinopril 5 mg Tablet Sig : One ( 1 ) Tablet PO BID ( 2 times a day ).
+6. Senna 8.6 mg Tablet Sig : One ( 1 ) Tablet PO BID ( 2 times a day ) as needed .
+7. Docusate Sodium 100 mg Capsule Sig : One ( 1 ) Capsule PO BID ( 2 times a day ).
+8. Enoxaparin 30 mg / 0.3 mL Syringe Sig : One ( 1 )  Subcutaneous Q12H ( every 12 hours ) for 4 weeks .
+9. Oxycodone 5 mg Tablet Sig : One ( 1 ) Tablet PO Q4-6H ( every 4 to 6 hours ) as needed .
+10. Bisacodyl 5 mg Tablet , Delayed Release ( E.C. ) Sig : Two ( 2 ) Tablet , Delayed Release ( E.C. ) PO DAILY ( Daily ) as needed .
+11. Magnesium Hydroxide 400 mg / 5 mL Suspension Sig : Thirty ( 30 ) ML PO Q6H ( every 6 hours ) as needed .
+12. Trazodone 50 mg Tablet Sig : One ( 1 ) Tablet PO HS ( at bedtime ) as needed for insomnia .
+Discharge Disposition :
+Extended Care
+Facility :
+Lemuel Shattuck Hospital - Malden
+Michelle Franklin MD 31-164
+Completed by : Celia Gloria NP 80-CCZ 2019-04-15 @ 1049
+Signed electronically by : DR. Michelle K. Partin on : WED 2019-04-17 1:13 PM
+( End of Report )

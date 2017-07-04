@@ -1,0 +1,6 @@
+c="head ct" 41:0 41:1||r="TeRP"||c="diffuse subarachnoid hemorrhage" 41:3 41:5
+c="a repeat ct" 51:0 51:2||r="TeRP"||c="a new cerebellar hemorrhage" 51:13 51:16
+c="a repeat ct" 51:0 51:2||r="TeRP"||c="the diffuse subarachnoid hemorrhage" 51:8 51:11
+c="a cta" 50:0 50:1||r="TeRP"||c="diffuse subarachnoid hemorrhage" 50:3 50:5
+c="a cta" 50:0 50:1||r="TeRP"||c="intraventricular blood" 50:7 50:8
+c="a cta" 50:0 50:1||r="TeRP"||c="an aneurysm" 50:13 50:14

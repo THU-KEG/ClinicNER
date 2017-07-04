@@ -1,0 +1,38 @@
+c="recent echocardiography" 39:51 39:52||r="TeRP"||c="moderate mitral regurgitation" 39:66 39:68
+c="recent echocardiography" 39:51 39:52||r="TeRP"||c="mild-to-moderate aortic stenosis" 39:70 39:72
+c="the electrocardiogram" 60:0 60:1||r="TeRP"||c="premature atrial complexes" 60:7 60:9
+c="the electrocardiogram" 60:0 60:1||r="TeRP"||c="right bundle branch block" 60:11 60:14
+c="the electrocardiogram" 60:0 60:1||r="TeRP"||c="left anterior hemiblock" 60:16 60:18
+c="the electrocardiogram" 60:0 60:1||r="TeRP"||c="old anterior myocardial infarction" 60:20 60:23
+c="high flow oxygen" 47:10 47:12||r="TrWP"||c="dyspneic" 47:3 47:3
+c="severe dyspnea" 34:30 34:31||r="PIP"||c="sudden onset dyspnea" 34:18 34:20
+c="an approximate 1.5 liter diuresis" 62:9 62:13||r="TrIP"||c="his symptoms" 62:22 62:23
+c="jugular venous pressure" 48:0 48:2||r="TeRP"||c="a brisk inspiratory descent" 48:6 48:9
+c="chest x-ray" 36:0 36:1||r="TeRP"||c="interstitial or alveolar edema" 36:6 36:9
+c="subsequent lower extremities noninvasive studies" 65:0 65:4||r="TeRP"||c="acute pulmonary embolism" 65:15 65:17
+c="d-dimer test" 65:6 65:7||r="TeRP"||c="acute pulmonary embolism" 65:15 65:17
+c="an fev1" 39:14 39:15||r="TeRP"||c="restrictive and obstructive lung disease" 39:8 39:12
+c="a recent work up" 41:24 41:27||r="TeCP"||c="myasthenia gravis" 41:32 41:33
+c="a recent work up" 41:24 41:27||r="TeCP"||c="bimomatous" 41:30 41:30
+c="bimomatous" 41:30 41:30||r="PIP"||c="myasthenia gravis" 41:32 41:33
+c="multi-factorial dyspnea" 69:13 69:14||r="PIP"||c="his ventilatory limitation" 69:18 69:20
+c="multi-factorial dyspnea" 69:13 69:14||r="PIP"||c="a chronic low output state" 69:23 69:27
+c="recent computerized tomography scan" 40:13 40:16||r="TeRP"||c="surrounding or adjacent adenopathy" 40:18 40:21
+c="recent computerized tomography scan" 40:13 40:16||r="TeRP"||c="parenchymal lung disease" 40:23 40:25
+c="recent computerized tomography scan" 40:13 40:16||r="TeRP"||c="bronchiectasis" 40:28 40:28
+c="recent computerized tomography scan" 40:13 40:16||r="TeRP"||c="an anterior mediastinal mass" 40:6 40:9
+c="surrounding or adjacent adenopathy" 40:18 40:21||r="PIP"||c="an anterior mediastinal mass" 40:6 40:9
+c="coronary angiography" 67:0 67:1||r="TeRP"||c="occlusion of the right coronary artery proximally" 67:3 67:9
+c="coronary angiography" 67:0 67:1||r="TeRP"||c="insignificant plaquing in the left anterior descending artery" 67:11 67:18
+c="chest x-ray" 59:0 59:1||r="TeRP"||c="moderate cardiomegaly" 59:3 59:4
+c="chest x-ray" 59:0 59:1||r="TeRP"||c="clear interstitial or alveolar pulmonary edema" 59:7 59:12
+c="chest x-ray" 59:0 59:1||r="TeRP"||c="scarring at both lung bases" 59:19 59:23
+c="chest x-ray" 59:0 59:1||r="TeRP"||c="chronic atelectasis" 59:14 59:15
+c="prodrome" 34:27 34:27||r="PIP"||c="severe dyspnea" 34:30 34:31
+c="prodrome" 34:27 34:27||r="PIP"||c="sudden onset dyspnea" 34:18 34:20
+c="a vq scan" 64:3 64:5||r="TeRP"||c="pe" 64:14 64:14
+c="a vq scan" 64:3 64:5||r="TeRP"||c="a subsegmental defect in the lingular" 64:16 64:21
+c="aortic stenosis" 51:23 51:24||r="PIP"||c="a 2 out of 6 systolic ejection murmur" 51:13 51:20
+c="gallavardin like radiation to the apex" 51:26 51:31||r="PIP"||c="aortic stenosis" 51:23 51:24
+c="bronchodilators" 39:29 39:29||r="TrAP"||c="restrictive and obstructive lung disease" 39:8 39:12
+c="fvc" 39:19 39:19||r="TeRP"||c="restrictive and obstructive lung disease" 39:8 39:12

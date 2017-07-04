@@ -1,0 +1,17 @@
+c="an abg" 84:10 84:11||r="TeRP"||c="a severe resp acidosis" 84:16 84:19
+c="home o2" 74:15 74:16||r="TrAP"||c="copd" 74:12 74:12
+c="new perihilar and basilar opacities" 69:0 69:4||r="PIP"||c="pulmonary edema" 69:7 69:8
+c="new perihilar and basilar opacities" 69:0 69:4||r="PIP"||c="underlying aspiration" 69:25 69:26
+c="new perihilar and basilar opacities" 69:0 69:4||r="PIP"||c="infectious pneumonia in the lung bases" 69:28 69:33
+c="a cxr" 86:0 86:1||r="TeRP"||c="complete collapse of the l lung" 86:6 86:11
+c="a bleb" 86:19 86:20||r="PIP"||c="complete collapse of the l lung" 86:6 86:11
+c="bipap" 84:21 84:21||r="TrAP"||c="a severe resp acidosis" 84:16 84:19
+c="cpr" 19:11 19:11||r="TrAP"||c="pulseless" 19:9 19:9
+c="hypotension" 85:7 85:7||r="PIP"||c="severe hypoxia" 85:4 85:5
+c="almost complete collapse of the left lung" 72:7 72:13||r="PIP"||c="large left pneumothorax" 72:3 72:5
+c="her severe copd" 86:23 86:25||r="PIP"||c="a bleb" 86:19 86:20
+c="the previous study" 68:15 68:17||r="TeRP"||c="bilateral moderate pleural effusions" 68:2 68:5
+c="cxr" 83:0 83:0||r="TeRP"||c="ptx" 83:6 83:6
+c="cpr" 74:26 74:26||r="TrAP"||c="pulseless" 74:24 74:24
+c="multiple medical problems" 74:3 74:5||r="PIP"||c="copd" 74:12 74:12
+c="multiple medical problems" 74:3 74:5||r="PIP"||c="pulseless" 74:24 74:24

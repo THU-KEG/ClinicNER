@@ -1,0 +1,12 @@
+c="rate" 46:17 46:17||r="TrAP"||c="increasing respiratory distress" 46:2 46:4
+c="pressures" 46:13 46:13||r="TrAP"||c="increasing respiratory distress" 46:2 46:4
+c="zoloft" 18:10 18:10||r="TrAP"||c="depression" 18:7 18:7
+c="full volume feeds" 56:13 56:15||r="TrCP"||c="problems" 56:32 56:32
+c="management" 13:24 13:24||r="TrAP"||c="prematurity" 13:26 13:26
+c="enteral feeds" 56:0 56:1||r="TrCP"||c="problems" 56:32 56:32
+c="cesarean section" 21:3 21:4||r="TrAP"||c="pre-eclampsia" 21:9 21:9
+c="ampicillin" 69:4 69:4||r="TrAP"||c="sepsis" 69:10 69:10
+c="gentamicin" 69:6 69:6||r="TrAP"||c="sepsis" 69:10 69:10
+c="conventional ventilation" 46:10 46:11||r="TrAP"||c="increasing respiratory distress" 46:2 46:4
+c="clomid" 19:7 19:7||r="TrAP"||c="infertility" 19:4 19:4
+c="special care formula" 56:20 56:22||r="TrCP"||c="problems" 56:32 56:32

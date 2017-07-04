@@ -1,0 +1,72 @@
+488202469
+BH
+5615474
+69727/7hb7
+05/01/1992 12:00:00 AM
+1. SICK SINUS SYNDROME .
+2. PULMONARY CONGESTION .
+3. STATUS
+Unsigned
+DIS
+Report Status :
+Unsigned
+ADMISSION DATE :
+05/01/92
+DISCHARGE DATE :
+5/12/92
+DIAGNOSIS :
+1. Sick sinus syndrome .
+2. Pulmonary congestion .
+3. Status post mitral valve replacement , with a porcine valve , and coronary artery bypass grafting surgery .
+4. Chronic obstructive lung disease .
+SPECIAL PROCEDURES AND OPERATIONS :
+A temporary pacemaker on 5/4/92 , coronary angiogram and left and right heart catheterization on 5/5/92 , and permanent VVI-pacemaker on 5/6/92 , using an Intermedex pacemaker at 292-03 number , and set in the VVI mode with an escape rate of 65 .
+MEDICATIONS ON DISCHARGE :
+Zestril , 10 , b.i.d. , coumadin , to be regulated , digoxin , 0.125 mg. , alternating with 0.25 , every other day , verapamil , 80 , 4 times a day , Asthmacort , four puffs , b.i.d. , Atrovent , 2 puffs , 4 times a day , and quinine sulfate , 325 , q.h.s.
+HISTORY OF PRESENT ILLNESS :
+This patient is a 77 year old female who has had a Hancock mitral valve replacement on 10/28/76 by Dr. Melvean Ace .
+She had a bypass graft with marginal artery at that time , with a flow of 85 cc. &apos;s .
+She subsequently had done well , although she had had chronic obstructive lung disease .
+She had been converted to normal sinus rhythm in 1977 , but in 1988 , the mitral valve on an echocardiogram was O.K.
+Her ejection fraction was 81% , with no mitral regurgitation seen , with a peak gradient of 9 and a mean gradient of about 3 .
+In 1988 , she developed chronic obstructive pulmonary disease and asthma , and has been followed by Dr. Times , as well as the pulmonologist down where she lives .
+She had been in and out of atrial flutter and fibrillation most of the time for the last few years .
+She , on one occasion , had sinus rhythm very briefly .
+Dr. Avejoh Wierst at the Pedines Community Hospital found her to be in congestive heart failure on two occasions over the last six weeks or so .
+A TEE showed minimal mitral regurgitation and good left ventricular function .
+Nevertheless , because of recurrent failure , it was felt that she should be transferred up to the Bri Health for further evaluation .
+HOSPITAL COURSE :
+On examination here , I could hear no mitral regurgitation murmur .
+The observation in the hospital showed that she had recurrent runs of rapid atrial fibrillation as well as rapid supraventricular tachycardia going around 130 .
+This was on diltiazem and digoxin .
+At the same time , she had two 0.4 second pauses intermittently .
+Because of this , the diltiazem was stopped , and she was further observed .
+We could not catheterize her right away because her prothrombin time was a little too high .
+Over the weekend of observation , she continued to be in supraventricular tachycardia , but also developed a 4.4 second pause on digoxin alone , which was in low therapeutic range .
+She also had supraventricular tachycardia which was going up to 160 .
+Therefore , a temporary pacemaker that put in on 5/4 , and diltiazem was restarted .
+A cardiac catheterization was carried out on 5/5 , once her prothrombin time had fully normalized .
+It showed that she had a large big right dominant coronary artery , which was free of any significant disease .
+The graft to the marginal artery was open , with good runoff into a large vessel .
+The left anterior descending had perhaps a mid-40% lesion only , with good left ventricular contraction and no mitral regurgitation seen on left ventricular angiogram .
+There was a very modest to moderate mitral valve gradient .
+The mitral valve area was calculated at 1.2 square centimeters , and then with modest exercise , the mitral valve area calculated to 1.7 square centimeters .
+Thus , she had , at the most , modest mitral stenosis of no clinical significance .
+With this data in hand , it appeared that her previous congestive episodes was probably related to sustained periods of rapid heart action with minimal mitral stenosis .
+A permanent pacemaker was put in on 5/6/92 .
+This was an Intermedex 292-03 pacemaker , set in the VVI mode with an escape rate of 65 .
+She tolerated the procedure well .
+On diltiazem , 60 , q.i.d. , she continued to have supraventricular tachycardia , running at around 130 , so we switched her over to verapamil , four times a day , along with digoxin , 0.125 , alternating with 0.25 , qD , which gave her a blood level of 1.0 .
+On this program , she is now beginning to ambulate with a heart rate of around 79-80 , and is starting to feel a lot better .
+We will ambulate her over the next couple of days .
+We have stopped her Lasix , and we will be watching her daily weight , and that has been quite stable .
+If she remains stable over the next couple of days , she will be discharged on this program , to be followed jointly by Dr. Avejoh Wierst and Dr. Em Neighburce .
+EM Z. TIMES , M.D.
+TR :
+enp / bmot
+DD :
+5/9/92
+TD :
+05/12/92
+CC :
+For the patient , at Dalee , Alaska , for Dr. Avejoh Wierst , c / o Pedines Community Hospital , in Stumphi Road , Biinss , South Dakota 59762 .

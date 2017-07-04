@@ -1,0 +1,46 @@
+c="ecg" 117:0 117:0||r="TeRP"||c="shower r on t vpb" 117:6 117:10
+c="ecg" 117:0 117:0||r="TeRP"||c="monomorphic vt" 117:12 117:13
+c="shower r on t vpb" 117:6 117:10||r="PIP"||c="monomorphic vt" 117:12 117:13
+c="cardiac / ada diet" 125:5 125:8||r="TrAP"||c="elevated" 125:12 125:12
+c="w / u" 121:17 121:19||r="TeCP"||c="elevated glu" 121:0 121:1
+c="cardiac cath" 94:15 94:16||r="TeCP"||c="vt" 94:11 94:11
+c="amio loading" 5:9 5:10||r="TrAP"||c="vt" 5:0 5:0
+c="stent" 5:5 5:5||r="TrAP"||c="vt" 5:0 5:0
+c="ischemia" 119:68 119:68||r="PIP"||c="vt" 119:73 119:73
+c="lispro" 121:12 121:12||r="TrAP"||c="elevated glu" 121:0 121:1
+c="his r antecubital venous access site" 136:14 136:19||r="TrCP"||c="erythema" 136:12 136:12
+c="telemetry" 133:5 133:5||r="TeRP"||c="occasional ventricular extopyon" 133:2 133:4
+c="telemetry" 133:5 133:5||r="TeRP"||c="further recurrence" 133:8 133:9
+c="telemetry" 133:5 133:5||r="TeRP"||c="ventricular tachycardia" 133:11 133:12
+c="further recurrence" 133:8 133:9||r="PIP"||c="ventricular tachycardia" 133:11 133:12
+c="bmp" 121:4 121:4||r="TeRP"||c="elevated glu" 121:0 121:1
+c="fsg" 121:6 121:6||r="TeRP"||c="elevated glu" 121:0 121:1
+c="dietary control" 135:30 135:31||r="TrAP"||c="some glucose intolerance" 135:10 135:12
+c="interrogation" 119:18 119:18||r="TeRP"||c="vt" 119:23 119:23
+c="his am fasting glucose levels" 134:4 134:8||r="TeRP"||c="intermittently elevated" 134:10 134:11
+c="echo" 119:61 119:61||r="TeCP"||c="ischemia" 119:68 119:68
+c="enzymes" 119:41 119:41||r="TeRP"||c="mildly elevated" 119:42 119:43
+c="enzymes" 119:41 119:41||r="TeRP"||c="actively ischemic" 119:46 119:47
+c="exam" 106:0 106:0||r="TeRP"||c="1+ b / l edema" 106:19 106:23
+c="exam" 106:0 106:0||r="TeRP"||c="soft murmur at l sternal border" 106:9 106:14
+c="exam" 106:0 106:0||r="TeRP"||c="b / l carotid bruits" 106:3 106:7
+c="coronary catheterisation" 132:16 132:17||r="TeRP"||c="a 70% lesion in the svg to pda" 132:22 132:29
+c="coronary catheterisation" 132:16 132:17||r="TeRP"||c="a small reversible defect in the pda territory" 132:4 132:11
+c="monitor" 104:10 104:10||r="TeRP"||c="vt" 104:8 104:8
+c="adenosine stress mibi" 132:0 132:2||r="TeRP"||c="a small reversible defect in the pda territory" 132:4 132:11
+c="cypher stented" 132:31 132:32||r="TrAP"||c="a 70% lesion in the svg to pda" 132:22 132:29
+c="aicd" 100:14 100:14||r="TrAP"||c="inducible vt" 100:26 100:27
+c="glu" 125:10 125:10||r="TeRP"||c="elevated" 125:12 125:12
+c="ppm" 100:12 100:12||r="TrAP"||c="inducible vt" 100:26 100:27
+c="cabg" 100:8 100:8||r="TrAP"||c="longstanding cad" 100:3 100:4
+c="further icd shocks" 104:4 104:6||r="TrAP"||c="vt" 104:8 104:8
+c="baseline cri" 127:0 127:1||r="TeRP"||c="elevation" 127:6 127:6
+c="stent" 94:18 94:18||r="TrAP"||c="vt" 94:11 94:11
+c="amio loading" 94:20 94:21||r="TrAP"||c="vt" 94:11 94:11
+c="mi" 95:19 95:19||r="PIP"||c="cad" 95:15 95:15
+c="med therapy" 119:32 119:33||r="TrAP"||c="vt" 119:23 119:23
+c="ablation" 119:37 119:37||r="TrAP"||c="vt" 119:23 119:23
+c="ischemic cardiomyopathy" 95:20 95:21||r="PIP"||c="mi" 95:19 95:19
+c="adenosine thal" 119:57 119:58||r="TeCP"||c="ischemia" 119:68 119:68
+c="cardiac cath" 5:2 5:3||r="TeCP"||c="vt" 5:0 5:0
+c="presyncope" 100:21 100:21||r="PIP"||c="inducible vt" 100:26 100:27

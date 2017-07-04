@@ -1,0 +1,23 @@
+c="asbestosis" 105:3 105:3||r="PIP"||c="copd" 105:1 105:1
+c="treatment" 21:3 21:3||r="TrAP"||c="gallstones" 21:5 21:5
+c="treatment" 21:3 21:3||r="TrAP"||c="cholestasis" 21:7 21:7
+c="cholestasis" 21:7 21:7||r="PIP"||c="gallstones" 21:5 21:5
+c="ursodiol" 21:11 21:11||r="TrAP"||c="gallstones" 21:5 21:5
+c="ursodiol" 21:11 21:11||r="TrAP"||c="cholestasis" 21:7 21:7
+c="a left chest tube" 17:15 17:18||r="TrAP"||c="fluid" 17:21 17:21
+c="his cultures" 13:0 13:1||r="TeRP"||c="klebsiella" 13:7 13:7
+c="his cultures" 13:0 13:1||r="TeRP"||c="mrsa" 13:14 13:14
+c="klebsiella" 13:7 13:7||r="PIP"||c="his chest wound" 13:10 13:12
+c="a course of acyclovir" 12:7 12:10||r="TrAP"||c="zoster" 12:2 12:2
+c="a right chest tube" 17:24 17:27||r="TrAP"||c="fluid" 17:31 17:31
+c="colectomy" 103:5 103:5||r="TrAP"||c="colon cancer" 103:1 103:2
+c="abdominal repair" 95:3 95:4||r="TrAP"||c="wound dehiscence of jejunostomy site" 95:6 95:10
+c="xrt" 103:7 103:7||r="TrAP"||c="colon cancer" 103:1 103:2
+c="gastrectomy" 102:6 102:6||r="TrAP"||c="peptic ulcer disease" 102:1 102:3
+c="stay sutures" 46:13 46:14||r="TrAP"||c="his midabdominal incision" 46:5 46:7
+c="skin graft" 92:3 92:4||r="TrAP"||c="chest incision" 92:6 92:7
+c="chest ct scan" 105:5 105:7||r="TeRP"||c="copd" 105:1 105:1
+c="chest ct scan" 105:5 105:7||r="TeRP"||c="asbestosis" 105:3 105:3
+c="acute renal failure" 19:5 19:7||r="PIP"||c="atn" 19:9 19:9
+c="acute renal failure" 19:5 19:7||r="PIP"||c="casts in his urine" 19:11 19:14
+c="peripheral vascular disease" 104:1 104:3||r="PIP"||c="bilateral lower extremity claudication" 104:7 104:10

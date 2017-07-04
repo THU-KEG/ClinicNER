@@ -1,0 +1,52 @@
+c="blood pressure" 55:12 55:13||r="TeRP"||c="his drop" 55:9 55:10
+c="the stress test" 48:14 48:16||r="TeRP"||c="multi-vessel disease" 48:18 48:19
+c="diabetes mellitus type 2" 22:1 22:4||r="PIP"||c="peripheral neuropathy" 22:18 22:19
+c="diabetes mellitus type 2" 22:1 22:4||r="PIP"||c="nephropathy" 22:21 22:21
+c="diabetes mellitus type 2" 22:1 22:4||r="PIP"||c="charcot 's foot" 22:23 22:25
+c="evaluation" 49:5 49:5||r="TeCP"||c="his left foot ulcer" 49:7 49:10
+c="his foot infection" 66:18 66:20||r="PIP"||c="associated pain" 66:22 66:23
+c="left iliac stent" 24:6 24:8||r="TrAP"||c="peripheral vascular disease" 24:1 24:3
+c="intravenous zosyn" 94:16 94:17||r="TrAP"||c="his foot ulcer" 94:19 94:21
+c="lasix" 68:6 68:6||r="TrAP"||c="some pulmonary edema" 68:12 68:14
+c="lasix" 68:6 68:6||r="TrAP"||c="increasing oxygen need" 68:16 68:18
+c="increasing oxygen need" 68:16 68:18||r="PIP"||c="some pulmonary edema" 68:12 68:14
+c="anti-coagulation" 88:12 88:12||r="TrAP"||c="atrial fibrillation" 88:17 88:18
+c="intravenous lopressor" 69:22 69:23||r="TrAP"||c="rapid atrial fibrillation" 69:7 69:9
+c="angiogram" 14:2 14:2||r="TeRP"||c="a poor circulation to the left leg" 14:19 14:25
+c="rapid atrial fibrillation" 73:39 73:41||r="PIP"||c="respiratory difficulties" 73:35 73:36
+c="chest x-ray" 61:21 61:22||r="TeRP"||c="a small apical pneumothorax" 61:26 61:29
+c="percutaneous transluminal coronary angioplasty" 21:16 21:19||r="TrAP"||c="coronary artery disease" 21:2 21:4
+c="percutaneous transluminal coronary angioplasty" 21:16 21:19||r="TrAP"||c="myocardial infarction" 21:7 21:8
+c="coronary artery disease" 21:2 21:4||r="PIP"||c="myocardial infarction" 21:7 21:8
+c="bilateral iliac stenting" 132:6 132:8||r="TrAP"||c="peripheral vascular disease" 132:1 132:3
+c="the evaluation" 53:19 53:20||r="TeCP"||c="cardiac disease" 53:22 53:23
+c="zosyn" 77:27 77:27||r="TrAP"||c="a secondary infection of his foot" 77:20 77:25
+c="myocardial infarction" 129:6 129:7||r="PIP"||c="coronary artery disease" 129:1 129:3
+c="a stress test" 16:15 16:17||r="TeRP"||c="positive" 16:20 16:20
+c="diuresis" 69:18 69:18||r="TrAP"||c="rapid atrial fibrillation" 69:7 69:9
+c="percutaneous transluminal coronary angioplasty" 129:10 129:13||r="TrAP"||c="coronary artery disease" 129:1 129:3
+c="percutaneous transluminal coronary angioplasty" 129:10 129:13||r="TrAP"||c="myocardial infarction" 129:6 129:7
+c="angiography" 53:2 53:2||r="TeRP"||c="a transient increase" 53:6 53:8
+c="angiography" 53:2 53:2||r="TeRP"||c="diaphoretic" 53:15 53:15
+c="a repeat chest x-ray" 62:0 62:3||r="TeRP"||c="that pneumothorax" 62:7 62:8
+c="acetic acid" 100:1 100:2||r="TrAP"||c="his left foot ulcer" 100:10 100:13
+c="coronary artery bypass graft" 129:17 129:20||r="TrAP"||c="coronary artery disease" 129:1 129:3
+c="coronary artery bypass graft" 129:17 129:20||r="TrAP"||c="myocardial infarction" 129:6 129:7
+c="tendonitis" 135:2 135:2||r="PIP"||c="left biceps pain" 135:4 135:6
+c="wet-to-dry dressing changes" 100:4 100:6||r="TrAP"||c="his left foot ulcer" 100:10 100:13
+c="intravenous lopressor" 72:12 72:13||r="TrAP"||c="rapid atrial fibrillation" 72:6 72:8
+c="insulin" 22:12 22:12||r="TrAP"||c="diabetes mellitus type 2" 22:1 22:4
+c="his chest tube" 64:0 64:2||r="TrAP"||c="a high chest tube output" 64:7 64:11
+c="an insulin drip" 63:5 63:7||r="TrIP"||c="his diabetes mellitus" 63:9 63:11
+c="lopressor" 78:17 78:17||r="TrIP"||c="his recurrent atrial fibrillation" 78:7 78:10
+c="his blood pressure" 53:10 53:12||r="TeRP"||c="a transient increase" 53:6 53:8
+c="debridement" 136:6 136:6||r="TrAP"||c="left foot ulcer" 136:1 136:3
+c="his pedal pulses" 44:0 44:2||r="TeRP"||c="absent" 44:4 44:4
+c="continued diuresis" 73:23 73:24||r="TrWP"||c="respiratory difficulties" 73:35 73:36
+c="aggressive pulmonary toilet" 73:19 73:21||r="TrWP"||c="respiratory difficulties" 73:35 73:36
+c="insulin" 130:9 130:9||r="TrAP"||c="diabetes mellitus type 2" 130:1 130:4
+c="cardiac evaluation" 55:15 55:16||r="TeCP"||c="his drop" 55:9 55:10
+c="lopressor" 67:21 67:21||r="TrAP"||c="rapid atrial fibrillation" 67:12 67:14
+c="right femoral stent" 24:10 24:12||r="TrAP"||c="peripheral vascular disease" 24:1 24:3
+c="amiodarone" 67:19 67:19||r="TrAP"||c="rapid atrial fibrillation" 67:12 67:14
+c="revascularization" 92:13 92:13||r="TrAP"||c="his foot ulcer" 92:16 92:18

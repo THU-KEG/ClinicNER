@@ -1,0 +1,5 @@
+c="cramps" 40:8 40:8||t="problem"||a="present"
+c="mechanical fall" 37:2 37:3||t="problem"||a="present"
+c="back pain/" 37:0 37:1||t="problem"||a="present"
+c="back pain" 35:7 35:8||t="problem"||a="present"
+c="body shaking" 33:0 33:1||t="problem"||a="present"

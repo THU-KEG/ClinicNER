@@ -1,0 +1,42 @@
+c="an sbp" 74:5 74:6||r="TeRP"||c="high" 74:3 74:3
+c="both cystic and solid components" 26:16 26:20||r="PIP"||c="an 8 cm left lower quadrant mass" 26:8 26:14
+c="an exploratory laparotomy" 39:5 39:7||r="TeCP"||c="a pelvic mass" 39:11 39:13
+c="amlodipine" 74:12 74:12||r="TrAP"||c="high" 74:3 74:3
+c="amlodipine" 74:12 74:12||r="TrAP"||c="still elevated" 74:23 74:24
+c="resection" 39:9 39:9||r="TrAP"||c="a pelvic mass" 39:11 39:13
+c="intraoperatively" 86:0 86:0||r="TrCP"||c="hypotension" 86:5 86:5
+c="intraoperatively" 86:0 86:0||r="TrCP"||c="respiratory insufficiency" 86:9 86:10
+c="an mri" 26:0 26:1||r="TeRP"||c="an 8 cm left lower quadrant mass" 26:8 26:14
+c="an mri" 26:0 26:1||r="TeRP"||c="both cystic and solid components" 26:16 26:20
+c="blood pressure" 74:0 74:1||r="TeRP"||c="high" 74:3 74:3
+c="emergent exploratory laparotomy" 84:12 84:14||r="TeRP"||c="a small bowel enterotomy" 84:17 84:20
+c="emergent exploratory laparotomy" 84:12 84:14||r="TeRP"||c="bilious fluid within the peritoneum" 84:25 84:29
+c="a ct" 83:0 83:1||r="TeRP"||c="free air" 83:7 83:8
+c="a chest x-ray" 82:0 82:2||r="TeRP"||c="increased free air under the diaphragm" 82:4 82:9
+c="lysis" 63:19 63:19||r="TrAP"||c="adhesions" 63:21 63:21
+c="the site of previous repair" 85:31 85:35||r="PIP"||c="another peroration" 85:28 85:29
+c="omentectomy" 63:37 63:37||r="TrCP"||c="an enterotomy" 63:40 63:41
+c="another emergent exploratory laparotomy" 85:23 85:26||r="TeRP"||c="the site of previous repair" 85:31 85:35
+c="another emergent exploratory laparotomy" 85:23 85:26||r="TeRP"||c="another peroration" 85:28 85:29
+c="another emergent exploratory laparotomy" 85:23 85:26||r="TeRP"||c="a similar increased abdominal pain episode" 85:8 85:13
+c="resection" 63:13 63:13||r="TrAP"||c="the pelvic mass" 63:15 63:17
+c="a pcea" 66:2 66:3||r="TrAP"||c="pain" 66:5 66:5
+c="removal" 63:31 63:31||r="TrAP"||c="a vaginal tumor" 63:33 63:35
+c="a pe protocol ct" 62:3 62:6||r="TeRP"||c="dvt" 62:11 62:11
+c="a pe protocol ct" 62:3 62:6||r="TeRP"||c="pe" 62:13 62:13
+c="blood cultures" 60:0 60:1||r="TeRP"||c="c. perfringens" 60:6 60:7
+c="blood cultures" 97:0 97:1||r="TeRP"||c="c. perfringens" 97:7 97:8
+c="a ct showed" 59:12 59:14||r="TeRP"||c="abscess" 59:16 59:16
+c="a ct showed" 59:12 59:14||r="TeRP"||c="tumor in the left lower quadrant" 59:18 59:23
+c="blood cultures" 59:0 59:1||r="TeCP"||c="rectosigmoid mass" 59:7 59:8
+c="blood cultures" 59:0 59:1||r="TeCP"||c="fistula" 59:10 59:10
+c="her allergies" 54:0 54:1||r="PIP"||c="throat edema" 54:7 54:8
+c="penicillin" 54:3 54:3||r="TrCP"||c="her allergies" 54:0 54:1
+c="penicillin" 54:3 54:3||r="TrCP"||c="throat edema" 54:7 54:8
+c="the right ij line site" 108:11 108:15||r="TrCP"||c="erythema" 108:9 108:9
+c="bilateral upper extremity dopplers" 111:5 111:8||r="TeRP"||c="a right ij clot" 111:10 111:13
+c="a dilaudid pca" 66:8 66:10||r="TrAP"||c="pain" 66:5 66:5
+c="lupron" 27:5 27:5||r="TrWP"||c="pain" 27:10 27:10
+c="resection" 23:15 23:15||r="TrAP"||c="a pelvic mass" 23:11 23:13
+c="that blood pressure" 74:19 74:21||r="TeRP"||c="still elevated" 74:23 74:24
+c="ert" 23:7 23:7||r="TrWP"||c="a pelvic mass" 23:11 23:13

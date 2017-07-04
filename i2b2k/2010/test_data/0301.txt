@@ -1,0 +1,241 @@
+Admission Date :
+2012-05-24
+Discharge Date :
+2012-06-19
+Date of Birth :
+1954-07-01
+Sex :
+M
+Service :
+NEUROSURGERY
+Allergies :
+Patient recorded as having No Known Allergies to Drugs
+Attending : Joyce V. Seidel , M.D.
+Chief Complaint :
+Right parietal wound dehiscence .
+CSF leak .
+Perforated diverticulitis .
+Major Surgical or Invasive Procedure :
+Lumbar drain placement 2012-05-24
+Exploratory laparotomy 2012-05-26
+Abdominal washtou 2012-05-26
+Sigmoid colectomy and Hartmans pouch 2012-05-26
+Lumbar drain placement 2012-05-29
+CT-guided aspiration 06-01 for pelvic abscess
+Reveision Right craniotomy 06-03
+revsion of bone flap 06-03
+Emergent intubation 06-04
+PICC line placement 2012-06-08
+History of Present Illness :
+57 yo right handed male with seizure history since 1988 , s/p craniotomies x 3 ( most recently 05-05 ) for oligodendroglioma .
+The patient began having generalized tonic - clonic seizures in 1988 , which at the time were thought to be related to asthma medications .
+At this time , his head CT was negative , and he was treated with Dilantin and Phenobarbital .
+However , he continued to have left arm focal motor seizures and problems thinking .
+In 2001-08-31 he stopped his medication and had a generalized tonic - clonic seizure in 12/94 .
+He was diagnosed by biopsy with oligodendroglioma , and gross total resection by Dr. Redner in
+95 revealed a low-grade oligodendroglioma .
+He was followed by Dr. Gregory Dumas , with serial MRI 's.
+In 2011-05-02 , he was requiring more ativan to control his seizures , and was increasingly disoriented and forgetful with headaches .
+He had a repeat total resection in 4/04 by Dr. Peter Hoadley at Hallmark Health System which revealed anaplastic oligodendroglioma grade III .
+He had radiation following the resection and was doing well on monthly Temodar until 2012-04-23 when he had a marked change in behavior , his balance was off , speech slurred , and he had difficulty using the computer .
+A head MRI on 2012-04-24 revealed increasing tumor infiltration with increased edema and mass effect .
+He underwent a right craniotomy with resection and gliadel wafers on 2012-05-02 at Hallmark Health System by Dr. Ackley .
+Came for neurosurgery follow up on 05-21 , and had been having clear fluid leaking from his incision , as well as frontal headache , imbalance , bumping into things with his left leg and worsening tremors .
+He was admitted for Lumbar drain placement
+Past Medical History :
+Right parietal oligodendroglioma , as above status post craniotomy x 3 (  '95 ,  '04 ,  '05 )
+hernia surgery x 3
+right hand ganglion cyst removed
+asthma
+Social History :
+Lives w wife , has home health assistance .
+Employment : on short term disability , has boat which he enjoys as hobby
+Physical Exam :
+RRR
+CTA
+Abdomen soft Nontender and nondistended
+Alert and oriented times 3
+Speech fluent , comprehension intact
+Pupils equal round and reactive to light , extraocular movements intact
+Face symmetric
+Tongue midline
+No pronator drift
+Strength 5/5 throughout
+Normal tone
+2+ reflexes throughout
+Toes downgoing bilaterally
+No dysmetria
+Pertinent Results :
+Admission labs :
+2012-05-24
+WBC - 6.3 RBC - 4.17 * Hgb - 13.7 * Hct - 40.2 MCV - 96 MCH - 32.7 * MCHC - 34.0 RDW - 13.6 Plt Ct - 143 * PT - 11.9 PTT - 21.1 * INR ( PT )- 0.9 Glucose - 207 * UreaN - 17 Creat - 0.9 Na - 134 K - 4.6 Cl - 93 * HCO3 - 35 * AnGap - 11 Calcium - 8.3 * Phos - 1.8 *# Mg - 2.1
+Discharge labs :
+2012-06-18
+WBC - 6.5 RBC - 3.20 * Hgb - 10.5 * Hct - 30.7 * MCV - 96 MCH - 32.8 * MCHC - 34.2 RDW - 14.3 Plt Ct - 227 PT - 13.4 PTT - 24.6 INR ( PT )- 1.1 Glucose - 117 * UreaN - 12 Creat - 0.6 Na - 140 K - 4.2 Cl - 102 HCO3 - 32 * AnGap - 10 Calcium - 9.0 Phos - 3.9 Mg - 2.0
+Pathology :
+Sigmoid colon :
+Diverticular disease of the colon :
+1. Multiple diverticula .
+2. Rupture of diverticulum with pericolic abscess .
+CT head 2012-06-11 :
+IMPRESSION :
+1) Overall , a slight decrease in the mass effect and edema associated with the postoperative changes .
+2) Slight increase in epidural fluid collection adjacent to the craniotomy site .
+CT abdomen 2012-06-18 :
+IMPRESSION :
+Small residual collection anterior to the rectum , smaller than on the prior study , and without substantial fluid components to allow drainage .
+WOUND CULTURE ( Final 2012-06-05 ) :
+( PELVIC ABSCESS )
+Due to mixed bacterial types (  >= 3 colony types ) an abbreviated workup is performed appropriate to the isolates recovered from the site ( including a screen for Pseudomonas aeruginosa , Staphylococcus aureus and beta streptococcus ) .
+ENTEROCOCCUS SP.
+SPARSE GROWTH .
+PSEUDOMONAS AERUGINOSA .
+SPARSE GROWTH .
+CORYNEBACTERIUM SPECIES ( DIPHTHEROIDS ) .
+SPARSE GROWTH .
+SENSITIVITIES :
+MIC expressed in
+MCG/ML
+_________________________________________________________
+ENTEROCOCCUS SP .
+|
+PSEUDOMONAS AERUGINOSA
+|
+|
+AMPICILLIN------------
+<=2 S
+CEFEPIME--------------
+2 S
+CEFTAZIDIME-----------
+4 S
+CIPROFLOXACIN---------
+<=0.25 S
+GENTAMICIN------------
+2 S
+IMIPENEM--------------
+8 I
+LEVOFLOXACIN----------
+1 S
+MEROPENEM-------------
+4 S
+PENICILLIN------------
+2 S
+PIPERACILLIN----------
+8 S
+PIPERACILLIN/TAZO-----
+8 S
+TOBRAMYCIN------------
+<=1 S
+VANCOMYCIN------------
+<=1 S
+WOUND CULTURE ( Final 2012-06-05 ) :
+( from OR revision craniotomy )
+STAPH AUREUS COAG + .
+SPARSE GROWTH .
+Oxacillin RESISTANT Staphylococci MUST be reported as also RESISTANT to other penicillins , cephalosporins , carbacephems , carbapenems , and beta-lactamase inhibitor combinations .
+Rifampin should not be used alone for therapy .
+Please contact the Microbiology Laboratory ( 2313-08-31 ) immediately if sensitivity to clindamycin is required on this patient 's isolate .
+SENSITIVITIES :
+MIC expressed in
+MCG/ML
+_________________________________________________________
+STAPH AUREUS COAG +
+|
+ERYTHROMYCIN----------
+=>8 R
+GENTAMICIN------------ <=0.5 S
+LEVOFLOXACIN----------
+=>8 R
+OXACILLIN-------------
+=>4 R
+PENICILLIN------------ =>0.5 R
+RIFAMPIN-------------- <=0.5 S
+TETRACYCLINE----------
+<=1 S
+VANCOMYCIN------------
+<=1 S
+Brief Hospital Course : patient was admitted on 2012-05-24 after having drainage from his incision for the last couple of days .
+He was seen in the brain tumor clinic on 05-21 and stitches were placed in the incision , however it continued to leak .
+He had a lumbar drain placed .
+He c/o of abd pain and distension on 05-25 he had a kub done which was negative .
+on 05-26 he continued to c/o of epigastric pain had a chest x-ray done to due to decreased lung sounds .
+The Chest x-ray showed free air .
+general surgery was consulted and the patient was taken to the OR for exploratory laproratomy .
+he was found to have a perforated sigmoid diverticulum .
+He had a colostomy and partial colectomy .
+patient recovered well from colocetomy .
+He was found to have an abd abcess which was drained via CT guidance on 06-01 .
+On 06-02 his lumbar drain pulled out .
+he had to have it replaced , however , because his head incision began to leak again .
+On 06-03 he was taken back to the OR for debridement of his head wound with removal of the remaining gliadel waffers .
+He tolerated the procedure well , postop however he had a grand mal seizure and was intubated and sent to the ICU .
+ID was consulted for both the abd abcess and possible meningitis given the large amount of wbc in the csf cultures .
+Patient was placed on vancomycin 1 gm IV q12 and zosyn .
+He was kept on antibiotics until 06-17 .
+Neurologically he slowly woke up after the seizures and was extubated on 06-03 .
+He was transfered to the step down unit and had his lumbar drain slowly weaned .
+The lumbar drain was d/ced on 06-14 .
+He had a head Ct which remains stable and head wound remain dry .
+Neurologically he is awake and alert and oriented x 3 he is 07-05 in all muscle group bilat .
+He follows commands , he is out of bed ambulating with max assist .
+PT and OT are recommending rehab .
+He will follow up with Dr Fisher the general surgeon in two weeks and follow up in the brain tumor clinic in two weeks for stitch removal .
+H ewas switched to oral CIpro for the pelvic abcess and will continue it until he has his followup with infectious disease in 2 weeks .
+Medications on Admission :
+Neurontin , Keppra , Lamictal , decadron , multivitamin , Murray , Calcium
+Discharge Medications :
+1. Heparin Sodium ( Porcine ) 5,000 unit / mL Solution Sig : One ( 1 ) Injection TID ( 3 times a day ) .
+2. Diphenhydramine HCl 25 mg Capsule Sig : One ( 1 ) Capsule PO Q6H ( every 6 hours ) as needed .
+3. Albuterol - Ipratropium 103-18 mcg / Actuation Aerosol Sig : 03-04 Puffs Inhalation Q4H ( every 4 hours ) as needed .
+4. Acetaminophen 325 mg Tablet Sig : 1-2 Tablets PO Q4-6H ( every 4 to 6 hours ) as needed .
+5. Fluticasone - Salmeterol 250-50 mcg / Dose Disk with Device Sig : One ( 1 ) Disk with Device Inhalation BID ( 2 times a day ) .
+6. Lamotrigine 100 mg Tablet Sig : 1.5 Tablets PO BID ( 2 times a day ) .
+7. Levetiracetam 500 mg Tablet Sig : Three ( 3 ) Tablet PO BID ( 2 times a day ) .
+8. Ibuprofen 400 mg Tablet Sig : Two ( 2 ) Tablet PO Q8H ( every 8 hours ) as needed .
+9. Docusate Sodium 100 mg Capsule Sig : One ( 1 ) Capsule PO BID ( 2 times a day ) .
+10. Pantoprazole Sodium 40 mg Tablet , Delayed Release ( E.C. ) Sig : One ( 1 ) Tablet , Delayed Release ( E.C. ) PO Q24H ( every 24 hours ) .
+11. Ciprofloxacin 500 mg Tablet Sig : One ( 1 ) Tablet PO Q12H ( every 12 hours ) for 2 weeks. Tablet ( s )
+12. Metoprolol Tartrate 25 mg Tablet Sig : 0.5 Tablet PO BID ( 2 times a day ) .
+13. Lorazepam 1 mg Tablet Sig : One ( 1 ) Tablet PO HS ( at bedtime ) as needed .
+14. Dexamethasone 2 mg Tablet Sig : One ( 1 ) Tablet PO Q12H ( every 12 hours ) .
+15. Insulin Regular Human 100 unit / mL Solution Sig : One ( 1 ) Injection ASDIR ( AS DIRECTED ) : 51-150 0 Units
+151-200 2 Units
+201-250 4 Units
+251-300 6 Units
+301-350 8 Units
+351-400 10 Units
+> 400 Bessie MD
+16. Hydralazine HCl 20 mg / mL Solution Sig : 0.5 syringe Injection Q4HR (  ) as needed for sbp > 150 .
+Disp :* qs syringe * Refills :* 0 *
+Discharge Disposition :
+Extended Care
+Discharge Diagnosis :
+Cerebrospinal fluid leak
+Chronic steroid use wound infection
+Perforated sigmoid diverticulum status post exploratory laparotomy
+Status post sigmoid colectomy , hartmans pouch and washout
+Post operative fever fever status post Reveision Right craniotomy and revsion of bone flap change in mental status
+Seizure
+Conant palsy with Left sided weakness
+Respiratory failure requiring intubation
+Methicillin resistant staph aureus infection of central nervous system
+Pelvic abscess oligodendroglioma
+Asthma
+S/p craniotomy x 3
+Hernia Surgery x 3
+Discharge Condition :
+Good
+Discharge Instructions :
+Call with any spiking fevers , leakage from your head wound , increase in headaches , confusion , blurry vision severe neck stiffness , redness , swelling , or discharge around your wound site
+Call your general surgeon if you experience increased abdominal pain , vomiting , decreased or increased ostomy output .
+Followup Instructions :
+1. Dr. Martha Lopez or Dr. Henson in infectious disese in 2 weeks .
+Call for an appointment ( 724 ) 875 5043
+2. Dr Fisher in General surgery , 1 week , call his office for an appointment .
+515-3442
+3. Follow up in 1 week at brain tumor clinic .
+Call for an appointment 908-6508
+Cherrie Celeste MD 44-924
+Completed by : Angie Irene MD 36-512 2012-06-19 @ 0950
+Signed electronically by : DR. Charles Mcwilliams on : Daniel 2012-07-05 3:09 PM
+( End of Report )

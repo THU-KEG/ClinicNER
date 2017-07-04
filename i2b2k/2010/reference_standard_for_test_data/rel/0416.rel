@@ -1,0 +1,9 @@
+c="surgical management" 24:15 24:16||r="TrAP"||c="pelvic mass" 24:18 24:19
+c="frozen section" 46:6 46:7||r="TeRP"||c="benign mucinous cystadenoma" 46:9 46:11
+c="surgery" 46:4 46:4||r="TrAP"||c="benign mucinous cystadenoma" 46:9 46:11
+c="evaluation" 21:13 21:13||r="TeCP"||c="a pelvic mass" 21:15 21:17
+c="an ultrasound" 22:11 22:12||r="TeRP"||c="an ovarian mass" 22:15 22:17
+c="an abdominal ct" 23:13 23:15||r="TeRP"||c="multiple enlarged lymph nodes" 23:28 23:31
+c="an abdominal ct" 23:13 23:15||r="TeRP"||c="a 14 x 14 x 10 cm pelvic mass" 23:18 23:26
+c="multiple enlarged lymph nodes" 23:28 23:31||r="PIP"||c="a 14 x 14 x 10 cm pelvic mass" 23:18 23:26
+c="benign mucinous cystadenoma" 17:3 17:5||r="PIP"||c="pelvic mass" 17:0 17:1

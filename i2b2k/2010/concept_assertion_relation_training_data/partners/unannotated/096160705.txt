@@ -1,0 +1,48 @@
+096160705
+PUOMC
+0444534
+802228
+3053776
+5/18/2003 12:00:00 AM
+ED Discharge Summary
+Unsigned
+DIS
+Report Status :
+Unsigned
+ED DISCHARGE NOTIFICATION / SUMMARY
+NEIGHSTERPTIK , ANELLERICKAT
+MRN :
+0444534
+Age :
+62y
+REGISTRATION DATE :
+05/18/2003 03:36 PM
+Provider :
+BRITTLE SAGEPL
+PRELIMINARY REPORT
+PCP notified by MD :
+Sent message via pager
+Benefits Assigned :
+Y
+Discharge Date / Time :
+05/18/2003 20:14
+Discharge Status :
+Discharged
+Condition on Discharge :
+Stable
+Patient States Complaint :
+BLEEDING FROM DIALYSIS
+Diagnosis :
+Recent oozing from new HD catheter , low-grade fever
+Treatment Rendered :
+exam , dressing change .
+of note , pt did have a low-grade fever , and was recommended to have CXR and UA , but was refused by patient
+Disposition , Follow up and Instructions to Patient :
+1. Be careful not to pull at or disturb catheter
+2. Have dressing changed at HD tomorrow
+3. If you experience excessive new bleeding ( blood escaping from dressing ) , or have fevers &gt; 101.5 return to ER
+PCP Name :
+GETZSIEH , KINA
+Provider Number :
+10722
+This report was created by SAGEPL , SHASQUALENA 05/18/2003 09:06 PM

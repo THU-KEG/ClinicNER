@@ -1,0 +1,15 @@
+c="paf" 28:0 28:0||r="PIP"||c="rectal bleeding" 28:2 28:3
+c="drugs" 12:8 12:8||r="TrCP"||c="known allergies" 12:5 12:6
+c="a known cardiac history" 18:9 18:12||r="PIP"||c="worsening chest pain" 18:18 18:20
+c="a known cardiac history" 18:9 18:12||r="PIP"||c="shortness of breath" 18:22 18:24
+c="mechanical ventillation" 44:6 44:7||r="TrCP"||c="difficulty" 44:11 44:11
+c="oxycodone - acetaminophen" 66:1 66:3||r="TrAP"||c="pain" 66:18 66:18
+c="cauterization" 28:5 28:5||r="TrAP"||c="rectal bleeding" 28:2 28:3
+c="cardiac catheterization" 20:2 20:3||r="TeRP"||c="an 80% lad lesion" 20:6 20:9
+c="cardiac catheterization" 20:2 20:3||r="TeRP"||c="chronically occluded rca" 20:11 20:13
+c="cardiac catheterization" 20:2 20:3||r="TeRP"||c="anneurysmal mid lcx" 20:15 20:17
+c="cardiac catheterization" 20:2 20:3||r="TeRP"||c="w/50% lesion" 20:18 20:19
+c="w/50% lesion" 20:18 20:19||r="PIP"||c="anneurysmal mid lcx" 20:15 20:17
+c="brachytherapy" 25:4 25:4||r="TrAP"||c="prostate ca" 25:1 25:2
+c="hormone treatment" 25:6 25:7||r="TrAP"||c="prostate ca" 25:1 25:2
+c="an echocardiogram" 19:2 19:3||r="TeRP"||c="severe aortic stenosis" 19:10 19:12

@@ -1,0 +1,17 @@
+c="excision" 101:11 101:11||r="TrAP"||c="her left ischial sacral decubitus" 101:15 101:19
+c="post thoracotomy syndrome" 19:9 19:11||r="PIP"||c="her thoracotomy incision" 19:18 19:20
+c="milk of magnesia" 47:1 47:3||r="TrAP"||c="constipation" 47:9 47:9
+c="epidural site" 72:0 72:1||r="TrCP"||c="erythema" 72:4 72:4
+c="epidural site" 72:0 72:1||r="TrCP"||c="drainage" 72:6 72:6
+c="epidural site" 72:0 72:1||r="TrCP"||c="tenderness" 72:8 72:8
+c="postthoracotomy syndrome" 79:15 79:16||r="PIP"||c="left chest wall pain" 79:10 79:13
+c="musculoskeletal component" 87:10 87:11||r="PIP"||c="her pain" 87:13 87:14
+c="closure" 101:13 101:13||r="TrAP"||c="her left ischial sacral decubitus" 101:15 101:19
+c="closure flap" 96:9 96:10||r="TrAP"||c="her left ischial decubitusin" 96:12 96:15
+c="a dressing" 73:4 73:5||r="TrAP"||c="the sacral decubitus ulcer" 73:7 73:10
+c="thoracic aortic aneurysm repair" 26:4 26:7||r="TrCP"||c="paraplegia" 26:1 26:1
+c="hydrocodone 5 mg with tylenol" 46:1 46:5||r="TrAP"||c="pain" 46:15 46:15
+c="her thoracic aortic aneurysm repair" 80:6 80:10||r="TrCP"||c="the syndrome" 80:3 80:4
+c="neuropathic pain" 20:13 20:14||r="PIP"||c="the incision site" 20:16 20:18
+c="an excision" 96:6 96:7||r="TrAP"||c="her left ischial decubitusin" 96:12 96:15
+c="that pain" 91:31 91:32||r="PIP"||c="the stabbing , sharp pain" 91:0 91:4

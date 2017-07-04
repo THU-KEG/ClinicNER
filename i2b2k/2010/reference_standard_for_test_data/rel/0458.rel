@@ -1,0 +1,45 @@
+c="bronchiectasis" 121:6 121:6||r="PIP"||c="a childhood pneumonia" 121:8 121:10
+c="dtrs" 64:0 64:0||r="TeRP"||c="left biceps and brachioradialis reflexes" 64:6 64:10
+c="ataxia" 151:0 151:0||r="PIP"||c="gait abnormality" 151:2 151:3
+c="a sodium" 132:9 132:10||r="TeRP"||c="mild hyponatremia" 132:3 132:4
+c="coronary artery disease" 156:0 156:2||r="PIP"||c="mi" 156:4 156:4
+c="some mild weakness" 81:3 81:5||r="PIP"||c="stenosis of the distal right internal carotid artery" 81:10 81:17
+c="chest xray" 72:0 72:1||r="TeRP"||c="biapical pulmonary opacities" 72:6 72:8
+c="further evaluation" 18:9 18:10||r="TeCP"||c="some weakness" 18:12 18:13
+c="sensory exam" 68:0 68:1||r="TeRP"||c="leftsided errors" 68:4 68:5
+c="coumadin" 128:19 128:19||r="TrAP"||c="deep venous thrombosis" 128:6 128:8
+c="previous echoes" 85:0 85:1||r="TeRP"||c="mvp" 85:4 85:4
+c="ekg" 111:0 111:0||r="TeRP"||c="an anterolateral q/wave inversion" 111:14 111:17
+c="ekg" 111:0 111:0||r="TeRP"||c="left bundle branch block" 111:8 111:11
+c="evaluation of her neurologic status" 95:1 95:5||r="TeRP"||c="too unsteady to ambulate" 95:22 95:25
+c="a perineoplastic syndrome" 104:14 104:16||r="PIP"||c="concomitant breast ca" 104:20 104:22
+c="her medical problems" 99:6 99:8||r="PIP"||c="her ataxia" 99:14 99:15
+c="breast ca" 102:21 102:22||r="PIP"||c="perineoplastic syndrome" 102:13 102:14
+c="bubble study" 84:29 84:30||r="TeRP"||c="a trace right to left shunt" 84:19 84:24
+c="pulmonary hypertension" 131:6 131:7||r="PIP"||c="her lung disease" 131:9 131:11
+c="studies of her autonomic system" 117:0 117:4||r="TeRP"||c="any dysautonomia" 117:8 117:9
+c="her mri" 101:1 101:2||r="TeRP"||c="any discrete cerebellar lesions" 101:6 101:9
+c="amoxicillin" 36:4 36:4||r="TrCP"||c="a rash" 36:8 36:9
+c="amoxicillin" 36:4 36:4||r="TrCP"||c="allergic" 36:2 36:2
+c="therapy" 149:3 149:3||r="TrAP"||c="glaucoma" 149:0 149:0
+c="echocardiogram" 110:0 110:0||r="TeRP"||c="wall motion abnormalities" 110:4 110:6
+c="her isordil" 112:5 112:6||r="TrWP"||c="some orthostatic hypotension" 112:10 112:12
+c="workup" 30:7 30:7||r="TeCP"||c="m. kansasaii" 30:4 30:5
+c="her rr interval evaluation" 118:8 118:11||r="TeRP"||c="abnormal" 118:14 118:14
+c="multiple medical problems" 18:18 18:20||r="PIP"||c="some weakness" 18:12 18:13
+c="her cerebellar dysfunction" 102:8 102:10||r="PIP"||c="perineoplastic syndrome" 102:13 102:14
+c="heel-to-shin" 70:17 70:17||r="TeRP"||c="few errors" 70:21 70:22
+c="finger / to/nose" 70:0 70:2||r="TeRP"||c="mild dysmetria" 70:5 70:6
+c="glaucoma laser surgery" 17:27 17:29||r="TrCP"||c="left facial droop" 17:20 17:22
+c="glaucoma laser surgery" 17:27 17:29||r="TrCP"||c="hand weakness" 17:24 17:25
+c="stigmata" 50:7 50:7||r="PIP"||c="subacute bacterial endocarditis" 50:9 50:11
+c="her holter" 86:0 86:1||r="TeRP"||c="svt" 86:8 86:8
+c="a chronic problem" 119:2 119:4||r="PIP"||c="her current weakness" 119:10 119:12
+c="a chronic problem" 119:2 119:4||r="PIP"||c="inability to walk" 119:14 119:16
+c="small stroke" 148:0 148:1||r="PIP"||c="embolic from carotid artery" 148:7 148:10
+c="a patent foramen ovale" 84:13 84:16||r="PIP"||c="a trace right to left shunt" 84:19 84:24
+c="axillary dissection" 33:1 33:2||r="TrNAP"||c="mi" 33:10 33:10
+c="her echocardiogram" 84:0 84:1||r="TeRP"||c="a trace right to left shunt" 84:19 84:24
+c="ciprofloxacin" 141:6 141:6||r="TrAP"||c="recently discovered siderobacter uti" 141:22 141:25
+c="on our exam" 96:0 96:2||r="TeRP"||c="ataxia" 96:12 96:12
+c="laser surgery o.d." 149:7 149:9||r="TrAP"||c="glaucoma" 149:0 149:0

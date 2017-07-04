@@ -1,0 +1,73 @@
+c="examination" 42:14 42:14||r="TeRP"||c="focal deficits" 42:8 42:9
+c="gentle hydration" 69:7 69:8||r="TrAP"||c="not adequate" 69:15 69:16
+c="diastolic dysfunction" 24:12 24:13||r="PIP"||c="increased heart rate" 24:15 24:17
+c="diastolic dysfunction" 24:12 24:13||r="PIP"||c="excess volume" 24:21 24:22
+c="peripheral neuropathy" 12:5 12:6||r="PIP"||c="diabetic nephropathy" 12:14 12:15
+c="urine cultures" 40:22 40:23||r="TeCP"||c="febrile" 40:2 40:2
+c="urinalysis" 40:20 40:20||r="TeCP"||c="febrile" 40:2 40:2
+c="rpr evaluating" 52:0 52:1||r="TeCP"||c="neurologic syphilis" 52:4 52:5
+c="impressive disc herniations at c5-c6" 13:18 13:22||r="PIP"||c="clear cut cord compression" 13:30 13:33
+c="a cervical mri scan" 13:12 13:15||r="TeRP"||c="impressive disc herniations at c5-c6" 13:18 13:22
+c="a cervical mri scan" 13:12 13:15||r="TeCP"||c="cervical myelopathy" 13:9 13:10
+c="a cervical mri scan" 13:12 13:15||r="TeRP"||c="clear cut cord compression" 13:30 13:33
+c="his delirium" 49:10 49:11||r="PIP"||c="electrolytes or mineral abnormalities" 49:3 49:6
+c="the restraints" 58:0 58:1||r="TrAP"||c="acutely agitated" 58:9 58:10
+c="uncomfortable" 17:6 17:6||r="PIP"||c="incisional tenderness" 17:9 17:10
+c="uncomfortable" 17:6 17:6||r="PIP"||c="neck site" 17:12 17:13
+c="uncomfortable" 17:6 17:6||r="PIP"||c="right iliac graft site" 17:17 17:20
+c="neck site" 17:12 17:13||r="PIP"||c="incisional tenderness" 17:9 17:10
+c="p.o. intake" 69:12 69:13||r="TeRP"||c="not adequate" 69:15 69:16
+c="signs and symptoms" 13:4 13:6||r="PIP"||c="cervical myelopathy" 13:9 13:10
+c="an eeg" 54:0 54:1||r="TeCP"||c="non-convulsive status epilepticus" 54:8 54:10
+c="a head and neck ct scan , non-contrast" 43:0 43:7||r="TeCP"||c="such processes" 43:15 43:16
+c="cardiac enzymes" 25:9 25:10||r="TeRP"||c="myocardial infarction" 25:18 25:19
+c="cardiac enzymes" 25:9 25:10||r="TeCP"||c="significant myocardial ischemia" 25:4 25:6
+c="severe underlying structural abnormality" 42:29 42:32||r="PIP"||c="the fluctuating sensorium" 42:18 42:20
+c="intravenous haldol" 62:4 62:5||r="TrAP"||c="acutely agitated" 62:15 62:16
+c="intramuscular" 62:0 62:0||r="TrAP"||c="acutely agitated" 62:15 62:16
+c="his congestive heart failure" 24:3 24:6||r="PIP"||c="excess volume" 24:21 24:22
+c="his congestive heart failure" 24:3 24:6||r="PIP"||c="diastolic dysfunction" 24:12 24:13
+c="his congestive heart failure" 24:3 24:6||r="PIP"||c="increased heart rate" 24:15 24:17
+c="lasix" 27:3 27:3||r="TrAP"||c="the excess volume" 27:8 27:10
+c="restraints" 61:10 61:10||r="TrAP"||c="that event" 61:12 61:13
+c="tent" 30:6 30:6||r="TrCP"||c="agitated" 30:3 30:3
+c="surgery" 65:10 65:10||r="TrCP"||c="the delirium" 65:4 65:5
+c="a delirium work-up" 32:21 32:23||r="TeCP"||c="confused" 32:12 32:12
+c="a delirium work-up" 32:21 32:23||r="TeCP"||c="waxing and waning sensorium" 32:14 32:17
+c="waxing and waning sensorium" 32:14 32:17||r="PIP"||c="confused" 32:12 32:12
+c="kidney transplantation" 12:8 12:9||r="TrAP"||c="diabetic nephropathy" 12:14 12:15
+c="total bilirubin" 50:7 50:8||r="TeRP"||c="slightly elevated" 50:10 50:11
+c="his creatinine" 67:9 67:10||r="TeRP"||c="a baseline renal insufficiency" 67:19 67:22
+c="poly-pharmacy" 65:19 65:19||r="TrCP"||c="the delirium" 65:4 65:5
+c="his non-essential medications" 34:1 34:3||r="TrCP"||c="his change in mental status" 34:10 34:14
+c="transurethral resection of the prostate" 109:6 109:10||r="TrAP"||c="benign prostatic hypertrophy" 109:1 109:3
+c="soreness" 72:0 72:0||r="PIP"||c="his operative sites" 72:2 72:4
+c="bi-pap machine" 30:8 30:9||r="TrCP"||c="agitated" 30:3 30:3
+c="temocillin" 34:20 34:20||r="TrNAP"||c="his change in mental status" 34:10 34:14
+c="p.r.n. tylenol" 72:11 72:12||r="TrAP"||c="soreness" 72:0 72:0
+c="p.r.n. tylenol" 72:11 72:12||r="TrNAP"||c="his delirium" 72:14 72:15
+c="nortriptyline" 34:22 34:22||r="TrNAP"||c="his change in mental status" 34:10 34:14
+c="lorazepam" 34:26 34:26||r="TrNAP"||c="his change in mental status" 34:10 34:14
+c="haldol" 34:24 34:24||r="TrNAP"||c="his change in mental status" 34:10 34:14
+c="postoperative radiation" 12:38 12:39||r="TrAP"||c="throat cancer" 12:20 12:21
+c="his diskectomy" 74:9 74:10||r="TrCP"||c="postoperative swelling" 74:4 74:5
+c="venlafaxine" 34:28 34:28||r="TrNAP"||c="his change in mental status" 34:10 34:14
+c="bupropion" 34:30 34:30||r="TrNAP"||c="his change in mental status" 34:10 34:14
+c="gabapentin" 34:33 34:33||r="TrNAP"||c="his change in mental status" 34:10 34:14
+c="postoperative physical examination" 16:0 16:2||r="TeRP"||c="afebrile" 16:7 16:7
+c="finger sticks" 38:0 38:1||r="TeCP"||c="acutely agitated" 38:8 38:9
+c="soft and liquid diet" 73:13 73:16||r="TrAP"||c="difficulty with swallowing" 73:7 73:9
+c="xrt" 113:9 113:9||r="TrAP"||c="throat cancer" 113:1 113:2
+c="self catheterization" 109:12 109:13||r="TrAP"||c="benign prostatic hypertrophy" 109:1 109:3
+c="glucose levels" 38:18 38:19||r="TeCP"||c="acutely agitated" 38:8 38:9
+c="type 1 diabetes mellitus" 103:6 103:9||r="PIP"||c="end-stage renal disease" 103:1 103:3
+c="local resection" 12:26 12:27||r="TrAP"||c="throat cancer" 12:20 12:21
+c="type 1 diabetes mellitus" 108:1 108:4||r="PIP"||c="triopathy" 108:6 108:6
+c="type 1 diabetes mellitus" 108:1 108:4||r="PIP"||c="retinopathy" 108:8 108:8
+c="type 1 diabetes mellitus" 108:1 108:4||r="PIP"||c="neuropathy" 108:10 108:10
+c="type 1 diabetes mellitus" 108:1 108:4||r="PIP"||c="nephropathy" 108:12 108:12
+c="chest x-ray" 40:14 40:15||r="TeCP"||c="febrile" 40:2 40:2
+c="renal transplant" 103:13 103:14||r="TrAP"||c="end-stage renal disease" 103:1 103:3
+c="right neck dissection" 113:5 113:7||r="TrAP"||c="throat cancer" 113:1 113:2
+c="radical neck dissection on the left" 12:29 12:34||r="TrAP"||c="throat cancer" 12:20 12:21
+c="blood cultures" 40:17 40:18||r="TeCP"||c="febrile" 40:2 40:2

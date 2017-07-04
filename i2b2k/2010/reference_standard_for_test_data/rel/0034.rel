@@ -1,0 +1,17 @@
+c="physical examination of the rle" 111:0 111:4||r="TeRP"||c="mild pain in right hip" 111:6 111:10
+c="detailed review of systems" 70:1 70:4||r="TeRP"||c="urinary incontinence" 70:12 70:13
+c="oxycodone" 32:10 32:10||r="TrAP"||c="pain" 32:16 32:16
+c="the pain" 68:2 68:3||r="PIP"||c="a shock like intensity down the right leg" 68:12 68:19
+c="somewhat uncomfortable" 87:9 87:10||r="PIP"||c="pain" 87:13 87:13
+c="a steroid injection" 62:8 62:10||r="TrAP"||c="the pain" 62:16 62:17
+c="examination of the back" 102:0 102:3||r="TeRP"||c="lumbar tenderness" 102:5 102:6
+c="examination of the back" 102:0 102:3||r="TeRP"||c="point tenderness" 102:9 102:10
+c="straight leg raise test" 100:0 100:3||r="TeRP"||c="positive" 100:15 100:15
+c="tylenol ( acetaminophen )" 31:0 31:3||r="TrAP"||c="pain" 31:9 31:9
+c="tylenol ( acetaminophen )" 31:0 31:3||r="TrAP"||c="headache" 31:11 31:11
+c="an mri of the spine" 105:0 105:4||r="TeRP"||c="l4/5 facet enhancement" 105:6 105:8
+c="flexeril ( cyclobenzaprine hcl )" 34:5 34:9||r="TrAP"||c="pain" 34:15 34:15
+c="thad lesion" 107:0 107:1||r="PIP"||c="a facet hypertrophy" 107:5 107:7
+c="thad lesion" 107:0 107:1||r="PIP"||c="an infectious process" 107:10 107:12
+c="discharge" 124:17 124:17||r="PIP"||c="your incision" 124:19 124:20
+c="cpr" 109:6 109:6||r="TeRP"||c="mildly elevated" 109:8 109:9

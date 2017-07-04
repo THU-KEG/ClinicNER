@@ -1,0 +1,110 @@
+559197012_c
+FIH
+4469096
+52995/857a
+292657
+7/30/1993 12:00:00 AM
+ACUTE MYOCARDIAL INFARCTION .
+Unsigned
+DIS
+Report Status :
+Unsigned
+ADMISSION DATE :
+7/30/93
+DISCHARGE DATE :
+8/9/93
+PRINCIPAL DIAGNOSIS :
+Acute myocardial infarction .
+ASSOCIATED DIAGNOSIS :
+Lower gastrointestinal bleed .
+HISTORY OF PRESENT ILLNESS :
+The patient is a 65 year old Portuguese male whose cardiac risk factors include hypertension , diabetes mellitus , hypercholesterolemia , tobacco use and a positive family history .
+He was a previously healthy male who reports a pattern of intermittent chest pain during the week prior to admission .
+On the night prior to admission he was awakened from sleep with severe substernal chest pain radiating to the left arm , accompanied by back pain at about 9:30 p.m.
+He was taken to the Pre Health emergency room and at about 2:45 a.m. on 7/30 an electrocardiogram demonstrated 3 to 4 mm ST elevations in leads V1 to V4 and 2 mm ST elevations in lead V5 .
+He was treated with nitroglycerin , antacids and intravenous morphine .
+He was transferred to Fairm of Ijordcompmac Hospital hemodynamically stable .
+HE arrived in the Fairm of Ijordcompmac Hospital emergency room with a blood pressure of 120/80 , heart rate 90 .
+An electrocardiogram showed sinus rhythm at a rate of 94 with premature ventricular contractions .
+It was notable for 4 to 7 mm ST elevations throughout the precordium with Qs in leads V1 and V2 , with 2 mm ST elevations in aVL and 1 to 2 mm reciprocal ST depressions in leads II , III and aVF .
+The initial physical examination was notable for bright red blood per rectum .
+He was treated with intravenous nitroglycerin , intravenous morphine , aspirin , Ativan and a LIdocaine drip .
+Because of the noted bright red blood per rectum , thrombolysis was deferred and the patient was taken immediately to the cardiac catheterization laboratory .
+PAST MEDICAL HISTORY :
+Notable only for surgical repair of an ulcer and a remote appendectomy .
+MEDICATIONS ON ADMISSION :
+None
+ALLERGIES :
+Penicillin , which gives him a rash .
+SOCIAL HISTORY :
+His habits include smoking one pack per day for many years and moderate to heavy alcohol use .
+PHYSICAL EXAMINATION :
+The patient was an elderly appearing male in no significant distress .
+His pulse was 84 and regular , blood pressure 114/70 .
+The head , eyes , ears , nose , throat examination was unremarkable .
+The neck was supple .
+The carotids were of normal amplitude without bruits .
+On cardiac examination he had a nonpalpable left ventricular impulse , a quiet S1 and S2 , no murmurs .
+He had an audible S3 and a jugular venous pressure of 8 .
+On lung examination he had rales one third up bilaterally .
+His abdomen was soft and nontender with no hepatosplenomegaly , no guarding and no rebound .
+On rectal examination he had bright red blood in the vault without any stool .
+His extremities were without clubbing , cyanosis or edema .
+LABORATORY DATA :
+The hematocrit was 44.9 , white blood count 14.3 , platelet count 301,000 , sodium 138 , potassium 3.7 , chloride 102 , CO2 27.4 , BUN 12 , creatinine 1.0 , glucose 147 .
+The electrocardiogram showed normal sinus rhythm at a rate of 94 , left atrial enlargement , ST elevations in V4 through V6 , I and aVL , consistent with acute anterolateral myocardial infarction with Q waves in V1 to V3 and reciprocal ST depressions in leads II , III and aFV .
+The chest X-ray showed a normal cardiac and mediastinal silhouette , mild pulmonary edema and an elevated left hemidiaphragm .
+HOSPITAL COURSE :
+The patient was taken to the cardiac catheterization laboratory where hemodynamic measurements included a right atrial pressure of 7 , a right ventricular pressure of 33/8 , pulmonary artery pressure 29/16 , pulmonary capillary wedge pressure 16 .
+He had a proximal 95% left anterior descending lesion and mild to moderate disease in the first obtuse marginal .
+The left anterior descending lesion was angioplastied to a 30% residual stenosis .
+An intra-aortic balloon pump was placed in the left groin prophylactically .
+The patient was hemodynamically stable throughout and was transferred to the MICU .
+On hospital day 2 the intra-aortic balloon pump was weaned .
+The patient was intermittently agitated while on the intra-aortic balloon pump and was treated presumptively for alcohol withdrawal with Serax .
+The Lidocaine drip was rapidly weaned as well .
+On the third hospital day the intra-aortic balloon pump was removed .
+The intravenous nitroglycerin and heparin were weaned off .
+After removal of the intra-aortic balloon pump the patient was noticeably less agitated .
+On the fourth hospital day an attempt was made to transfer the patient to the floor .
+However , after a single dose of 25 mg of po metoprolol , the patient &apos;s blood pressure dropped to the 60/40 range and he was therefore kept in the MICU .
+The peak CPK level was on the second hospital day and was 5,042 with 26.7% MB fraction .
+On the fifth hospital day the patient was considered stable for transfer to the floor .
+Once on the floor the patient had no recurrent chest pain .
+An echocardiogram was performed on the sixth hospital day which demonstrated an ejection fraction of 44% .
+On transfer to the medical floor the patient was noted to have guaiac negative stool .
+He was evaluated by the GI Service who felt that , given the patient &apos;s course , he could undergo flexible sigmoidoscopy electively at some point in the future .
+The patient underwent exercise stress testing with thallium on the ninth hospital day .
+He exercised for 7 minutes and 30 seconds , achieving 80% of the maximal heart rate on the modified Bruce protocol .
+He did not have chest pain .
+There were ST and T wave abnormalities with 2.5 mm horizontal depressions at the beginning of 3 minutes of exercise , which persisted into recovery .
+The thallium images showed fixed anterior and septal wall defects without any definite evidence of redistribution .
+Based on this data , on the tenth hospital day the patient underwent repeat cardiac catheterization which demonstrated a patent left anterior descending site , a circumflex lesion after the third obtuse marginal , and a distal posterior descending artery lesion with a tight stenosis and a small vessel .
+These findings were considered not to be hemodynamically significant and the patient was therefore to be discharged on medical therapy including nitrates and aspirin .
+Because of his persistently marginal blood pressure at 100/70 , an ACE inhibitor which was tried briefly and a beta blockers were elected not to be continued .
+The patient was discharged in stable condition on the eleventh hospital day .
+DISCHARGE DIAGNOSES :
+1. Acute myocardial infarction .
+2. Lower gastrointestinal bleed .
+MEDICATIONS ON DISCHARGE :
+Enteric coated aspirin , 1 po qd ; Isordil , 10 mg po tid ; Serax , 15 mg qhs x five days ; Carafate , 1 gram po bid ; Lotrimin cream 1% to affected areas on the skin ; multivitamins , 1 qd .
+PROCEDURES :
+1. Percutaneous transluminal angioplasty .
+2. Repeat cardiac catheterization .
+3. Exercise stress testing with thallium .
+COMPLICATIONS :
+None .
+CONDITION ON DISCHARGE :
+Stable .
+DISPOSITION :
+The patient is to follow up with Dr. Ra Shuffburle in GI Clinic in one week , Dr. Telshey Patient in Cardiology Clinic in one week , Dr. ______________ in Lifairg Louen Likison Hospital Medical Center in three weeks .
+ESTIMATED DISABILITY :
+One month , to be determined by follow up with Dr. Dose .
+CA SHUFF , M.D.
+TR :
+wa / bmot
+DD :
+8/9/93
+TD :
+08/10/93
+CC :

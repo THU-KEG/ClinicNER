@@ -1,0 +1,29 @@
+046045205 DH
+7186939
+866952
+194142
+10/30/2002 12:00:00 AM
+ED Discharge Summary
+Unsigned
+DIS
+Report Status :
+Unsigned
+ED DISCHARGE NOTIFICATION
+KAYSFREIERMVEQUEDUHE , THAATA
+MRN :
+7186939
+Age :
+32y
+REGISTRATION DATE :
+10/30/2002 07:31 PM
+PRELIMINARY REPORT
+This is to notify you that your patient , KAYSFREIERMVEQUEDUHE , THAATA arrived in the Emergency Department at Daughtersvillshamen&apos;s Hospital on 10/30/2002 07:31 PM .
+The patient presented with a chief complaint of RAPID HEART RATE .
+Following evaluation and treatment , the patient &apos;s disposition at the end of the visit was ADMITTED AS AN INPATIENT TO DAUGHTERSVILLSHAMEN&apos;S HOSPITAL .
+The patient &apos;s preliminary admitting physician is SAPREEFLINKE , NYTHA V and the preliminary diagnosis is A FIB .
+Please note this information may have been updated on the inpatient unit .
+If you need additional information please call 613-870-0699 .
+PCP Name :
+USSLOW , MAEMA S
+Provider Number :
+28039

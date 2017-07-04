@@ -1,0 +1,93 @@
+c="zosyn" 33:8 33:8||r="TrAP"||c="pseudomonas" 33:5 33:5
+c="blood cultures" 337:7 337:8||r="TeCP"||c="fevers" 337:5 337:5
+c="images through the skull base" 137:0 137:4||r="TeRP"||c="soft tissue changes in the sphenoid sinus" 137:6 137:12
+c="soft tissue changes in the sphenoid sinus" 137:6 137:12||r="PIP"||c="retained secretions" 137:18 137:19
+c="a ct" 139:0 139:1||r="TeCP"||c="proteinaceous material within the sulci" 139:9 139:13
+c="some metabolic abnormalities" 262:2 262:4||r="PIP"||c="hypernatremia" 262:9 262:9
+c="some metabolic abnormalities" 262:2 262:4||r="PIP"||c="hyperphosphatemia" 262:11 262:11
+c="r ureteral stent" 67:6 67:8||r="TrAP"||c="l hydroureter obstruction" 67:1 67:3
+c="vancomycin" 336:6 336:6||r="TrAP"||c="pseudomonal sepsis" 336:25 336:26
+c="hyperintensities at the convexity" 131:5 131:8||r="PIP"||c="hemorrhage within the metastatic lesions" 131:18 131:22
+c="blood cultures" 200:1 200:2||r="TeRP"||c="growth" 200:5 200:5
+c="vague right lower lobe opacity" 155:1 155:5||r="PIP"||c="pulmonary edema" 155:9 155:10
+c="assist control" 268:15 268:16||r="TrAP"||c="respiratory failure" 268:1 268:2
+c="topotecan" 287:19 287:19||r="TrWP"||c="her disease" 287:13 287:14
+c="eeg" 260:0 260:0||r="TeRP"||c="encephalopathy" 260:5 260:5
+c="a somewhat wedge-shaped opacity at the right lung base" 150:2 150:10||r="PIP"||c="aspiration" 150:14 150:14
+c="a somewhat wedge-shaped opacity at the right lung base" 150:2 150:10||r="PIP"||c="pneumonia" 150:16 150:16
+c="urine culture" 204:1 204:2||r="TeRP"||c="growth" 204:5 204:5
+c="lesions" 259:18 259:18||r="PIP"||c="metastases" 259:21 259:21
+c="4l nc" 26:28 26:29||r="TrAP"||c="hypoxic" 26:25 26:25
+c="anti-coagulation" 291:12 291:12||r="TrNAP"||c="head bleed" 291:6 291:7
+c="your antibiotics" 336:0 336:1||r="TrAP"||c="pseudomonal sepsis" 336:25 336:26
+c="peripheral bld cx" 34:1 34:3||r="TeRP"||c="pseudomonas" 34:5 34:5
+c="blood cultures" 199:1 199:2||r="TeRP"||c="growth" 199:5 199:5
+c="reynolds/vanc/fluc/gentamicin" 29:2 29:2||r="TrAP"||c="neutropenic fever" 29:4 29:5
+c="reynolds/vanc/fluc/gentamicin" 29:2 29:2||r="TrAP"||c="thrush" 29:7 29:7
+c="abnormal portable eeg" 159:0 159:2||r="PIP"||c="the slow and disorganized background" 159:5 159:9
+c="abnormal portable eeg" 159:0 159:2||r="PIP"||c="bursts of generalized slowing" 159:11 159:14
+c="increasing opacification of the lungs" 190:0 190:4||r="PIP"||c="mild pulmonary edema" 190:9 190:11
+c="increasing opacification of the lungs" 190:0 190:4||r="PIP"||c="multiple micrometastases" 190:13 190:14
+c="fevers" 279:0 279:0||r="PIP"||c="head bleed" 279:5 279:6
+c="fevers" 279:0 279:0||r="PIP"||c="cancer" 279:8 279:8
+c="acetaminophen" 313:1 313:1||r="TrAP"||c="pain" 313:26 313:26
+c="acetaminophen" 313:1 313:1||r="TrAP"||c="fever" 313:24 313:24
+c="cipro" 33:10 33:10||r="TrAP"||c="pseudomonas" 33:5 33:5
+c="surgical intervention" 54:7 54:8||r="TrNAP"||c="low platelets" 54:3 54:4
+c="the sagittal t1 images" 130:0 130:3||r="TeRP"||c="high signal along the sulci bilaterally" 130:8 130:13
+c="high signal along the sulci bilaterally" 130:8 130:13||r="PIP"||c="subarachnoid hemorrhages" 130:19 130:20
+c="cefepime" 33:12 33:12||r="TrAP"||c="pseudomonas" 33:5 33:5
+c="systemic therapy" 287:16 287:17||r="TrWP"||c="her disease" 287:13 287:14
+c="metastasis" 51:6 51:6||r="PIP"||c="multiple masses" 51:2 51:3
+c="picc bld cx" 33:1 33:3||r="TeRP"||c="staph epi-" 33:16 33:17
+c="picc bld cx" 33:1 33:3||r="TeRP"||c="pseudomonas" 33:5 33:5
+c="acute renal failure" 300:1 300:3||r="PIP"||c="atn" 300:12 300:12
+c="cisplatin" 288:6 288:6||r="TrNAP"||c="thrombocytopenia" 288:16 288:16
+c="blood cultures" 198:1 198:2||r="TeRP"||c="growth" 198:5 198:5
+c="coumadin" 68:5 68:5||r="TrAP"||c="lle dvt" 68:2 68:3
+c="flair images" 138:9 138:10||r="TeRP"||c="increased signal" 138:2 138:3
+c="increased signal" 138:2 138:3||r="PIP"||c="subarachnoid hemorrhage" 138:19 138:20
+c="intubation" 137:21 137:21||r="TrCP"||c="retained secretions" 137:18 137:19
+c="micorbiology data" 336:16 336:17||r="TeCP"||c="pseudomonal sepsis" 336:25 336:26
+c="new atelectasis in the right lung" 181:8 181:13||r="PIP"||c="more rightward mediastinal shift" 181:2 181:5
+c="enlargement of the right hilus" 182:0 182:4||r="PIP"||c="adenopathy" 182:7 182:7
+c="aggressive blood product repletion" 44:1 44:4||r="TrWP"||c="poorly responsive" 44:6 44:7
+c="hypotension" 300:9 300:9||r="PIP"||c="atn" 300:12 300:12
+c="stool" 207:1 207:1||r="TeRP"||c="cdiff toxin" 207:5 207:6
+c="stents" 41:7 41:7||r="TrNAP"||c="severe coagulopathy" 41:9 41:10
+c="stents" 41:7 41:7||r="TrNAP"||c="worsening renal function" 41:12 41:14
+c="fevers/infection" 272:1 272:1||r="PIP"||c="pseudomonas" 272:11 272:11
+c="cxr" 275:0 275:0||r="TeRP"||c="pneumonia" 275:4 275:4
+c="cxr" 275:0 275:0||r="TeRP"||c="atelectasis at the r lung base" 275:6 275:11
+c="pressure support ventilation" 268:7 268:9||r="TrAP"||c="respiratory failure" 268:1 268:2
+c="vaginal bleeding" 21:12 21:13||r="PIP"||c="tumor extension/anti-coagulation" 21:15 21:16
+c="vanc" 33:20 33:20||r="TrAP"||c="staph epi-" 33:16 33:17
+c="aztreonam" 336:10 336:10||r="TrAP"||c="pseudomonal sepsis" 336:25 336:26
+c="head ct" 50:0 50:1||r="TeRP"||c="bilateral sah" 50:5 50:6
+c="head ct" 50:0 50:1||r="TeRP"||c="l temporal parenchymal hematoma" 50:8 50:11
+c="urine culture" 202:1 202:2||r="TeRP"||c="growth" 202:5 202:5
+c="mri head" 259:14 259:15||r="TeRP"||c="hypoxic brain injury" 259:30 259:32
+c="mri head" 259:14 259:15||r="TeRP"||c="hemorrhages" 259:24 259:24
+c="mri head" 259:14 259:15||r="TeRP"||c="metastases" 259:21 259:21
+c="mri head" 259:14 259:15||r="TeRP"||c="lesions" 259:18 259:18
+c="gradient echo images" 131:27 131:29||r="TeCP"||c="hyperintensities at the convexity" 131:5 131:8
+c="ct abdomen" 31:0 31:1||r="TeRP"||c="large necrotic pelvic mass" 31:4 31:7
+c="antibiotic course" 327:5 327:6||r="TrAP"||c="pseudomonal sepsis" 327:1 327:2
+c="vaginal bleeding" 255:20 255:21||r="PIP"||c="tumor extension/anti-coagulation" 255:23 255:24
+c="cisplatin" 287:21 287:21||r="TrWP"||c="her disease" 287:13 287:14
+c="plt smr" 90:0 90:1||r="TeRP"||c="low plt count" 90:3 90:5
+c="stool" 206:1 206:1||r="TeRP"||c="cdiff toxin" 206:5 206:6
+c="an abbreviated workup" 214:11 214:13||r="TeCP"||c="mixed bacterial types" 214:2 214:4
+c="brain edema" 134:5 134:6||r="PIP"||c="areas of metastatic disease" 134:24 134:27
+c="brain edema" 134:5 134:6||r="PIP"||c="surrounding edema" 134:29 134:30
+c="urine cx" 35:1 35:2||r="TeRP"||c="pseudomonas" 35:4 35:4
+c="increased signal" 133:2 133:3||r="PIP"||c="global hypoxic injury to the brain" 133:22 133:27
+c="xrt" 288:4 288:4||r="TrNAP"||c="thrombocytopenia" 288:16 288:16
+c="cr peak" 47:4 47:5||r="TeRP"||c="renal failure" 47:1 47:2
+c="a screen" 214:26 214:27||r="TeCP"||c="pseudomonas aeruginosa" 214:29 214:30
+c="a screen" 214:26 214:27||r="TeCP"||c="staphylococcus aureus" 214:32 214:33
+c="a screen" 214:26 214:27||r="TeCP"||c="beta streptococcus" 214:35 214:36
+c="the fevers" 283:7 283:8||r="PIP"||c="underlying malignant process" 283:14 283:16
+c="daily blood products" 42:8 42:10||r="TrAP"||c="dic" 42:4 42:4
+c="urine culture" 203:1 203:2||r="TeRP"||c="growth" 203:5 203:5
+c="resolving edema" 180:9 180:10||r="PIP"||c="mild left lower perihilar opacification" 180:0 180:4

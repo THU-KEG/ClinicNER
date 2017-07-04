@@ -1,0 +1,20 @@
+c="some swelling in her left lower extremity" 69:10 69:16||r="PIP"||c="a hematoma" 69:23 69:24
+c="ampicillin" 44:4 44:4||r="TrCP"||c="allergic" 44:3 44:3
+c="surgery" 28:4 28:4||r="TrIP"||c="her pain" 28:0 28:1
+c="her angiography" 58:0 58:1||r="TeRP"||c="a right proximal popliteal occlusion" 58:3 58:7
+c="her angiography" 58:0 58:1||r="TeRP"||c="anterior tibial dominant foot vessel" 58:9 58:13
+c="aminophylline" 44:16 44:16||r="TrCP"||c="allergic" 44:3 44:3
+c="lasix" 40:40 40:40||r="TrAP"||c="edema" 40:47 40:47
+c="silvadene" 30:12 30:12||r="TrAP"||c="the ulcer" 30:0 30:1
+c="biaxin" 44:10 44:10||r="TrCP"||c="allergic" 44:3 44:3
+c="this operation" 27:0 27:1||r="TrAP"||c="increased rest pain" 27:8 27:10
+c="vancomycin" 72:16 72:16||r="TrAP"||c="erythema on her left leg" 72:3 72:7
+c="vancomycin" 72:16 72:16||r="TrIP"||c="her erythema" 72:23 72:24
+c="codeine" 44:12 44:12||r="TrCP"||c="allergic" 44:3 44:3
+c="clinoril" 44:8 44:8||r="TrCP"||c="allergic" 44:3 44:3
+c="a rectal examination" 60:1 60:3||r="TeRP"||c="decubiti" 60:16 60:16
+c="a rectal examination" 60:1 60:3||r="TeRP"||c="masses" 60:10 60:10
+c="a rectal examination" 60:1 60:3||r="TeRP"||c="gluteal ulcers" 60:13 60:14
+c="lower extremity non-invasive study" 30:14 30:17||r="TeRP"||c="poor distal right extremity perfusion" 30:23 30:27
+c="tylenol" 44:6 44:6||r="TrCP"||c="allergic" 44:3 44:3
+c="sulfa" 44:14 44:14||r="TrCP"||c="allergic" 44:3 44:3

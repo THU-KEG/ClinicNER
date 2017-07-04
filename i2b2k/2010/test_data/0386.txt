@@ -1,0 +1,92 @@
+656225945 YC
+76593195
+2774375
+01/19/2003 12:00:00 AM
+cellulitis
+DIS
+Admission Date :
+01/19/2003
+Report Status :
+Discharge Date :
+01/24/2003
+****** DISCHARGE ORDERS ******
+MONG , RISHRIELI
+156-02-38-0 P22
+Room :
+15L-305
+Service :
+MED
+DISCHARGE PATIENT ON :
+01/24/03 AT 02:00 PM
+CONTINGENT UPON
+Attending evaluation
+WILL D / C ORDER BE USED AS THE D / C SUMMARY :
+YES
+Attending :
+SHONESGANS , AH B. , M.D.
+DISPOSITION :
+Home
+DISCHARGE MEDICATIONS :
+LEVOFLOXACIN 500 MG PO QD X 14 Days
+Food / Drug Interaction Instruction
+Administer iron products a minimum of 2 hours before or after a levofloxacin or ciprofloxacin dose dose If on tube feeds , please cycle ( hold 1 hr before to 2 hr after ) Take 2 hours before or 2 hours after dairy products .
+DIET :
+No Restrictions
+ACTIVITY :
+Resume regular exercise
+FOLLOW UP APPOINTMENT ( S ) :
+Ica Gachcienne - in PCP office 01/26/03 ,
+ALLERGY :
+Penicillins
+ADMIT DIAGNOSIS :
+Cellulitis
+PRINCIPAL DISCHARGE DIAGNOSIS ;
+Responsible After Study for Causing Admission ) cellulitis
+OTHER DIAGNOSIS ;
+Conditions , Infections , Complications , affecting Treatment / Stay cellulitis
+OPERATIONS AND PROCEDURES :
+None
+OTHER TREATMENTS / PROCEDURES ( NOT IN O.R. )
+CT of neck with contrast
+BRIEF RESUME OF HOSPITAL COURSE :
+Pt is 22 y / o female with hx of HIV and CD4 ct of 297 who presented to ED on 01/14 with sebaceous cyst that was infected .
+Cyst was drained and pt was sent home with Duracef .
+She did not fill script for 2 days and even then was not compliant with her meds .
+She now returns to ED with pain and erythema from the midline posterior neck to her submental area and 2-3 d of intermittent fevers and chills . + nausea .
+No dysphagia , trouble hearing .
+PMH :
+HIV , viral load 954 , 7/03 - H. Pylori pos. , asthma
+FHX / SHX :
+Lives with boyfriend in apt .
+Smokes 2-3 cig / day , occ etoh , and no drugs except marijuana Exam :
+98.6 54 119/59 18 100% RA .
+Exam sig. for erthyema as described previously and tenderness to minimal palpation .
+Data :
+Neck CT neg for abcess .
+Pt with WBC of 15.4 with 70% seg .
+Plan :
+(1) ID - Pt received Clinda and Ancef in ED .
+Will cont Ancef 1q8 overnight and trans to Keflex .
+CD4 ct .
+Bacitracin oint .
+Percocet and morphine sulfate for pain .
+(2) GI - Nexium
+(3) FEN - NS overnight
+(4) Pulm - Albuterol inhalers prn Patient seems to be improving and afebrile and resting comfortably .
+The erythematous region is retreating and the wound cleaned .
+She is ready to be sent home with antibiotics .
+Repeat CT was neg. for abcess or fascitis .
+ADDITIONAL COMMENTS :
+1 - be sure to finish all antibiotic even if pain subsides adn inflammation goes down .
+2 - clean wound
+3 - Follow up with PCP
+DISCHARGE CONDITION :
+Stable
+TO DO / PLAN :
+1 - Fill Rx for antibiotics today and take until finished even if neck pain subsides x 14 days
+2 - Clean wound
+3 - Return to ED or call PCP if neck inflammation and red swollen area does not continue to get better or if temperature returns .
+4 - Visit PCP on Monday at 2:30 No dictated summary
+ENTERED BY :
+DRIN , FONDT L. , M.D. ( CR90 ) 01/24/03 12:48 PM
+****** END OF DISCHARGE ORDERS ******

@@ -1,0 +1,29 @@
+316810105
+BH
+5442905
+550393
+03/17/2003 12:00:00 AM
+ED Discharge Summary
+Unsigned
+DIS
+Report Status :
+Unsigned
+ED DISCHARGE NOTIFICATION
+KAYSLANCE , ICEROYLN
+MRN :
+5442905
+Age :
+58y
+REGISTRATION DATE :
+03/17/2003 02:52 AM
+PRELIMINARY REPORT
+This is to notify you that your patient , KAYSLANCE , ICEROYLN arrived in the Emergency Department at Bri Health on 03/17/2003 02:52 AM .
+The patient presented with a chief complaint of LEFT LEG FX HIP .
+Following evaluation and treatment , the patient &apos;s disposition at the end ofthe visit was ADMITTED AS AN INPATIENT TO BRI HEALTH .
+The patient &apos;s preliminary admitting physician is HEAGLEINCHIRD , JEANSIA S and the preliminary diagnosis is HIP FRACTURE .
+Please note this information may have been updated on the inpatient unit .
+If you need additional information please call 442-025-0303 .
+PCP Name :
+NONE , PHYSICIAN
+Provider Number :
+27715

@@ -1,0 +1,8 @@
+c="cxr" 29:8 29:8||r="TeRP"||c="aspiration pneumonia" 29:5 29:6
+c="early pneumonia" 86:16 86:17||r="PIP"||c="patchy left retrocardiac opacity" 86:1 86:4
+c="bipolar d/o" 33:0 33:1||r="PIP"||c="overdose" 33:7 33:7
+c="aspiration" 86:13 86:13||r="PIP"||c="patchy left retrocardiac opacity" 86:1 86:4
+c="patchy atelectasis" 86:10 86:11||r="PIP"||c="patchy left retrocardiac opacity" 86:1 86:4
+c="inderal" 89:18 89:18||r="TrCP"||c="overdose" 89:16 89:16
+c="geodon" 89:22 89:22||r="TrCP"||c="overdose" 89:16 89:16
+c="klonopin" 89:20 89:20||r="TrCP"||c="overdose" 89:16 89:16

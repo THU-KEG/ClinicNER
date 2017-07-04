@@ -1,0 +1,51 @@
+088719093 RWH
+4549599
+610769
+8958273
+4/23/2006 12:00:00 AM
+ED Discharge Summary
+Unsigned
+DIS
+Report Status :
+Unsigned
+ED DISCHARGE NOTIFICATION / SUMMARY
+SMANTNERMBERF , HELMKIGRI
+MRN :
+4549599
+Age :
+41y
+REGISTRATION DATE :
+04/23/2006 01:09 PM
+Provider :
+AEA DREWENUK
+PRELIMINARY REPORT
+PCP notified by MD :
+No - Other explanation
+Benefits Assigned :
+Y
+Discharge Note Date / Time :
+04/23/2006 16:24
+Discharge Status :
+Discharged
+Condition on Discharge :
+Stable
+Patient States Complaint :
+MIGRAINE HEADACHE Standardized Discharge Instructions :
+The patient was given printed instructions for headache ( English ) .
+Diagnosis :
+Migraine
+Treatment Rendered :
+History obtained and physical exam done .
+Imitrex injection .
+Discharge Medications :
+COntinue home medications .
+Follow up
+Service :
+Your PCP .
+Disposition , Follow up and Instructions to Patient :
+Return to the hospital if you have worsening headaches , fever &gt; 100.4 , vomiting , focal weakness or any other concerning symptoms .
+PCP Name :
+FYFETREFT , REAMOLL
+Provider Number :
+76695
+This report was created by DREWENUK , AEA 04/23/2006 04:27 PM

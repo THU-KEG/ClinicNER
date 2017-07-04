@@ -1,0 +1,15 @@
+c="e. coli" 31:5 31:6||r="PIP"||c="recent urinary tract infection" 31:0 31:3
+c="right total hip replacement" 78:6 78:9||r="TrAP"||c="right hip osteoarthritis" 78:0 78:2
+c="the electrocardiogram" 59:0 59:1||r="TeRP"||c="intraventricular conduction delay" 59:12 59:14
+c="the electrocardiogram" 59:0 59:1||r="TeRP"||c="poor r wave progression" 59:16 59:19
+c="a duplex ultrasound examination" 73:26 73:29||r="TeRP"||c="deep venous thrombosis" 73:37 73:39
+c="the chest x-ray" 61:0 61:2||r="TeRP"||c="borderline cardiomegaly" 61:4 61:5
+c="the chest x-ray" 61:0 61:2||r="TeRP"||c="acute cardiac or pulmonary disease" 61:8 61:12
+c="oral and intravenous potassium" 73:16 73:19||r="TrIP"||c="postoperatively hypokalemia" 73:4 73:5
+c="hydrochlorothiazide" 65:12 65:12||r="TrIP"||c="the patient &apos;s hypertension" 65:5 65:8
+c="potassium" 66:19 66:19||r="TrAP"||c="the patient &apos;s low potassium level" 66:1 66:6
+c="urinalysis" 58:43 58:43||r="TeRP"||c="trace white blood cells" 58:44 58:47
+c="urinalysis" 58:43 58:43||r="TeRP"||c="slight occult red blood cells" 58:49 58:53
+c="advil" 26:11 26:11||r="TrWP"||c="the patient &apos;s pain" 26:0 26:3
+c="radiographs" 27:0 27:0||r="TeRP"||c="right hip osteoarthritis" 27:2 27:4
+c="darvocet" 26:9 26:9||r="TrWP"||c="the patient &apos;s pain" 26:0 26:3

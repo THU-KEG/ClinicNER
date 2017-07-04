@@ -1,0 +1,29 @@
+513119146
+PUOMC
+2186824
+425597
+704384
+4/16/2001 12:00:00 AM
+ED Discharge Summary
+Unsigned
+DIS
+Report Status :
+Unsigned
+ED DISCHARGE NOTIFICATION
+FALMDREPSGREND , LINE
+MRN :
+2186824
+Age :
+40y
+REGISTRATION DATE :
+04/16/2001 03:46 PM
+PRELIMINARY REPORT
+This is to notify you that your patient , FALMDREPSGREND , LINE arrived in the Emergency Department at Ph University Of Medical Center on 04/16/2001 03:46 PM .
+The patient presented with a chief complaint of PAIN / ASSAULT .
+Following evaluation and treatment , the patient &apos;s disposition at the end of the visit was ADMITTED TO OBSERVATION AT PH UNIVERSITY OF MEDICAL CENTER .
+Your patient was admitted under the care of SHUFFCUCH , SEYSHARMSE N with a preliminary diagnosis of VERTEBRAL FRACTURES .
+If you need additional information please call 639-873-2993 .
+PCP Name :
+RALLSVERSGACH , DWAINCO
+Provider Number :
+91361

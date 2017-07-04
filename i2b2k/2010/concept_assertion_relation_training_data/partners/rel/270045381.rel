@@ -1,0 +1,44 @@
+c="a severely comminuted fracture of the proximal left humerus" 103:12 103:20||r="PIP"||c="proximal distraction" 103:22 103:23
+c="thickening of the aortic wall" 131:19 131:23||r="PIP"||c="atherosclerotic changes" 131:26 131:27
+c="abdomen distended" 89:0 89:1||r="PIP"||c="mild tenderness on the left" 89:3 89:7
+c="diabetic retinopathy" 22:55 22:56||r="PIP"||c="blindness in the right eye" 22:58 22:62
+c="surgery" 37:11 37:11||r="TrAP"||c="diabetic retinopathy" 37:13 37:14
+c="diabetic retinopathy" 37:13 37:14||r="PIP"||c="glaucoma" 37:16 37:16
+c="diabetic retinopathy" 56:0 56:1||r="PIP"||c="blind in right eye" 56:5 56:8
+c="the patient &apos;s admitting chest x-ray" 150:0 150:5||r="TeRP"||c="an elevated left hemidiaphragm" 150:7 150:10
+c="the patient &apos;s admitting chest x-ray" 150:0 150:5||r="TeRP"||c="atelectasis" 150:13 150:13
+c="the patient &apos;s admitting chest x-ray" 150:0 150:5||r="TeRP"||c="splinting on that side" 150:15 150:18
+c="an elevated left hemidiaphragm" 150:7 150:10||r="PIP"||c="atelectasis" 150:13 150:13
+c="an elevated left hemidiaphragm" 150:7 150:10||r="PIP"||c="splinting on that side" 150:15 150:18
+c="this ct scan" 105:0 105:2||r="TeRP"||c="the severely comminuted fracture of the proximal left humerus" 105:11 105:19
+c="the cpks" 135:3 135:4||r="TeRP"||c="mb fractionations" 135:0 135:1
+c="the patient urinalysis" 159:0 159:2||r="TeRP"||c="moderate occult blood" 159:6 159:8
+c="the patient urinalysis" 159:0 159:2||r="TeRP"||c="few bacteria" 159:31 159:32
+c="the patient urinalysis" 159:0 159:2||r="TeRP"||c="moderate bladder epithelial cells" 159:35 159:38
+c="a small / moderate-sized , mild-intensity , reversible posterior lateral defect" 130:0 130:10||r="PIP"||c="mild / moderate ischemia" 130:17 130:20
+c="the blood in the esophagus" 141:4 141:8||r="PIP"||c="mallory-weiss tear" 141:14 141:15
+c="a ct scan" 104:18 104:20||r="TeCP"||c="a lucency and irregularity of the glenoid" 104:0 104:6
+c="a ct scan" 104:18 104:20||r="TeCP"||c="a fracture" 104:10 104:11
+c="a lucency and irregularity of the glenoid" 104:0 104:6||r="PIP"||c="a fracture" 104:10 104:11
+c="chest tightness ( pressure )" 38:18 38:22||r="PIP"||c="stress" 38:28 38:28
+c="righteye surgery" 62:0 62:1||r="TrAP"||c="glaucoma" 62:3 62:3
+c="a sling" 76:8 76:9||r="TrAP"||c="his left humeral fracture" 76:11 76:14
+c="electrocardiogram" 127:20 127:20||r="TeRP"||c="bigeminy" 127:17 127:17
+c="ekg" 34:13 34:13||r="TeRP"||c="ischemia" 34:16 34:16
+c="a chronic cough" 46:2 46:4||r="PIP"||c="clear sputum" 46:6 46:7
+c="a second endoscopy" 142:0 142:2||r="TeCP"||c="a gastric ulcer" 142:15 142:17
+c="a second endoscopy" 142:0 142:2||r="TeCP"||c="melena" 142:29 142:29
+c="left atrial enlargement" 131:15 131:17||r="PIP"||c="thickening of the aortic wall" 131:19 131:23
+c="left atrial enlargement" 131:15 131:17||r="PIP"||c="atherosclerotic changes" 131:26 131:27
+c="laser surgery" 63:0 63:1||r="TrAP"||c="retinopathy" 63:3 63:3
+c="nystatin" 185:10 185:10||r="TrAP"||c="affected area" 185:13 185:14
+c="a moderate-sized , dense , fixed inferior defect" 129:21 129:28||r="PIP"||c="scar" 129:31 129:31
+c="percocet" 185:44 185:44||r="TrAP"||c="pain" 185:51 185:51
+c="an echocardiogram" 131:0 131:1||r="TeRP"||c="left atrial enlargement" 131:15 131:17
+c="cardiac monitor" 132:0 132:1||r="TeCP"||c="the bigeminy" 132:9 132:10
+c="cardiac monitor" 132:0 132:1||r="TeCP"||c="myocardial infarction" 132:18 132:19
+c="cardiac perfusion scans" 129:16 129:18||r="TeRP"||c="a moderate-sized , dense , fixed inferior defect" 129:21 129:28
+c="pathology" 143:10 143:10||r="TeCP"||c="a gastric ulcer" 143:0 143:2
+c="sodiums" 176:15 176:15||r="TeRP"||c="slightly hyponatremic" 176:6 176:7
+c="a shoulder film" 103:4 103:6||r="TeRP"||c="a severely comminuted fracture of the proximal left humerus" 103:12 103:20
+c="conscious sedation" 32:1 32:2||r="TrCP"||c="bigeminy" 32:7 32:7

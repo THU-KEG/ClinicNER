@@ -1,0 +1,43 @@
+c="her synthroid" 98:6 98:7||r="TrAP"||c="hypothyroid" 98:0 98:0
+c="hypotension" 116:0 116:0||r="PIP"||c="volume depletion" 116:3 116:4
+c="pending cultures" 18:11 18:12||r="TeCP"||c="early pneumonia" 18:9 18:10
+c="anemia" 93:0 93:0||r="PIP"||c="a chronic problem" 93:4 93:6
+c="her evaluation" 87:14 87:15||r="TeRP"||c="gastrointestinal bleed" 87:5 87:6
+c="her evaluation" 87:14 87:15||r="TeRP"||c="adrenal insufficiency" 87:8 87:9
+c="dfa" 89:3 89:3||r="TeRP"||c="influenza a" 89:0 89:1
+c="hypotension" 83:0 83:0||r="PIP"||c="a diarrheal and viral respiratory syndrome" 83:13 83:18
+c="hypotension" 83:0 83:0||r="PIP"||c="volume depletion" 83:7 83:8
+c="levaquin" 18:5 18:5||r="TrAP"||c="early pneumonia" 18:9 18:10
+c="electrocardiogram" 75:0 75:0||r="TeRP"||c="sinus tachycardia" 75:3 75:4
+c="electrocardiogram" 75:0 75:0||r="TeRP"||c="new t wave inversion in iii" 75:20 75:25
+c="electrocardiogram" 75:0 75:0||r="TeRP"||c="old t wave inversions in avl and v1" 75:27 75:34
+c="a right lower extremity noninvasive ultrasound" 25:3 25:8||r="TeRP"||c="deep venous thrombosis" 25:13 25:15
+c="a tibc" 41:10 41:11||r="TeRP"||c="low" 41:14 41:14
+c="sentinel node dissection" 26:25 26:27||r="TrAP"||c="breast cancer" 26:4 26:5
+c="radiation therapy" 14:16 14:17||r="TrAP"||c="breast cancer" 14:9 14:10
+c="her dfa" 23:5 23:6||r="TeRP"||c="influenzae a" 23:10 23:11
+c="a viral syndrome" 91:11 91:13||r="PIP"||c="loose bowel movements" 91:0 91:2
+c="a viral culture" 23:13 23:15||r="TeCP"||c="influenzae a" 23:10 23:11
+c="magnetic resonance imaging" 31:0 31:2||r="TeRP"||c="some microvascular cerebral white matter changes" 31:7 31:12
+c="meclizine" 32:5 32:5||r="TrAP"||c="peripheral vertigo" 32:1 32:2
+c="hypotension" 80:26 80:26||r="PIP"||c="dehydration" 80:31 80:31
+c="hypotension" 80:26 80:26||r="PIP"||c="influenza" 80:33 80:33
+c="vertebral basilar cerebrovascular accident" 30:2 30:5||r="PIP"||c="limb ataxia" 30:11 30:12
+c="status post left lumpectomy" 26:13 26:16||r="TrAP"||c="breast cancer" 26:4 26:5
+c="loose bowel movements" 14:57 14:59||r="PIP"||c="diarrhea" 14:61 14:61
+c="loose bowel movements" 14:57 14:59||r="PIP"||c="blood" 14:64 14:64
+c="tamoxifen" 14:19 14:19||r="TrAP"||c="breast cancer" 14:9 14:10
+c="a baseline hematocrit" 41:3 41:5||r="TeRP"||c="anemia" 41:0 41:0
+c="systolic blood pressure" 15:11 15:13||r="TeRP"||c="labile blood pressure" 15:7 15:9
+c="chest x-ray" 74:3 74:4||r="TeRP"||c="acute cardiopulmonary process" 74:7 74:9
+c="evista" 99:6 99:6||r="TrAP"||c="osteopenia" 99:0 99:0
+c="invasive mucinous carcinoma" 27:0 27:2||r="PIP"||c="estrogen receptor positivity" 27:4 27:6
+c="the viral cultures" 89:6 89:8||r="TeRP"||c="influenza a" 89:0 89:1
+c="lumpectomy" 14:14 14:14||r="TrAP"||c="breast cancer" 14:9 14:10
+c="echocardiogram" 42:0 42:0||r="TeRP"||c="trivial mitral regurgitation" 42:12 42:14
+c="echocardiogram" 42:0 42:0||r="TeRP"||c="mild left atrial enlargement" 42:16 42:19
+c="repeat surgery" 26:22 26:23||r="TrAP"||c="breast cancer" 26:4 26:5
+c="levaquin" 90:24 90:24||r="TrAP"||c="a bacterial superinfection" 90:30 90:32
+c="levaquin" 90:24 90:24||r="TrAP"||c="early pneumonia" 90:34 90:35
+c="cardiac stress test" 43:0 43:2||r="TeRP"||c="inducible ischemia" 43:10 43:11
+c="the initial bandemia" 90:0 90:2||r="PIP"||c="a typical influenza presentation" 90:9 90:12

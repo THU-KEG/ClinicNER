@@ -1,0 +1,19 @@
+c="other symptoms" 27:22 27:23||r="PIP"||c="diffuse and mainly frontal headaches" 27:25 27:29
+c="other symptoms" 27:22 27:23||r="PIP"||c="mild neck soreness" 27:31 27:33
+c="magnetic resonance angiogram study" 81:5 81:8||r="TeRP"||c="infarction" 81:21 81:21
+c="magnetic resonance angiogram study" 81:5 81:8||r="TeRP"||c="other pathologic processes" 81:23 81:25
+c="magnetic resonance angiogram study" 81:5 81:8||r="TeRP"||c="arterial dissections" 81:18 81:19
+c="a magnetic resonance imaging" 81:0 81:3||r="TeRP"||c="arterial dissections" 81:18 81:19
+c="a magnetic resonance imaging" 81:0 81:3||r="TeRP"||c="other pathologic processes" 81:23 81:25
+c="a magnetic resonance imaging" 81:0 81:3||r="TeRP"||c="infarction" 81:21 81:21
+c="pharmacologic treatment" 31:21 31:22||r="TrAP"||c="depression" 31:3 31:3
+c="singing or humming along" 53:11 53:14||r="PIP"||c="slightly inappropriate" 53:3 53:4
+c="head ct scan without contrast" 78:0 78:4||r="TeRP"||c="intracranial process" 78:11 78:12
+c="quinine" 35:0 35:0||r="TrCP"||c="a rash" 35:3 35:4
+c="the examination" 53:35 53:36||r="TeRP"||c="the deficits" 53:29 53:30
+c="examination" 80:13 80:13||r="TeRP"||c="notable findings" 80:10 80:11
+c="examination" 80:13 80:13||r="TeCP"||c="her gait disorder" 80:5 80:7
+c="examination" 80:13 80:13||r="TeRP"||c="anisocoria" 80:15 80:15
+c="her heel-to-shin and finger-to-nose testing" 73:0 73:4||r="TeRP"||c="ataxia" 73:10 73:10
+c="her heel-to-shin and finger-to-nose testing" 73:0 73:4||r="TeRP"||c="tremor" 73:12 73:12
+c="toe tap" 71:2 71:3||r="TeRP"||c="slow bilaterally" 71:5 71:6

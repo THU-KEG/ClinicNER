@@ -1,0 +1,61 @@
+600720722 SC
+86426538
+5408181
+9/17/2005 12:00:00 AM
+pp
+DIS
+Admission Date :
+09/17/2005
+Report Status :
+Discharge Date :
+09/20/2005
+****** FINAL DISCHARGE ORDERS ******
+CRASSBELBKOTE , NEE 537-39-30-6 T83
+Room :
+EIZ0-059
+Service :
+OBS
+DISCHARGE PATIENT ON :
+09/20/05 AT 10:00 AM
+CONTINGENT UPON
+HO evaluation
+WILL D / C ORDER BE USED AS THE D / C SUMMARY :
+YES
+Attending :
+GIENGPRATLSHUFF , QUASARZELL KATECHEL , M.D. , PH.D.
+DISPOSITION :
+Home
+DISCHARGE MEDICATIONS :
+DIET :
+No Restrictions
+ACTIVITY :
+Resume regular exercise
+FOLLOW UP APPOINTMENT ( S ) :
+QH 2/6wks ,
+ALLERGY :
+NKA
+ADMIT DIAGNOSIS :
+pp / pps
+PRINCIPAL DISCHARGE DIAGNOSIS ; Responsible After Study for Causing Admission ) pp
+OTHER DIAGNOSIS ; Conditions , Infections , Complications , affecting Treatment / Stay pp
+OPERATIONS AND PROCEDURES :
+Primary Anesthesia :
+Epidural
+Secondary Anesthesia :
+Local Procedures :
+PPS ,
+OTHER TREATMENTS / PROCEDURES ( NOT IN O.R. )
+bilateral tubal ligation
+BRIEF RESUME OF HOSPITAL COURSE :
+G3 T3 P0 A0 L3
+Estimated EDC :
+Maternal transfer :
+No
+ADDITIONAL COMMENTS :
+DISCHARGE CONDITION :
+Stable
+TO DO / PLAN :
+No dictated summary
+ENTERED BY :
+JOAS , CENI , C.N.M. ( FJ992 ) 09/19/05 09:50 AM
+****** END OF DISCHARGE ORDERS ******

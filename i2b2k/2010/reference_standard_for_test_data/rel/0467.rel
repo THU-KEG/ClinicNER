@@ -1,0 +1,5 @@
+c="enzymes" 88:9 88:9||r="TeRP"||c="formyocardial infarction" 88:6 88:7
+c="nuclear medical imaging" 91:14 91:16||r="TeRP"||c="ischemia" 91:21 91:21
+c="portable chest x-ray" 86:0 86:2||r="TeRP"||c="congestive heart failure" 86:7 86:9
+c="portable chest x-ray" 86:0 86:2||r="TeRP"||c="pneumonia" 86:11 86:11
+c="right sided chest pain" 28:58 28:61||r="PIP"||c="radiation to her sternum" 28:63 28:66

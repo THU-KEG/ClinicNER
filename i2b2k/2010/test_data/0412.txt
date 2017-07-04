@@ -1,0 +1,57 @@
+Admission Date :
+2015-08-10
+Discharge Date :
+2015-08-15
+Date of Birth :
+1954-12-08
+Sex :
+M
+Service :
+CT CMED CSRU
+HISTORY OF PRESENT ILLNESS :
+Mr. Bruno is a 60 year old gentleman who initially presented with hematemesis , hemoptysis and on work-up was found to have a left lower lobe mass .
+He previously underwent bronchoscopy with washings which showed to be negative for malignant cells and showed atypical bronchial epithelial cells , likely to be reactive .
+PAST MEDICAL HISTORY :
+1. Rectal fissure .
+2. Lumpectomy of the left breast nodule .
+3. Knee surgery .
+4. Hand surgery .
+ALLERGIES :
+The patient has no known drug allergies .
+MEDICATIONS :
+The patient had no home medications .
+REVIEW OF SYSTEMS :
+The review of systems was essentially negative .
+PHYSICAL EXAMINATION :
+On admission , showed a gentleman in no acute distress ; afebrile .
+Chest was clear to auscultation bilaterally .
+Heart has a regular rate and rhythm .
+Abdomen is benign , no mass .
+Extremities were well perfused and warm .
+HOSPITAL COURSE :
+The patient was taken to the Operating Room the day of admission .
+He underwent a left bronchoscopy and lower lobectomy of the left side .
+The operation was subsequently complicated by a postoperative bleeding .
+The patient had to be taken back to the Operating Room where a repair of the left pulmonary artery was performed .
+The patient was then transferred to the CSRU , intubated , in stable condition .
+Vascular Surgery Service was also consulted .
+During the operation , the patient received 13 units of packed red blood cells , four units of fresh frozen plasma and one unit of platelets with an estimated blood loss of 1500 cc .
+The patient remained to be stable on the floor with subsequent monitoring of hematocrit within a normal stable range .
+He is successfully extubated on 08-12 and hypertension transferred to the floor in stable condition where the Pain Service is managing his epidural with very good effect and he is tolerating a regular p.o. diet and is making adequate amount of urine .
+His recovery was essentially unremarkable .
+His epidural was successfully discontinued and he is discharged to home on 08-15 with instructions to follow-up with Dr. Cordova in the office within the next one to two weeks .
+He is discharged to home with pain medication which is percocet .
+CONDITION ON DISCHARGE :
+Stable .
+DISCHARGE STATUS :
+To home without service .
+DISCHARGE DIAGNOSES :
+Left lung mass status post resection .
+Harriet D. Buffington , M.D. 51-721
+Dictated By : Steven L. Ibarra , M.D.
+MEDQUIST36
+D : 2015-08-17 10:50
+T : 2015-08-21 16:28
+JOB #: 00413
+Signed electronically by : DR. Natasha Toth on : TUE 2015-10-06 5:11 PM
+( End of Report )

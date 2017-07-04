@@ -1,0 +1,54 @@
+641987347 RWH
+7980211
+453265
+3693233
+5/31/2004 12:00:00 AM
+ED Discharge Summary
+Unsigned
+DIS
+Report Status :
+Unsigned
+ED DISCHARGE NOTIFICATION / SUMMARY
+VENT , MAO
+MRN :
+7980211
+Age :
+42y
+REGISTRATION DATE :
+05/31/2004 11:24 AM
+Provider :
+SHIRLH NETPEAKE
+PRELIMINARY REPORT
+Benefits Assigned :
+Y
+Discharge Date / Time :
+05/31/2004 22:27
+Discharge Status :
+Discharged
+Condition on Discharge :
+Stable
+Patient States Complaint :
+ABD PAIN
+Standardized Discharge Instructions :
+The patient was given printed instructions for abdominal pain ( English ) .
+Diagnosis :
+Mesenteric Adenitis
+Treatment Rendered :
+GI cocktail , tylenol , lisinopril 40 mg PO
+Discharge Medications :
+Continue on prescribed HTN meds .
+Follow up Service :
+If you do not have a primary care physician , it is recommended that you select one .
+If you would like an RWH primary care physician , please call the Bolo County Hospital at 254-053-7517 .
+Disposition , Follow up and Instructions to Patient :
+Mr. Vent will be discharged home .
+He needs to be seen by a primary care doctor as soon as possible .
+He is currently scheduled to see a primary care doctor in July .
+He should schedule a more urgent appointment either with his PCP or another availabe doctor over the next 1 to 2 weeks for work up of his mesenteric adenitis .
+He should return to the ED for worsening of his abdominal pain , fevers greater than 101 , severe headache , or any other symptom he feels needs urgent attention .
+The patient was unable to provide a stool sample while in the ED .
+PCP Name :
+UNKNOWN , PHYSICIAN
+Provider Number :
+80665
+This report was created by NETPEAKE , SHIRLH 05/31/2004 10:36 PM

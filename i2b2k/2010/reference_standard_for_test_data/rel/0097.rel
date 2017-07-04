@@ -1,0 +1,14 @@
+c="physical therapy" 42:4 42:5||r="TrWP"||c="agitated" 42:8 42:8
+c="haldol" 69:1 69:1||r="TrAP"||c="agitation" 69:11 69:11
+c="percocet" 68:1 68:1||r="TrAP"||c="pain" 68:9 68:9
+c="a post-head injury syndrome" 47:13 47:16||r="PIP"||c="diffuse cognitive deficits" 47:18 47:20
+c="some sedation" 49:2 49:3||r="TrAP"||c="his head injury" 49:17 49:19
+c="the a/p pelvis" 32:8 32:10||r="TeRP"||c="a small liver laceration" 32:2 32:5
+c="multiple contusions in the frontal lobe" 38:11 38:16||r="PIP"||c="his head injury" 38:6 38:8
+c="arterial blood gas" 29:0 29:2||r="TeRP"||c="a mild metabolic acidosis" 29:4 29:7
+c="severe frontal head injury" 60:4 60:7||r="PIP"||c="multiple trauma" 60:1 60:2
+c="a hematocrit" 40:8 40:9||r="TeRP"||c="some blood loss anemia" 40:3 40:6
+c="droperidol" 71:1 71:1||r="TrAP"||c="agitation" 71:7 71:7
+c="additional assay" 30:0 30:1||r="TeRP"||c="slight widening of the mediastinum" 30:3 30:7
+c="chest x-ray" 30:9 30:10||r="TeRP"||c="slight widening of the mediastinum" 30:3 30:7
+c="medication" 48:12 48:12||r="TrAP"||c="agitation" 48:7 48:7

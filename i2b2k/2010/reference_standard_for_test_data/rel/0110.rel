@@ -1,0 +1,5 @@
+c="flagyl" 55:18 55:18||r="TrAP"||c="post-obstructive pneumonia" 55:21 55:22
+c="levo" 55:16 55:16||r="TrAP"||c="post-obstructive pneumonia" 55:21 55:22
+c="unstable angina" 54:5 54:6||r="PIP"||c="ekg changes" 54:9 54:10
+c="enzymes" 54:1 54:1||r="TeCP"||c="unstable angina" 54:5 54:6
+c="tylenol #3 ( acetaminophen w / codeine" 26:0 26:6||r="TrAP"||c="pain" 26:14 26:14

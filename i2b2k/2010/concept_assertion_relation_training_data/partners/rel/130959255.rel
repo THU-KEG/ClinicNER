@@ -1,0 +1,15 @@
+c="scattered t2 hyperintense foci within the periventricular and left frontal white matter" 93:3 93:14||r="PIP"||c="small vessel disease" 93:17 93:19
+c="scattered t2 hyperintense foci within the periventricular and left frontal white matter" 93:3 93:14||r="PIP"||c="gliosis" 93:21 93:21
+c="scattered t2 hyperintense foci within the periventricular and left frontal white matter" 93:3 93:14||r="PIP"||c="demyelination" 93:23 93:23
+c="auscultation" 49:5 49:5||r="TeRP"||c="rales" 49:9 49:9
+c="auscultation" 49:5 49:5||r="TeRP"||c="wheezes" 49:11 49:11
+c="an magnetic resonance imaging angiogram" 91:1 91:5||r="TeRP"||c="the right parietal occipital hemorrhage" 91:10 91:14
+c="considerable difficulty with left finger-to-nose movement" 71:3 71:8||r="PIP"||c="hemianopsia" 71:14 71:14
+c="the computerized tomography scan" 80:0 80:3||r="TeRP"||c="a right occipital hemorrhage" 80:8 80:11
+c="a magnetic resonance imaging study" 89:2 89:6||r="TeRP"||c="a large hemorrhagic lesion on the occipital lobe" 89:15 89:22
+c="an echocardiogram" 98:0 98:1||r="TeRP"||c="thrombus" 98:16 98:16
+c="po bactrim" 102:14 102:15||r="TrAP"||c="urinary tract infection" 102:7 102:9
+c="the mra" 92:0 92:1||r="TeRP"||c="mild narrowing of the left ica" 92:3 92:8
+c="notable aphasia" 54:21 54:22||r="PIP"||c="word finding difficulty ." 54:24 54:27
+c="cerebellar examination" 70:0 70:1||r="TeRP"||c="intention tremor on the right side" 70:4 70:9
+c="magnetic resonance imaging angiogram" 89:8 89:11||r="TeRP"||c="a large hemorrhagic lesion on the occipital lobe" 89:15 89:22

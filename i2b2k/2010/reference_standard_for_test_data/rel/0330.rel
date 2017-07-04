@@ -1,0 +1,19 @@
+c="topical steroids" 28:1 28:2||r="TrAP"||c="eczema" 28:4 28:4
+c="her urinalysis" 50:0 50:1||r="TeRP"||c="2+ bacteria" 50:3 50:4
+c="her urinalysis" 50:0 50:1||r="TeRP"||c="2+ squamous epithelium" 50:6 50:8
+c="her urinalysis" 50:0 50:1||r="TeRP"||c="greater than 10,000 mixed bacteria" 50:10 50:14
+c="chest x-ray" 19:0 19:1||r="TeRP"||c="multiple pulmonary nodules" 19:8 19:10
+c="prednisone" 24:11 24:11||r="TrAP"||c="an adrenal disorder" 24:6 24:8
+c="follow-up chest ct" 18:0 18:2||r="TeRP"||c="hepatosplenomegaly" 18:34 18:34
+c="follow-up chest ct" 18:0 18:2||r="TeRP"||c="very small nodes" 18:21 18:23
+c="follow-up chest ct" 18:0 18:2||r="TeRP"||c="hilar adenopathy" 18:30 18:31
+c="follow-up chest ct" 18:0 18:2||r="TeRP"||c="adrenal mass" 18:36 18:37
+c="follow-up chest ct" 18:0 18:2||r="TeRP"||c="multiple pulmonary nodules" 18:14 18:16
+c="tylenol # 3" 60:1 60:3||r="TrAP"||c="pain" 60:14 60:14
+c="slightly tender" 41:3 41:4||r="PIP"||c="a firm thyroid" 41:6 41:8
+c="umbilical hernia repair" 23:8 23:10||r="TrAP"||c="hiatal hernia" 23:5 23:6
+c="axillary node biopsy" 16:13 16:15||r="TeCP"||c="diffuse adenopathy" 16:0 16:1
+c="a work-up" 15:23 15:24||r="TeRP"||c="bilateral lung nodules" 15:11 15:13
+c="a work-up" 15:23 15:24||r="TeRP"||c="an adrenal abnormality" 15:26 15:28
+c="chest x-ray" 51:0 51:1||r="TeRP"||c="multiple pulmonary nodules" 51:8 51:10
+c="percocet" 60:7 60:7||r="TrAP"||c="pain" 60:14 60:14

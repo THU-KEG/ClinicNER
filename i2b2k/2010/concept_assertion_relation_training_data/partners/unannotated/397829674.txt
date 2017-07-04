@@ -1,0 +1,88 @@
+397829674
+FIH
+7203504
+502367
+400023
+3/30/1998 12:00:00 AM
+SEVERE AORTIC STENOSIS .
+Unsigned
+DIS
+Report Status :
+Unsigned
+DISCHARGE SUMMARY NAME :
+MSHIERB , NYJO I
+UNIT NUMBER :
+213-49-59
+ADMISSION DATE :
+03/30/1998
+DISCHARGE DATE :
+04/01/1998
+PRINCIPAL DIAGNOSIS :
+Severe aortic stenosis .
+ASSOCIATED DIAGNOSIS :
+Larynx carcinoma .
+SPECIAL PROCEDURES AND OPERATIONS :
+1 ) Percutaneous aortic balloon valvuloplasty .
+DOCTOR &apos;S DISCHARGE ORDERS :
+1 ) Salagaan 5 mg. PO q.i.d.
+2 ) Ambien 5 mg. PO q.h.s.
+HISTORY OF PRESENT ILLNESS :
+Mrs. Mshierb is a 73-year-old lady who is under the care of Dr. Ca Shuff and Dr. Ill Kihdaiz with a diagnosis of critical aortic stenosis .
+She sustained an acute myocardial infarction at age 32 .
+At that time she was discovered to have a heart murmur .
+She did well until November of this year when she developed new onset of chest pain and lightheadedness .
+She underwent cardiac catheterization which demonstrated no significant coronary artery disease , critical aortic stenosis with a calculated aortic valve area of 0.7 cm. squared .
+She had normal left ventricular systolic function with an ejection fraction of 62 percent .
+Simultaneously she was diagnosed with having an invasive epiglottis squamous cell carcinoma .
+She was treated with both radiotherapy and chemotherapy with good response .
+However she had Area of cancer which will required surgical resection .
+Thus she was referred to us in order to undergo aortic balloon valvuloplasty as a bridge to her larynx surgery .
+ALLERGIES :
+She was diagnosed in the past of allergy to iodine dye .
+FAMILY HISTORY :
+She has positive history of coronary artery disease .
+She denies a history of diabetes mellitus , hypertension .
+She has an elevated cholesterol controlled with Zocor .
+SOCIAL HISTORY :
+She is a former smoker of one pack per day of cigarettes for 63 years .
+PHYSICAL EXAMINATION :
+Revealed a pleasant lady in no acute distress .
+Her blood pressure was 120/60 mm. Hg .
+Her pulse was regular at 80 beats per minute .
+The jugular venous pressure was normal .
+The carotids have delayed upstrokes .
+The jugular venous pressure was normal .
+The chest was clear .
+Cardiac examination :
+revealed an apical impulse in fifth left intercostal space in the mid clavicular line .
+The first sound was normal .
+The second sound was single .
+She has a 3/6 systolic ejection murmur at the upper right sternal border radiating to the neck , left sternal border and the apex .
+She has an S4 at the apex .
+Examination of the abdomen was benign .
+She has a G tube in place .
+Examination of the extremities showed no edema .
+She had good pulses bilaterally .
+LABORATORY DATA :
+Electrocardiogram revealed normal sinus rhythm , left ventricular hypertrophy , with a strain pattern .
+HOSPITAL COURSE AND TREATMENT :
+The patient was seen by the Allergy Clinic .
+It was found likely that she has iodine contrast allergy .
+However she was pre-medicated with Prednisone and Benadryl .
+The patient underwent successfully percutaneous aortic balloon valvuloplasty using a 20 mm. balloon catheter .
+With balloon valvuloplasty there was a decrease of her aortic gradient from 17 to 35 mm. Hg. and an increase of her cardiac output from 4.8 to 5.0 liters per minute .
+The patient tolerated the procedure well .
+She required two units of blood transfusion the day following the procedure because of a low hematocrit .
+The patient is discharged stable .
+FOLLOW UP :
+She will be followed up by her primary care physician Dr. Ca Shuff .
+A follow up echocardiogram will be performed as an outpatient .
+RENLAN N. DYE , M.D.
+TR :
+rjb
+DD :
+04/01/1998
+TD :
+04/01/1998 11:14 A
+cc :
+RENLAN N DYE , M.D. CA DYE , M.D. MEDICAL RECORDS STAT

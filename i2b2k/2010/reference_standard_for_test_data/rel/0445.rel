@@ -1,0 +1,39 @@
+c="surgery" 36:3 36:3||r="TrAP"||c="b/l cataracts" 36:0 36:1
+c="a dry dressing" 184:11 184:13||r="TrAP"||c="your incisions" 184:6 184:7
+c="a dry dressing" 184:11 184:13||r="TrAP"||c="clear drainage" 184:3 184:4
+c="your incisions" 184:6 184:7||r="PIP"||c="clear drainage" 184:3 184:4
+c="distended gallbladder" 71:1 71:2||r="PIP"||c="impacted 1.6 cm gallstone" 71:4 71:7
+c="acetaminophen" 150:1 150:1||r="TrAP"||c="pain" 150:21 150:21
+c="clear liquids" 106:4 106:5||r="TrCP"||c="nausea" 106:8 106:8
+c="clear liquids" 106:4 106:5||r="TrCP"||c="vomiting" 106:10 106:10
+c="disimpaction" 110:2 110:2||r="TrAP"||c="hard stool in the rectum" 110:5 110:9
+c="ibuprofen" 151:1 151:1||r="TrAP"||c="pain" 151:22 151:22
+c="iv beta blockers" 92:10 92:12||r="TrAP"||c="mild tachycardia" 92:6 92:7
+c="your incisions" 181:25 181:26||r="PIP"||c="foul smelling or colorful drainage" 181:19 181:23
+c="acute cholecystitis" 71:22 71:23||r="PIP"||c="focal wall thickening" 71:9 71:11
+c="acute cholecystitis" 71:22 71:23||r="PIP"||c="impacted 1.6 cm gallstone" 71:4 71:7
+c="acute cholecystitis" 71:22 71:23||r="PIP"||c="distended gallbladder" 71:1 71:2
+c="acute cholecystitis" 71:22 71:23||r="PIP"||c="positive sonallan stephens sign" 71:14 71:17
+c="dilaudid pca" 90:11 90:12||r="TrIP"||c="her pain" 90:1 90:2
+c="right renal cysts" 72:1 72:3||r="PIP"||c="lower pole cyst" 72:5 72:7
+c="right renal cysts" 72:1 72:3||r="PIP"||c="upper pole exophytic cyst" 72:16 72:19
+c="straight cathed" 101:8 101:9||r="TrAP"||c="difficulty voiding" 101:3 101:4
+c="insulin" 27:2 27:2||r="TrAP"||c="dm" 27:0 27:0
+c="bladder scan" 101:11 101:12||r="TeCP"||c="difficulty voiding" 101:3 101:4
+c="colace" 188:7 188:7||r="TrAP"||c="constipation" 188:15 188:15
+c="tylenol" 107:6 107:6||r="TrIP"||c="her pain" 107:0 107:1
+c="lantus" 108:4 108:4||r="TrAP"||c="elevated blood glucose" 108:8 108:10
+c="prior exam" 72:11 72:12||r="TeRP"||c="lower pole cyst" 72:5 72:7
+c="white strips" 185:1 185:2||r="TrAP"||c="your incisions" 185:4 185:5
+c="gangrenous cholecystitis" 177:0 177:1||r="PIP"||c="perforation" 177:3 177:3
+c="a stool softener" 188:3 188:5||r="TrAP"||c="constipation" 188:15 188:15
+c="pain medication" 189:4 189:5||r="TrCP"||c="drowsy" 189:10 189:10
+c="telemetry" 92:4 92:4||r="TeCP"||c="mild tachycardia" 92:6 92:7
+c="exam" 96:6 96:6||r="TeRP"||c="worsening abdominal pain" 96:2 96:4
+c="gallbladder ultra sound" 78:0 78:2||r="TeRP"||c="a distended 1.6 cm  non mobile stone in the neck" 78:4 78:13
+c="plastic biliary stent" 75:9 75:11||r="TrAP"||c="confirmed cystic duct leak" 75:13 75:16
+c="a bowel regimen" 111:4 111:6||r="TrIP"||c="diarrhea" 111:13 111:13
+c="a bowel regimen" 111:4 111:6||r="TrIP"||c="constipation" 111:15 111:15
+c="ibuprofen" 130:1 130:1||r="TrAP"||c="pain" 130:22 130:22
+c="acetaminophen" 129:1 129:1||r="TrAP"||c="pain" 129:21 129:21
+c="removal" 75:2 75:2||r="TrIP"||c="cbd stone" 75:4 75:5

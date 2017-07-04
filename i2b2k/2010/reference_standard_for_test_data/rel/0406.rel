@@ -1,0 +1,47 @@
+c="drainage" 64:16 64:16||r="TrAP"||c="additional retroperitoneal fluid" 64:18 64:20
+c="multiple pulmonary emboli" 46:6 46:8||r="PIP"||c="the renal vein thrombosis" 46:23 46:26
+c="a pulmonary arteriogram" 46:0 46:2||r="TeRP"||c="multiple pulmonary emboli" 46:6 46:8
+c="surgical approach" 72:5 72:6||r="TrAP"||c="this problem" 72:8 72:9
+c="substantial auto peep" 45:6 45:8||r="PIP"||c="an elevated dead space" 45:10 45:13
+c="the ventilator" 44:16 44:17||r="TrWP"||c="extremely dyssynchronous" 44:13 44:14
+c="lipase" 57:14 57:14||r="TeRP"||c="elevations" 57:6 57:6
+c="ct scan" 51:0 51:1||r="TeRP"||c="retroperitoneal collection" 51:3 51:4
+c="ct scan" 51:0 51:1||r="TeRP"||c="free air" 51:7 51:8
+c="ct scan" 51:0 51:1||r="TeRP"||c="extravasated contrast material" 51:10 51:12
+c="retroperitoneal collection" 51:3 51:4||r="PIP"||c="free air" 51:7 51:8
+c="retroperitoneal collection" 51:3 51:4||r="PIP"||c="extravasated contrast material" 51:10 51:12
+c="high volume resuscitation" 67:6 67:8||r="TrAP"||c="an ongoing requirement" 67:2 67:4
+c="high volume resuscitation" 67:6 67:8||r="TrAP"||c="persistently acidotic" 67:11 67:12
+c="problems" 38:17 38:17||r="PIP"||c="hypercoagulable state" 38:23 38:24
+c="pancreatic inflammation" 57:17 57:18||r="PIP"||c="elevations" 57:6 57:6
+c="high pressures" 48:3 48:4||r="TrAP"||c="an abdominal compartment syndrome" 48:12 48:15
+c="five jackson-pratt drains" 55:31 55:33||r="TrAP"||c="the retroperitoneal mass" 55:35 55:37
+c="jejunostomy tube" 55:46 55:47||r="TrAP"||c="the retroperitoneal mass" 55:35 55:37
+c="exploratory laparotomy" 52:13 52:14||r="TeCP"||c="a perforated viscus" 52:4 52:6
+c="exploratory laparotomy" 52:13 52:14||r="TeCP"||c="perforation" 52:27 52:27
+c="gastrostomy tube" 55:42 55:43||r="TrAP"||c="the retroperitoneal mass" 55:35 55:37
+c="amylase" 57:12 57:12||r="TeRP"||c="elevations" 57:6 57:6
+c="pressors" 58:9 58:9||r="TrAP"||c="his septic physiology" 58:11 58:13
+c="renal disease" 38:11 38:12||r="PIP"||c="multiple complications" 38:14 38:15
+c="multiple blood products" 56:9 56:11||r="TrAP"||c="an extensive estimated blood loss" 56:3 56:7
+c="an attempted cadaveric kidney transplant" 39:3 39:7||r="TrCP"||c="thrombosis" 39:16 39:16
+c="an attempted cadaveric kidney transplant" 39:3 39:7||r="TrCP"||c="necrosis of the cadaveric renal vein" 39:18 39:23
+c="fluid resuscitation" 58:6 58:7||r="TrAP"||c="his septic physiology" 58:11 58:13
+c="a gastrojejunostomy" 55:18 55:19||r="TrAP"||c="the retroperitoneal mass" 55:35 55:37
+c="full heparinization" 62:12 62:13||r="TrNAP"||c="the bleeding problems" 62:2 62:4
+c="mechanical ventilatory assistance" 65:10 65:12||r="TrWP"||c="dependent" 65:8 65:8
+c="recurrent pneumonias" 42:8 42:9||r="PIP"||c="aspiration" 42:14 42:14
+c="an underlying hypercoagulable state" 61:6 61:9||r="PIP"||c="the repeated clots" 61:17 61:19
+c="appropriate antibiotics" 60:4 60:5||r="TrAP"||c="his abdominal process" 60:15 60:17
+c="appropriate antibiotics" 60:4 60:5||r="TrAP"||c="his serratia pneumonia" 60:7 60:9
+c="fluid resuscitation therapy" 56:13 56:15||r="TrAP"||c="an extensive estimated blood loss" 56:3 56:7
+c="liver function studies" 57:8 57:10||r="TeRP"||c="elevations" 57:6 57:6
+c="bicarbonate replenishment" 67:19 67:20||r="TrWP"||c="persistently acidotic" 67:11 67:12
+c="bloody drainage" 69:0 69:1||r="PIP"||c="his increasingly distended abdomen" 69:3 69:6
+c="cardioversion" 66:8 66:8||r="TrAP"||c="atrial fibrillation" 66:5 66:6
+c="cv-vvh" 67:14 67:14||r="TrWP"||c="persistently acidotic" 67:11 67:12
+c="further intervention" 72:11 72:12||r="TrAP"||c="this problem" 72:8 72:9
+c="radiologic procedures" 72:14 72:15||r="TrAP"||c="this problem" 72:8 72:9
+c="an ischemic bowel" 71:17 71:19||r="PIP"||c="multiple enteric fistulae" 71:13 71:15
+c="massive retroperitoneal contamination" 71:8 71:10||r="PIP"||c="multiple enteric fistulae" 71:13 71:15
+c="massive retroperitoneal contamination" 71:8 71:10||r="PIP"||c="an ischemic bowel" 71:17 71:19

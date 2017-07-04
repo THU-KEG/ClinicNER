@@ -1,0 +1,62 @@
+c="iga" 250:8 250:8||r="TeCP"||c="celiac disease" 250:12 250:13
+c="iga" 250:8 250:8||r="TeCP"||c="your abdominal symptoms" 250:15 250:17
+c="celiac disease" 250:12 250:13||r="PIP"||c="your abdominal symptoms" 250:15 250:17
+c="steroids" 106:4 106:4||r="TrAP"||c="this swelling" 106:6 106:7
+c="zofran" 149:14 149:14||r="TrAP"||c="nauseated" 149:4 149:4
+c="further management" 20:35 20:36||r="TrAP"||c="hypoxic respiratory failure" 20:38 20:40
+c="her symptoms" 159:9 159:10||r="PIP"||c="gastroparesis" 159:13 159:13
+c="ondansetron hcl" 219:1 219:2||r="TrAP"||c="nausea" 219:25 219:25
+c="insulin drip" 136:21 136:22||r="TrCP"||c="persistently borderline hypoglycemic" 136:16 136:18
+c="vancomycin" 103:4 103:4||r="TrAP"||c="her mrsa pneumonia" 103:7 103:9
+c="an insulin pump" 20:14 20:16||r="TrAP"||c="diabetes type i" 20:10 20:12
+c="her sugars" 144:9 144:10||r="TeRP"||c="elevated" 144:12 144:12
+c="anzemet" 149:12 149:12||r="TrAP"||c="nauseated" 149:4 149:4
+c="ativan" 149:17 149:17||r="TrAP"||c="nauseated" 149:4 149:4
+c="a ct neck" 28:0 28:2||r="TeRP"||c="soft tissue swelling" 28:4 28:6
+c="acetaminophen" 218:1 218:1||r="TrAP"||c="headache" 218:23 218:23
+c="supplemental iv dextrose" 138:10 138:12||r="TrAP"||c="ketosis" 138:15 138:15
+c="an abdominal ct" 128:6 128:8||r="TeCP"||c="an abscess" 128:14 128:15
+c="her central line" 178:0 178:2||r="TrNAP"||c="a line infection" 178:9 178:11
+c="extubation" 27:0 27:0||r="TrWP"||c="inspiratory stridor" 27:12 27:13
+c="a chest x-ray" 99:2 99:4||r="TeRP"||c="perihilar and bibasilar opacities" 99:6 99:9
+c="perihilar and bibasilar opacities" 99:6 99:9||r="PIP"||c="pulmonary edema" 99:15 99:16
+c="perihilar and bibasilar opacities" 99:6 99:9||r="PIP"||c="a pneumonia" 99:22 99:23
+c="a right upper quadrant ultrasound" 164:0 164:4||r="TeRP"||c="any acute pathology" 164:11 164:13
+c="an agressive anti-emetic regimen" 153:6 153:9||r="TrWP"||c="nausea" 153:4 153:4
+c="vancomycin" 117:10 117:10||r="TrAP"||c="her mrsa pneumonia" 117:12 117:14
+c="diffuse ground-glass opacity in bilateral upper and lower lobes" 93:14 93:22||r="PIP"||c="ards" 93:26 93:26
+c="diffuse ground-glass opacity in bilateral upper and lower lobes" 93:14 93:22||r="PIP"||c="pulmonary edema" 93:28 93:29
+c="levofloxacin" 132:8 132:8||r="TrAP"||c="her bacteremia" 132:10 132:11
+c="a sputum sample" 102:7 102:9||r="TeRP"||c="mrsa" 102:13 102:13
+c="levofloxacin" 126:5 126:5||r="TrAP"||c="her bacteremia" 126:7 126:8
+c="abdominal pain" 151:5 151:6||r="PIP"||c="her nausea" 151:0 151:1
+c="a tissue transglutaminase" 161:4 161:6||r="TeCP"||c="celiac disease" 161:10 161:11
+c="morphine" 151:13 151:13||r="TrAP"||c="abdominal pain" 151:5 151:6
+c="a anti-tissue transglutaminase antibody" 250:3 250:6||r="TeCP"||c="celiac disease" 250:12 250:13
+c="a anti-tissue transglutaminase antibody" 250:3 250:6||r="TeCP"||c="your abdominal symptoms" 250:15 250:17
+c="a ct scan" 104:0 104:2||r="TeCP"||c="the soft tissue swelling" 104:9 104:12
+c="trauma" 105:19 105:19||r="PIP"||c="increased soft tissues within the pharynx" 105:3 105:8
+c="the ct" 105:0 105:1||r="TeRP"||c="increased soft tissues within the pharynx" 105:3 105:8
+c="d5w" 136:5 136:5||r="TrWP"||c="persistently borderline hypoglycemic" 136:16 136:18
+c="long-standing type i diabetes" 146:8 146:11||r="PIP"||c="gastroparesis" 146:5 146:5
+c="a ng tube" 158:0 158:2||r="TrAP"||c="early obstruction" 158:11 158:12
+c="reglan" 148:15 148:15||r="TrCP"||c="a bad reaction" 148:11 148:13
+c="lorazepam" 230:1 230:1||r="TrNAP"||c="sedation" 230:13 230:13
+c="lorazepam" 230:1 230:1||r="TrNAP"||c="nausea" 230:10 230:10
+c="lorazepam" 230:1 230:1||r="TrNAP"||c="anxiety" 230:8 230:8
+c="clonazepam" 36:3 36:3||r="TrAP"||c="anxiety" 36:1 36:1
+c="ct" 104:15 104:15||r="TeRP"||c="the soft tissue swelling" 104:9 104:12
+c="phenergan" 149:10 149:10||r="TrAP"||c="nauseated" 149:4 149:4
+c="her symptoms" 154:4 154:5||r="PIP"||c="gastroparesis" 154:9 154:9
+c="nauseated" 147:7 147:7||r="PIP"||c="emesis" 147:9 147:9
+c="the study" 130:2 130:3||r="TeRP"||c="a cecal cystic lesion" 130:22 130:25
+c="the cultures" 122:0 122:1||r="TeRP"||c="enterobacter cloacae" 122:4 122:5
+c="d10w" 136:11 136:11||r="TrAP"||c="persistently borderline hypoglycemic" 136:16 136:18
+c="a abdominal plain film" 157:0 157:3||r="TeRP"||c="non-specific bowel gas patterns" 157:5 157:8
+c="non-specific bowel gas patterns" 157:5 157:8||r="PIP"||c="an early obstruction" 157:12 157:14
+c="decompression" 158:6 158:6||r="TrAP"||c="early obstruction" 158:11 158:12
+c="command" 51:7 51:7||r="TeRP"||c="not responsive" 51:4 51:5
+c="dolasetron mesylate" 228:1 228:2||r="TrAP"||c="nausea" 228:9 228:9
+c="prolonged intubation" 105:16 105:17||r="TrCP"||c="increased soft tissues within the pharynx" 105:3 105:8
+c="gram negative rods" 120:11 120:13||r="PIP"||c="positive blood cultures" 120:2 120:4
+c="a chest x-ray" 110:0 110:2||r="TeRP"||c="displaced" 110:9 110:9

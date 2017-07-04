@@ -1,0 +1,15 @@
+c="infection" 67:5 67:5||r="PIP"||c="fevers" 67:9 67:9
+c="infection" 67:5 67:5||r="PIP"||c="chills" 67:11 67:11
+c="infection" 67:5 67:5||r="PIP"||c="increased redness" 67:21 67:22
+c="infection" 67:5 67:5||r="PIP"||c="increased pain" 67:24 67:25
+c="infection" 67:5 67:5||r="PIP"||c="purulent discharge from wound / incision site" 67:13 67:19
+c="antibiotic ointment" 72:16 72:17||r="TrAP"||c="wound" 72:24 72:24
+c="antibiotic ointment" 72:16 72:17||r="TrAP"||c="incision site" 72:2 72:3
+c="basal cell carcinoma resection" 15:3 15:6||r="TrCP"||c="acquired defect" 15:0 15:1
+c="normal saline" 72:5 72:6||r="TrAP"||c="incision site" 72:2 72:3
+c="basal cell carcinoma" 19:27 19:29||r="PIP"||c="an aquired defect of the right nasal ala and medial cheek region" 19:14 19:25
+c="signs and symptoms" 67:1 67:3||r="PIP"||c="infection" 67:5 67:5
+c="basal cell carcinoma resection" 62:12 62:15||r="TrCP"||c="aquired deformity of the right ala / nose and medial cheek" 62:0 62:10
+c="docusate sodium" 49:1 49:2||r="TrAP"||c="constipation" 49:24 49:24
+c="her wound" 40:0 40:1||r="PIP"||c="infection" 40:11 40:11
+c="her wound" 40:0 40:1||r="PIP"||c="breakdown" 40:13 40:13

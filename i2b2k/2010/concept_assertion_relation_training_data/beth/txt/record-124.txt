@@ -1,0 +1,205 @@
+Admission Date :
+2013-12-24
+Discharge Date :
+2014-01-13
+Date of Birth :
+1959-12-16
+Sex :
+F
+Service :
+MEDICINE
+Allergies :
+Haldol / Compazine / Phenergan / Tigan / Flagyl
+Attending : David U. Johnson , M.D.
+Chief Complaint :
+Chest Pain
+Major Surgical or Invasive Procedure :
+Removal of tunneled cath ( previously used for tPN )
+History of Present Illness :
+54 yo F with Crohn 's s/p ileostomy and subsequent short gut syndrome with port-a-cath placement for TPN who presents with progressive right sided chest pain that comes in waves .
+The pt reports sharp 10/10 chest pain under the right breast which is getting progressively worse .
+The pain is worsened with deep inspiration or movement .
+It initially started one day previously but has gotten significantly worse over last 12 hours .
+It is associated with SOB as well as fevers , chills .
+The pt denies abd pain , n/v or increased ostomy output .
+Given her fever , sx of chest pain and SOB as well as an elevated WBC count , she was initially thought to have a PNA .
+She was therefore given ceftriaxone 1 g IV x1 and azithromycin 500 mg PO x1 in the Deanna .
+As the CXR was without any evidence of PNA , or PTX , the pt subsequently received a CTA to evaluate for PE which revealed multifocal bilateral PNA but no PE .
+At this time , she was given Vancomycin 1 g IV x1 .
+She was also given morphine 2 mg x3 , 4 mg IV x2 , dolasetron 12.5 mg x2 and ativan 1 mg IV x1 .
+Past Medical History :
+1. Crohn 's disease , dx 1974 s/p three bowel resections and eventual ileostomy , resulting in short gut syndrome
+2. Restless leg syndrome
+3. ? Parkinsons vs. EPS side effects from risperdal
+4. Chronic idiopathic pancreatitis , as demonstrated on CT in 09-01
+5. Arthritis s/p " pin placement " in left foot 05-01
+6. Degenerative disc disease s/p two back surgeries in 80 's
+7. Benzo and opiod addiction
+8. Paranoia / Depression , h/o auditory hallucinations , ? mania
+9. Port-a-Cath placement for IV hydration in setting of short gut syndrome , complicated by clotting x 4 , requiring replacement
+Abd CT performed 09-01 showed multiple calcifications in the body and tail of the pancreas with a larger cystic lesion in the tail of the pancreas .
+A second 9 mm cystic lesion is seen in the head of the pancreas .
+These findings are consistent with chronic pancreatitis with pseudocyst formation
+Social History: lives w/ her husband in John area ; smokes 05-04 cig /d ( 30 pack year history ); no alcohol or recreational drug use , has had addiction to benzodiazepines and opioids in the past
+Family History :
+Mother-Crohn 's ; Daugher-IBS , colitis ; Mother -- breast CA ,;
+Father - Stephanie tumor , no DM , no CAD
+Physical Exam :
+V : 101.4 , 102 , 167/54 -> 159/77 , 24 -> 16 , 98% RA -> 96% RA
+Gen : middle aged obese female lying in bed on her left side asleep , speaking slowly .
+appears younger than stated age
+HEENT : PERRL , OP clear , MMM
+CV : RRR , s1 , s2 distant
+Chest : crackles at right base with dec. air movement .
+tender over right chest
+Abd : obese , multiple surgical scars .
+Ileostomy bag present with gas and stool .
+absomen soft , tender to palpation over RUQ , but no guarding or rebound
+Ext : tr edema , 2+ DP bilaterally
+Pertinent Results :
+2013-12-24 01:30 AM
+GLUCOSE - 208 * UREA N - 21 * CREAT - 1.3 * SODIUM - 138 POTASSIUM - 4.2 CHLORIDE - 104 TOTAL CO2 - 23 ANION GAP - 15
+2013-12-24 01:30 AM
+CK ( CPK )- 31
+2013-12-24 01:30 AM
+cTropnT -< 0.01
+2013-12-24 01:30 AM
+WBC - 14.4 *# RBC - 3.82 * HGB - 11.5 * HCT - 33.5 * MCV - 88 MCH - 30.2 MCHC - 34.5 RDW - 14.7
+2013-12-24 01:30 AM
+NEUTS - 78.0 * LYMPHS - 17.0 * MONOS - 4.6 EOS - 0.3 BASOS - 0.1
+2013-12-24 01:30 AM
+PLT COUNT - 128 *
+2013-12-24 01:30 AM
+PT - 12.3 PTT - 26.1 INR ( PT )- 1.0
+CTA 2013-12-24 - IMPRESSION :
+1. No definite pulmonary embolism is identified .
+2. Peripheral patchy opacities are seen bilaterally , most consistent with multifocal pneumonia .
+CXR 2013-12-24 - There are faint ill-defined opacities within the right lower lung zone and left upper lung zone could represent a multifocal pneumonic process .
+CXR 2014-01-02 - IMPRESSION :
+Multilobar pneumonia with interval worsening in the left lung but slight improvement in the right lower lobe .
+Head CT 2014-01-09 - Ordered to evaluate for changes to explain delta MS
+CONCLUSION :
+Left parietal subcortical hypodensity , likely ischemic .
+No definite changes since the MR of in 2011-05-15 .
+CXR 2014-01-09
+IMPRESSION :
+Marked improvement .
+Brief Hospital Course :
+54 yo F with Crohn 's disease s/p ileostomy with subsequent short gut syndrome with port-o-cath for TPN presents with acute onset pleuritic chest pain with fever , chills , and sob .
+1. Chest pain / Fever / Chills :
+The acute onset of chest pain was initially very concerning for a PE , however the Chest CT demonstrated multifocal consolidation consistent with a bacterial PNA .
+This is consistent with the remainder of the pt 's history including fever , chills , sob and an elevated WBC count .
+The pt was given ceftriaxone / azithromycin / vancomycin in Deanna .
+Blood , urine and sputum culutres were sent .
+Pt 's blood cultures came back positive for Staph Aureus and Enterococcus , both were pansensitive .
+Sputum culture also returned with Staph. Aureus .
+Ceftriaxone and azithro were discontinued , and Vacomycin was continued .
+Pt initially was hypoxic requiring NRB for O2 sat of 94% , with any attempt to wean she would desat .
+Pt was intubated prior to tunneled catheter removal , see below .
+( The tunneled catheter later came back for negative for culture. )
+Earlier that day pt had a chest x ray which showed diffuse infiltrative process concerning for ARDS .
+Post procedure pt remained intubated on ARDSnet protocol .
+She self extubated the first day and was reintubated without any complications .
+Her O2 requirement improved on the vent over the next few days and she was weaned off the vent on 2013-01-01 .
+After extubation her o2 requirement was down to 1L NC with sats in mid 90s .
+She was transferred to the floor for further managment .
+The patient remained afebrile when she transferred to the medicine service .
+She was weaned off the oxygen and for the remainder of her course her O2sats were stable on room air .
+The patient had completed her antibiotic course while in house .
+2. Hx of multiple port-o-cath clots :
+Although the pt is on warfarin chronically , her INR was subtherapeutic .
+Goal INR 01-31 .
+Initially coumadin was increased , however given concern for infected line , general surgery was consulted who removed the line in the ICU .
+3. ARF :
+Pt initially with mild ARI , this was thought to be due to dehydration , after initial volume repletion her renal function improved to her baseline .
+4. CMED :
+The pt has a history of paranoia / depression .
+ON admission she was taking Quetiapine 300 mg QHS and Clonazepam 1 mg QAM , 1 mg Q3PM , 2 mg PO QHS .
+Quetiapine was continued however clonipin was initially held when she was intubated on fentynyl / versed .
+This was restarted post extubation .
+Intially after being transferred from the ICU to the medicine service the patient was mentating appropriately .
+Her course later became complicated by visual and auditory hallucinations .
+She made disturbing comments to the hospital personnel .
+She was unable to sleep at night , often pacing the halls .
+She required a 1:1 sitter .
+Psychiatry was consulted .
+They felt that her presentation was secondary to delirium and was multifactorial .
+They attributed it to polypharmacy , recent infection ( pneumonia ) and insomnia .
+A head CT was done which ruled out any acute processes .
+The patient refused an LP .
+They made recommendations for adjustments to her anti-psychotic medications .
+At discharge the patient was on clonazepam 1 mg tid , seroquel 300 BID and neurontin 600 QAM , 1200 QPM and 1200 QHS .
+The Kindred Hospital hospital course was prolonged because of her delirium .
+Once her mental status improved she was discharged .
+5. ? Parkinson 's Disease / Akithesia :
+The patient was maintained Sinemet .
+6. Pain :
+In addition to her usual neuropathy pain , the pt initially appeared to have significant pain from the multi-focal PNA as well .
+( Home regimen , Gabapentin 800 mg PO QAM , 1600 mg PO Q3PM , 1600 mg PO QHS .
+This was held in the ICU and she was given diluadid prn for pain control .
+The patient 's narcotic and CMED CCU regimen was evaluated by psychiatry during her delirium .
+Please see above for their recommendations .
+7. FEN :
+Given her hx of ileostomy secondary to crohn 's disease and resultant short gut syndrome , the pt requires nutritional support via TPN .
+After removal of tunneled line pt was given tube feeds while she was intubated .
+The patient was transitioned to a low fat , low residue diet .
+8 .
+PPX : PPI and heparin SC
+9. Dispo :
+The patient was discharged home and instructed to follow up with her PCP .
+Louis follow up scheduled with psychiatry .
+Medications on Admission :
+1. Quetiapine 300 mg QHS
+2. Clonazepam 1 mg QAM , 1 mg Q3PM , 2 mg PO QHS
+3. Ferrous Sulfate 325 PO Daily
+4. Carbidopa-Levodopa 25-250 mg PO 5 TIMES PER DAY .
+5. Gabapentin 800 mg PO QAM , 1600 mg PO Q3PM , 1600 mg PO QHS
+6. Heparin Lock Flush 10 unit / mL Daily as needed .
+7. Saline Flush
+8. Prevacid 30 mg PO twice a day .
+9. Vistaril 50 mg once a day as needed for nausea .
+10. Zofran 4 mg PO once a day as needed for nausea .
+11. Vitamin B-12 1,000 mcg / mL One Injection every other week .
+12. Vicodin 5-500 mg 1-2 Tablets PO every six ( 6 ) hours PRN
+13. Warfarin 1 mg PO HS .
+14. TPN
+Discharge Medications :
+1. Amylase-Lipase-Protease 33,200 - 10,000 - 37,500 unit Capsule , Delayed Release ( E.C. ) Sig : Four ( 4 ) Cap PO W/ MEALS AND SNACKS (  ) .
+Disp :* 120 Cap ( s )* Refills :* 2 *
+2. Carbidopa-Levodopa 25 - 250 mg Tablet Sig : One ( 1 ) Tablet PO 5 TIMES A DAY (  ) .
+Disp :* 150 Tablet ( s )* Refills :* 2 *
+3. Pramipexole 0.125 mg Tablet Sig : One ( 1 ) Tablet PO TID ( 3 times a day ) .
+Disp :* 90 Tablet ( s )* Refills :* 2 *
+4. Clonazepam 1 mg Tablet Sig : One ( 1 ) Tablet PO TID ( 3 times a day ) .
+Disp :* 90 Tablet ( s )* Refills :* 0 *
+5. Ferrous Sulfate 300 mg / 5 mL Liquid Sig : One ( 1 ) PO DAILY ( Daily ) .
+Disp :* 5 bottles * Refills :* 2 *
+6. Nystatin 100,000 unit / g Cream Sig : One ( 1 ) Appl Topical BID ( 2 times a day ) .
+Disp :* 3 tubes * Refills :* 2 *
+7. Lansoprazole 30 mg Capsule , Delayed Release ( E.C. ) Sig : One ( 1 ) Capsule , Delayed Release ( E.C. ) PO BID ( 2 times a day ) .
+Disp :* 60 Capsule , Delayed Release ( E.C. )( s )* Refills :* 2 *
+8. Quetiapine 100 mg Tablet Sig : Three ( 3 ) Tablet PO BID ( 2 times a day ) .
+Disp :* 180 Tablet ( s )* Refills :* 2 *
+9. Propranolol 10 mg Tablet Sig : One ( 1 ) Tablet PO BID ( 2 times a day ) .
+Disp :* 60 Tablet ( s )* Refills :* 2 *
+10. Neurontin 300 mg Capsule Sig : Three ( 3 ) Capsule PO three times a day : take 2 tabs in the morining , 4 tabs in the afternoon , and 4 tabs in the evening .
+Disp :* 100 Capsule ( s )* Refills :* 0 *
+Discharge Disposition :
+Home with Service
+Discharge Diagnosis :
+Pneumonia
+Discharge Condition :
+Good
+Discharge Instructions :
+You are to return to the hospital immediately if you should experience any chest pain , shortness of breath , fevers or any other worrisome symptom .
+Please continue taking your medications as prescribed .
+Followup Instructions :
+Provider :
+Joyce , Catherine PSYCHIATRY CMED CSRU Phone :( 405 ) 582-6811
+Date / Time : 2014-01-21 3:30
+Please followup with your primary care physician Todd 12-30 weeks of discharge .
+Donna Mcguire MD 19-274
+Completed by :
+Mark Joseph MD 04-104 2014-05-18 @ 2128
+Signed electronically by : DR. Donna Nance on : WED 2014-06-04 2:21 PM
+( End of Report )

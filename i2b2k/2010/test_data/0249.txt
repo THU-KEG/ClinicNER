@@ -1,0 +1,85 @@
+Admission Date :
+2018-12-29
+Discharge Date :
+2019-01-04
+Date of Birth :
+2018-12-29
+Sex :
+M
+Service :
+Neonatology
+HISTORY OF PRESENT ILLNESS :
+Baby Davis is the 3.160 kilogram product of a term pregnancy .
+He was born to a 38 - year-old gravida I , para 0 ( now 1 ) mother at 37 and 1/7 weeks .
+The pregnancy was benign with an EDC of 2019-01-18 .
+Prenatal screens were O positive , antibody negative , hepatitis surface antigen negative , rapid plasma reagent nonreactive , rubella immune , group B strep negative .
+The infant delivered by spontaneous vaginal delivery with Apgar scores of 8 at one minute and 8 at five minutes .
+PHYSICAL EXAMINATION :
+On admission , the Baby Lucas is well appearing , no jaundice .
+He has bilateral breath sounds that are clear and equal .
+The heart rate is regular without murmur .
+Pulses are 2+ and symmetrical .
+The abdomen is soft and nontender with no hepatosplenomegaly .
+His weight is 3.160 kilograms ( 7 pounds 3 ounces ) at birth .
+He is circumcised with testes descended bilaterally .
+His hips are stable .
+His tone is normal .
+Normal neonatal reflexes .
+He is tolerating his feedings well .
+HOSPITAL COURSE :
+1. Respiratory .
+Without issues on this admission .
+Breath sounds are clear and equal .
+2. Cardiovascular .
+Without issues on this admission .
+He had a regular heart rate and rhythm , no murmur , pulses were 2+ and symmetric .
+3. Fluids , electrolytes and nutrition .
+The baby 's weight was 3.160 kilograms ( 7 pounds 3 ounces ).
+He is breast and bottle feeding every 3 hours with expressed breast milk and / or Enfamil .
+He is feeding well .
+His discharge weight is 3025 gm , and has been stable for past 2 days .
+4. Gastrointestinal .
+The baby 's bilirubin on 2018-12-31 , was 15.5 / 0.5 at which time double phototherapy was started .
+On 01-01 , his bilirubin was 17.3 / 0.4 at which time triple phototherapy was started and then his subsequent bilirubins are 16.5 / 0.4 on 2019-01-01 , and 16.2 / 0.5 on 2019-01-02 .
+Phototherapy was discontinued on 2019-01-04 for a bilirubin of 12.1 , and a rebound bilirubin will be checked on 01-05 .
+5. Hematology .
+The hematocrit on 01-02 , was 61 with a reticulocyte of 2.6% .
+His blood type is A+ , Coombs negative .
+6. Infectious disease .
+No issues on this admission .
+7. Neurological .
+The baby has been appropriate for gestational age with normal newborn reflexes .
+8. Sensory .
+Auditory hearing screening was performed with automated brainstem responses .
+The infant passed both ears on 2018-12-30 .
+9. Psychosocial .
+The family is invested and involved .
+CONDITION ON DISCHARGE :
+Stable .
+DISCHARGE DISPOSITION :
+Home .
+PRIMARY PEDIATRIC CARE :
+Source of primary pediatric care is David Bull at 1899 S. Fifth Rd. , Salem , Florida 92564 .
+Phone is ( ( 256 ) 348-3764 .
+CARE RECOMMENDATIONS :
+1. Continue breast feeding with post-feed supplemental EBM .
+2. Follow-up bilirubin in 1 day ; f/u with PMD in 1-3 days .
+3. Medications :
+Not applicable .
+4. Car seat position and screening : Not applicable .
+5. State newborn screens were sent on 2018-12-31 , and the results are pending .
+6. Immunizations received : Hepatitis B vaccine on 12-31 , 2006 .
+7. Immunization recommended :
+Influenza immunization is recommended annually in the fall for all infants once they reach 6 months of age .
+Before this age ( and for the first 24 months of the child 's life ) , immunization against influenza is recommended for all household contacts and out of home caregivers .
+DISCHARGE DIAGNOSES :
+1. Term ( 37 and 1/7 weeks ) appropriate for gestational age male neonate .
+2. Exaggerated physiologic hyperbilirubinemia responsive to phototherapy .
+Nicole Monica , MD 48-041
+Dictated By : Michelle A Sweeney , M.D.
+MEDQUIST36
+D : 2019-01-02 12:16:10
+T : 2019-01-02 13:00:35
+Job # : 38170
+Signed electronically by : DR. Victoria Cox on : FRI 2019-01-04 11:25 AM
+( End of Report )

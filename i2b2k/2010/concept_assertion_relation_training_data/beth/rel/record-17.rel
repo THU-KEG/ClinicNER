@@ -1,0 +1,16 @@
+c="antibiotics" 16:5 16:5||r="TrAP"||c="bronchitis" 16:8 16:8
+c="antibiotics" 16:5 16:5||r="TrAP"||c="community-acquired pneumonia" 16:10 16:11
+c="intubation" 12:15 12:15||r="TrAP"||c="copd" 12:11 12:11
+c="copd" 12:11 12:11||r="PIP"||c="copd exacerbation" 12:43 12:44
+c="frequent nebulizers" 20:7 20:8||r="TrAP"||c="copd" 20:10 20:10
+c="closer observation" 17:13 17:14||r="TeCP"||c="his tenuous respiratory status" 17:1 17:4
+c="management" 15:10 15:10||r="TrWP"||c="copd exacerbation" 15:12 15:13
+c="fev1" 12:26 12:26||r="TeCP"||c="copd" 12:11 12:11
+c="fev1/fvc ratio" 12:33 12:34||r="TeCP"||c="copd" 12:11 12:11
+c="further management" 19:9 19:10||r="TrAP"||c="his copd exacerbation" 19:12 19:14
+c="p.o. prednisone" 20:4 20:5||r="TrAP"||c="copd" 20:10 20:10
+c="p.o. steroids" 15:4 15:5||r="TrWP"||c="copd exacerbation" 15:12 15:13
+c="more frequent nebulizers" 15:29 15:31||r="TrAP"||c="copd" 15:33 15:33
+c="more frequent nebulizers" 15:29 15:31||r="TrAP"||c="more respiratory distress" 15:18 15:20
+c="iv solu-medrol" 15:26 15:27||r="TrAP"||c="copd" 15:33 15:33
+c="iv solu-medrol" 15:26 15:27||r="TrAP"||c="more respiratory distress" 15:18 15:20

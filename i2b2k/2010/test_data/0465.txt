@@ -1,0 +1,48 @@
+866196074 RWH
+6639378
+578141
+0325706
+3/10/2003 12:00:00 AM
+ED Discharge Summary
+Unsigned
+DIS
+Report Status :
+Unsigned
+ED DISCHARGE NOTIFICATION / SUMMARY
+KNOLESA , VIA
+MRN :
+6639378
+Age :
+39y
+REGISTRATION DATE :
+03/10/2003 06:42 PM
+Provider :
+Inachelle Breutzbreunbreuncotfalke
+PRELMINARY REPORT
+Benefits Assigned :
+Y
+Discharge Date / Time :
+03/10/2003 23:26
+Discharge Status :
+Discharged
+Condition on Discharge :
+Stable
+Patient States Complaint :
+INCREASED ACID REFLUX
+Standardized Discharge Instructions :
+The patient was given printed instructions for abdominal pain ( Spanish ) .
+Diagnosis :
+GERD
+Treatment Rendered :
+h , p, labs , mylanta / viscous lidocaine
+Discharge Medications :
+mylanta 15 cc mixed with Viscous lidocaine every 8 hours if needed for severe pain only can use mylanta without lidocaine more frequently bland diet , no caffeine , chilli , or alcohol ...
+Follow up Service :
+call your PCP to schedule your GI follow up date
+Disposition , Follow up and Instructions to Patient :
+return to ED if worsening pain , black stools , blood in stool
+PCP Name :
+LEEBKAYSHAUPKERTH , MAENZET N
+Provider Number :
+31710
+This report was created by Breutzbreunbreuncotfalke , Inachelle 03/10/2003 11:28 PM

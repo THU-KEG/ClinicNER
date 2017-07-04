@@ -1,0 +1,19 @@
+c="the aspirin" 92:7 92:8||r="TrCP"||c="the asthma exacerbation" 92:22 92:24
+c="cardiac catheterization" 87:5 87:6||r="TeRP"||c="mild diffuse instent restenosis in the mid stent" 87:9 87:16
+c="cardiac catheterization" 87:5 87:6||r="TeRP"||c="flow-limiting stenoses" 87:28 87:29
+c="albuterol" 91:16 91:16||r="TrIP"||c="her asthma attacks" 91:5 91:7
+c="brachytherapy" 28:5 28:5||r="TrAP"||c="instent restenosis" 28:1 28:2
+c="benadryl" 91:13 91:13||r="TrIP"||c="her asthma attacks" 91:5 91:7
+c="three stents" 27:8 27:9||r="TrAP"||c="non-st-elevation myocardial infarction" 27:1 27:3
+c="chest pain" 12:45 12:46||r="PIP"||c="her anginal equivalent" 12:49 12:51
+c="chest pain" 12:45 12:46||r="PIP"||c="mi" 12:53 12:53
+c="her benadryl" 92:13 92:14||r="TrIP"||c="the asthma exacerbation" 92:22 92:24
+c="brachytherapy to the rca" 12:31 12:34||r="TrAP"||c="instent restenosis" 12:24 12:25
+c="stent to the lad" 12:12 12:15||r="TrAP"||c="non-st-elevation myocardial infarction" 12:6 12:8
+c="stent to the lad" 12:12 12:15||r="TrAP"||c="instent restenosis" 12:24 12:25
+c="aspirin" 43:0 43:0||r="TrCP"||c="her shortness of breath" 43:7 43:10
+c="aspirin" 43:0 43:0||r="TrCP"||c="asthma flare" 43:12 43:13
+c="flexeril" 97:9 97:9||r="TrAP"||c="a chronic issue" 97:2 97:4
+c="vicodin" 97:11 97:11||r="TrAP"||c="a chronic issue" 97:2 97:4
+c="morphine sulfate" 19:9 19:10||r="TrIP"||c="chest pain" 19:2 19:3
+c="vicodin" 115:1 115:1||r="TrAP"||c="pain" 115:9 115:9

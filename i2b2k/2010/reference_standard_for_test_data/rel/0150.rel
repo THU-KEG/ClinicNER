@@ -1,0 +1,15 @@
+c="aortic stenosis" 28:13 28:14||r="PIP"||c="rheumatic fever" 28:8 28:9
+c="tylenol" 85:8 85:8||r="TrIP"||c="some slight headaches" 85:2 85:4
+c="baseline diverticulosis flairing" 21:9 21:11||r="PIP"||c="diverticulitis flairs" 21:6 21:7
+c="this procedure" 62:2 62:3||r="TrCP"||c="complications" 62:5 62:5
+c="occasional dizziness" 42:6 42:7||r="PIP"||c="a drop" 42:10 42:11
+c="antibiotics" 20:6 20:6||r="TrAP"||c="attacks" 20:3 20:3
+c="c-section" 30:35 30:35||r="TrAP"||c="placenta previa" 30:40 30:41
+c="diverticulosis" 24:6 24:6||r="PIP"||c="acute diverticulitis" 24:9 24:10
+c="blood pressure" 42:13 42:14||r="TeRP"||c="a drop" 42:10 42:11
+c="percocet" 89:47 89:47||r="TrAP"||c="pain" 89:52 89:52
+c="barium enema" 23:6 23:7||r="TeRP"||c="multiple diverticula throughout the colon" 23:12 23:16
+c="the coumadin" 72:14 72:15||r="TrNAP"||c="bleeding" 72:7 72:7
+c="her heparin" 70:0 70:1||r="TrNAP"||c="bleeding per rectum" 70:11 70:13
+c="sigmoid colectomy" 15:4 15:5||r="TrAP"||c="diverticulitis" 15:0 15:0
+c="one unit of packed red blood cells" 65:11 65:17||r="TrAP"||c="blood per rectum" 65:4 65:6

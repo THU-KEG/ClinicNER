@@ -1,0 +1,11 @@
+c="worsening anginal symptoms" 19:7 19:9||r="PIP"||c="severe three-vessel disease" 19:15 19:17
+c="your chest wound" 92:12 92:14||r="PIP"||c="pus" 92:22 92:22
+c="your chest wound" 92:12 92:14||r="PIP"||c="tenderness" 92:10 92:10
+c="your chest wound" 92:12 92:14||r="PIP"||c="swelling" 92:7 92:7
+c="your chest wound" 92:12 92:14||r="PIP"||c="redness" 92:5 92:5
+c="catheterization" 19:12 19:12||r="TeCP"||c="worsening anginal symptoms" 19:7 19:9
+c="catheterization" 19:12 19:12||r="TeRP"||c="severe three-vessel disease" 19:15 19:17
+c="oxycodone" 68:1 68:1||r="TrAP"||c="pain" 68:21 68:21
+c="acetaminophen" 68:3 68:3||r="TrAP"||c="pain" 68:21 68:21
+c="surgical intervention" 15:4 15:5||r="TrAP"||c="coronary artery disease" 15:0 15:2
+c="docusate sodium" 64:1 64:2||r="TrAP"||c="constipation" 64:24 64:24

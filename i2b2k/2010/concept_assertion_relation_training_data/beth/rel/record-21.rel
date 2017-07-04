@@ -1,0 +1,62 @@
+c="left transverse mid shaft radial fracture" 90:1 90:6||r="PIP"||c="ulnar displacement" 90:8 90:9
+c="further inspection" 34:12 34:13||r="TeRP"||c="a 5 cm laceration" 34:0 34:3
+c="further inspection" 34:12 34:13||r="TeRP"||c="exposed underlying bone" 34:16 34:18
+c="left upper extremity examination" 36:0 36:3||r="TeRP"||c="decreased sensation in the ulnar-nerve distribution" 36:44 36:49
+c="left upper extremity examination" 36:0 36:3||r="TeRP"||c="gross deformities" 36:6 36:7
+c="left upper extremity examination" 36:0 36:3||r="TeRP"||c="tenderness" 36:9 36:9
+c="a duplex evaluation of the right lower extremity" 63:8 63:15||r="TeRP"||c="major arterial or venous injury" 63:25 63:29
+c="a duplex evaluation of the right lower extremity" 63:8 63:15||r="TeCP"||c="the patient 's right thigh hematoma" 63:1 63:6
+c="right lower extremity examination" 37:0 37:3||r="TeRP"||c="mild swelling" 37:5 37:6
+c="right lower extremity examination" 37:0 37:3||r="TeRP"||c="ecchymosis of the right posterior thigh" 37:8 37:13
+c="right lower extremity examination" 37:0 37:3||r="TeRP"||c="a 3 cm laceration in the lower leg" 37:16 37:23
+c="mild swelling" 37:5 37:6||r="PIP"||c="ecchymosis of the right posterior thigh" 37:8 37:13
+c="sutures" 79:18 79:18||r="TrAP"||c="the patient 's right anterior tibial wound" 79:0 79:6
+c="the patient 's right anterior tibial wound" 79:0 79:6||r="PIP"||c="erythema" 79:22 79:22
+c="the patient 's right anterior tibial wound" 79:0 79:6||r="PIP"||c="purulence" 79:24 79:24
+c="the patient 's lung examination" 26:0 26:4||r="TeRP"||c="crepitus" 26:16 26:16
+c="head ct" 45:0 45:1||r="TeRP"||c="intracranial bleeding" 45:6 45:7
+c="diagnostic procedures" 61:8 61:9||r="TeRP"||c="injuries" 61:13 61:13
+c="diagnostic procedures" 61:8 61:9||r="TeRP"||c="a posterior scalp laceration" 61:16 61:19
+c="diagnostic procedures" 61:8 61:9||r="TeRP"||c="left fractured clavicle" 61:21 61:23
+c="diagnostic procedures" 61:8 61:9||r="TeRP"||c="left fractured radius" 61:25 61:27
+c="diagnostic procedures" 61:8 61:9||r="TeRP"||c="right thigh hematoma" 61:29 61:31
+c="diagnostic procedures" 61:8 61:9||r="TeRP"||c="right leg laceration" 61:34 61:36
+c="injuries" 61:13 61:13||r="PIP"||c="a posterior scalp laceration" 61:16 61:19
+c="injuries" 61:13 61:13||r="PIP"||c="left fractured clavicle" 61:21 61:23
+c="injuries" 61:13 61:13||r="PIP"||c="left fractured radius" 61:25 61:27
+c="injuries" 61:13 61:13||r="PIP"||c="right thigh hematoma" 61:29 61:31
+c="injuries" 61:13 61:13||r="PIP"||c="right leg laceration" 61:34 61:36
+c="examination" 26:27 26:27||r="TeRP"||c="a left clavicular deformity" 26:19 26:22
+c="cardiac examination" 28:0 28:1||r="TeRP"||c="gallops" 28:14 28:14
+c="cardiac examination" 28:0 28:1||r="TeRP"||c="rubs" 28:11 28:11
+c="cardiac examination" 28:0 28:1||r="TeRP"||c="murmurs" 28:9 28:9
+c="left lower extremity examination" 41:0 41:3||r="TeRP"||c="gross deformities" 41:6 41:7
+c="trauma series" 44:0 44:1||r="TeRP"||c="a pelvic fracture" 44:6 44:8
+c="dry gauze" 99:19 99:20||r="TrAP"||c="the left forearm and right lower leg wound" 99:0 99:7
+c="percocet" 101:0 101:0||r="TrAP"||c="pain" 101:2 101:2
+c="radiographic studies" 42:0 42:1||r="TeRP"||c="an inferior displaced left midclavicular fracture" 42:3 42:8
+c="cervical spine imaging" 47:0 47:2||r="TeRP"||c="cervical spine injury" 47:7 47:9
+c="palpation in the mid forearm" 36:11 36:15||r="TeRP"||c="tenderness" 36:9 36:9
+c="palpation" 73:21 73:21||r="TeRP"||c="mild tenderness" 73:18 73:19
+c="prior examinations" 73:24 73:25||r="TeRP"||c="mild tenderness" 73:18 73:19
+c="prior examinations" 73:24 73:25||r="TeRP"||c="a minor stepoff" 73:14 73:16
+c="percocet" 95:0 95:0||r="TrAP"||c="pain" 95:9 95:9
+c="right foot and femur series" 50:0 50:4||r="TeRP"||c="fracture displacement" 50:9 50:10
+c="left forearm and wrist series" 51:0 51:4||r="TeRP"||c="transverse mid shaft radial fracture" 51:6 51:10
+c="left forearm and wrist series" 51:0 51:4||r="TeRP"||c="ulnar displacement" 51:12 51:13
+c="transverse mid shaft radial fracture" 51:6 51:10||r="PIP"||c="ulnar displacement" 51:12 51:13
+c="trauma ct" 46:0 46:1||r="TeRP"||c="mild pulmonary contusions" 46:3 46:5
+c="trauma ct" 46:0 46:1||r="TeRP"||c="pelvic fracture" 46:9 46:10
+c="diagnosis peritoneum lavage" 52:0 52:2||r="TeRP"||c="intra-abdominal bleeding" 52:11 52:12
+c="internal fixation" 90:17 90:18||r="TrAP"||c="ulnar displacement" 90:8 90:9
+c="internal fixation" 90:17 90:18||r="TrAP"||c="left transverse mid shaft radial fracture" 90:1 90:6
+c="right tibial-fibular film series" 48:0 48:3||r="TeRP"||c="fracture displacement" 48:8 48:9
+c="left radial open reduction" 90:12 90:15||r="TrAP"||c="left transverse mid shaft radial fracture" 90:1 90:6
+c="left radial open reduction" 90:12 90:15||r="TrAP"||c="ulnar displacement" 90:8 90:9
+c="prior examination" 73:11 73:12||r="TeRP"||c="continued ecchymosis" 73:7 73:8
+c="left humerus film series" 49:0 49:3||r="TeRP"||c="fracture" 49:8 49:8
+c="left humerus film series" 49:0 49:3||r="TeRP"||c="displacement" 49:10 49:10
+c="auscultation" 26:12 26:12||r="TeRP"||c="crepitus" 26:16 26:16
+c="nonoperative treatment" 69:0 69:1||r="TrAP"||c="the patient 's left clavicular fracture" 69:5 69:10
+c="intact staples" 71:14 71:15||r="TrAP"||c="the patient 's head wound laceration" 71:0 71:5
+c="regular dressing changes" 99:15 99:17||r="TrAP"||c="the left forearm and right lower leg wound" 99:0 99:7

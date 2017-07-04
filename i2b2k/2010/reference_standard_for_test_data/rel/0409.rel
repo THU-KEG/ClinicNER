@@ -1,0 +1,25 @@
+c="a ct of her sinues" 86:0 86:4||r="TeRP"||c="fractures" 86:7 86:7
+c="light touch" 64:4 64:5||r="TeRP"||c="decreased sensation l5-s1 distrubution" 64:11 64:14
+c="propioception" 64:7 64:7||r="TeRP"||c="decreased sensation l5-s1 distrubution" 64:11 64:14
+c="x-rays of her right lower extremity" 87:0 87:5||r="TeRP"||c="any acute injury" 87:9 87:11
+c="a head ct" 103:2 103:4||r="TeRP"||c="the subarachnoid hemorrhage" 103:12 103:14
+c="a ct of her c-spine" 84:0 84:4||r="TeRP"||c="fracture of right c7 pedicle" 84:8 84:12
+c="your chest ct" 143:21 143:23||r="TeRP"||c="the right thyroid nodule" 143:9 143:12
+c="your chest ct" 143:21 143:23||r="TeRP"||c="the bilateral small lung nodules" 143:14 143:18
+c="a ct of her chest" 85:0 85:4||r="TeRP"||c="a right thyroid nodule" 85:10 85:13
+c="a ct of her chest" 85:0 85:4||r="TeRP"||c="bliateral lung nodules" 85:6 85:8
+c="fioricet" 136:2 136:2||r="TrAP"||c="headaches" 136:6 136:6
+c="intraparenchymal and extraaxial blood ( mostly subarachnoid ) in bilateral cerebral hemispheres" 83:6 83:17||r="PIP"||c="contrecoup injury" 83:28 83:29
+c="subarachnoid hemorrhage" 130:3 130:4||r="PIP"||c="head trauma" 130:0 130:1
+c="hydromorphone" 120:1 120:1||r="TrAP"||c="pain" 120:19 120:19
+c="extremely limited examination" 97:16 97:18||r="TeCP"||c="edema" 97:36 97:36
+c="an mri of her c-spine" 97:0 97:4||r="TeCP"||c="ligamentous injury" 97:10 97:11
+c="a ct of her head" 83:0 83:4||r="TeRP"||c="intraparenchymal and extraaxial blood ( mostly subarachnoid ) in bilateral cerebral hemispheres" 83:6 83:17
+c="her chest ct" 106:24 106:26||r="TeRP"||c="the bilateral small lung nodules" 106:17 106:21
+c="her chest ct" 106:24 106:26||r="TeRP"||c="the right thyroid nodule" 106:12 106:15
+c="chest and pelvis x-rays" 82:0 82:3||r="TeRP"||c="fractures" 82:7 82:7
+c="fioricet" 95:7 95:7||r="TrAP"||c="her headaches" 95:12 95:13
+c="pinprick" 64:9 64:9||r="TeRP"||c="decreased sensation l5-s1 distrubution" 64:11 64:14
+c="morphine" 94:7 94:7||r="TrCP"||c="jittery" 94:12 94:12
+c="morphine" 94:7 94:7||r="TrCP"||c="some pain issues" 94:3 94:5
+c="full strength motor exam" 100:2 100:5||r="TeRP"||c="pronator drift" 100:8 100:9

@@ -1,0 +1,47 @@
+c="external rub" 114:14 114:15||r="TeRP"||c="no response" 114:11 114:12
+c="dopa" 60:45 60:45||r="TrAP"||c="poor perfusion" 60:47 60:48
+c="dopa" 60:45 60:45||r="TrAP"||c="worsening perfusion" 60:50 60:51
+c="voice or noxious stimulation" 120:11 120:14||r="TeRP"||c="no response" 120:8 120:9
+c="abdominal exam" 49:6 49:7||r="TeRP"||c="abnormal findings" 49:3 49:4
+c="seizures" 53:3 53:3||r="PIP"||c="twitching of face" 53:5 53:7
+c="seizures" 53:3 53:3||r="PIP"||c="rapid movements of eyes" 53:9 53:12
+c="muscle tone" 118:0 118:1||r="TeRP"||c="increased throughout" 118:3 118:4
+c="dehydration" 28:2 28:2||r="PIP"||c="vomiting" 28:0 28:0
+c="physical examination" 25:3 25:4||r="TeRP"||c="chicken pox lesions on thorax" 25:6 25:10
+c="physical examination" 25:3 25:4||r="TeRP"||c="sunken eyes" 25:12 25:13
+c="physical examination" 25:3 25:4||r="TeRP"||c="thick nasal discharge" 25:15 25:17
+c="physical examination" 25:3 25:4||r="TeRP"||c="dry lips , tongue and mucous membranes" 25:19 25:25
+c="physical examination" 25:3 25:4||r="TeRP"||c="red tonsils" 25:27 25:28
+c="urinalysis" 109:0 109:0||r="TeRP"||c="positive proteins" 109:9 109:10
+c="urinalysis" 109:0 109:0||r="TeRP"||c="positive red blood cells" 109:12 109:15
+c="urinalysis" 109:0 109:0||r="TeRP"||c="positive glucose" 109:22 109:23
+c="corneal reflexes" 116:0 116:1||r="TeRP"||c="absent" 116:6 116:6
+c="severe acidosis" 19:9 19:10||r="PIP"||c="severe electrolyte imbalance" 19:12 19:14
+c="oculocephalic reflexes" 116:3 116:4||r="TeRP"||c="absent" 116:6 116:6
+c="cerebral blood flow" 124:0 124:2||r="TeRP"||c="complete absence of blood flow to brain" 124:12 124:18
+c="funduscopic exam" 122:5 122:6||r="TeRP"||c="blurred" 122:3 122:3
+c="a non contrast head ct scan" 123:0 123:5||r="TeRP"||c="severe cerebral edema" 123:11 123:13
+c="a non contrast head ct scan" 123:0 123:5||r="TeRP"||c="thalamic mid brain , pons , medullar low attenuation" 123:15 123:23
+c="a non contrast head ct scan" 123:0 123:5||r="TeRP"||c="diffuse cerebral edema" 123:25 123:27
+c="a non contrast head ct scan" 123:0 123:5||r="TeRP"||c="loss of gray white matter differentiation" 123:29 123:34
+c="severe cerebral edema" 123:11 123:13||r="PIP"||c="thalamic mid brain , pons , medullar low attenuation" 123:15 123:23
+c="severe electrolyte imbalance" 17:15 17:17||r="PIP"||c="severe acidosis" 17:12 17:13
+c="ct" 123:9 123:9||r="TeRP"||c="thalamic mid brain , pons , medullar low attenuation" 123:15 123:23
+c="ct" 123:9 123:9||r="TeRP"||c="diffuse cerebral edema" 123:25 123:27
+c="ct" 123:9 123:9||r="TeRP"||c="loss of gray white matter differentiation" 123:29 123:34
+c="ct" 123:9 123:9||r="TeRP"||c="severe cerebral edema" 123:11 123:13
+c="repeat neurological examination" 120:0 120:2||r="TeRP"||c="no spontaneous movement" 120:4 120:6
+c="repeat neurological examination" 120:0 120:2||r="TeRP"||c="no response" 120:8 120:9
+c="the mechanical ventilation" 131:51 131:53||r="TrNAP"||c="severe neurological injury" 131:56 131:58
+c="the mechanical ventilation" 131:51 131:53||r="TrNAP"||c="poor prognosis" 131:60 131:61
+c="multiple boluses of albumin" 92:3 92:6||r="TrAP"||c="hypotension" 92:8 92:8
+c="acyclovir" 128:0 128:0||r="TrAP"||c="the varicella" 128:6 128:7
+c="hypokalemia" 86:6 86:6||r="PIP"||c="flattening t waves" 86:8 86:10
+c="hypokalemia" 86:6 86:6||r="PIP"||c="st changes" 86:12 86:13
+c="her electrocardiogram" 86:0 86:1||r="TeRP"||c="flattening t waves" 86:8 86:10
+c="her electrocardiogram" 86:0 86:1||r="TeRP"||c="st changes" 86:12 86:13
+c="10 cc&apos;s per kilo albumin" 33:14 33:18||r="TrAP"||c="significant hypertension" 33:3 33:4
+c="multiple boluses of calcium" 92:13 92:16||r="TrAP"||c="hypotension" 92:21 92:21
+c="multiple boluses of calcium" 92:13 92:16||r="TrAP"||c="hypocalcemia" 92:19 92:19
+c="plantar responses" 119:8 119:9||r="TeRP"||c="silent" 119:11 119:11
+c="chest x-ray" 81:0 81:1||r="TeRP"||c="right upper lobe pneumonia" 81:3 81:6

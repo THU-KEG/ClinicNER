@@ -1,0 +1,54 @@
+c="his new , severe global deficit" 169:10 169:15||r="PIP"||c="a more pervasive process" 169:24 169:27
+c="his new , severe global deficit" 169:10 169:15||r="PIP"||c="anoxic encephalopathy" 169:30 169:31
+c="the left ventricular inflow pattern" 146:0 146:4||r="TeRP"||c="impaired relaxation" 146:6 146:7
+c="vancomycin" 22:20 22:20||r="TrAP"||c="mrsa" 22:8 22:8
+c="vancomycin" 22:20 22:20||r="TrAP"||c="pseudomonas" 22:6 22:6
+c="subsequent tracheostomy" 19:44 19:45||r="TrAP"||c="respiratory failure" 19:34 19:35
+c="respiratory failure" 19:34 19:35||r="PIP"||c="pulmonary edema" 19:39 19:40
+c="blunting of left cpa" 120:0 120:3||r="PIP"||c="effusion" 120:5 120:5
+c="new lower left lateral cw opacity" 121:0 121:5||r="PIP"||c="loculated pleural fluid" 121:8 121:10
+c="s/p xrt" 38:5 38:6||r="TrAP"||c="non-small cell lung cancer" 38:1 38:4
+c="s/p right pneumonectomy" 200:13 200:15||r="TrAP"||c="recurrence" 200:19 200:19
+c="ekg" 32:0 32:0||r="TeRP"||c="acute changes" 32:2 32:3
+c="chemotherapy" 200:8 200:8||r="TrAP"||c="non-small cell lung cancer" 200:1 200:4
+c="chemotherapy" 38:8 38:8||r="TrAP"||c="non-small cell lung cancer" 38:1 38:4
+c="s/p right pneumonectomy" 38:13 38:15||r="TrAP"||c="recurrence" 38:19 38:19
+c="new rounded low-density area" 131:0 131:3||r="PIP"||c="subacute infarction" 131:22 131:23
+c="echocardiographic signs" 148:3 148:4||r="TeRP"||c="tamponade" 148:6 148:6
+c="the recent chest x-ray" 136:21 136:24||r="TeRP"||c="so-called pseudotumor" 136:16 136:17
+c="the recent chest x-ray" 136:21 136:24||r="TeRP"||c="small loculated pleural fluid collection along the periphery" 136:2 136:9
+c="the basal lv" 140:12 140:14||r="TeRP"||c="hyperdynamic" 140:16 140:16
+c="the basal lv" 140:12 140:14||r="TeRP"||c="regional contraction abnormality" 140:18 140:20
+c="vancomycin" 19:57 19:57||r="TrAP"||c="c.difficile colitis" 19:53 19:54
+c="flagyl" 19:59 19:59||r="TrAP"||c="c.difficile colitis" 19:53 19:54
+c="markedly abnormal portable eeg" 150:0 150:3||r="PIP"||c="the bursts of generalized slowing" 150:16 150:20
+c="markedly abnormal portable eeg" 150:0 150:3||r="PIP"||c="the voltage suppression over the left hemisphere" 150:6 150:12
+c="markedly abnormal portable eeg" 150:0 150:3||r="PIP"||c="right hemisphere slowing" 150:22 150:24
+c="zosyn" 22:15 22:15||r="TrAP"||c="mrsa" 22:8 22:8
+c="zosyn" 22:15 22:15||r="TrAP"||c="pseudomonas" 22:6 22:6
+c="the first abnormality" 151:0 151:2||r="PIP"||c="widespread cortical dysfunction on that side" 151:22 151:27
+c="the first abnormality" 151:0 151:2||r="PIP"||c="material ( such as subdural fluid ) interposed between the brain" 151:7 151:17
+c="the generalized slowing" 153:0 153:2||r="PIP"||c="a non specific dysfunction in midline structures" 153:4 153:10
+c="s/p xrt" 200:5 200:6||r="TrAP"||c="non-small cell lung cancer" 200:1 200:4
+c="sputum cultures" 22:3 22:4||r="TeRP"||c="pseudomonas" 22:6 22:6
+c="sputum cultures" 22:3 22:4||r="TeRP"||c="mrsa" 22:8 22:8
+c="this work-up" 168:0 168:1||r="TeRP"||c="a small left basal ganglia infarct" 168:3 168:8
+c="this work-up" 168:0 168:1||r="TeRP"||c="cardioembolic" 168:11 168:11
+c="a small left basal ganglia infarct" 168:3 168:8||r="PIP"||c="cardioembolic" 168:11 168:11
+c="vancomycin" 48:10 48:10||r="TrAP"||c="sepsis" 48:5 48:5
+c="vancomycin" 48:10 48:10||r="TrAP"||c="recent mrsa pneumonia" 48:1 48:3
+c="flagyl" 36:6 36:6||r="TrAP"||c="c.diff" 36:3 36:3
+c="status post pm/icd placement" 202:4 202:7||r="TrAP"||c="sick sinus syndrome" 202:1 202:3
+c="flagyl" 49:6 49:6||r="TrAP"||c="c. difficile colitis" 49:1 49:3
+c="respiratory failure" 164:5 164:6||r="PIP"||c="mucus plugging" 164:13 164:14
+c="respiratory failure" 164:5 164:6||r="PIP"||c="a pseudomonal pneumonia" 164:18 164:20
+c="levophed" 19:64 19:64||r="TrAP"||c="c.difficile colitis" 19:53 19:54
+c="vancomycin" 210:10 210:10||r="TrAP"||c="sepsis" 210:5 210:5
+c="vancomycin" 210:10 210:10||r="TrAP"||c="recent mrsa pneumonia" 210:1 210:3
+c="sputum culture" 159:1 159:2||r="TeRP"||c="pseudomonas aeruginosa" 159:6 159:7
+c="status post pm/icd placement" 40:2 40:5||r="TrAP"||c="sss" 40:1 40:1
+c="palpation" 87:3 87:3||r="TeRP"||c="grimacing" 87:1 87:1
+c="status post tracheostomy" 213:1 213:3||r="TrAP"||c="failure to wean" 213:6 213:8
+c="stool" 36:0 36:0||r="TeCP"||c="c.diff" 36:3 36:3
+c="ns ivf" 31:14 31:15||r="TrAP"||c="bp dropped" 31:4 31:5
+c="flagyl" 211:6 211:6||r="TrAP"||c="c. difficile colitis" 211:1 211:3

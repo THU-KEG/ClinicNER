@@ -1,0 +1,171 @@
+Admission Date :
+2019-02-01
+Discharge Date :
+2019-02-09
+Date of Birth :
+1940-04-28
+Sex :
+M
+Service :
+MEDICINE
+Allergies :
+Patient recorded as having No Known Allergies to Drugs
+Attending : Nicholas E. E. Collard , M.D.
+Chief Complaint :
+Abdominal pain
+Major Surgical or Invasive Procedure :
+Intubation
+ERCP with stent
+Blood transfusion
+History of Present Illness :
+Pt is a 78 yo male with h/o A fib , s/p multiple CVA s, CHF , HTN , DM2 admitted to Mediplex Rehab Hospital Robert on 02-01 with abdominal pain and n/v since that morning .
+Pt 's vitals on admission wer significant for T 104 , SBP 100 s, HR in the 120 s.
+RUQ U/s demonstrated multiple small gallstones with sludges without evidence of pericholecystic fluid or significant dilatation of the gallbladder .
+Surgery was consulted for concern of cholangitis with probable sepsis .
+Pt was admitted to the CMED CCU , intubated overnight for ERCP procedure and fluid resuscitation .
+The patient was placed on zosyn .
+Pt 's INR was eleveted as he was on home coumadin .
+He was given 4 units FFP in anticipation of ERCP the following day .
+On 02-02 ERCP demonstrated a large filling defect in the distal duct representing a stone with CBD dilatation .
+A biliary stent was placed after the removal of the stone .
+Pt was extubated the next day .
+He was then transferred to the medicine service .
+Past Medical History :
+1) Atrial fibrillation
+2) s/p MVR ( mechanical )
+3) CHF EF 15%
+4) HTN
+5) multiple CVA s ( last 1998 )
+6) Hypercholesterolemia
+7) Type II DM
+8) Multiple prior UTI
+Social History :
+Lives in Danvers with wife , denies Timothy or alcohol .
+Family History :
+NC
+Physical Exam :
+upon tx to medicine service
+T : 99.0 ; BP 142/61 ; Pulse 65 ; Resp 20 ; O2 sat 96% RA
+Gen - Alert , no acute distress
+HEENT - mucous membranes slightly dry
+Neck - no JVD , no cervical lymphadenopathy
+Chest - CTA b/l with good air entry
+CV - Normal S1/S2 , irreg irreg
+Abd - Soft , nontender , mild distension , normoactive bowel sounds
+Extr - No edema .
+2+ DP pulses bilaterally
+Neur : A & O X3 , dysarthric speech ,
+CN : mild left facial droop , o/w appears intact ; 4/5 strength on flex at elbows b/l , legs 06-22 strength , DTR s intact , sensation intact
+Skin - No rash
+Pertinent Results :
+ERCP report : Four fluoroscopic images and ERCP are provided .
+A large filling defect is seen in the distal duct representing a stone .
+The common duct is dilated .
+Subsequent biliary stent was placed after the removal of the stone .
+Blood cultures :
+2019-02-01 ( 4 of 4 bottles ) E.coli
+CXR : Pulmonary edema .
+ECHO :
+The left atrium is markedly dilated .
+There is mild symmetric left ventricular  hypertrophy .
+The left ventricular cavity is moderately dilated .
+There is  moderate global left ventricular hypokinesis .
+Overall left ventricular systolic function is moderately depressed .
+Right ventricular chamber size and free wall motion are normal .
+Right ventricular systolic function is normal .
+[ Intrinsic right ventricular systolic function is likely more depressed given the severity of tricuspid regurgitation .]
+The aortic valve leaflets ( 3 ) are mildly thickened .
+There is no aortic valve stenosis .
+Mild ( 1+ ) aortic regurgitation is seen .
+A bileaflet mitral valve prosthesis is present .
+The transmitral gradient is normal for this prosthesis .
+No mitral regurgitation is seen .
+Mild ( 1+ ) mitral regurgitation is seen .
+[ Due to acoustic shadowing , the severity of mitral regurgitation may be significantly UNDERestimated .]
+The tricuspid valve leaflets are mildly thickened .
+Moderate [ 2+ ] tricuspid regurgitation is seen .
+There is mild pulmonary artery systolic hypertension .
+There is no pericardial effusion .
+Labs on admission :
+2019-02-01 03:20 PM BLOOD WBC - 11.7 *# RBC - 4.72 Hgb - 14.1 Hct - 42.7 MCV - 91 MCH - 29.9 MCHC - 33.1 RDW - 14.9 Plt Ct - 91 *
+2019-02-01 03:20 PM BLOOD Neuts - 94.6 * Bands - 0 Lymphs - 2.7 * Monos - 1.9 * Eos - 0.4 Baso - 0.4
+2019-02-01 03:20 PM BLOOD PT - 28.0 * PTT - 26.7 INR(PT) - 2.9 *
+2019-02-01 03:20 PM BLOOD Glucose - 202 * UreaN - 31 * Creat - 1.3 * Na - 141 K - 4.0 Cl - 102 HCO3 - 27 AnGap - 16
+2019-02-01 03:20 PM BLOOD ALT - 167 * AST - 218 * AlkPhos - 108 Amylase - 117 * TotBili - 3.6 *
+2019-02-02 03:54 PM BLOOD Lipase - 992 *
+2019-02-01 03:20 PM BLOOD Albumin - 4.8 Calcium - 9.4 Phos - 1.9 * Mg - 2.0
+2019-02-01 04:15 PM BLOOD Digoxin - 0.3 *
+2019-02-01 11:43 PM BLOOD Type - ART Temp - 38.3 PEEP - 5 pO2 - 115 * pCO2 - 36 pH - 7.33 * calTCO2 - 20 * Base XS - -6 Intubat - INTUBATED
+2019-02-01 04:06 PM BLOOD Lactate - 3.4 *
+2019-02-01 08:00 PM BLOOD Lactate - 6.4 *
+Labs on discharge :
+2019-02-06 06:30 AM BLOOD WBC - 7.4 RBC - 3.82 * Hgb - 11.3 * Hct - 34.7 * MCV - 91 MCH - 29.5 MCHC - 32.5 RDW - 15.1 Plt Ct - 92 *
+2019-02-09 04:45 AM BLOOD PT - 19.6 * PTT - 74.9 * INR(PT) - 1.9 *
+2019-02-07 09:00 AM BLOOD Glucose - 124 * UreaN - 26 * Creat - 1.2 Na - 140 K - 3.7 Cl - 102 HCO3 - 29 AnGap - 13
+2019-02-07 09:00 AM BLOOD ALT - 62 * AST - 45 * AlkPhos - 105 TotBili - 2.2 *
+2019-02-04 02:40 AM BLOOD Lipase - 74 *
+2019-02-07 09:00 AM BLOOD Mg - 2.0
+2019-02-04 02:50 AM BLOOD Lactate - 1.0
+Brief Hospital Course :
+Pt is a 78 yo male with atrial fibrillation , s/p multiple CVA s, CHF , HTN , DM2 transferred from the CMED CCU s/p intervention for cholangitis .
+1) Acute cholangitis : Pt was admitted to the ICU , intubated , and ERCP performed , likely stone obstructing CBD .
+Stent was placed and patient was treated with antibiotics ( Zosyn - > Ciprofloxacin ).
+Per ERCP fellow , plan is for patient to return in four weeks to see Dr. Suzanne Davis , at which time he will likely have repeat cholangiogram and removal of stent and stone .
+If this is still problematic , pt may also need a sphincterotomy .
+Dr.Demby secretary will contact patient at home the week after discharge to schedule this for the end of January .
+Pt is to continue ciprofloxacin for a complete 14 day course .
+2) Mechanical mitral valve : Anticoagulation was reversed for ERCP .
+After this he was anticoagulated with heparin drip .
+INR was 1.9 on discharge .
+He was given sc lovenox x 1 and will continue this the day after discharge bid for one day .
+VNA will check his INR at home and page his PCP with the results .
+3) Atrial fibrillation : Rate controlled and on warfarin .
+While in the hospital he had several episodes of pauses , none longer than 2.5 seconds .
+His digoxin was held and his metoprolol was titrated down from his home dose .
+Once the digoxin was no longer having effect , metoprolol was titrated back to home dose .
+4) CHF : Pt was oxygen dependent for most of the hospital course , CXR was consistent with pulmonary edema .
+He was diuresed with lasix with good effect .
+Volume overload likely ocurred in the setting of IV fluids given in the ICU .
+Did not require lasix on discharge .
+5) E. coli bacteremia / sepsis : Source of acute cholangitis as above .
+Pt required 3 day stay in the surgical ICU and intubation as above .
+6) Intubation : Pt was 97% on room air on arrival to Cindy , developed rapid ventricular reponse to a fib which was treated , but after that period of time required oxygen , presumably for pulmonary edema .
+In the Lori pt was given 3L NS as well as 1 unit of FFP , and oxygen requirements contimued to climb .
+In the CMED CCU pt was intubated for ERCP procedure .
+He was extubated the next morning .
+Medications on Admission :
+Lisinopril 2.5 qday , Buspiron 20 mg po qday , Digoxin , Doxasozin 8 mg qhs , Glyburide 2.5 mg qday , metoprolol bid , atorvastatin 20 mg qday , warfarin 5 mg qday
+Discharge Medications :
+1. Ciprofloxacin 500 mg Tablet Sig : One ( 1 ) Tablet PO Q12H ( every 12 hours ) for 6 days .
+Disp :* 12 Tablet (s)* Refills :* 0 *
+2. Medications
+Continue all other home medications EXCEPT do not take digoxin .
+Discharge Disposition :
+Home with Service
+Discharge Diagnosis :
+Primary diagnosis :
+acute cholangitis
+Secondary diagnosis :
+anticoagulation with a mechanical valve
+Atrial fibrillation
+Diabetes Mellitus
+Congestive heart failure
+Discharge Condition :
+stable , will work with home PT
+Discharge Instructions :
+Please continue Ciprofloxacin antibiotic until 2019-02-14 .
+Dr. Mcfarlane is the doctor who performed the procedure to place a stent in your bile duct ( a tube that drains the liver ).
+His nurse is going to contact you at home to schedule a time for a repeat procedure to remove that stent .
+You will have your blood drawn tomorrow ( 2019-02-10 ) by VNA .
+It will be called in to Dr. Hamasaki office and he will call you to see how to change your coumadin .
+You will also take lovenox subcutaneous injections tomorrow , 2019-02-10 .
+You will take one if the morning and one at night .
+Continue all of your medications except for digoxin .
+Followup Instructions :
+Dr. Mcfarlane is the doctor who performed the procedure to place a stent in your bile duct ( a tube that drains the liver ).
+His nurse is going to contact you at home to schedule a time for a repeat procedure to remove that stent .
+Before you have the procedure with Dr. Morris you will need to talk to Dr. Moya to see if you need to stop your coumadin / warfarin for a few days .
+Shirley Anthony MD 56-333
+Completed by : Donald Beverly MD 74-194 2019-02-09 @ 1644
+Signed electronically by : DR. Shirley V Usher on : SAT 2019-02-09 5:32 PM
+( End of Report )

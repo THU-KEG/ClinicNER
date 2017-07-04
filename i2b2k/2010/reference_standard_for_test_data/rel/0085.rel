@@ -1,0 +1,5 @@
+c="lung examination" 43:6 43:7||r="TeRP"||c="faint bibasilar crackles" 43:2 43:4
+c="bicarbonate" 16:12 16:12||r="TrAP"||c="a respiratory acidosis" 16:6 16:8
+c="coronary artery bypass grafting" 31:6 31:9||r="TrAP"||c="coronary artery disease" 31:0 31:2
+c="percocet" 37:0 37:0||r="TrAP"||c="pain" 37:9 37:9
+c="aggressive pulmonary toilette" 18:33 18:35||r="TrAP"||c="a respiratory acidosis" 18:26 18:28

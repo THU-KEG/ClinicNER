@@ -1,0 +1,23 @@
+c="coumadin" 145:17 145:17||r="TrAP"||c="atrial fibrillation" 145:14 145:15
+c="coronary artery disease" 19:14 19:16||r="PIP"||c="nqwmi" 19:18 19:18
+c="head ct" 146:0 146:1||r="TeRP"||c="a large right intracerebral hemorrhage" 146:3 146:7
+c="intubation" 148:12 148:12||r="TrAP"||c="rapid decompensation" 148:9 148:10
+c="lad angioplasty" 19:22 19:23||r="TrAP"||c="coronary artery disease" 19:14 19:16
+c="stent" 19:25 19:25||r="TrAP"||c="coronary artery disease" 19:14 19:16
+c="airway protection" 148:14 148:15||r="TrAP"||c="rapid decompensation" 148:9 148:10
+c="coumadin" 19:38 19:38||r="TrAP"||c="atrial fibrillation" 19:35 19:36
+c="telemetry" 171:16 171:16||r="TeRP"||c="a junctional rhythm" 171:4 171:6
+c="telemetry" 171:16 171:16||r="TeRP"||c="very infrequent ventricular escape beats" 171:10 171:14
+c="head ct" 31:0 31:1||r="TeRP"||c="large right intracerebral hemorrhage" 31:3 31:6
+c="coumadin" 39:5 39:5||r="TrAP"||c="atrial fibrillation" 39:1 39:2
+c="nqwmi" 40:6 40:6||r="PIP"||c="coronary artery disease" 40:1 40:3
+c="lad angioplasty" 40:10 40:11||r="TrAP"||c="coronary artery disease" 40:1 40:3
+c="stent" 40:13 40:13||r="TrAP"||c="coronary artery disease" 40:1 40:3
+c="hypertensive" 135:9 135:9||r="PIP"||c="intraparenchymal hemorrhage" 135:4 135:5
+c="oral medications" 47:5 47:6||r="TrAP"||c="diabetes mellitus" 47:1 47:2
+c="examination" 149:0 149:0||r="TeRP"||c="brainstem compression" 149:14 149:15
+c="examination" 149:0 149:0||r="TeRP"||c="elevated intracranial pressure" 149:10 149:12
+c="known non-dominant 90% rca lesion" 40:16 40:20||r="PIP"||c="coronary artery disease" 40:1 40:3
+c="known non-dominant 90% rca lesion" 40:16 40:20||r="PIP"||c="nqwmi" 40:6 40:6
+c="noxious stimuli" 99:3 99:4||r="TeRP"||c="no withdrawal" 99:0 99:1
+c="noxious stimuli" 96:3 96:4||r="TeRP"||c="no withdrawal" 96:0 96:1

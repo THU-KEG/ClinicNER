@@ -1,0 +1,136 @@
+382851192
+PUOMC
+0542403
+913472
+982011
+9/15/1998 12:00:00 AM
+WOLFE-PARKINSON WHITE SYNDROME .
+Unsigned
+DIS
+Report Status :
+Unsigned
+Please do not go above this box important format codes are contained .
+DISCHARGE SUMMARY AZI01HL
+DISCHARGE SUMMARY
+NAME :
+TLANDSEUSS , CHERE C
+UNIT NUMBER :
+083-97-79
+ADMISSION DATE :
+09/15/1998
+DISCHARGE DATE :
+09/23/98
+PRINCIPAL DIAGNOSIS :
+Wolfe-Parkinson White Syndrome .
+ASSOCIATED DIAGNOSIS :
+Atrial fibrillation , coronary artery disease , hypertension , dementia , and diabetes .
+HISTORY OF PRESENT ILLNESS :
+The patient is a 72 year old white male who was transferred from Cay Memorial Hospital Of for cardiac catheterization and Electrophysiology Studies .
+His cardiac risk factors include :
+hypercholesterolemia , hypertension and insulin dependent diabetes mellitus .
+He has a history of chest pain and in January 1993 underwent a cardiac catheterization at Ph University Of Medical Center which revealed an occluded right coronary artery with distal filling via left to right collaterals , a large left anterior descending with a 40-50% proximal stenosis and a co-dominant left circumflex with mild disease .
+He subsequently had an echocardiogram in December 1994 which showed normal left ventricular size and systolic function .
+He subsequently had an adenosine sestamibi in February 1997 which was negative for ischemia or infarction .
+In December 1994 he had a paroxysmal supraventricular tachycardia presenting with palpitations .
+He was diagnosed with Wolfe Parkinson White Syndrome .
+He underwent an electrophysiology study which identified an accessory pathway with multiple attempts at ablation by Dr. Slusslashgodle which were unsuccessful .
+He was treated with Sotalol for the supraventricular tachycardia .
+On 9/2/98 he was admitted to Cay Memorial Hospital Of with palpitations and was found to have an irregular wide complex tachycardia thought to be due to atrial fibrillation and conduction down his accessory pathway .
+He had mild congestive heart failure and was treated with an increased dose of Lasix .
+An echocardiogram showed an ejection fraction of approximately 50% and mild to moderate mitral regurgitation .
+He was discharged home but returned on 9/13/98 with worsening palpitations on and off .
+He was again found to be in a wide complex tachycardia and was treated with magnesium .
+He denied any associated chest pain or dyspnea and he ruled out for a myocardial infarction .
+He continued to have intermittent runs of the wide complex tachycardia and was therefore transferred to Ph University Of Medical Center for further evaluation and management .
+Prior to transfer he did have one episode of chest pain during the night without electrocardiogram changes .
+PAST MEDICAL HISTORY :
+Hypertension , hypercholesterolemia , diabetes mellitus , depression , prostate cancer status post surgery .
+MEDICATIONS ON ADMISSION :
+Sotalol 160 mg bid .
+Atenolol 25 mg bid .
+Prilosec 20 mg qd .
+Propulsid 10 mg qd .
+NPH and CZI insulin .
+Resulin 400 mg qd .
+Lisinopril 10 mg bid .
+Aspirin .
+Lasix 60 mg qd .
+ALLERGIES :
+He reports an allergy to both codeine and iodine .
+There was also a question of an allergy to Prednisone which he said causes eye swelling .
+However , the details of this are quite uncertain and it is not clear if this was a true allergy .
+PHYSICAL EXAM :
+He was comfortable with a blood pressure of 156/78 , pulse 56 and respirations of 16 .
+His lungs were clear throughout .
+His apical impulse was nondisplaced with a regular rate and rhythm , normal S1 and S2 but not S3 or S4 .
+There was a grade 1/6 holosystolic murmur at the lower left sternal border radiating to the apex .
+Carotid pulses were 2+ bilaterally and there was no jugular venous distention .
+His abdomen was benign .
+Femoral pulses were 2+ bilaterally without bruits and he had pedal edema bilaterally .
+LABORATORY DATA :
+BUN 18 , creatinine 1.8 , magnesium 1.5 , cholesterol 154 with an HDL 41 , LDL 100 .
+His creatinine phosphokinase was 42 .
+His hematocrit was 49.3 .
+His electrocardiogram showed sinus bradycardia with a delta wave and an intraventricular conduction delay consistent with Wolf Parkinson White Syndrome .
+There were also nonspecific ST-T wave abnormalities .
+HOSPITAL COURSE AND TREATMENT :
+The patient clearly was suffering from atrial arrhythmias conducting down his bypass tract which were difficult to manage and causing symptomatic palpitations .
+Given his known coronary artery disease and his recent heart failure and chest pain a cardiac catheterization was indicated prior to proceeding to an electrophysiology study .
+His initial cardiac catheterization had to be postponed given the possibility of an allergy to Prednisone .
+He was seen by Nnoatal Hospital Center who felt that he could be safely treated with Solumedrol rather than Prednisone together with Benadryl and the use of low ionic contrast medium .
+Accordingly the patient underwent uneventful cardiac catheterization on 9/17/98 which revealed a pulmonary capillary wedge pressure of 25 and a left ventricular end diastolic pressure of 20 .
+His right coronary artery was occluded and filled distally via left to right collaterals .
+He had a 50% proximal left anterior descending stenosis and only minor disease to the left circumflex .
+His left ventriculogram showed preserved systolic function and mild mitral regurgitation .
+The patient then underwent an electrophysiology study on 9/20/98 .
+There was no inducible supraventricular tachycardia but he did have evidence of a left lateral bypass tract .
+Mapping of the mitral anulus confirmed the location of the bypass tract .
+Radiofrequency ablation was applied there and resulted in the elimination of the preoperatively-excitation .
+There were no complications .
+Following the procedure there was no further evidence of wide complex tachycardia .
+He still did have occasional short runs of atrial tachycardia but there were no associated palpitations .
+In following up his ablation he underwent a Holter monitor which showed normal sinus rhythm at rates of 40 to 80 .
+There were 15 atrial runs the longest of which was 13 beats at a rate of 100 .
+He also underwent a post-procedural echocardiogram which showed an ejection fraction of 61% with mild mitral regurgitation and left atrial enlargement at 45mm .
+Following the procedure his QT interval was noted to be prolonged to approximately .55 seconds .
+His Sotalol was therefore decreased to 120 mg bid and his QT and QTC intervals decreased to .45-.48 seconds .
+After the procedure he was started on Heparin and loaded on Coumadin for a period of the next 3-4 weeks following radiofrequency ablation .
+His INR was 2.3 prior to discharge and he was scheduled to follow-up with the Anticoagulation Clinic to follow his Coumadin dose .
+Finally , his dementia appeared to worsen following receiving medications for agitation during his EP study .
+Accordingly he was seen by Neurology who felt that there was no evidence of a secondary process .
+He did have a head CT which showed no evidence of a bleed or stroke .
+Finally , his blood pressure had trended up during his hospitalization particularly with the decreased dose of Sotalol .
+Given his occasional sinus bradycardia his Atenolol was not advanced but instead his Zestril dose was increased from 10-20 mg bid and his blood pressure responded appropriately .
+CONDITION ON DISCHARGE :
+He was discharged in stable condition on 9/23/98 .
+He will have a visiting nurse to see him on Iat .
+FOLLOW-UP :
+He will follow-up with Dr. Taarnna Service at Ph University Of Medical Center as well as Dr. Lupevickette Folk and Dr. Dwainco Rallsversgach on Villean Garl .
+MEDICATIONS ON DISCHARGE :
+Atenolol 25 mg bid .
+Sotalol 120 mg bid .
+Lasix 60 mg qd .
+Ecotrin 1 qd ( on hold until off of Coumadin ) .
+Coumadin 5 mg qhs or as directed for four weeks .
+Prilosec 20 mg qd .
+Propulsid 10 mg qd .
+Oxybutynin 5 mg qd .
+Aricept 10 mg qhs .
+NPH insulin 8 units q am , 5 units q pm .
+CZI insulin two units q am .
+Resulin 400 mg qd .
+Zestril 20 mg bid .
+AO R. FOLK , M.D.
+Electronically Signed AO RIELNAKA FOLK , M.D. 09/24/1998 11:47
+TR :
+fd
+DD :
+09/23/1998
+TD :
+09/23/1998 12:52 P
+cc :
+TAARNNA SHERL SERVICE , M.D. CARDIAC UNIT SHARPTIESSONI HEALTH CENTER
+SEAN SLUSSLASHGODLE , M.D. CARDIAC EP LAB ANWARENLA GLENWER CHILD HOSPITAL OF
+AO RIELNAKA FOLK , M.D. SHARPTIESSONI HEALTH CENTER
+LUPEVICKETTE FOLK , M.D. CAY MEMORIAL HOSPITAL OF
+TINDRIENE ACROOKESJO CAY MEMORIAL HOSPITAL OF STAT

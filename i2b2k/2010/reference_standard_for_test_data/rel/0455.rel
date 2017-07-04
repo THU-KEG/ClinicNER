@@ -1,0 +1,20 @@
+c="his angiogram" 60:0 60:1||r="TeRP"||c="an endo leak" 60:11 60:13
+c="ct scan" 29:28 29:29||r="TeRP"||c="an asymptomatic 7 cm abdominal aortic aneurysm" 29:20 29:26
+c="a prolonged sinus pause" 62:6 62:9||r="PIP"||c="transient loss of consciousness" 62:18 62:21
+c="his atenolol" 65:0 65:1||r="TrNAP"||c="further pauses" 65:9 65:10
+c="endovascular repair" 32:6 32:7||r="TrAP"||c="this abdominal aortic aneurysm" 32:9 32:12
+c="abdominal pain" 30:7 30:8||r="PIP"||c="acute cholecystectomy" 30:15 30:16
+c="bifurcated device" 27:7 27:8||r="TrAP"||c="abdominal aortic aneurysm" 27:3 27:5
+c="endovascular repair" 27:0 27:1||r="TrAP"||c="abdominal aortic aneurysm" 27:3 27:5
+c="therapy" 36:7 36:7||r="TrAP"||c="h. pylori positive" 36:1 36:3
+c="oral medications" 71:6 71:7||r="TrIP"||c="his pain" 71:0 71:1
+c="his postoperative ct scan" 66:0 66:3||r="TeRP"||c="graft kinking" 66:12 66:13
+c="his postoperative ct scan" 66:0 66:3||r="TeRP"||c="endo leak" 66:8 66:9
+c="craniotomy" 39:1 39:1||r="TrAP"||c="meningoma" 39:3 39:3
+c="the sinus pause" 64:17 64:19||r="PIP"||c="increased vagal tone" 64:23 64:25
+c="an uncomplicated endovascular repair" 58:21 58:24||r="TrAP"||c="his abdominal aortic aneurysm" 58:26 58:29
+c="the patient &apos;s atenolol use" 64:37 64:41||r="TrCP"||c="the sinus pause" 64:17 64:19
+c="the patient &apos;s atenolol use" 64:37 64:41||r="TrCP"||c="increased vagal tone" 64:23 64:25
+c="the epidural" 64:31 64:32||r="TrCP"||c="the sinus pause" 64:17 64:19
+c="the epidural" 64:31 64:32||r="TrCP"||c="increased vagal tone" 64:23 64:25
+c="anurx modular bifurcated graft" 58:32 58:35||r="TrAP"||c="his abdominal aortic aneurysm" 58:26 58:29

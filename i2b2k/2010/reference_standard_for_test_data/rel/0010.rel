@@ -1,0 +1,16 @@
+c="recent carotid noninvasives" 25:13 25:15||r="TeRP"||c="90% left sided stenosis" 25:23 25:26
+c="aggressive bowel regime" 51:36 51:38||r="TrAP"||c="prolonged ileus" 51:7 51:8
+c="aggressive bowel regime" 51:36 51:38||r="TrAP"||c="constipation" 51:13 51:13
+c="aggressive bowel regime" 51:36 51:38||r="TrAP"||c="persistent vomiting" 51:16 51:17
+c="prolonged ileus" 51:7 51:8||r="PIP"||c="constipation" 51:13 51:13
+c="prolonged ileus" 51:7 51:8||r="PIP"||c="persistent vomiting" 51:16 51:17
+c="diabetic renopathy" 19:3 19:4||r="PIP"||c="diabetes mellitus" 19:0 19:1
+c="ciprofloxacin" 33:27 33:27||r="TrAP"||c="urinary tract infection" 33:29 33:31
+c="management" 46:11 46:11||r="TrAP"||c="her chronic renal insufficiency" 46:13 46:16
+c="angiography" 47:5 47:5||r="TeRP"||c="minimal right internal carotid artery disease" 47:9 47:14
+c="angiography" 47:5 47:5||r="TeRP"||c="proximal left internal carotid artery stenosis" 47:17 47:22
+c="thrombosis of the right renal artery" 19:11 19:16||r="PIP"||c="renovascular occlusive disease" 19:6 19:8
+c="seldane" 35:0 35:0||r="TrCP"||c="gastrointestinal distress" 35:2 35:3
+c="2+ carotid pulses" 41:1 41:3||r="TeRP"||c="bruits bilaterally" 41:5 41:6
+c="cardiac catheterization" 49:10 49:11||r="TeRP"||c="obtuse marginal stenoses" 49:34 49:36
+c="intravenous fluids" 51:20 51:21||r="TrAP"||c="persistent vomiting" 51:16 51:17

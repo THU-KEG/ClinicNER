@@ -1,0 +1,86 @@
+c="pacemaker placement" 130:14 130:15||r="TrNAP"||c="too stressed" 130:10 130:11
+c="a surgicel dressing" 128:0 128:2||r="TrIP"||c="the bleeding" 128:12 128:13
+c="collagen vascular disease" 101:0 101:2||r="PIP"||c="connective tissue disorder stigmata" 101:18 101:21
+c="her hickman catheter" 126:19 126:21||r="TrCP"||c="bleeding" 126:17 126:17
+c="radiation" 31:5 31:5||r="TrAP"||c="grave's" 31:1 31:1
+c="radiation" 31:5 31:5||r="TrAP"||c="hypothyroidism" 31:8 31:8
+c="protonix" 157:4 157:4||r="TrIP"||c="further gastrointestinal issues" 157:15 157:17
+c="any transfusion therapy" 160:11 160:13||r="TrAP"||c="bleeding" 160:1 160:1
+c="lopressor" 103:24 103:24||r="TrWP"||c="the patient 's pulmonary hypertension" 103:37 103:41
+c="calcium channel blocker" 103:11 103:13||r="TrAP"||c="the patient 's pulmonary hypertension" 103:37 103:41
+c="tylenol" 190:1 190:1||r="TrAP"||c="fever" 190:8 190:8
+c="tylenol" 190:1 190:1||r="TrAP"||c="pain" 190:10 190:10
+c="a urinalysis" 146:0 146:1||r="TeRP"||c="positive" 146:3 146:3
+c="aggressive fluids" 114:24 114:25||r="TrIP"||c="exquisitely preload dependent" 114:17 114:19
+c="telemetry" 141:12 141:12||r="TeRP"||c="bradycardia" 141:10 141:10
+c="review of systems" 23:0 23:2||r="TeRP"||c="menopausal symptoms" 23:6 23:7
+c="these cardiovascular episodes" 111:3 111:5||r="PIP"||c="the patient 's tenuous cardiovascular status" 111:15 111:20
+c="these cardiovascular episodes" 111:3 111:5||r="PIP"||c="cardiac output limited" 111:45 111:47
+c="these cardiovascular episodes" 111:3 111:5||r="PIP"||c="left ventricular compression" 111:50 111:52
+c="these cardiovascular episodes" 111:3 111:5||r="PIP"||c="a dilated left ventricle" 111:54 111:57
+c="these cardiovascular episodes" 111:3 111:5||r="PIP"||c="very preload dependent" 111:32 111:34
+c="these cardiovascular episodes" 111:3 111:5||r="PIP"||c="clear pulmonary hypertension" 111:27 111:29
+c="left ventricular compression" 111:50 111:52||r="PIP"||c="cardiac output limited" 111:45 111:47
+c="left ventricular compression" 111:50 111:52||r="PIP"||c="a dilated left ventricle" 111:54 111:57
+c="management" 68:30 68:30||r="TrAP"||c="her symptoms" 68:32 68:33
+c="her preload dependence" 154:11 154:13||r="PIP"||c="the decreased urine output" 154:4 154:7
+c="an echocardiogram" 86:7 86:8||r="TeRP"||c="dilated right ventricle" 86:11 86:13
+c="pacemaker placement" 141:1 141:2||r="TrIP"||c="bradycardia" 141:10 141:10
+c="difficulty sleeping" 24:3 24:4||r="PIP"||c="daytime sleepiness" 24:6 24:7
+c="management" 183:18 183:18||r="TrAP"||c="her pulmonary hypertension" 183:20 183:22
+c="the hickman site" 160:3 160:5||r="TrCP"||c="bleeding" 160:1 160:1
+c="hormone replacement therapy" 23:14 23:16||r="TrAP"||c="menopausal symptoms" 23:6 23:7
+c="urine culture" 146:5 146:6||r="TeRP"||c="enterococcus" 146:8 146:8
+c="a mildly elevated white blood cell count" 149:10 149:16||r="PIP"||c="asymptomatic" 149:19 149:19
+c="decreased cardiac output" 116:22 116:24||r="PIP"||c="low preload" 116:27 116:28
+c="her urine output" 154:17 154:19||r="TeCP"||c="the decreased urine output" 154:4 154:7
+c="a fast heart rate" 19:3 19:6||r="PIP"||c="palpitations" 19:8 19:8
+c="pacemaker placement" 117:24 117:25||r="TrAP"||c="severe vasal sensitivity" 117:18 117:20
+c="pacemaker placement" 117:24 117:25||r="TrAP"||c="bradycardia" 117:22 117:22
+c="severe vasal sensitivity" 117:18 117:20||r="PIP"||c="bradycardia" 117:22 117:22
+c="an extra stitch" 129:3 129:5||r="TrAP"||c="the bleeding" 129:13 129:14
+c="angina" 70:18 70:18||r="PIP"||c="chest pressure" 70:11 70:12
+c="prolonged pressure" 128:6 128:7||r="TrIP"||c="the bleeding" 128:12 128:13
+c="hydration therapy" 116:11 116:12||r="TrIP"||c="her low urine output" 116:15 116:18
+c="her low urine output" 116:15 116:18||r="PIP"||c="decreased cardiac output" 116:22 116:24
+c="a high resolution ct" 124:0 124:3||r="TeCP"||c="her primary pulmonary hypertension" 124:14 124:17
+c="telemetry" 110:2 110:2||r="TeRP"||c="nonsustained ventricular tachycardia" 110:11 110:13
+c="telemetry" 110:2 110:2||r="TeRP"||c="bradycardia" 110:19 110:19
+c="her new beta blocker" 84:9 84:12||r="TrCP"||c="her acute bradycardic event" 84:0 84:3
+c="her acute bradycardic event" 84:0 84:3||r="PIP"||c="a vagal response" 84:16 84:18
+c="the flolan bag" 133:21 133:23||r="TrCP"||c="hypotension" 133:14 133:14
+c="evaluation" 68:28 68:28||r="TeCP"||c="her symptoms" 68:32 68:33
+c="a rhythm check" 82:0 82:2||r="TeRP"||c="a pause of six seconds" 82:11 82:15
+c="a rhythm check" 82:0 82:2||r="TeRP"||c="a junctional escape rhythm" 82:18 82:21
+c="an electrocardiogram" 83:0 83:1||r="TeRP"||c="acute changes" 83:8 83:9
+c="flolan therapy" 121:7 121:8||r="TrCP"||c="symptoms" 121:5 121:5
+c="flolan therapy" 121:7 121:8||r="TrCP"||c="nausea" 121:10 121:10
+c="flolan therapy" 121:7 121:8||r="TrCP"||c="vomiting" 121:12 121:12
+c="flolan therapy" 121:7 121:8||r="TrCP"||c="first bite jaw claudication" 121:14 121:17
+c="flolan therapy" 121:7 121:8||r="TrCP"||c="hypotension" 121:20 121:20
+c="symptoms" 121:5 121:5||r="PIP"||c="nausea" 121:10 121:10
+c="symptoms" 121:5 121:5||r="PIP"||c="vomiting" 121:12 121:12
+c="symptoms" 121:5 121:5||r="PIP"||c="first bite jaw claudication" 121:14 121:17
+c="symptoms" 121:5 121:5||r="PIP"||c="hypotension" 121:20 121:20
+c="the patient 's flolan dose" 122:7 122:11||r="TrCP"||c="flolan overdose" 122:22 122:23
+c="electrocardiogram" 65:0 65:0||r="TeRP"||c="left atrial hypertrophy" 65:2 65:4
+c="electrocardiogram" 65:0 65:0||r="TeRP"||c="right ventricular hypertrophy" 65:6 65:8
+c="electrocardiogram" 65:0 65:0||r="TeRP"||c="poor r wave progression" 65:11 65:14
+c="lactulose" 193:1 193:1||r="TrAP"||c="constipation" 193:8 193:8
+c="a ct angiogram of the chest" 97:3 97:8||r="TeRP"||c="intravascular filling defect" 97:15 97:17
+c="a ct angiogram of the chest" 97:3 97:8||r="TeRP"||c="a right upper lobe ground-glass" 97:21 97:25
+c="a ct angiogram of the chest" 97:3 97:8||r="TeRP"||c="scattered adenopathy" 97:27 97:28
+c="pulmonary embolism protocol" 97:10 97:12||r="TeRP"||c="intravascular filling defect" 97:15 97:17
+c="pulmonary embolism protocol" 97:10 97:12||r="TeRP"||c="a right upper lobe ground-glass" 97:21 97:25
+c="pulmonary embolism protocol" 97:10 97:12||r="TeRP"||c="scattered adenopathy" 97:27 97:28
+c="tylenol no. 3" 186:1 186:3||r="TrAP"||c="pain" 186:12 186:12
+c="dlco" 100:14 100:14||r="TeRP"||c="chronic lung disease" 100:0 100:2
+c="the patient 's grave's disease" 91:12 91:16||r="PIP"||c="an autoimmune process" 91:17 91:19
+c="anticoagulation" 93:7 93:7||r="TrAP"||c="her pulmonary hypertension" 93:12 93:14
+c="penicillin" 36:0 36:0||r="TrCP"||c="a rash" 36:2 36:3
+c="telemetry" 89:19 89:19||r="TeCP"||c="myocardial infarction" 89:5 89:6
+c="a previous workup" 21:3 21:5||r="TeRP"||c="some borderline mild pulmonary hypertension" 21:28 21:32
+c="a ct angiogram" 88:0 88:2||r="TeCP"||c="chronic thromboembolic disease" 88:8 88:10
+c="chronic thromboembolic disease" 88:8 88:10||r="PIP"||c="her pulmonary hypertension" 88:16 88:18
+c="elevated pillows" 25:3 25:4||r="TrAP"||c="her gastroesophageal reflux disease" 25:7 25:10
+c="chronic dysfunction" 86:16 86:17||r="PIP"||c="dilated right ventricle" 86:11 86:13

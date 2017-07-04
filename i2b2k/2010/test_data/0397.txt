@@ -1,0 +1,133 @@
+Admission Date :
+2014-04-17
+Discharge Date :
+2014-04-25
+Date of Birth :
+1953-07-04
+Sex :
+M
+Service :
+CARDIOTHORACIC
+Allergies :
+Patient recorded as having No Known Allergies to Drugs
+Attending : Christopher Q Thompson , M.D.
+Chief Complaint :
+Chest pain
+Major Surgical or Invasive Procedure :
+2014-04-18 Off Pump Coronary Artery Bypass Grafting utilizing the left internal mammary artery to left anterior descending artery , free right internal mammary to obtuse marginal and vein graft to diagonal .
+History of Present Illness :
+This is a 60 year old male with new onset chest pain .
+Nuclear myocardial perfusion study was notable for a moderate fixed defect within the inferior wall and cardiac apex .
+His ejection fraction however appeared preserved at 73% with mild inferior wall hypokinesis .
+Subsequent cardiac catheterization at Nantucket Cottage Hospital Hospital on 2014-04-16 was significant for severe two vessel coronary artery disease .
+Angiography revealed a right dominant system with a 40% lesion in the distal left main, several tight lesions in the proximal and mid left anterior descending artery , and a 90% stenosis in the proximal circumflex .
+The right coronary artery had mild diffuse plaquing but no evidence of focal stenosis .
+Based upon the above results , he was transferred to the Mediplex Rehab Hospital for surgical revascularization .
+Past Medical History :
+Asthma
+Benign Prostatic Hypertrophy
+History of Nephrolithiasis
+Hemorrhoids
+Social History :
+Denies tobacco history .
+Admits to 03-08 ETOH drinks per week .
+He works as an accountant .
+Family History :
+Mother suffer MI in her 50 's, died at age 59 .
+Father died from MI at age 72 .
+Physical Exam :
+Vitals : T 98.9 , BP 148/70 , HR 57 , RR 20 , SAT 95 on room air
+General : well developed male in no acute distress
+HEENT : oropharynx benign ,
+Neck : supple , no JVD ,
+Heart : regular rate , normal s1s2 , no murmur or rub
+Lungs : clear bilaterally
+Abdomen : soft , nontender , normoactive bowel sounds
+Ext : warm , no edema , no varicosities
+Pulses : 2+ distally , no carotid or femoral bruits
+Neuro : nonfocal
+Pertinent Results :
+2014-04-17 03:58 PM BLOOD WBC - 6.3 RBC - 4.60 Hgb - 15.4 Hct - 42.9 MCV - 93 MCH - 33.4 * MCHC - 35.8 * RDW - 12.8 Plt Ct - 168
+2014-04-17 03:58 PM BLOOD PT - 13.2 * PTT - 30.3 INR(PT) - 1.2 *
+2014-04-17 03:58 PM BLOOD Glucose - 92 UreaN - 15 Creat - 1.3 * Na - 142 K - 4.5 Cl - 104 HCO3 - 26 AnGap - 17
+2014-04-17 03:58 PM BLOOD ALT - 18 AST - 20 AlkPhos - 53 Amylase - 98 TotBili - 0.6
+2014-04-17 03:58 PM BLOOD %HbA1c - 5.8 [Hgb] - DONE [A1c] - DONE
+2014-04-22 07:10 AM BLOOD WBC - 6.5 RBC - 2.89 * Hgb - 9.3 * Hct - 26.4 * MCV - 92 MCH - 32.3 * MCHC - 35.2 * RDW - 13.8 Plt Ct - 155
+2014-04-22 07:10 AM BLOOD Glucose - 97 UreaN - 11 Creat - 1.3 * Na - 142 K - 4.4 Cl - 103 HCO3 - 34 * AnGap - 9
+2014-04-22 07:10 AM BLOOD Mg - 2.0
+2014-04-22 Chest x-ray : No evidence of pneumothorax .
+Persistent bibasilar atelectasis and tiny pleural effusions .
+Stable postoperative cardiac and mediastinal widening .
+2014-04-24 06:35 AM BLOOD WBC - 6.7 RBC - 2.96 * Hgb - 9.1 * Hct - 28.0 * MCV - 94 MCH - 30.9 MCHC - 32.7 RDW - 13.6 Plt Ct - 234 #
+2014-04-25 06:45 AM BLOOD Glucose - 93 UreaN - 13 Creat - 1.4 * Na - 141 K - 4.6 Cl - 102 HCO3 - 31 AnGap - 13
+2014-04-24 06:35 AM BLOOD Glucose - 96 UreaN - 13 Creat - 1.4 * Na - 143 K - 4.8 Cl - 104 HCO3 - 33 * AnGap - 11
+Brief Hospital Course :
+Mr. Chester was admitted to the cardiac surgical service and underwent routine preoperative evaluation .
+He remained pain free on medical therapy .
+Workup was unremarkable and he was cleared for surgery .
+On 04-18 , Dr. Oneill performed off pump coronary artery bypass grafting .
+For surgical details , please see seperate dictated operative note .
+Following the operation , he was brought to the CSRU for invasive monitoring .
+Within 24 hours , he awoke neurologically intact and was extubated without incident .
+Given hypotension and bradycardia , he was slow to wean from Neosynephrine .
+Low dose beta blockade was eventually resumed .
+Chest tubes and pacing wires were removed without complication .
+On postoperative day three , he transferred to the SDU .
+He maintained a normal sinus rhythm without atrial or ventricular arrhythmias .
+He remained in sinus bradycardia ( rate 50-60 ) and tolerated low dose beta blockade .
+On POD #6 his creatinine became slightly elevated at 1.4 , his lasix was discontinued and the following day his creatinine was stable at 1.4 .
+He continued to progress and was eventually cleared for discharge to home on postoperative day 7 .
+His discharge chest x-ray showed persistent bibasilar atelectasis with only tiny pleural effusions .
+Of note , he will need to remain on Plavix for three months postop given the off pump procedure .
+In addition , he will need to remain on Imdur given use of his right internal mammary artery as a " free " arterial graft in preventing 
+vasospasm .
+Medications on Admission :
+Lopressor ? dose
+Aspirin 325 qd
+Zocor 40 qd
+IV Heparin
+Discharge Medications :
+1. Furosemide 20 mg Tablet Sig : One ( 1 ) Tablet PO once a day for 5 days .
+Disp :* 5 Tablet (s)* Refills :* 0 *
+2. Potassium Chloride 10 mEq Capsule , Sustained Release Sig : Two ( 2 ) Capsule , Sustained Release PO once a day for 5 days .
+Disp :* 10 Capsule , Sustained Release (s)* Refills :* 0 *
+3. Docusate Sodium 100 mg Capsule Sig : One ( 1 ) Capsule PO BID ( 2 times a day ).
+Disp :* 60 Capsule (s)* Refills :* 0 *
+4. Aspirin 81 mg Tablet , Delayed Release ( E.C. ) Sig : One ( 1 ) Tablet , Delayed Release ( E.C. ) PO DAILY ( Daily ).
+Disp :* 30 Tablet , Delayed Release ( E.C. )(s)* Refills :* 0 *
+5. Oxycodone - Acetaminophen 5-325 mg Tablet Sig : 1-2 Tablets PO every 4-6 hours as needed for pain .
+Disp :* 50 Tablet (s)* Refills :* 0 *
+6. Simvastatin 10 mg Tablet Sig : Two ( 2 ) Tablet PO DAILY ( Daily ).
+Disp :* 60 Tablet (s)* Refills :* 0 *
+7. Fluticasone - Salmeterol 250-50 mcg / Dose Disk with Device Sig : One ( 1 ) Disk with Device Inhalation BID ( 2 times a day ).
+Disp :* 1 Disk with Device (s)* Refills :* 0 *
+8. Isosorbide Mononitrate 30 mg Tablet Sustained Release 24 hr Sig : One ( 1 ) Tablet Sustained Release 24 hr PO DAILY ( Daily ).
+Disp :* 30 Tablet Sustained Release 24 hr (s)* Refills :* 2 *
+9. Clopidogrel 75 mg Tablet Sig : One ( 1 ) Tablet PO DAILY ( Daily ).
+Disp :* 30 Tablet (s)* Refills :* 2 *
+10. Metoprolol Succinate 25 mg Tablet Sustained Release 24 hr Sig : 0.5 ( half ) Tablet Sustained Release 24 hr PO DAILY ( Daily ).
+Disp :* 30 Tablet Sustained Release 24 hr (s)* Refills :* 0 *
+Discharge Disposition :
+Home with Service
+Discharge Diagnosis :
+Coronary artery disease - s/p Off Pump CABG
+Sinus Bradycardia
+Asthma
+BPH
+Nephrolithiasis
+Discharge Condition :
+Good
+Discharge Instructions :
+Follow medications on discharge instructions .
+Do not drive for 4 weeks .
+Do not lift more than 10 lbs for 2 months .
+Shower daily , let water flow over wounds , pat dry with a towel .
+Do not use creams , lotions , or powders on wounds .
+Call our office for sternal drainage , temp .> 101.5
+Followup Instructions :
+Make an appointment with Dr. Aguirre for 1-2 weeks .
+Make an appointment with Dr. Keller for 4-5 weeks .
+Alice Jordan MD 62-102
+Completed by : Kitty Pamela NP 80-BXH 2014-04-25 @ 0955
+Signed electronically by : DR. Bessie R. Conners on : WED 2014-05-21 9:31 AM
+( End of Report )

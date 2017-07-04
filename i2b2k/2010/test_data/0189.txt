@@ -1,0 +1,112 @@
+Admission Date :
+2017-05-08
+Discharge Date :
+2017-05-16
+Date of Birth :
+1931-10-04
+Sex :
+M
+Service :
+CARDIOTHORACIC
+Allergies :
+Patient recorded as having No Known Allergies to Drugs
+Attending : Walter G Gaines , M.D.
+Chief Complaint : worsening chest pain and shortness of breath
+Major Surgical or Invasive Procedure :
+Coronary artery bypass graft x 2 / Aortic valve replacement 05-08
+History of Present Illness :
+Mr. Williams is an 85 yo gentleman who has a known cardiac history and has had a h/o worsening chest pain and shortness of breath .
+He had an echocardiogram which showed an EF 40-45% and severe aortic stenosis .
+He underwent cardiac catheterization which showed an 80% LAD lesion , chronically occluded RCA , anneurysmal mid LCX w/50% lesion .
+He was refered to Dr. Barber for surgical treatment .
+Past Medical History :
+s/p MI 1992
+AS
+h/o prostate CA s/p brachytherapy and hormone treatment
+hyperlipidemia
+HTN
+PAF h/o rectal bleeding s/p cauterization
+cholelithiasis
+s/p AAA repair  '95
+s/p bilateral hernia repair
+s/p R lung surgery
+CRI
+chronic lung disease
+Pertinent Results:
+2017-05-16 06:20 AM BLOOD WBC - 8.0 RBC - 3.35 * Hgb - 10.3 * Hct - 31.0 * MCV - 93 MCH - 30.7 MCHC - 33.1 RDW - 13.0 Plt Ct - 201
+2017-05-16 06:20 AM BLOOD Plt Ct - 201
+2017-05-16 06:20 AM BLOOD PT - 19.0 * INR ( PT )- 2.3
+2017-05-16 09:50 AM BLOOD Glucose - 118 * UreaN - 18 Creat - 1.6 * Na - 137 K - 5.1 Cl - 98 HCO3 - 29 AnGap - 15
+Brief Hospital Course :
+Mr. Williams was admitted to Hallmark Health System on 05-08 and taken to the operating room with Dr. Barber for a CABGx2 and AVR w/ 25 mm pericardial valve .
+Please see operative note for full details .
+He was transfered to the ICU in stable condition .
+He was weaned and extubated from mechanical ventillation on POD#1 without difficulty .
+He was transfered to the regular part of the hospital on POD#2 , where he began working with physical therapy .
+He developed atrial fibrillation on POD#2 with well controlled rate and hemodynamically stable .
+He was started on heparin and coumadin for anticoagulation on POD#5 .
+On POD#7 he was cleared for discharge to home by physical therapy and on POD#8 he was discharged .
+Medications on Admission :
+lasix 40 mg q M-W-F
+Klorcon 10 mEq q M-W-F
+Pepcid 40 mg qd
+colexa 10 mg qd
+metoprolol 50 mg bid
+lipitor 20 mg qd
+aspirin 325 mg qd
+flovent 110 mcg inhaler bid
+atrovent inhaler tid
+Discharge Medications :
+1. Aspirin 81 mg Tablet , Delayed Release ( E.C. ) Sig : One ( 1 ) Tablet , Delayed Release ( E.C. ) PO DAILY ( Daily ) .
+Disp :* 30 Tablet , Delayed Release ( E.C. )( s )* Refills :* 0 *
+2. Docusate Sodium 100 mg Capsule Sig : One ( 1 ) Capsule PO BID ( 2 times a day ) .
+Disp :* 60 Capsule ( s )* Refills :* 0 *
+3. Fluticasone Propionate 110 mcg / Actuation Aerosol Sig : Two ( 2 ) Puff Inhalation BID ( 2 times a day ) .
+Disp :* 1 canister * Refills :* 0 *
+4. Oxycodone - Acetaminophen 5-325 mg Tablet Sig : 1-2 Tablets PO every 4-6 hours as needed for pain .
+Disp :* 40 Tablet ( s )* Refills :* 0 *
+5. Ipratropium Bromide 18 mcg / Actuation Aerosol Sig : Two ( 2 ) Puff Inhalation QID ( 4 times a day ) .
+Disp :* 1 canister * Refills :* 0 *
+6. Pantoprazole Sodium 40 mg Tablet , Delayed Release ( E.C. ) Sig : One ( 1 ) Tablet , Delayed Release ( E.C. ) PO Q24H ( every 24 hours ) .
+Disp :* 30 Tablet , Delayed Release ( E.C. )( s )* Refills :* 0 *
+7. Metoprolol Tartrate 25 mg Tablet Sig : One ( 1 ) Tablet PO BID ( 2 times a day ) .
+Disp :* 60 Tablet ( s )* Refills :* 0 *
+8. Lipitor 20 mg Tablet Sig : One ( 1 ) Tablet PO once a day .
+Disp :* 30 Tablet ( s )* Refills : * 0 *
+9. Bacitracin Zinc 500 unit / g Ointment Sig : One ( 1 ) Appl Topical BID ( 2 times a day ) .
+Disp :* 1 tube * Refills :* 0 *
+10. Celexa 10 mg Tablet Sig : One ( 1 ) Tablet PO once a day .
+Tablet ( s )
+11. Warfarin Sodium 1 mg Tablet Sig : Five ( 5 ) Tablet PO once a day : Take 5 mg on 04-18 .
+MD to dose daily .
+Disp :* 150 Tablet ( s )* Refills :* 2 *
+12. Lasix 40 mg Tablet Sig : One ( 1 ) Tablet PO q M-W-F .
+Disp :* 30 Tablet ( s )* Refills :* 0 *
+13. Potassium Chloride 10 mEq Capsule , Sustained Release Sig : One ( 1 ) Capsule , Sustained Release PO q M-W-F .
+Disp :* 30 Capsule , Sustained Release ( s )* Refills :* 2 *
+14. Coumadin 5 mg Tablet Sig : One ( 1 ) Tablet PO once a day : as directed for goal INR 2.0-2.5.
+Disp :* 30 Tablet ( s )* Refills :* 0 *
+Discharge Disposition :
+Home with Service
+Discharge Diagnosis :
+Coronary artery disease .
+Aortic stenosis .
+Hyperlipidemia .
+Atrial fibrillation .
+Chronic renal insufficiency
+Discharge Condition :
+Good .
+Discharge Instructions :
+Shower daily and wash incisions with soap and water .
+Rinse well .
+Do not apply any creams , lotions , powders , or ointments .
+No bathing in tub or swimming .
+No heavy lifting , greater than 10 pounds .
+No driving for 6 weeks .
+Followup Instructions :
+Make follow-appointment with Dr. Barber in 4-6 weeks .
+Make follow-up appointment with Dr. Jo in 1-2 weeks .
+Dustin Elmer MD 22-708
+Completed by : Ann J. Haley PA 80-AXP 2017-05-17 @ 1251
+Signed electronically by : DR. Jackie Mcafee on : TUE 2017-07-11 8:43 AM
+( End of Report )

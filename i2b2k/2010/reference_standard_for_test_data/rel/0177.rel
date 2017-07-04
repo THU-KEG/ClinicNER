@@ -1,0 +1,69 @@
+c="lung cancer" 154:1 154:2||r="PIP"||c="disease" 154:10 154:10
+c="coumadin" 34:5 34:5||r="TrAP"||c="left le dvt" 34:1 34:3
+c="lung cancer" 28:1 28:2||r="PIP"||c="non-small cell lung cancer stage iiia" 28:4 28:9
+c="all anticoagulation" 138:0 138:1||r="TrAP"||c="dvt" 138:7 138:7
+c="all anticoagulation" 138:0 138:1||r="TrAP"||c="afib" 138:9 138:9
+c="senna" 173:1 173:1||r="TrAP"||c="constipation" 173:23 173:23
+c="the pain" 22:3 22:4||r="PIP"||c="his prior mi" 22:8 22:10
+c="bp meds" 127:0 127:1||r="TrNAP"||c="unstable" 127:4 127:4
+c="surgery" 28:25 28:25||r="TrAP"||c="lung cancer" 28:1 28:2
+c="surgery" 28:25 28:25||r="TrAP"||c="non-small cell lung cancer stage iiia" 28:4 28:9
+c="a stress test" 118:3 118:5||r="TeRP"||c="an irreversible deficit" 118:8 118:10
+c="ekg" 116:3 116:3||r="TeRP"||c="changes" 116:1 116:1
+c="cxr" 80:0 80:0||r="TeRP"||c="partial collapse of the right upper lung" 80:7 80:13
+c="cxr" 80:0 80:0||r="TeRP"||c="increased right pleural effusion" 80:2 80:5
+c="weekly carboplatin" 28:13 28:14||r="TrAP"||c="lung cancer" 28:1 28:2
+c="weekly carboplatin" 28:13 28:14||r="TrAP"||c="non-small cell lung cancer stage iiia" 28:4 28:9
+c="his prior known imi" 118:12 118:15||r="PIP"||c="an irreversible deficit" 118:8 118:10
+c="stent to l cx" 29:8 29:11||r="TrAP"||c="inferior stemi" 29:4 29:5
+c="stent to l cx" 29:8 29:11||r="TrAP"||c="cad" 29:1 29:1
+c="inferior stemi" 29:4 29:5||r="PIP"||c="cad" 29:1 29:1
+c="ntg" 24:8 24:8||r="TrIP"||c="the patients pain" 24:3 24:5
+c="acetaminophen" 188:1 188:1||r="TrAP"||c="pain" 188:22 188:22
+c="bp meds" 120:0 120:1||r="TrNAP"||c="unstable" 120:5 120:5
+c="ct" 137:0 137:0||r="TeRP"||c="hemothorax" 137:2 137:2
+c="patients anticoag" 129:0 129:1||r="TrNAP"||c="hemothorax" 129:4 129:4
+c="mi" 113:12 113:12||r="PIP"||c="chest pain" 113:15 113:16
+c="mi" 113:12 113:12||r="PIP"||c="shortness of breath" 113:17 113:19
+c="anticoagulaiton" 152:0 152:0||r="TrNAP"||c="hemothorax" 152:3 152:3
+c="loculated effusion" 130:5 130:6||r="PIP"||c="shortness of breath" 130:1 130:3
+c="loculated effusion" 130:5 130:6||r="PIP"||c="increaing loculated pleural effusion" 130:10 130:13
+c="shortness of breath" 130:1 130:3||r="PIP"||c="increaing loculated pleural effusion" 130:10 130:13
+c="hemorrhage" 106:8 106:8||r="PIP"||c="the right pleural effusion" 106:10 106:13
+c="xrt" 28:19 28:19||r="TrAP"||c="lung cancer" 28:1 28:2
+c="xrt" 28:19 28:19||r="TrAP"||c="non-small cell lung cancer stage iiia" 28:4 28:9
+c="asa" 121:0 121:0||r="TrNAP"||c="hemothorax" 121:5 121:5
+c="high-attenuation fluid" 88:9 88:10||r="PIP"||c="the effusion" 88:12 88:13
+c="high-attenuation fluid" 88:9 88:10||r="PIP"||c="hemorrhage" 88:16 88:16
+c="serial cxr" 147:3 147:4||r="TeRP"||c="reaccumulation" 147:9 147:9
+c="ef" 30:3 30:3||r="TeCP"||c="chf" 30:1 30:1
+c="cad" 113:10 113:10||r="PIP"||c="mi" 113:12 113:12
+c="ekg" 116:11 116:11||r="TeRP"||c="changes" 116:1 116:1
+c="prior examination" 103:14 103:15||r="TeRP"||c="a lytic area" 103:0 103:2
+c="bisacodyl" 175:1 175:1||r="TrAP"||c="constipation" 175:32 175:32
+c="dvt" 204:0 204:0||r="PIP"||c="afib" 204:2 204:2
+c="ischemia" 114:4 114:4||r="PIP"||c="chest pain" 114:1 114:2
+c="cta" 151:0 151:0||r="TeRP"||c="pe" 151:3 151:3
+c="my evaluation" 26:3 26:4||r="TeRP"||c="nausea" 26:9 26:9
+c="my evaluation" 26:3 26:4||r="TeRP"||c="vomitting" 26:11 26:11
+c="my evaluation" 26:3 26:4||r="TeRP"||c="abdominal pain" 26:13 26:14
+c="my evaluation" 26:3 26:4||r="TeRP"||c="dysuria" 26:16 26:16
+c="my evaluation" 26:3 26:4||r="TeRP"||c="dizziness" 26:18 26:18
+c="my evaluation" 26:3 26:4||r="TeRP"||c="changes in vision /hearing" 26:20 26:23
+c="thoracentesis" 133:1 133:1||r="TeRP"||c="serous exudative fluid" 133:12 133:14
+c="taxol chemotherapy" 28:16 28:17||r="TrAP"||c="lung cancer" 28:1 28:2
+c="taxol chemotherapy" 28:16 28:17||r="TrAP"||c="non-small cell lung cancer stage iiia" 28:4 28:9
+c="pain" 115:5 115:5||r="PIP"||c="his anginal equivalent" 115:8 115:10
+c="swelling" 123:12 123:12||r="PIP"||c="dvt" 123:14 123:14
+c="heparin" 149:6 149:6||r="TrAP"||c="dvt" 149:1 149:1
+c="benzonatate" 186:1 186:1||r="TrAP"||c="cough" 186:23 186:23
+c="cad" 114:10 114:10||r="PIP"||c="mi" 114:12 114:12
+c="mi" 114:12 114:12||r="PIP"||c="chest pain" 114:1 114:2
+c="mi" 114:12 114:12||r="PIP"||c="ischemia" 114:4 114:4
+c="morphine" 24:10 24:10||r="TrIP"||c="the patients pain" 24:3 24:5
+c="volume overloaded" 122:7 122:8||r="PIP"||c="chf" 122:1 122:1
+c="ekg" 81:0 81:0||r="TeRP"||c="old twi iii" 81:11 81:13
+c="ekg" 81:0 81:0||r="TeRP"||c="old j pointing v" 81:17 81:20
+c="plavix" 121:2 121:2||r="TrNAP"||c="hemothorax" 121:5 121:5
+c="leni" 150:3 150:3||r="TrIP"||c="clots" 150:1 150:1
+c="drugs" 12:8 12:8||r="TrCP"||c="known allergies" 12:5 12:6

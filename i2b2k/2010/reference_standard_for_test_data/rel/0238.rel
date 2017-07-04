@@ -1,0 +1,52 @@
+c="medications" 41:45 41:45||r="TrCP"||c="acute paranoid and belligerent behavior" 41:36 41:40
+c="dye" 35:9 35:9||r="TrCP"||c="pulmonary edema" 35:4 35:5
+c="prozac" 41:22 41:22||r="TrIP"||c="underlying chronic depression" 41:17 41:19
+c="lidocaine" 61:22 61:22||r="TrAP"||c="ventricular tachycardia" 61:7 61:8
+c="lidocaine" 61:22 61:22||r="TrAP"||c="ischemic" 61:14 61:14
+c="ventricular tachycardia" 61:7 61:8||r="PIP"||c="ischemic" 61:14 61:14
+c="haldol" 52:18 52:18||r="TrAP"||c="his underlying psychiatric diagnoses" 52:9 52:12
+c="a 3/6 systolic murmur" 30:23 30:26||r="PIP"||c="aortic stenosis" 30:29 30:30
+c="ativan" 39:23 39:23||r="TrAP"||c="quite agitated" 39:13 39:14
+c="hydralazine" 56:11 56:11||r="TrIP"||c="shunting" 56:14 56:14
+c="lidocaine" 77:31 77:31||r="TrAP"||c="ventricular tachycardia" 77:6 77:7
+c="his chest x-ray" 55:3 55:5||r="TeRP"||c="severe pulmonary edema" 55:9 55:11
+c="gentamicin" 63:21 63:21||r="TrAP"||c="his purulent sputum" 63:8 63:10
+c="coronary artery bypass grafting" 19:17 19:20||r="TrAP"||c="coronary artery disease" 19:12 19:14
+c="coronary artery disease" 19:12 19:14||r="PIP"||c="congestive heart failure" 19:22 19:24
+c="coronary artery disease" 19:12 19:14||r="PIP"||c="pulmonary edema" 19:26 19:27
+c="aortic valve replacement" 19:8 19:10||r="TrAP"||c="aortic stenosis" 19:3 19:4
+c="epinephine" 77:21 77:21||r="TrAP"||c="ventricular tachycardia" 77:6 77:7
+c="chest x-ray" 49:0 49:1||r="TeRP"||c="pulmonary edema" 49:3 49:4
+c="ceftazidime" 63:19 63:19||r="TrAP"||c="his purulent sputum" 63:8 63:10
+c="his pacer" 64:23 64:24||r="TrCP"||c="an r and t phenomenon" 64:17 64:21
+c="porcine aortic valve replacement" 22:11 22:14||r="TrAP"||c="congestive heart failure" 22:5 22:7
+c="morphine" 35:17 35:17||r="TrAP"||c="pulmonary edema" 35:4 35:5
+c="compressions" 73:21 73:21||r="TrAP"||c="emv" 73:9 73:9
+c="effusion" 30:21 30:21||r="PIP"||c="decreased breath sounds at the right base" 30:12 30:18
+c="transthoracic echo" 38:0 38:1||r="TeRP"||c="mild aortic insufficiency" 38:17 38:19
+c="transthoracic echo" 38:0 38:1||r="TeRP"||c="global hypokinesis" 38:29 38:30
+c="patent left internal mammary artery graft to the left circumflex" 33:16 33:25||r="TrAP"||c="native three vessel disease" 33:11 33:14
+c="cardiology evaluation" 64:0 64:1||r="TeCP"||c="the patient &apos;s increasing ventricular ectopy" 64:4 64:9
+c="the patient &apos;s increasing ventricular ectopy" 64:4 64:9||r="PIP"||c="prolonged qt interval" 64:29 64:31
+c="the patient &apos;s increasing ventricular ectopy" 64:4 64:9||r="PIP"||c="an r and t phenomenon" 64:17 64:21
+c="high oxygen requirement" 48:17 48:19||r="PIP"||c="relatively hypoxemic" 48:14 48:15
+c="the patient &apos;s rhythm" 77:0 77:3||r="TeRP"||c="ventricular tachycardia" 77:6 77:7
+c="the catheter tip" 33:35 33:37||r="TrCP"||c="dissection of the left main" 33:27 33:31
+c="lasix" 35:15 35:15||r="TrAP"||c="pulmonary edema" 35:4 35:5
+c="atropine" 77:26 77:26||r="TrAP"||c="ventricular tachycardia" 77:6 77:7
+c="nitroglycerin" 35:21 35:21||r="TrAP"||c="pulmonary edema" 35:4 35:5
+c="cardiac catheterization" 32:0 32:1||r="TeRP"||c="elevated right and left-sided filling pressures" 32:3 32:8
+c="cardiac catheterization" 32:0 32:1||r="TeRP"||c="pulmonary hypertension" 32:13 32:14
+c="vancomycin" 63:17 63:17||r="TrAP"||c="his purulent sputum" 63:8 63:10
+c="his chest x-ray" 62:0 62:2||r="TeRP"||c="pulmonary infiltrate" 62:6 62:7
+c="nitrates" 61:20 61:20||r="TrAP"||c="ventricular tachycardia" 61:7 61:8
+c="nitrates" 61:20 61:20||r="TrAP"||c="ischemic" 61:14 61:14
+c="nipride" 56:6 56:6||r="TrWP"||c="shunting" 56:14 56:14
+c="oxygen" 35:19 35:19||r="TrAP"||c="pulmonary edema" 35:4 35:5
+c="microvascular infarct" 41:33 41:34||r="PIP"||c="underlying organ brain vulnerability" 41:24 41:27
+c="evaluation" 63:6 63:6||r="TeCP"||c="his purulent sputum" 63:8 63:10
+c="levophed" 73:15 73:15||r="TrAP"||c="emv" 73:9 73:9
+c="the probe" 37:20 37:21||r="TrNAP"||c="anxiety-he" 37:16 37:16
+c="thoracotomy instruments" 74:17 74:18||r="TrAP"||c="tamponade" 74:13 74:13
+c="marginal oxygenation" 58:20 58:21||r="PIP"||c="acutely hypoxic" 58:14 58:15
+c="a coronary artery bypass graft" 21:22 21:26||r="TrAP"||c="a small myocardial infarction" 21:10 21:13

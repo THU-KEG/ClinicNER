@@ -1,0 +1,30 @@
+c="ct scan" 49:27 49:28||r="TeRP"||c="fluid and gas in the endometrial cavity" 49:30 49:36
+c="ct scan" 49:27 49:28||r="TeCP"||c="continued abdominal pain" 49:23 49:25
+c="bacterial vaginosis" 14:11 14:12||r="PIP"||c="continuing vaginal discharge" 14:3 14:5
+c="her blood cultures" 56:6 56:8||r="TeRP"||c="gram-positive cocci in pairs and clusters" 56:17 56:22
+c="her blood cultures" 56:6 56:8||r="TeRP"||c="positive" 56:11 56:11
+c="positive" 56:11 56:11||r="PIP"||c="gram-positive cocci in pairs and clusters" 56:17 56:22
+c="flagyl" 14:25 14:25||r="TrAP"||c="bacterial vaginosis" 14:11 14:12
+c="flagyl" 14:25 14:25||r="TrAP"||c="continuing vaginal discharge" 14:3 14:5
+c="dilatation and curettage" 29:0 29:2||r="TrAP"||c="sab" 29:6 29:6
+c="her sedimentation rate" 53:0 53:2||r="TeRP"||c="elevated" 53:4 53:4
+c="treatment" 20:32 20:32||r="TrAP"||c="fluid" 20:13 20:13
+c="treatment" 20:32 20:32||r="TrAP"||c="gas in the endometrial cavity" 20:17 20:21
+c="admission" 20:34 20:34||r="TrAP"||c="fluid" 20:13 20:13
+c="admission" 20:34 20:34||r="TrAP"||c="gas in the endometrial cavity" 20:17 20:21
+c="clindamycin" 57:12 57:12||r="TrAP"||c="staphylococcus coag-negative" 57:3 57:4
+c="gentamicin" 57:10 57:10||r="TrAP"||c="staphylococcus coag-negative" 57:3 57:4
+c="further identification" 57:0 57:1||r="TeRP"||c="staphylococcus coag-negative" 57:3 57:4
+c="the anaerobic culture" 56:13 56:15||r="TeRP"||c="gram-positive cocci in pairs and clusters" 56:17 56:22
+c="the anaerobic culture" 56:13 56:15||r="TeRP"||c="positive" 56:11 56:11
+c="embolization" 28:4 28:4||r="TrAP"||c="fibroid uterus" 28:0 28:1
+c="drainage" 65:1 65:1||r="TrAP"||c="the abscess" 65:3 65:4
+c="a ct scan of her abdomen" 20:4 20:9||r="TeRP"||c="fluid" 20:13 20:13
+c="a ct scan of her abdomen" 20:4 20:9||r="TeRP"||c="gas in the endometrial cavity" 20:17 20:21
+c="an abdomen and pelvis ct" 62:6 62:10||r="TeRP"||c="continued air in the endometrial cavity" 62:14 62:19
+c="an abdomen and pelvis ct" 62:6 62:10||r="TeRP"||c="the fundal fibroid" 62:22 62:24
+c="her pelvic examination" 46:0 46:2||r="TeRP"||c="some brownish discharge" 46:6 46:8
+c="uterine artery embolization" 13:5 13:7||r="TrAP"||c="fibroids" 13:12 13:12
+c="a pelvic ultrasound" 62:2 62:4||r="TeRP"||c="continued air in the endometrial cavity" 62:14 62:19
+c="a pelvic ultrasound" 62:2 62:4||r="TeRP"||c="the fundal fibroid" 62:22 62:24
+c="status post uterine artery embolization" 49:10 49:14||r="TrAP"||c="uterine fibroids" 49:19 49:20

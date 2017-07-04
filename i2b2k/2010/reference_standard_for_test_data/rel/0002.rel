@@ -1,0 +1,23 @@
+c="a follow-up ct scan" 79:0 79:3||r="TeRP"||c="hepatomegaly" 79:15 79:15
+c="a follow-up ct scan" 79:0 79:3||r="TeRP"||c="splenomegaly" 79:13 79:13
+c="cardiovascular exam" 51:0 51:1||r="TeRP"||c="murmur" 51:9 51:9
+c="a stone" 81:11 81:12||r="PIP"||c="the cyst" 81:15 81:16
+c="iv ceftriaxone" 78:17 78:18||r="TrAP"||c="her left calf lesion" 78:6 78:9
+c="po doxycycline" 78:23 78:24||r="TrAP"||c="her left calf lesion" 78:6 78:9
+c="lipase" 64:0 64:0||r="TeRP"||c="elevated" 64:2 64:2
+c="urinalysis" 70:0 70:0||r="TeRP"||c="positive for protein" 70:2 70:4
+c="ddi" 22:17 22:17||r="TrCP"||c="vomiting" 22:15 22:15
+c="ddi" 22:17 22:17||r="TrCP"||c="pancytopenia" 22:13 22:13
+c="her alkaline phosphatase" 29:0 29:2||r="TeRP"||c="slightly elevated" 29:4 29:5
+c="her amylase" 30:0 30:1||r="TeRP"||c="mildly elevated" 30:3 30:4
+c="a long-standing complaint" 17:15 17:17||r="PIP"||c="nausea" 17:10 17:10
+c="a long-standing complaint" 17:15 17:17||r="PIP"||c="vomiting" 17:12 17:12
+c="an evaluation" 32:28 32:29||r="TeCP"||c="new abscess in her left lower calf" 32:31 32:37
+c="any anti retroviral therapy" 22:4 22:7||r="TrNAP"||c="vomiting" 22:15 22:15
+c="any anti retroviral therapy" 22:4 22:7||r="TrNAP"||c="pancytopenia" 22:13 22:13
+c="resection" 21:13 21:13||r="TrAP"||c="an abscess in the left lower extremity" 21:15 21:21
+c="the pain" 25:2 25:3||r="PIP"||c="a burning pain" 25:5 25:7
+c="a debridement" 78:3 78:4||r="TrAP"||c="her left calf lesion" 78:6 78:9
+c="percocet" 77:15 77:15||r="TrAP"||c="some pain" 77:9 77:10
+c="a ct scan" 27:5 27:7||r="TeRP"||c="fatty infiltration of her liver diffusely" 27:10 27:15
+c="a ct scan" 27:5 27:7||r="TeRP"||c="a 1 cm cyst in the right lobe of the liver" 27:17 27:27

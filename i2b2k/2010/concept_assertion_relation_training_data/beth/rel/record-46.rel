@@ -1,0 +1,52 @@
+c="abdominal pain" 21:7 21:8||r="PIP"||c="nausea" 21:15 21:15
+c="abdominal pain" 21:7 21:8||r="PIP"||c="vomiting" 21:17 21:17
+c="his pancreatitis" 21:11 21:12||r="PIP"||c="abdominal pain" 21:7 21:8
+c="two ct scans" 16:4 16:6||r="TeRP"||c="an enlargement of the head of his pancreas" 16:12 16:19
+c="an ercp" 14:37 14:38||r="TeCP"||c="a cystic lesion" 14:42 14:44
+c="morphine sulfate" 56:7 56:8||r="TrCP"||c="allergic" 56:3 56:3
+c="ciprofloxacin" 56:5 56:5||r="TrCP"||c="allergic" 56:3 56:3
+c="a ct scan angiogram" 100:4 100:7||r="TeCP"||c="pseudocyst" 100:14 100:14
+c="a ct scan angiogram" 100:4 100:7||r="TeCP"||c="enlarged pancreas head" 100:16 100:18
+c="intravenous antibiotics" 124:16 124:17||r="TrAP"||c="a documented alpha streptococcal septicemia" 124:20 124:24
+c="abdominal examination" 70:0 70:1||r="TeRP"||c="nondistended" 70:7 70:7
+c="abdominal examination" 70:0 70:1||r="TeRP"||c="nontender" 70:9 70:9
+c="work-up" 14:40 14:40||r="TeCP"||c="a cystic lesion" 14:42 14:44
+c="droperidol" 56:10 56:10||r="TrCP"||c="allergic" 56:3 56:3
+c="sphincterotomy" 132:8 132:8||r="TrAP"||c="pancreatitis" 132:1 132:1
+c="the patient 's blood cultures" 32:0 32:4||r="TeRP"||c="streptococcus sanguis-gordonii" 32:10 32:11
+c="ct scan" 29:20 29:21||r="TeRP"||c="a dilated common bile duct" 29:10 29:14
+c="ct scan" 14:52 14:53||r="TeRP"||c="a cystic lesion" 14:42 14:44
+c="an ultrasound" 29:0 29:1||r="TeRP"||c="wall thickening" 29:7 29:8
+c="an ultrasound" 29:0 29:1||r="TeRP"||c="a dilated common bile duct" 29:10 29:14
+c="an mrcp" 28:2 28:3||r="TeRP"||c="stones" 28:10 28:10
+c="a hida scan" 24:0 24:2||r="TeRP"||c="no flow" 24:4 24:5
+c="a hida scan" 24:0 24:2||r="TeRP"||c="pancreatitis" 24:9 24:9
+c="a hida scan" 24:0 24:2||r="TeRP"||c="common bile duct obstruction" 24:11 24:14
+c="his complete blood count" 23:0 23:3||r="TeRP"||c="11% bandemia" 23:5 23:6
+c="successful extraction" 98:3 98:4||r="TrIP"||c="stone fragments" 98:6 98:7
+c="pancreatitis" 15:27 15:27||r="PIP"||c="abdominal pain" 15:19 15:20
+c="urinalysis" 91:0 91:0||r="TeRP"||c="trace glucose" 91:2 91:3
+c="urinalysis" 91:0 91:0||r="TeRP"||c="ketones" 91:6 91:6
+c="urinalysis" 91:0 91:0||r="TeRP"||c="red cells" 91:9 91:10
+c="urinalysis" 91:0 91:0||r="TeRP"||c="white cells" 91:13 91:14
+c="this procedure" 99:3 99:4||r="TrCP"||c="complications" 99:9 99:9
+c="an ultrasound guided biopsy" 101:35 101:38||r="TeCP"||c="malignancy" 101:27 101:27
+c="an ultrasound guided biopsy" 101:35 101:38||r="TeCP"||c="this mass" 101:40 101:41
+c="malignancy" 101:27 101:27||r="PIP"||c="this mass" 101:40 101:41
+c="chronic pancreatitis" 96:13 96:14||r="PIP"||c="dilated pancreatic ducts" 96:6 96:8
+c="chronic pancreatitis" 96:13 96:14||r="PIP"||c="calcifications" 96:10 96:10
+c="calcifications" 96:10 96:10||r="PIP"||c="dilated pancreatic ducts" 96:6 96:8
+c="esophageal dilatation" 39:5 39:6||r="TrAP"||c="stricture" 39:8 39:8
+c="any pain medications" 106:8 106:10||r="TrAP"||c="pain" 106:3 106:3
+c="this study" 101:3 101:4||r="TeRP"||c="a forming pseudocyst" 101:18 101:20
+c="chronic pancreatitis" 94:17 94:18||r="PIP"||c="mild biliary stricture" 94:10 94:12
+c="this examination" 94:1 94:2||r="TeRP"||c="mild biliary stricture" 94:10 94:12
+c="this study" 116:7 116:8||r="TeRP"||c="other abnormalities" 116:3 116:4
+c="a endocarditis work-up" 113:9 113:11||r="TeCP"||c="this documented septicemia" 113:1 113:3
+c="pancreas protocol" 100:9 100:10||r="TeCP"||c="pseudocyst" 100:14 100:14
+c="pancreas protocol" 100:9 100:10||r="TeCP"||c="enlarged pancreas head" 100:16 100:18
+c="blood cultures" 124:28 124:29||r="TeRP"||c="a documented alpha streptococcal septicemia" 124:20 124:24
+c="a transthoracic echocardiogram" 114:2 114:4||r="TeRP"||c="vegetations" 114:8 114:8
+c="this echocardiogram" 115:1 115:2||r="TeRP"||c="mildly dilated left atrium" 115:9 115:12
+c="this echocardiogram" 115:1 115:2||r="TeRP"||c="mild symmetric left ventricular hypertrophy" 115:14 115:18
+c="this echocardiogram" 118:1 118:2||r="TeRP"||c="valvular vegetations" 118:14 118:15

@@ -1,0 +1,55 @@
+Admission Date :
+2012-04-27
+Discharge Date :
+2012-04-30
+Date of Birth :
+1933-02-05
+Sex :
+F
+Service :
+Neurosurgery
+HISTORY OF PRESENT ILLNESS :
+Patient is a 79 - year-old female with a history of cataracts , glaucoma , and diabetes , who fell and tripped over a wheelchair of a friend with no loss of consciousness , no dizziness , no chest pain , and no shortness of breath .
+PHYSICAL EXAM :
+She was afebrile .
+Heart rate was 77 .
+Blood pressure 132/48 .
+Respiratory rate was 17 .
+Sats 96% on room air .
+Her temperature was 97.6 .
+She neurologically , she had a nonfocal neurologic examination .
+Her cardiovascular was regular rate and rhythm .
+Her pulmonary :
+Chest was clear to auscultation bilaterally .
+Extremities :
+No cyanosis , clubbing , or edema .
+Head CT showed a front focal hemorrhage in the left occipital lobe adjacent to the falx with intraparenchymal hemorrhage or epidural or subdural hemorrhage near the falx with no shift .
+CT of the C spine was negative and her cervical spine was cleared .
+HOSPITAL COURSE :
+She was admitted to the ICU for close neurosurgical and neurological observation .
+She remained neurologically stable .
+Repeat head CT showed stable bleed .
+The patient was transferred to the regular floor .
+She was out of bed ambulating , tolerating a regular diet , voiding spontaneously .
+She will be discharged to home with followup with Dr. Wilson in two weeks with a repeat head CT .
+MEDICATIONS ON DISCHARGE :
+1. Levofloxacin 250 mg p.o. q.24h. x3 days .
+2. Dilantin 100 mg p.o. t.i.d.
+3. Colace 100 mg p.o. b.i.d.
+4. Timoptic 0.25 one drop O.U. b.i.d.
+5. Lantoprost 0.005 ophthalmic solution one drop O.U. q.h.s.
+6. Zantac 150 mg p.o. b.i.d.
+7. Insulin-sliding scale as well as 40 units of Humalog in the a.m. and 20 at night .
+CONDITION ON DISCHARGE :
+Stable .
+FOLLOW-UP INSTRUCTIONS :
+She will follow up with Dr. Perez in two weeks with repeat head CT .
+Danvers T Sharp , M.D.
+16-530
+Dictated By : David GA Crane , M.D.
+MEDQUIST36
+D : 2012-04-30 11:30
+T : 2012-05-01 08:13
+JOB #: 10027
+Signed electronically by : DR. Margarita Martin on : TUE 2012-06-05 8:08 AM
+( End of Report )

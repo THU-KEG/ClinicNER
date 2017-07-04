@@ -1,0 +1,65 @@
+071051340
+CTMC
+24840812
+370376
+11/10/1991 12:00:00 AM
+Discharge Summary
+Signed
+DIS
+Admission Date :
+11/10/1991
+Report Status :
+Signed
+Discharge Date :
+11/12/1991
+DIAGNOSIS :
+STATUS POST OMAYA RESERVOIR .
+SMALL CELL CANCER OF THE BRAIN .
+HISTORY OF PRESENT ILLNESS :
+The patient was a 66 year old right-handed female with a history of small cell carcinoma , who comes in for placement of an Omaya reservoir .
+The patient was in her usual state of health until 1988 , when she developed flu-like symptoms .
+Chest x-ray at that time was negative .
+Bronchoscopy was performed showing small cell carcinoma .
+The patient was doing well status post radiation therapy and chemotherapy , when she began to develop severe headaches .
+A computerized tomography scan at that time revealed multiple metastatic lesions .
+The patient was admitted for placement of an Omaya reservoir for delivery of central nervous system chemotherapy .
+PAST MEDICAL HISTORY revealed hypertension .
+PAST SURGICAL HISTORY included total abdominal hysterectomy and bilateral salpingo-oophorectomy .
+MEDICATIONS ON ADMISSION included Tenormin , Decadron , hydrochlorothiazide .
+ALLERGIES are no known drug allergies .
+PHYSICAL EXAMINATION :
+The patient was well nourished , well developed , with some dry skin on the left side .
+Head , eyes , ears , nose and throat examination revealed alopecia , normocephalic , atraumatic .
+Lungs were clear .
+Heart examination showed regular rate and rhythm , S1 , S2 , no murmurs .
+Abdomen was soft , nontender , nondistended , bowel sounds were present .
+Rectal examination was guaiac negative with normal tone .
+Neurologic examination revealed her speech and mental status were within normal limits , oriented times 3 , attentive with good calculations , intact memory .
+Cranial nerves showed visual fields were full , pupils were equally round and reacted to light , extraocular movements intact without nystagmus and face was symmetric .
+Motor and sensory branches of cranial nerve V were intact .
+Hearing was intact bilaterally , palate and uvula and tongue were midposition , and she had V / V strength in the neck .
+Motor examination showed her right upper extremity strength was IV / V in all muscle groups .
+In her left upper extremity , strength was V / V in all muscle groups .
+In the right lower extremity strength was V / V in all muscle groups , and in the left lower extremity strength was IV / IV in all muscle groups .
+Finger-nose was intact bilaterally .
+Reflexes were symmetric .
+Sensory examination was intact to all modalities .
+Gait was unsteady and she required assistance .
+HOSPITAL COURSE :
+The patient was admitted for placement of an Omaya reservoir .
+Medications given were as stated above .
+DISPOSITION :
+CONDITION ON DISCHARGE was stable .
+The patient was to FOLLOW-UP with Dr. Sta O. Tongue for staple removal .
+The patient was to FOLLOW-UP with her oncologist .
+UN645/3206 STA O. END , M.D. ED16
+D :
+11/11/91
+Batch :
+7978
+Report :
+G2571K82
+T :
+11/15/91
+Dicatated By :
+NU L. JESCRALN , M.D.

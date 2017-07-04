@@ -1,0 +1,7 @@
+c="exaggerated physiologic hyperbilirubinemia" 77:1 77:3||t="problem"||a="present"
+c="murmur" 20:6 20:6||t="problem"||a="absent"
+c="jaundice" 18:11 18:11||t="problem"||a="absent"
+c="influenza" 74:19 74:19||t="problem"||a="hypothetical"
+c="murmur" 35:10 35:10||t="problem"||a="absent"
+c="hepatosplenomegaly" 22:8 22:8||t="problem"||a="absent"
+c="nontender" 22:5 22:5||t="problem"||a="absent"

@@ -1,0 +1,13 @@
+c="cardiac enzymes" 34:17 34:18||r="TeRP"||c="elevated" 34:20 34:20
+c="a repeat chest ct" 47:3 47:6||r="TeRP"||c="the thymoma" 47:14 47:15
+c="shortness of breath" 36:5 36:7||r="PIP"||c="respiratory failure" 36:12 36:13
+c="100% nonrebreather" 36:18 36:19||r="TrAP"||c="shortness of breath" 36:5 36:7
+c="100% nonrebreather" 36:18 36:19||r="TrAP"||c="respiratory failure" 36:12 36:13
+c="chest x-ray" 34:9 34:10||r="TeRP"||c="left lower lobe infiltrate" 34:12 34:15
+c="shortness of breath" 33:3 33:5||r="PIP"||c="respiratory distress" 33:21 33:22
+c="resection" 20:8 20:8||r="TrAP"||c="colon cancer" 20:3 20:4
+c="resection" 18:7 18:7||r="TrAP"||c="thymoma" 18:3 18:3
+c="myasthenia gravis" 40:13 40:14||r="PIP"||c="thymoma" 40:20 40:20
+c="cardiac catheterization" 35:16 35:17||r="TeRP"||c="disease" 35:22 35:22
+c="iv ig" 40:4 40:5||r="TrAP"||c="myasthenia gravis" 40:13 40:14
+c="iv solu-medrol" 40:7 40:8||r="TrAP"||c="myasthenia gravis" 40:13 40:14

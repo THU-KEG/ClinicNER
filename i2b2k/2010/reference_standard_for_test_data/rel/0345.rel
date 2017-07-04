@@ -1,0 +1,14 @@
+c="heart rate" 41:9 41:10||r="TeRP"||c="irregular" 41:13 41:13
+c="reflexes" 55:0 55:0||r="TeRP"||c="down on the right side" 55:2 55:6
+c="verbal stimuli" 48:7 48:8||r="TeRP"||c="unresponsive" 48:5 48:5
+c="mr studies" 61:0 61:1||r="TeRP"||c="multiple smaller posterior circulation infarctions" 61:11 61:15
+c="mr studies" 61:0 61:1||r="TeRP"||c="a large left middle cerebral artery infarction" 61:3 61:9
+c="a large left middle cerebral artery infarction" 61:3 61:9||r="PIP"||c="multiple smaller posterior circulation infarctions" 61:11 61:15
+c="lumpectomy" 27:6 27:6||r="TrAP"||c="breast cancer" 27:1 27:2
+c="imaging studies" 21:15 21:16||r="TeRP"||c="mass effect" 21:33 21:34
+c="imaging studies" 21:15 21:16||r="TeRP"||c="midline shift" 21:36 21:37
+c="imaging studies" 21:15 21:16||r="TeRP"||c="posterior cerebral artery distribution cerebral infarction" 21:26 21:31
+c="posterior cerebral artery distribution cerebral infarction" 21:26 21:31||r="PIP"||c="mass effect" 21:33 21:34
+c="posterior cerebral artery distribution cerebral infarction" 21:26 21:31||r="PIP"||c="midline shift" 21:36 21:37
+c="left brachial artery embolectomy" 20:22 20:25||r="TrAP"||c="a cold distal left upper extremity" 20:6 20:11
+c="atrial emboli" 14:23 14:24||r="PIP"||c="atrial fibrillation" 14:12 14:13

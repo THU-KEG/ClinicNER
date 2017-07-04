@@ -1,0 +1,12 @@
+c="electrographic evidence" 92:3 92:4||r="TeRP"||c="seizure activity" 92:6 92:7
+c="the eeg" 91:0 91:1||r="TeRP"||c="transient sharp waves in the left front" 91:3 91:9
+c="their evaluation" 69:17 69:18||r="TeRP"||c="gastroesophageal reflux" 69:25 69:26
+c="seizures" 88:8 88:8||r="PIP"||c="dusky episodes" 88:13 88:14
+c="zoloft" 17:13 17:13||r="TrAP"||c="depression" 17:8 17:8
+c="a second episode" 28:0 28:2||r="PIP"||c="pale" 28:8 28:8
+c="a serum bilirubin" 77:7 77:9||r="TeRP"||c="mild physiologic jaundice" 77:3 77:5
+c="a keyhole appearance" 38:12 38:14||r="PIP"||c="a coloboma" 38:17 38:18
+c="this episode" 27:0 27:1||r="PIP"||c="gagging motions" 27:6 27:7
+c="this left martha coloboma" 98:3 98:6||r="PIP"||c="an isolated anomaly" 98:9 98:11
+c="unequal in size" 38:8 38:10||r="PIP"||c="a keyhole appearance" 38:12 38:14
+c="unequal in size" 38:8 38:10||r="PIP"||c="a coloboma" 38:17 38:18

@@ -1,0 +1,103 @@
+269463740
+CTMC
+30126980
+954181
+01/13/1990 12:00:00 AM
+Discharge Summary
+Signed
+DIS
+Admission Date :
+01/13/1990
+Report Status :
+Signed
+Discharge Date :
+01/20/1990
+DIAGNOSIS :
+RECURRENT DISLOCATION OF LEFT TOTAL HIP PROSTHESIS .
+HISTORY OF PRESENT ILLNESS :
+As per RMC patient notes .
+The patient is a 58 year old white male auto mechanic who presents with recurrent dislocation of a left total hip replacement .
+The patient is status post bilateral total hip replacements by Dr. Rojesc .
+The patient states that his positions of dislocation have been with flexion and usually internal rotation and some adduction .
+The patient states that he had a recent episode approximately one month prior to admission which resulted in his referral to Dr. Wedge .
+The patient states that his hips are otherwise asymptomatic and do not cause him any problems except for when they dislocate during which times they are particularly uncomfortable and painful .
+PAST MEDICAL HISTORY :
+(1) Incomplete right bundle branch block .
+(2) Status post cerebrovascular accident in November of 1989 .
+This was an transient ischemic attack with a left temporal lobe infarct and chronic obstructive pulmonary disease as well .
+The patient has recently undergone repeat carotid studies at the Umsishipcilard Memorial Hospital which revealed no changes since the one performed in November of 1989 .
+At that time , the study revealed an occlusion of the left internal carotid .
+The right internal carotid had a 15% nonhemodynamic stenosis .
+The patient has also experienced transient ischemic attacks .
+PAST SURGICAL HISTORY :
+Is significant for bilateral total hip replacements .
+MEDICATIONS ON ADMISSION :
+One Aspirin p.o. q.d.
+ALLERGIES :
+There are no known drug allergies .
+SOCIAL HISTORY :
+The patient is a 1 1/2 pack per day smoker .
+he drinks approximately two beers per night .
+REVIEW OF SYSTEMS :
+Was essentially negative .
+PHYSICAL EXAMINATION :
+The patient is a 58 year old moderately obese but healthy appearing white male .
+The skin was clear .
+No nodes were palpable .
+HEENT exam revealed the patient to be normocephalic and atraumatic .
+The pupils were equal , round , and reactive to light .
+The extraocular eye muscles were intact .
+The tympanic membranes were clear .
+The thyroid was without nodules or enlargement .
+The lungs were clear to auscultation , except for bilateral fine rales at the bases .
+Heart exam revealed a normal rate and rhythm with normal S1 and S2 .
+No murmurs were audible .
+Pulses were 3+ bilaterally .
+The abdomen was soft , obese , nontender , nondistended , no masses were noted .
+Musculoskeletal exam was deferred to Dr. Mo &apos;s exam , however , this portion of the examination does not appear in the RMC typed notes provided in the chart .
+LABORATORY EXAMINATION :
+On admission were noted to be as follows :
+white blood count 7.1 , hematocrit 36.8 , PT and PTT of 10.4 and 20.2 respectively .
+Electrolytes revealed a sodium of 135 , potassium 4.7 , chloride 97 , CO2 20 .
+BUN and creatinine were 25 and 1.3 respectively .
+The urinalysis was clear .
+No ECG or chest x-ray were available on the patient &apos;s chart at this time .
+HOSPITAL COURSE :
+OPERATIONS :
+The patient was brought to the operating room on the first hospital day , being 01/13/90 , and underwent a revision of the left acetabular component of his left total hip replacement .
+Total blood loss was estimated at 600 cc .
+The patient tolerated the procedure quite well .
+On postoperative day one , the Hemovac drain was removed .
+The patient &apos;s postoperative hematocrit was noted to be 27.2 .
+Cultures of the left hip obtained intraoperatively were negative .
+The patient was transfused with one unit of autologous blood for his hematocrit of 27.2 .
+On postoperative day two , the dressing was changed , and the wound was noted to be clean and dry .
+The patient tolerated his blood transfusion quite well .
+On postoperative day three , the patient was complaining of significant anterior left thigh pain which was attributed to traction and pressure during the operation .
+Post transfusion hematocrit was 29.6 .
+The range of motion on postoperative day three was 55 degrees of flexion and 8 degrees of abduction .
+The patient was able to dangle his legs although with some degree of discomfort .
+By postoperative day five , the patient was ambulating with the assistance of crutches .
+He was able to flex his hips from 0 to 80 degrees .
+The left anterior thigh pain had resolved to some extent .
+On postoperative day six , the patient complained of thigh spasms for which he was given Flexeril 10 mg p.o. t.i.d. with some relief .
+On postoperative day seven , the patient was ambulating up and down stairs with the assistance of crutches .
+He was determined by physical therapy to be ready for discharge .
+He was discharged on postoperative day seven in stable condition to home .
+DISPOSITION :
+AH services from Ha have been arranged for physical therapy three times per week for the next week .
+He is discharged with the physical therapy status being ambulating as tolerated with partial weight bearing of the left lower extremity with the assistance of crutches .
+DISCHARGE MEDICATIONS :
+Include those from admission plus Demerol 100 mg p.o. q4 hours p.r.n. pain and Flexeril 10 mg p.o. t.i.d. p.r.n. spasm .
+The patient has been instructed to followup with Dr. Mo in approximately four weeks&apos; time .
+________________________________ YQ187/4448 TELSHEY K. SWATLLEEBTIK , M.D. AK1
+D :
+01/20/90
+Batch :
+3353
+Report :
+O2153D8
+T :
+01/21/90
+Dicatated By :
+JUSONKIM SC , M.D.

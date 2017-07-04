@@ -1,0 +1,55 @@
+Admission Date :
+2014-05-12
+Discharge Date:
+Date of Birth :
+Sex :
+Service :
+ADMISSION DIAGNOSES :
+1. Congestive heart failure .
+2. Dilated cardiomyopathy .
+3. A 27 week intrauterine pregnancy .
+4. Chronic hypertension .
+5. Asthma .
+6. History of atrioseptal defect .
+HISTORY OF PRESENT ILLNESS :
+The patient is a 28 - year-old , gravida 3 , para 1 , at approximately 27 weeks gestation , who was admitted on 2014-05-12 due to increasing symptoms of congestive heart failure .
+She has known dilated cardiomyopathy with a baseline ejection fraction of approximately 25% .
+She had been managed as an outpatient during her pregnancy and was on multiple medications including Lasix 40 mg daily , Hydralazine 25 mg daily , Toprol XL 100 mg daily , digoxin 0.5 mg daily and Lovenox 40 mg twice daily subcutaneously .
+She also took albuterol on a p.r.n. basis for her asthma .
+She has known allergy to penicillin , vancomycin and erythromycin .
+She was evaluated upon presentation by the Maternal Fetal Medicine attending on call as well as by Cardiology .
+She was found to have symptoms of congestive heart failure as well as decreased fetal movement .
+Fetal monitoring initially on admission was appropriate for gestational age .
+PHYSICAL EXAMINATION :
+On physical exam , she was noted to have bilateral lower extremity edema , mildly elevated pressures in the 140 to 150/90 range , and jugular venous distension .
+HOSPITAL COURSE :
+After consultation with Cardiology as well as Anesthesia on call that evening , it was decided to transfer the patient to the ICU for intensive monitoring .
+Central IV access was obtained .
+The patient was carefully diuresed over the next 48 hours .
+Symptoms of congestive heart failure gradually abated over the next 48 to 72 hours .
+The patient was given antenatal corticosteroids for fetal lung maturity .
+A Neonatology consultation was obtained during the course of the hospitalization .
+After discussion , it was decided to attempt to obtain 28 weeks gestation and then deliver electively by cesarean section given the decompensation in the third trimester .
+The patient underwent primary low transverse cesarean section on 2014-05-19 at approximately 28 weeks gestation .
+The cesarean section was performed on the West Campus in the Cardiothoracic Surgical Suite .
+This was performed in this location in case any acute cardiac decompensation occurred during the time of cesarean section .
+Cardiothoracic Surgery was on standby during the surgery .
+The patient went to the cardiac Intensive Care Unit on the West Campus postoperatively .
+She did well during the postoperative period .
+She required several episodes of diuresis due to increasing shortness of breath on postoperative day #1 and postoperative day #2 due to worsening symptoms of shortness of breath from fluid shifts that normally occur during the postpartum period .
+The patient was transferred to the West Campus on postoperative day #2 in stable condition .
+She did well during the remainder of her postoperative course and was continued on her medication regimen that she had been on during the antepartum period .
+She was discharged to home on postoperative day #4 .
+She was to followup with Maternal Fetal Medicine in 5 to 7 days .
+She had followup with her primary cardiologist in Shaugnessy-Kaplan Rehab Hospital scheduled for 1 week postoperatively .
+Of note , the patient also underwent tubal ligation at the time of cesarean section .
+DISCHARGE MEDICATIONS :
+Toprol XL 100 mg daily , Hydralazine 25 mg daily , Lasix 40 mg twice a day , digoxin 0.75 mg daily , Lovenox 40 mg twice daily subcutaneously and albuterol p.r.n.
+Peter Richard , MD
+Dictated By : Michael O. Tucker , M.D.
+MEDQUIST36
+D : 2016-01-29 09:07:27
+T : 2016-01-29 09:49:48
+Job #: 72842
+Signed electronically by : DR. Homer Peterson on : FRI 2016-01-29 11:36 AM
+( End of Report )

@@ -1,0 +1,29 @@
+c="medical treatment" 80:44 80:45||r="TrWP"||c="acute coronary syndrome" 80:39 80:41
+c="tnk" 20:17 20:17||r="TrIP"||c="his pain" 20:21 20:22
+c="intra-aortic balloon pump placement" 80:74 80:77||r="TrAP"||c="acute coronary syndrome" 80:39 80:41
+c="percutaneous transluminal coronary angioplasty" 80:66 80:69||r="TrAP"||c="acute coronary syndrome" 80:39 80:41
+c="3-vessel percutaneous transluminal coronary angioplasty" 12:28 12:32||r="TrAP"||c="coronary artery disease" 12:14 12:16
+c="status post percutaneous transluminal coronary angioplasty" 27:8 27:13||r="TrAP"||c="coronary artery disease" 27:1 27:3
+c="status post angio-jet percutaneous transluminal coronary angioplasty" 80:50 80:56||r="TrAP"||c="acute coronary syndrome" 80:39 80:41
+c="tnk" 80:47 80:47||r="TrWP"||c="acute coronary syndrome" 80:39 80:41
+c="intra-aortic balloon pump" 63:4 63:6||r="TrCP"||c="tenderness" 63:20 63:20
+c="nitroglycerin drip" 20:8 20:9||r="TrIP"||c="his pain" 20:21 20:22
+c="stent of proximal left anterior descending artery" 80:58 80:64||r="TrAP"||c="acute coronary syndrome" 80:39 80:41
+c="heparin drip" 20:11 20:12||r="TrIP"||c="his pain" 20:21 20:22
+c="dilaudid" 20:14 20:14||r="TrIP"||c="his pain" 20:21 20:22
+c="pulmonary artery catheterization" 63:9 63:11||r="TrCP"||c="tenderness" 63:20 63:20
+c="catheterization results" 23:0 23:1||r="TeRP"||c="100% occlusion of the proximal left anterior descending artery" 23:3 23:11
+c="catheterization results" 23:0 23:1||r="TeRP"||c="50% stenosis of first diagonal" 23:13 23:17
+c="post catheterization echocardiogram" 76:0 76:2||r="TeRP"||c="moderate systolic dysfunction" 76:10 76:12
+c="post catheterization echocardiogram" 76:0 76:2||r="TeRP"||c="basal anterior hypokinesis" 76:14 76:16
+c="post catheterization echocardiogram" 76:0 76:2||r="TeRP"||c="mid anterior akinesis" 76:18 76:20
+c="post catheterization echocardiogram" 76:0 76:2||r="TeRP"||c="basal anteroseptal hypokinesis" 76:22 76:24
+c="post catheterization echocardiogram" 76:0 76:2||r="TeRP"||c="mid anteroseptal akinesis" 76:26 76:28
+c="aspirin" 20:6 20:6||r="TrIP"||c="his pain" 20:21 20:22
+c="iodine" 40:4 40:4||r="TrCP"||c="allergies" 40:0 40:0
+c="status post 2-vessel percutaneous transluminal coronary angioplasty" 12:18 12:24||r="TrAP"||c="coronary artery disease" 12:14 12:16
+c="penicillin" 40:2 40:2||r="TrCP"||c="allergies" 40:0 40:0
+c="electrocardiogram" 21:0 21:0||r="TeRP"||c="st elevations" 21:5 21:6
+c="electrocardiogram" 21:0 21:0||r="TeRP"||c="j point elevations in v2 through v4" 21:8 21:14
+c="electrocardiogram" 75:0 75:0||r="TeRP"||c="continued st elevations" 75:4 75:6
+c="electrocardiogram" 75:0 75:0||r="TeRP"||c="j point elevations in v2 through v3" 75:8 75:14

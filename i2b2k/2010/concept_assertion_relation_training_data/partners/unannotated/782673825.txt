@@ -1,0 +1,89 @@
+782673825
+TGCHO
+6617957
+93193/an52
+3/9/1994 12:00:00 AM
+VENTRICULAR TACHYCARDIA .
+Unsigned
+DIS
+Report Status :
+Unsigned
+ADMISSION DATE :
+3-9-94
+DISCHARGE DATE :
+3-20-94
+PRINCIPAL DIAGNOSIS :
+ventricular tachycardia .
+ASSOCIATED DIAGNOSIS :
+coronary artery disease , hypertension .
+SPECIAL PROCEDURES AND OPERATIONS :
+3-17-94 , implantation of an automatic implantable cardiac defibrillator .
+OTHER PROCEDURES :
+3-11-94 , right heart cardiac catheterization with comprehensive electrophysiology study and radio frequency ablation for ventricular tachycardia .
+DOCTORS DISCHARGE ORDERS :
+Zestril 5 mg PO q.day , Nitropatch .2 mg once daily , Sotalol 120 mg PO b.i.d. , Lasix 20 mg PO b.i.d. , Coumadin as directed .
+HISTORY OF PRESENT ILLNESS :
+The patient is a 72 year old male with a history of coronary artery disease .
+He had experienced three myocardial infarctions since 1988 .
+He presented with sustained monomorphic ventricular tachycardia in December , 1994 and was admitted to Tecal Galecounxopt Community Hospital .
+The coronary angiogram performed during his hospitalization had revealed 95% of left anterior descending artery disease and diffuse left circumflex disease .
+An echocardiogram had revealed an ejection fraction of 41% with apicalakinesis .
+He had undergone electrophysiology study and his incessant ventricular tachycardia was interrupted by transcatheter radio frequency ablation .
+After the ablation procedure , programmed stimulation had initiated another ventricular tachycardia with distinct surface QRS configuration but since there was no spontaneous ventricular tachycardia , the other forms were not pursued vigorously .
+The patient was discharged while on procainamide and Coumadin .
+On March 8 , he developed palpitations with shortness of breath and chest pain .
+The patient was admitted to an outside hospital in Xingwa Moineswest where a wide complex tachycardia with a rate of 160 beats per minute was demonstrated .
+The tachycardia had not responded to intravenous lidocaine or procainamide but has responded to intravenous verapamil .
+The patient was transferred to Tecal Galecounxopt Community Hospital for further evaluation .
+PAST MEDICAL HISTORY :
+The past medical history is notable for hypertension , left ventricular aneurysm and deep venous thrombosis which he experienced one month ago after the radio frequency ablation .
+PHYSICAL EXAMINATION :
+On admission physical examination , he was a well developed , well nourished elderly man in slightly dyspneic and uncomfortable condition .
+His blood pressure was 130/80 millimeters of mercury , and pulse was 80 beats per minute .
+The carotids were 2+ on both sides with bruits on each side .
+The jugular venous pressure was 7 centimeters .
+Lung examination revealed crackling rales over the bases of both lungs .
+Cardiovascular exam :
+normal Sl and S2 .
+The abdomen was benign .
+Extremities :
+no clubbing , cyanosis or edema .
+LABORATORY DATA :
+The chest X-ray showed mild cardiomegaly .
+HOSPITAL COURSE :
+The patient was admitted to the Step Down Unit .
+The patient continued to experience multiple episodes of sustained and nonsustained monomorphic ventricular tachycardia .
+Intravenous procainamide was started , which reduced the frequency and the duration of the ventricular tachycardia .
+On March 11 , the patient underwent an electrophysiology study .
+During the study , ventricular tachycardia with a cycle length of 510 milliseconds was reproducibly induced by extra stimuli delivered from the right ventricular apex .
+Pace mapping studies had demonstrated that the origin of the tachycardia to be in the inferior , lateral and apical left ventricle .
+After mapping of the tachycardia , radio frequency ablation was carried out with four current applications , terminating the ventricular tachycardia in three of the four times .
+After radio frequency ablation , no sustained ventricular tachycardias occurred .
+However , there were periods of supraventricular tachycardias with a rate of 160-180 beats per minute and the patient was placed on sotalol .
+Since the patient was known to have multiple different ventricular tachycardias , automatic implantable cardiac defibrillator therapy was also offered to the patient .
+The patient agreed to proceed with automatic implantable cardiac defibrillator therapy .
+On March 17 , the patient was taken to the Pacemaker Laboratory and a transvenous lead for the automatic implantable cardiac defibrillator ( CPI Endotak C 0074 ) was placed .
+Then , the patient was transferred to the operating room and a Ventak PRX model 1705 automatic implantable cardiac defibrillator system was implanted .
+The defibrillation threshold was less than or equal to 20 joules on several consecutive attempts .
+The patient &apos;s postoperative course was uneventful .
+On March 19 , the patient was taken back to the Electrophysiology Laboratory where noninvasive programmed stimulation and automatic implantable cardiac defibrillator testing were performed .
+Under brief propafol anesthesia , rapid ventricular tachycardia was induced by ramp pacing .
+This was properly detected and converted to normal sinus rhythm with a single 34 joule countershock .
+Three zones were programmed in the cardiac defibrillator .
+For tachycardias with heart rate between 110 and 140 beats per minute , no therapy was programmed .
+For tachycardias with heart rates between 140 and 175 , anti-tachycardia pacing followed by cardioversion is programmed .
+For tachycardias faster than 175 beats per minute , cardioversion and defibrillation was programmed .
+VVI pacing at 40 beats per minute was also programmed .
+The patient felt good on the morning of March 20 .
+The patient was discharged home in stable condition on the regimen described above .
+He will have his prothrombin time checked on Monday and will follow up with the Defibrillator Clinic .
+ANN BREUNA , M.D.
+DICTATING FOR :
+ICECA BACK , M.D.
+TR :
+od / bmot
+DD :
+3-20-94
+TD :
+03/23/94
+CC :

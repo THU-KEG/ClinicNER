@@ -1,0 +1,117 @@
+Admission Date :
+2017-05-14
+Discharge Date :
+2017-06-26
+Date of Birth :
+2017-05-14
+Sex :
+F
+Service :
+CMED CCU
+HISTORY OF PRESENT ILLNESS :
+Jadiara Harrison is twin #1 born to a 17 year-old primiparous mother at 31 weeks gestation .
+Mother was admitted to the Nantucket Cottage Hospital from Lawrence General Hospital Hospital on 05-01 with cervical effacement and preterm labor .
+She was treated with magnesium sulfate .
+She had previously been admitted here at the 24th week after a motor vehicle accident. She was treated with tocolysis and betamethasone at that time .
+Due to progressing labor and presentation of twins , delivery was by Cesarean section .
+Prenatal screens were notable for blood type 0 positive , antibody negative , hepatitis B surface antigen negative , RPR nonreactive .
+Rubella status was not documented .
+Group B strep status was unknown .
+Infant emerged from the breech position .
+She was vigorous .
+She was given blow-by oxygen and stimulation .
+Her Apgars were 7 at 1 minute and 9 at 5 minutes .
+She was brought to the CMED CSRU for further evaluation .
+PHYSICAL EXAMINATION :
+ON admission , physical examination reveals a non dysmorphic infant , well saturated and perfused with multiple bruises noted over the upper legs , left arm and chest .
+No bony abnormalities or petechiae noted .
+She was moving all joints and extremities well .
+HEENT :
+Within normal limits .
+CV :
+Normal S1 and S2 without a murmur .
+Lungs were clear .
+Abdomen was benign .
+Genitalia normal .
+Premature female .
+Neuro :
+Non focal and age appropriate .
+Hips normal , held in the breech position .
+Anus patent .
+Spine intact .
+HOSPITAL COURSE :
+Respiratory :
+On admission , infant did not require supplemental oxygen or respiratory support .
+Since that time , Jadiara has always been in room air without requiring supplemental oxygen .
+She was noted to have apnea of prematurity , treated with caffeine until 2017-06-04 .
+Since that time , she has had very rare spells , with none for over one week by the time of discharge .
+Cardiovascular :
+She was hemodynamically stable upon admission with normal blood pressures and heart rate .
+On day of life 15 , she was noted to have a murmur , eventually prompting evaluation by ECHO .
+The ECHO revealed an anomalous left coronary , with one end entering the right ventricular outflow tract and the other end not clearly defined .
+It was unable to be delineated whether this represented an anomalous left coronary artery arising from the pulmonary artery ( LCAPA ) or a left coronary artery fistula to the pulmonar artery .
+The right coronary was prominent , and there appeared to be coronary artery collateral vessels in the posterior apical myocardium .
+A small apical muscular VSD was also noted .
+Several additional ECHOs were performed , including an ECHO in the cardiology department at HealthSouth Rehab Hospital of Western Mass. , but the anatomy of the left coronary artery could not be further defined .
+Due to the risks of coronary ischemia if this represented an LCAPA , the infant was followed with regular ECHOs and EKGs during the remainder of hospitalization , with no evidence of ischemia , valvular regurgitation , or compromised ventricular function .
+She will be continued to be followed closely by cardiology as an outpatient , with likely plans for cardiac catheterization and surgical repair when she grows to 3.5 to 4 kg .
+Fluids , electrolytes and nutrition :
+The infant was initially maintained on IVF , with introduction of enteral feeds on day of life 2 .
+She was advanced to full volume enteral feeds by day of life 7 , and then to a maximum caloric density of 28 cals / oz .
+Oral feedings were introduced as tolerated .
+By the time of discharge , infant is feedign BM or enfamil 24 cals / oz PO ad lib , with adequate intake and adequate weight gain .
+Last nutrition labs were on 06-20 with AP of 208 , Ca 10.8 , and Phos 7.4.
+Gastrointestinal :
+The infant required phototherapy for hyperbilirubinemia through day of life 7 , with peak bilirubin of 7 / 0.3 on day of life 3 , and last bilirubin of 4.9 / 0.3 on day of life 9 .
+Hematologic / Infectious disease :
+CBC and blood culture were obtained upon admission revealing a white blood cell count of 9.0 with 25 polys and 0 bands ; hematocrit was 46.9% and platelets of 222,000 .
+Baby received 48 hours of Ampicillin and Gentamycin with negative cultures and a stable clinical course .
+Infant was treated with supplemental iron , and did not receive any blood transfusions .
+Last Hct was 30.6 on 06-20 with a reticulocyte count of 6.5%.
+Neurologic :
+Baby has been appropriate for gestational age .
+Social :
+Mother is 17 years old , and has been accompanied on the majority of her visits by her parents , both of whom are students .
+The infant 's maternal grandparents have been very involved in her care .
+Sensory :
+Initial opthalmologic exam on 06-05 revealed immature retinas in zone 3 , and repeat exam on 06-26 revealed mature retinas bilaterally .
+Infant passed hearing screen prior to discharge .
+CONDITION ON DISCHARGE :
+Good .
+DISCHARGE DISPOSITION :
+To home .
+PRIMARY PEDIATRICIAN :
+Dr. Robinson , Lawrence General Hospital Hospital
+Pediatrics , 4952 Washington St. in Dr. John C. Corrigan Mental Health Center .
+( 589 ) 690-3703 .
+CARE RECOMMENDATIONS :
+Diet :
+Enfamil or breast milk 24 calories per oz , with enfamil powder .
+Medications :
+Ferinsol 0.2 mL po qd .
+Newborn screen :
+Sent as per protocol; one specimen from 2017-05-28 returned with borderline low thyroxine , but repeat was within normal limits .
+Immunizations :
+Hepatitis B vaccine given 06-17 .
+Car seat :
+Car seat safety screening passed prior to discharge .
+Follow-up :
+Infant will follow-up with primary pediatrician within 2 days of discharge , and will see Dr. Dale Merkel of Pediatric Cardiology in Dr. John C. Corrigan Mental Health Center on 2017-07-07 at 1:30 pm .
+Due to breech presentation , a hip ultrasound can be considered in 2-4 weeks .
+DISCHARGE DIAGNOSES :
+1. Prematurity at 31 weeks , twin #1 .
+2. Breech presentation .
+3. Sepsis suspect ruled out with antibiotics .
+4. Physiologic jaundice .
+5. Apnea of prematurity .
+6. Anemia of prematurity .
+7. Aberrant left coronary artery .
+8. Muscular ventricular septal defect .
+Lisa Annie , MD 50ABQ
+Dictated By : Ehtel Z Ebert , M.D.
+MEDQUIST36
+D : 2017-06-02 03:49:08
+T : 2017-06-02 05:32:26
+Job # : 12559
+Signed electronically by : DR. Ann Nguyen on : TUE 2017-06-27 8:40 AM
+( End of Report )

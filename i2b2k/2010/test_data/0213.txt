@@ -1,0 +1,94 @@
+Admission Date :
+2019-10-10
+Discharge Date :
+2019-10-19
+Date of Birth :
+1994-01-10
+Sex :
+M
+Service :
+ORTHOPAEDICS
+Allergies :
+Patient recorded as having No Known Allergies to Drugs
+Attending : George G Lindsey , M.D.
+Chief Complaint : s/p fall with Left arm pain
+Major Surgical or Invasive Procedure :
+2019-10-11 :
+ORIF Left distal radius fracture
+History of Present Illness :
+Mr. Steadman is a 25 year old man who was locked out of his apartment and tried to enter by climbing up two stories to get in by a window .
+He fell 15-20 feet onto concrete , denies any loss of consiousness .
+Past Medical History : denies
+Social History :
++ETOH , had 12 cans of beer prior to accident
+Family History : n/a
+Physical Exam :
+Upon admission :
+Alert and oriented
+Cardiac :
+Tachycardiac 120-140 , regular
+Chest :
+Clear to auscultation
+Abdomen :
+Soft non-tender non-distended
+Extremities :
+Left elbow , gross deformity swelling over dorsal forearm , gross deformity left wrist , no skin lacerations .
+SILT
+R/U/M LUE
+Bilateral lower extremities :
++ sensation , movment , pulses , some pain with ROM
+Brief Hospital Course :
+Mr. Steadman is a 25 year old man who presented to the The Hospital for Orthopedics on
+2019-10-10 via ambulance after falling 15-20 feet onto concrete .
+He was evaluated by the trauma surgery department and the orthopaedic surgery department .
+He was intoxicated and tachycardic in the trauma bay .
+His injuries were identified as a left elbow disloaction with was reduced and splinted .
+Also a left distal radius fracture with was reduced and splinted .
+Also a Left non displaced sacral wing fracture and left inferior pubic ramus fx extending the to inferior acetabulum .
+He was admitted to the trauma intensive care unit due to his tachycardia which was not resolved with pain medication .
+On 2019-10-11 he was started on lopressor for his tachycardia which had good effect .
+He was then transfered to the floor in the care of the orthopaedic surgery service .
+Also on 2019-10-11 he was taken to the operating room for an ORIF of his left distal radius fracture .
+His pelvis fracture are closed treated and he can be weight bearing as tolerated on his right leg and and nonweight bearing on his left leg .
+He tolerated the procedure without difficulty .
+He begain to work with physical therapy to improve his strenght and mobility .
+His heart rate continued to be well controlled with his lopressor .
+Throught the stay his labs remained normal and his pain controlled .
+He was discharged home in stable conditions .
+He was instructed to follow up with Dr. Conway in 2 weeks and an appointment was made on 11-15 for him at the Louis Schubert Community Health Center to follow his heart rate and continued need for lopressor .
+Medications on Admission : none
+Discharge Medications :
+1. Docusate Sodium 100 mg Capsule Sig : One ( 1 ) Capsule PO BID ( 2 times a day ) .
+Disp :* 60 Capsule ( s )* Refills :* 2 *
+2. Enoxaparin 30 mg / 0.3 mL Syringe Sig : One ( 1 ) 30 mg syringe Subcutaneous Q12H ( every 12 hours ) for 4 weeks .
+Disp :* 56 30 mg syringe * Refills :* 0 *
+3. Oxycodone - Acetaminophen 5-325 mg Tablet Sig : 1-2 Tablets PO Q4-6H ( every 4 to 6 hours ) as needed .
+Disp :* 90 Tablet ( s )* Refills :* 0 *
+4. Metoprolol Tartrate 25 mg Tablet Sig : 0.5 Tablet PO BID ( 2 times a day ) .
+Disp :* 30 Tablet ( s )* Refills :* 0 *
+Discharge Disposition :
+Home
+Discharge Diagnosis : s/p fall from 15-20 feet
+Discharge Condition :
+Stable
+Discharge Instructions :
+Continue to be non-weight bearing on your left leg
+Continue to wear your left arm splint , but take it off daily to inspect your skin
+Continue your Lovenox injections as instructed
+If you notice any increase in swelling or erythemia at the incisions , or if you become short of breath or if you have a temperature greater than 101.4 please call the office or go to the emergency room
+Physical Therapy :
+Activity :
+Activity as tolerated
+Left upper extremity :
+Non weight bearing
+Non-weight bearing left leg
+Treatments Frequency : splint to left arm
+Followup Instructions :
+Please follow up with Dr. Bergeron in clinic in 2 weeks , please call 953 6923 to Posada that appointment .
+An appointment has been made for you with Nurse Daniel Crump at the Loretta Schubert Community Health Center on Friday Novemeber 24 at 2pm .
+It is located at 2249 S. Lincoln Ave. in Nantucket Cottage Hospital the phone to the clinic is ( 451 ) 376-3200 .
+They will monitor your blood pressure and heart rate and lopressor .
+Gregory Robert MD 06-807
+Completed by : Genevieve Gehlert PA 80-BZQ 2019-10-19 @ 1248
+Signed electronically by : DR. Ron Scott on : WED 2019-11-27 7:42 AM
+( End of Report )

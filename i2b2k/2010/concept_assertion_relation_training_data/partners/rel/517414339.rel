@@ -1,0 +1,22 @@
+c="the electrocardiogram" 103:0 103:1||r="TeRP"||c="atrial fibrillation" 103:3 103:4
+c="the electrocardiogram" 103:0 103:1||r="TeRP"||c="digitalis effect" 103:10 103:11
+c="the electrocardiogram" 103:0 103:1||r="TeRP"||c="left ventricular hypertrophy" 103:15 103:17
+c="the electrocardiogram" 103:0 103:1||r="TeRP"||c="slow ventricular response" 103:6 103:8
+c="increased calcium" 105:16 105:17||r="PIP"||c="hyperparathyroidism" 105:19 105:19
+c="some tingling in her hands" 112:14 112:18||r="PIP"||c="some tingling hear her perioral region" 112:21 112:26
+c="surgical evaluation" 39:9 39:10||r="TeCP"||c="her hyperparathyroidism" 39:12 39:13
+c="dilation and curettage" 60:1 60:3||r="TrAP"||c="polyps" 60:7 60:7
+c="physical examination" 90:1 90:2||r="TeRP"||c="acute distress" 90:11 90:12
+c="some dysphagia" 45:5 45:6||r="PIP"||c="some difficulties with swallowing" 45:11 45:14
+c="the review of systems" 84:0 84:3||r="TeRP"||c="dyspnea on exertion" 84:10 84:12
+c="bilateral total knee replacements" 53:7 53:10||r="TrAP"||c="osteoarthritis" 53:1 53:1
+c="calcium gluconate" 117:15 117:16||r="TrAP"||c="her ionized calcium decreased" 117:2 117:5
+c="preoperative evaluation" 41:22 41:23||r="TeRP"||c="a high calcium" 41:29 41:31
+c="hyperparathyroidism" 42:3 42:3||r="PIP"||c="an elevated pth" 42:7 42:9
+c="the head , eyes , ears , nose and throat examination" 92:0 92:10||r="TeRP"||c="irregular border" 92:17 92:18
+c="the head , eyes , ears , nose and throat examination" 92:0 92:10||r="TeRP"||c="very sluggishly reactive" 92:21 92:23
+c="further testing" 42:0 42:1||r="TeRP"||c="an elevated pth" 42:7 42:9
+c="further testing" 42:0 42:1||r="TeRP"||c="hyperparathyroidism" 42:3 42:3
+c="the surgery" 41:34 41:35||r="TrNAP"||c="a high calcium" 41:29 41:31
+c="markedly enlarged" 108:9 108:10||r="PIP"||c="an adenoma" 108:14 108:15
+c="parathyroidectomy" 105:23 105:23||r="TrAP"||c="hyperparathyroidism" 105:19 105:19

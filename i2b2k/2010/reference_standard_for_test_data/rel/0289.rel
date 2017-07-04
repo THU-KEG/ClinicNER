@@ -1,0 +1,12 @@
+c="his echocardiogram study results" 16:25 16:28||r="TeRP"||c="critical aortic stenosis" 16:20 16:22
+c="a cardiac catheterization" 16:4 16:6||r="TeRP"||c="hemodynamically significant coronary artery disease" 16:13 16:17
+c="a cardiac catheterization" 16:4 16:6||r="TeRP"||c="critical aortic stenosis" 16:20 16:22
+c="surgical options" 12:21 12:22||r="TrAP"||c="this condition" 12:25 12:26
+c="surgical options" 12:21 12:22||r="TrAP"||c="critical aortic stenosis" 12:8 12:10
+c="an echocardiogram" 15:3 15:4||r="TeRP"||c="critical fibrocalcific aortic stenosis" 15:9 15:12
+c="an echocardiogram" 15:3 15:4||r="TeRP"||c="1+ aortic and mitral insufficiency" 15:35 15:39
+c="the patient 's chest tubes" 47:6 47:10||r="TrCP"||c="complication" 47:14 47:14
+c="his incision" 55:0 55:1||r="PIP"||c="purulent drainage" 55:18 55:19
+c="his incision" 55:0 55:1||r="PIP"||c="cellulitis" 55:16 55:16
+c="penicillin" 32:5 32:5||r="TrCP"||c="allergic" 32:3 32:3
+c="oral pain medications" 57:16 57:18||r="TrIP"||c="his pain" 57:11 57:12

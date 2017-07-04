@@ -1,0 +1,123 @@
+﻿Admission Date :
+2016-03-30
+Discharge Date :
+2016-04-03
+Date of Birth :
+1951-08-19
+Sex :
+F
+Service :
+CCU
+HISTORY OF PRESENT ILLNESS :
+This is a 64-year-old female with a history of hypertension , hypercholesterolemia , diabetes mellitus , and dilated cardiomyopathy ( with a transthoracic echocardiogram in 2016-01-13 showing an ejection fraction of 40% , posterior and inferior apical akinesis , and large left ventricular thrombus ).
+The patient was admitted from 2016-01-21 to 2016-02-03 ; at which time she was ruled out for a myocardial infarction .
+She had a cardiac catheterization which revealed 3-vessel disease with normal left main , mid left anterior descending artery 60% , diffuse 90% mid distal stenosis at the origin of the diagonal , serial 70% and 90% left circumflex lesions , and 90% first obtuse marginal , and mid right coronary artery 60% .
+During initial evaluation for a coronary artery bypass graft , 80% to 90% of the right coronary artery stenosis was found ; for which she underwent a right internal carotid artery stent .
+She was discharged on Coumadin for a goal INR of 2.5 to 3 .
+She was then admitted again on 2016-03-30 for an elective coronary artery bypass graft .
+At surgery , the descending aorta was noted to be calcified , and an intraoperative transesophageal echocardiogram revealed an irregular intra-aortic pedunculated lesion .
+Given the elevated stroke risk of aortic cross-clamping in the setting of this finding , the plan for a bypass graft was aborted .
+The patient was then transferred to the Coronary Care Unit Service for medical management in anticipation of possible percutaneous coronary intervention later in the admission .
+PAST MEDICAL HISTORY :
+1. Diabetes mellitus .
+2. Hypertension .
+3. Hypercholesterolemia .
+4. Asthma .
+5. Chronic low back pain .
+6. Cholelithiasis .
+7. Coronary artery disease ( as noted previously ).
+8. Dilated cardiomyopathy ( also as noted above ).
+MEDICATIONS ON TRANSFER :
+1. Dopamine drip at 3 .
+2. Insulin drip at 2 .
+3. Regular 10 units intravenously q.6h. as needed .
+4. Percocet as needed .
+5. Sucralfate 1 g via nasogastric tube q.6h.
+6. Aspirin 325 mg p.o. once per day .
+7. Colace 100 mg p.o. twice per day .
+8. Flonase 2 puffs twice per day .
+9. Lipitor 10 mg p.o. once per day .
+10. Protonix 40 mg p.o. once per day .
+11. Plavix 75 mg p.o. once per day .
+ALLERGIES :
+No known drug allergies .
+SOCIAL HISTORY :
+Social history is positive for smoking .
+PHYSICAL EXAMINATION ON PRESENTATION :
+Physical examination revealed temperature was 99.3 , heart rate was 66 in a normal sinus rhythm , blood pressure was 132/51 , respiratory rate was 22 , and oxygen saturation was 100% on 3 liters nasal cannula .
+Swan showed a PA of 29/11 , SVR of 14/9 , cardiac output of 3.86 , cardiac index of 2.14 .
+Urine output of 30 cc to 100 cc per hour over the last four hours .
+Chest tube showed 30 cc per hour over the last four hours .
+In general , the patient was alert and oriented times three .
+In no apparent distress and denied pain .
+Head , eyes , ears , nose , and throat examination was without bruits .
+Lungs were clear to auscultation anteriorly .
+Heart was regular in rate and rhythm .
+Normal first heart sounds and second heart sounds .
+No audible murmurs .
+The abdomen was soft , nontender , and nondistended with active bowel sounds .
+Extremities were without edema .
+Neurologic examination was nonfocal .
+Lines included a right antecubital peripheral intravenous .
+Chest tube was in place in left internal jugular an pulmonary artery catheter .
+PERTINENT LABORATORY VALUES ON PRESENTATION :
+Laboratories revealed white blood cell count was 12.7 , hematocrit was 32.4 , platelets were 140 , and mean cell volume was 80 .
+Patient was 4.4 , blood urea nitrogen was 14 , creatinine was 0.6 , and glucose was 147 .
+INR was 1.2 , partial thromboplastin time was 23.7 , and prothrombin time was 13.4 .
+Free calcium was 0.95 on 03-30 .
+Phosphate was 3.6 and magnesium was 2.2 .
+Arterial blood gas at 3 a.m. demonstrated 7.4/45/125 .
+HOSPITAL COURSE :
+The patient is a 64-year-old female with 3-vessel disease who was admitted to the Coronary Care Unit Service for Western Mass .
+Hospital medical optimization and management following an aborted coronary artery bypass graft when a mobile aortic atheroma was noted .
+The patient was continued on aspirin , Plavix , and statin .
+Once the patient was titrated off dopamine , the beta blocker and ACE inhibitor were restarted .
+With regard to the left ventricular thrombus , her goal INR remained 2.5 to 3 ; and the goal was to start heparin once the patient was stable from a thoracotomy and chest tube
+standpoint .
+The patient remained comfortable .
+By 04-01 , on postoperative day two , the patient was doing well and the chest tube was discontinued .
+The patient still had transcutaneous pacing wires in place .
+Likewise , on 04-01 , the patient was weaned off surgery without difficulty .
+Thus , the beta blocker and ACE inhibitor were started to be titrated up .
+In addition , the patient was started on Wellbutrin for smoking cessation .
+At this point , it was determined that the patient would not receive percutaneous coronary intervention on this admission and would likely be discharged to the floor for stabilization with followup .
+The patient did well and was transferred to the floor on 04-02 .
+After evaluation and a discussion with Dr. Gunter , it was determined that the patient no longer needed anticoagulation since there was no aortic thrombus but only an aortic plaque , and there was no anterior/apical akinesis noted .
+At this point , the left ventricular thrombus ( for which she was initially started therapy for ) was no longer present .
+The patient was noted to have a slight hematocrit drop and was transfused one unit of packed red blood cells for a goal hematocrit of greater than 30 .
+By 04-03 , captopril and atenolol were started , and the patient 's leg bandage from the vein harvest was removed .
+The patient continued to do well on the medical regimen and was without chest pain , shortness of breath , or any other symptoms .
+DISCHARGE DISPOSITION :
+Thus , the patient was discharged to home .
+DISCHARGE INSTRUCTIONS/FOLLOWUP :
+The patient was to follow up with her primary care physician ( Dr. Desmet ) , as well as
+with Dr. Gunter for an eventual percutaneous coronary intervention , and her surgeon ( Dr. Halcomb ) following her thoracotomy .
+DISCHARGE DIAGNOSES:
+1. Coronary artery disease ; 3-vessel disease .
+2. Status post aborted coronary artery bypass graft due to mobile aortic atheroma .
+3. Diabetes .
+4. Hypertension .
+CONDITION AT DISCHARGE :
+Condition on discharge was stable and asymptomatic .
+MEDICATIONS ON DISCHARGE :
+1. Aspirin 325 mg p.o. once per day .
+2. Docusate 100 mg p.o. twice per day .
+3. Fluticasone 2 puffs inhaled twice per day .
+4. Protonix 40 mg p.o. once per day .
+5. Plavix 75 mg p.o. once per day .
+6. Pravastatin 20 mg p.o. once per day .
+7. Bupropion 100 mg p.o. twice per day ( for smoking cessation ).
+8. Atenolol 25 mg p.o. once per day .
+9. Lisinopril 5 mg p.o. once per day .
+Miriam C Hebert , M.D.
+05-383
+Dictated By : Barbara B. Phillips , M.D.
+MEDQUIST36
+D: 2016-06-15 
+21:48
+T: 2016-06-19 
+10:46
+JOB #:
+26532
+Signed electronically by : DR. Kevin Sineath on : Andrea 2016-06-30 1:09 PM
+( End of Report )

@@ -1,0 +1,29 @@
+676650879 RWH
+8529404
+689059
+5100093
+10/16/2005 12:00:00 AM
+ED Discharge Summary
+Unsigned
+DIS
+Report Status :
+Unsigned
+ED DISCHARGE NOTIFICATION
+DOUETNOUNBREUNKOLL , STENRESLYSE
+MRN :
+8529404
+Age :
+55y
+REGISTRATION DATE :
+10/16/2005 10:38 AM
+PRELIMINARY REPORT
+This is to notify you that your patient , DOUETNOUNBREUNKOLL , STENRESLYSE arrived in the Emergency Department at Ro Woodma Healthcare on 10/16/2005 10:38 AM .
+The patient presented with a chief complaint of RLQ PAIN .
+Following evaluation and treatment , the patient &apos;s disposition at the end of the visit was admitted as an inpatient to Ro Woodma Healthcare .
+The patient &apos;s preliminary admitting physician is DALEJESC , OIE and the preliminary admitting diagnosis is CHOLECYSTITIS .
+Please note this information may have been updated on the inpatient unit .
+If you need additional information please call 662-747-1199 .
+PCP Name :
+BREUTZFREIERM , VIENNEE
+Provider Number :
+98704

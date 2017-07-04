@@ -1,0 +1,5 @@
+c="chest pain" 31:0 31:1||t="problem"||a="present"
+c="sob" 31:3 31:3||t="problem"||a="present"
+c="r lung mass" 33:0 33:2||t="problem"||a="present"
+c="cancer" 33:5 33:5||t="problem"||a="possible"
+c="pain" 37:6 37:6||t="problem"||a="hypothetical"

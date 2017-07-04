@@ -1,0 +1,28 @@
+347450640
+TGCHO
+9463591
+540671
+11/21/2001 12:00:00 AM
+ED Discharge Summary
+Unsigned
+DIS
+Report Status :
+Unsigned
+ED DISCHARGE NOTIFICATION
+DOUINFREIERM , AEUN
+MRN :
+9463591
+Age :
+104y
+REGISTRATION DATE :
+11/21/2001 02:38 PM
+PRELIMINARY REPORT
+This is to notify you that your patient , DOUINFREIERM , AEUN arrived in the Emergency Department at Tecal Galecounxopt Community Hospital on 11/21/2001 02:38 PM .
+The patient presented with a chief complaint of INC INR .
+Following evaluation and treatment , the patient &apos;s disposition at the end ofthe visit was ADMITTED AS AN INPATIENT TO TECAL GALENCOUNXOPT COMMUNITY HOSPITAL .
+Your patient was admitted under the care of SCZEU , LEZOIRUTH H with a preliminary diagnosis of ELEVATED INR .
+If you need additional information please call 418-196-2156 .
+PCP Name :
+SAPSCLYSS , LEO R
+Provider Number :
+06762

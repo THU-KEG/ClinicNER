@@ -1,0 +1,35 @@
+c="iron studies" 102:3 102:4||r="TeRP"||c="hemochromatosis" 102:11 102:11
+c="colostomy" 45:3 45:3||r="TrAP"||c="diverticular bleed" 45:0 45:1
+c="an upper endoscopy study" 87:21 87:24||r="TeCP"||c="her varices" 87:26 87:27
+c="banded" 40:9 40:9||r="TrAP"||c="her varices" 40:0 40:1
+c="her varices" 40:0 40:1||r="PIP"||c="stigmata" 40:3 40:3
+c="stigmata" 40:3 40:3||r="PIP"||c="recent bleeding" 40:5 40:6
+c="banded" 87:29 87:29||r="TrAP"||c="her varices" 87:26 87:27
+c="an upper endoscopy" 35:2 35:4||r="TeRP"||c="bleeding varices" 35:20 35:21
+c="an upper endoscopy" 35:2 35:4||r="TeRP"||c="antral gastritis" 35:28 35:29
+c="an upper endoscopy" 35:2 35:4||r="TeRP"||c="clot in the stomach" 35:23 35:26
+c="an upper endoscopy" 35:2 35:4||r="TeRP"||c="clots" 35:15 35:15
+c="antral gastritis" 35:28 35:29||r="PIP"||c="clot in the stomach" 35:23 35:26
+c="beta blocker" 120:9 120:10||r="TrCP"||c="a persistent wheeze" 120:5 120:7
+c="the beta blocker" 120:20 120:22||r="TrNAP"||c="a persistent wheeze" 120:5 120:7
+c="an unclear work up" 44:3 44:6||r="TeCP"||c="cryptogenic cirrhosis" 44:0 44:1
+c="the serum albumin gradient" 109:0 109:3||r="TeRP"||c="portal hypertension" 109:8 109:9
+c="an upper endoscopy study" 39:6 39:9||r="TeRP"||c="grade iii varices" 39:11 39:13
+c="an upper endoscopy study" 39:6 39:9||r="TeRP"||c="a clean base gastric ulcer" 39:19 39:23
+c="an upper endoscopy study" 39:6 39:9||r="TeRP"||c="active bleeding" 39:16 39:17
+c="grade iii varices" 39:11 39:13||r="PIP"||c="active bleeding" 39:16 39:17
+c="her ferritin" 102:0 102:1||r="TeRP"||c="hemochromatosis" 102:11 102:11
+c="work up" 100:4 100:5||r="TeCP"||c="cirrhosis" 100:7 100:7
+c="the blakemore tube" 39:27 39:29||r="TrCP"||c="a clean base gastric ulcer" 39:19 39:23
+c="nadolol" 97:3 97:3||r="TrAP"||c="her portal hypertension" 97:9 97:11
+c="an upper gi bleed" 29:11 29:14||r="PIP"||c="esophageal varices" 29:5 29:6
+c="vomiting" 32:22 32:22||r="PIP"||c="bright red blood" 32:25 32:27
+c="vomiting" 32:22 32:22||r="PIP"||c="coffee ground emesis" 32:29 32:31
+c="codeine" 50:8 50:8||r="TrCP"||c="allergies" 50:2 50:2
+c="cimetidine" 112:15 112:15||r="TrCP"||c="persistently low" 112:4 112:5
+c="penicillin" 50:10 50:10||r="TrCP"||c="allergies" 50:2 50:2
+c="morphine" 50:4 50:4||r="TrCP"||c="allergies" 50:2 50:2
+c="her platelet count" 112:0 112:2||r="TeRP"||c="persistently low" 112:4 112:5
+c="percocet" 50:6 50:6||r="TrCP"||c="allergies" 50:2 50:2
+c="xanax" 50:12 50:12||r="TrCP"||c="allergies" 50:2 50:2
+c="toradol" 50:14 50:14||r="TrCP"||c="allergies" 50:2 50:2

@@ -1,0 +1,53 @@
+c="intubated" 32:27 32:27||r="TrAP"||c="hypoxic" 32:25 32:25
+c="mild protein uria" 40:25 40:27||r="PIP"||c="1+ albumin" 40:22 40:23
+c="chest x-ray" 33:10 33:11||r="TeRP"||c="expanding pulmonary infiltrates" 33:6 33:8
+c="urine sediment" 40:8 40:9||r="PIP"||c="active" 40:11 40:11
+c="a urinalysis" 40:0 40:1||r="TeRP"||c="blood" 40:6 40:6
+c="a urinalysis" 40:0 40:1||r="TeRP"||c="urine sediment" 40:8 40:9
+c="a urinalysis" 40:0 40:1||r="TeRP"||c="active" 40:11 40:11
+c="a urinalysis" 40:0 40:1||r="TeRP"||c="dysmorphic cells" 40:14 40:15
+c="a urinalysis" 40:0 40:1||r="TeRP"||c="red cell casts" 40:17 40:19
+c="a urinalysis" 40:0 40:1||r="TeRP"||c="mild protein uria" 40:25 40:27
+c="a urinalysis" 40:0 40:1||r="TeRP"||c="1+ albumin" 40:22 40:23
+c="creatine kinases" 36:9 36:10||r="TeRP"||c="myocardial infarction" 36:5 36:6
+c="adult respiratory distress syndrome" 39:23 39:26||r="PIP"||c="left upper lung patchy infiltrates" 39:11 39:15
+c="adult respiratory distress syndrome" 39:23 39:26||r="PIP"||c="pneumonia" 39:29 39:29
+c="adult respiratory distress syndrome" 39:23 39:26||r="PIP"||c="diffuse patchy infiltrates on left lung" 39:4 39:9
+c="adult respiratory distress syndrome" 39:23 39:26||r="PIP"||c="right hemidiaphragm elevated" 39:17 39:19
+c="a left lower lobe infiltrate" 31:17 31:21||r="PIP"||c="pneumonia" 31:23 31:23
+c="his chest x-ray" 39:0 39:2||r="TeRP"||c="left upper lung patchy infiltrates" 39:11 39:15
+c="his chest x-ray" 39:0 39:2||r="TeRP"||c="diffuse patchy infiltrates on left lung" 39:4 39:9
+c="his chest x-ray" 39:0 39:2||r="TeRP"||c="right hemidiaphragm elevated" 39:17 39:19
+c="cefuroxime" 31:27 31:27||r="TrAP"||c="a left lower lobe infiltrate" 31:17 31:21
+c="cefuroxime" 31:27 31:27||r="TrAP"||c="pneumonia" 31:23 31:23
+c="levo" 38:15 38:15||r="TrAP"||c="quite hypotensive" 38:7 38:8
+c="lasix" 32:16 32:16||r="TrAP"||c="congestive heart failure" 32:18 32:20
+c="dopamine" 38:11 38:11||r="TrAP"||c="quite hypotensive" 38:7 38:8
+c="blood cultures" 35:0 35:1||r="TeRP"||c="growth" 35:8 35:8
+c="portal hypertensive gastropathy" 27:18 27:20||r="PIP"||c="varices" 27:22 27:22
+c="cvvh" 44:10 44:10||r="TrCP"||c="significant complications" 44:13 44:14
+c="a colonoscopy" 28:0 28:1||r="TeRP"||c="anteriordysplasia" 28:3 28:3
+c="a colonoscopy" 28:0 28:1||r="TeRP"||c="bleeding" 28:6 28:6
+c="a bronchoscopy" 42:2 42:3||r="TeRP"||c="old clot" 42:13 42:14
+c="a bronchoscopy" 42:2 42:3||r="TeRP"||c="fresh blood" 42:9 42:10
+c="portal hypertension" 25:40 25:41||r="PIP"||c="cirrhosis" 25:35 25:35
+c="cirrhosis" 25:35 25:35||r="PIP"||c="hepatitis c" 25:32 25:33
+c="a four vessel coronary artery bypass graft" 25:19 25:25||r="TrAP"||c="coronary artery disease" 25:13 25:15
+c="an echocardiogram" 34:0 34:1||r="TeRP"||c="concentric left ventricular hypertrophy" 34:8 34:11
+c="an echocardiogram" 34:0 34:1||r="TeRP"||c="severe right ventricular dilatation" 34:19 34:22
+c="an echocardiogram" 34:0 34:1||r="TeRP"||c="septal hypokinesis and flattening" 34:24 34:27
+c="an echocardiogram" 34:0 34:1||r="TeRP"||c="right ventricular apical clot" 34:32 34:35
+c="an echocardiogram" 34:0 34:1||r="TeRP"||c="mild aortic stenosis" 34:38 34:40
+c="an echocardiogram" 34:0 34:1||r="TeRP"||c="severe tricuspid regurgitation" 34:42 34:44
+c="an echocardiogram" 34:0 34:1||r="TeRP"||c="increased pulmonary artery pressure" 34:46 34:49
+c="severe right ventricular dilatation" 34:19 34:22||r="PIP"||c="septal hypokinesis and flattening" 34:24 34:27
+c="increased pulmonary artery pressure" 34:46 34:49||r="PIP"||c="fairly severe pulmonary hypertension" 34:57 34:60
+c="acute renal insufficiency" 33:14 33:16||r="PIP"||c="minimal urine output" 33:18 33:20
+c="an esophagogastroduodenoscopy" 27:7 27:8||r="TeRP"||c="gastritis" 27:13 27:13
+c="an esophagogastroduodenoscopy" 27:7 27:8||r="TeRP"||c="portal hypertensive gastropathy" 27:18 27:20
+c="an esophagogastroduodenoscopy" 27:7 27:8||r="TeRP"||c="varices" 27:22 27:22
+c="an esophagogastroduodenoscopy" 27:7 27:8||r="TeRP"||c="candidal esophagitis" 27:15 27:16
+c="work up" 25:58 25:59||r="TeCP"||c="pulmonary infiltrates" 25:61 25:62
+c="work up" 25:58 25:59||r="TeCP"||c="acute renal failure" 25:64 25:66
+c="work up" 25:58 25:59||r="TeCP"||c="pulmonary hypertension" 25:68 25:69
+c="dopamine" 33:31 33:31||r="TrAP"||c="hemodynamic instability" 33:33 33:34

@@ -1,0 +1,7 @@
+c="dizziness" 31:0 31:0||t="problem"||a="present"
+c="benign positional vertigo" 35:0 35:2||t="problem"||a="possible"
+c="fever" 41:11 41:11||t="problem"||a="hypothetical"
+c="headache" 41:13 41:13||t="problem"||a="hypothetical"
+c="dizziness" 33:7 33:7||t="problem"||a="present"
+c="symptoms" 41:7 41:7||t="problem"||a="hypothetical"
+c="labyrinthitis" 35:4 35:4||t="problem"||a="possible"

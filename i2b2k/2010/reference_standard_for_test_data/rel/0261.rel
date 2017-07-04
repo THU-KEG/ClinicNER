@@ -1,0 +1,5 @@
+c="repeat head ct" 31:0 31:2||r="TeRP"||c="stable bleed" 31:4 31:5
+c="head ct" 26:0 26:1||r="TeRP"||c="intraparenchymal hemorrhage" 26:17 26:18
+c="head ct" 26:0 26:1||r="TeRP"||c="a front focal hemorrhage in the left occipital lobe" 26:3 26:11
+c="head ct" 26:0 26:1||r="TeRP"||c="epidural or subdural hemorrhage near the falx" 26:20 26:26
+c="head ct" 26:0 26:1||r="TeRP"||c="shift" 26:29 26:29

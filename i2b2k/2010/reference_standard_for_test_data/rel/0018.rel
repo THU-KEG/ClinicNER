@@ -1,0 +1,52 @@
+c="somewhat tender" 33:10 33:11||r="PIP"||c="massive hepatosplenomegaly" 33:5 33:6
+c="increased transfusions" 22:21 22:22||r="TrWP"||c="dyspnea" 22:13 22:13
+c="increased transfusions" 22:21 22:22||r="TrWP"||c="night sweats" 22:4 22:5
+c="increased transfusions" 22:21 22:22||r="TrWP"||c="anorexia" 22:10 22:10
+c="increased transfusions" 22:21 22:22||r="TrWP"||c="increasing fatigue" 22:7 22:8
+c="an occasional inhaler" 25:41 25:43||r="TrAP"||c="chronic obstructive pulmonary disease" 25:24 25:27
+c="a chest x-ray" 41:15 41:17||r="TeRP"||c="new infiltrates" 41:20 41:21
+c="a chest x-ray" 41:15 41:17||r="TeRP"||c="masses" 41:23 41:23
+c="a computerized tomography scan" 41:0 41:3||r="TeRP"||c="an acute bleed" 41:11 41:13
+c="an electrocardiogram" 43:0 43:1||r="TeRP"||c="atrial fibrillation" 43:5 43:6
+c="gentamicin" 46:9 46:9||r="TrAP"||c="a fever" 46:3 46:4
+c="ancef" 46:7 46:7||r="TrAP"||c="a fever" 46:3 46:4
+c="profoundly thrombocytopenia" 49:11 49:12||r="PIP"||c="intermittent gastrointestinal bleeding" 49:4 49:6
+c="profoundly thrombocytopenia" 49:11 49:12||r="PIP"||c="hemoptysis" 49:2 49:2
+c="amioadrone" 25:15 25:15||r="TrAP"||c="chronic atrial fibrillation" 25:2 25:4
+c="cultures" 46:12 46:12||r="TeCP"||c="a fever" 46:3 46:4
+c="chronic liver disease" 26:4 26:6||r="PIP"||c="other medical problems" 26:0 26:2
+c="distended" 33:3 33:3||r="PIP"||c="massive hepatosplenomegaly" 33:5 33:6
+c="an ace inhibitor" 25:20 25:22||r="TrAP"||c="hypertension" 25:17 25:17
+c="transfusions" 19:41 19:41||r="TrAP"||c="anemic" 19:10 19:10
+c="transfusions" 19:41 19:41||r="TrAP"||c="an abnormal white blood count" 19:12 19:16
+c="a penetrating injury to the right eye" 27:3 27:9||r="PIP"||c="blind" 27:15 27:15
+c="acute myelogenous leukemia" 52:11 52:13||r="PIP"||c="his cmml" 52:8 52:9
+c="transfusions of platelets" 50:0 50:2||r="TrWP"||c="sequestration" 50:13 50:13
+c="transfusions of platelets" 50:0 50:2||r="TrWP"||c="a massive spleen" 50:15 50:17
+c="a massive spleen" 50:15 50:17||r="PIP"||c="sequestration" 50:13 50:13
+c="a bone marrow biopsy" 52:0 52:3||r="TeRP"||c="acute myelogenous leukemia" 52:11 52:13
+c="a bone marrow biopsy" 52:0 52:3||r="TeRP"||c="his cmml" 52:8 52:9
+c="a bone marrow biopsy" 20:2 20:5||r="TeRP"||c="chronic myelomonocytic leukemia" 20:13 20:15
+c="low dose hydroxyurea" 19:44 19:46||r="TrAP"||c="anemic" 19:10 19:10
+c="low dose hydroxyurea" 19:44 19:46||r="TrAP"||c="an abnormal white blood count" 19:12 19:16
+c="6-thioguanine" 52:31 52:31||r="TrAP"||c="his cmml" 52:8 52:9
+c="6-thioguanine" 52:31 52:31||r="TrAP"||c="acute myelogenous leukemia" 52:11 52:13
+c="chemotherapy" 52:25 52:25||r="TrAP"||c="acute myelogenous leukemia" 52:11 52:13
+c="chemotherapy" 52:25 52:25||r="TrAP"||c="his cmml" 52:8 52:9
+c="subcutaneous cystosine arabinoside" 52:27 52:29||r="TrAP"||c="acute myelogenous leukemia" 52:11 52:13
+c="subcutaneous cystosine arabinoside" 52:27 52:29||r="TrAP"||c="his cmml" 52:8 52:9
+c="intravenous fluid" 53:9 53:10||r="TrNAP"||c="intermittently congested" 53:2 53:3
+c="his hydrea" 53:13 53:14||r="TrNAP"||c="intermittently congested" 53:2 53:3
+c="somewhat confused" 56:5 56:6||r="PIP"||c="intermittently restless" 56:2 56:3
+c="digoxin" 25:12 25:12||r="TrAP"||c="chronic atrial fibrillation" 25:2 25:4
+c="a low dose morphine drip" 56:19 56:23||r="TrIP"||c="intermittently restless" 56:2 56:3
+c="prominent vascularity" 42:4 42:5||r="PIP"||c="cardiomegaly" 42:2 42:2
+c="a zanthine preparation" 25:30 25:32||r="TrAP"||c="chronic obstructive pulmonary disease" 25:24 25:27
+c="the neurological examination" 34:0 34:2||r="TeRP"||c="the blind right eye" 34:5 34:8
+c="low dose steroids" 25:34 25:36||r="TrAP"||c="chronic obstructive pulmonary disease" 25:24 25:27
+c="treatment" 55:31 55:31||r="TrAP"||c="his infection" 55:33 55:34
+c="pulse" 29:19 29:19||r="TeRP"||c="irregularly irregular" 29:23 29:24
+c="hydroxy urea" 22:26 22:27||r="TrWP"||c="night sweats" 22:4 22:5
+c="hydroxy urea" 22:26 22:27||r="TrWP"||c="increasing fatigue" 22:7 22:8
+c="hydroxy urea" 22:26 22:27||r="TrWP"||c="anorexia" 22:10 22:10
+c="hydroxy urea" 22:26 22:27||r="TrWP"||c="dyspnea" 22:13 22:13

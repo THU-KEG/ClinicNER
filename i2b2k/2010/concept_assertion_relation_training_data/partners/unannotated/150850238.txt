@@ -1,0 +1,85 @@
+150850238
+PRGH
+65864671
+836722
+09/27/1998 12:00:00 AM
+MULTIPLE MYELOMA
+Signed
+DIS
+Admission Date :
+09/27/1998
+Report Status :
+Signed
+Discharge Date :
+10/03/1998
+IDENTIFYING DATA :
+Ms. Qinbreun is a 74-year-old woman with severe multiple myeloma admitted for her second cycle of vincristine , Adriamycin , and dexamethasone .
+She is currently dependent on dialysis .
+HISTORY OF PRESENT ILLNESS :
+The patient was in good state of health until June of 1988 , at which time she began to experience back pain .
+She was initially treated with NSAIDS , however , with one week she began to feel quite ill and decreased p.o. intake .
+She was also noted to have increased nausea without any vomiting .
+She went to a local hospital , where she was found to be in acute renal failure with elevated calcium and very poor performance status .
+She was transferred to Acoa Cogville Dibreswisser Health , at which her creatinine was noted to be 10 with calcium 12 .
+She was started on dialysis and with good response .
+Her renal ultrasound at the time revealed normal sized kidneys .
+Further work up included an SPEP which revealed a monoclonal gammopathy .
+The total protein was noted to be 10.6 with a glybumin fraction of 6.9 .
+They did skeletal surveys there , as well , which revealed numerous small , fairly well defined lucencies within the skull , as well as within the pelvis .
+There were no fractures or lytic lesions noted .
+The doctors in Orwood performed a bone marrow aspirate and the biopsy confirmed the diagnosis .
+The patient was noted to have greater than 90% of the marrow comprised of plasma cells and she was subsequently transferred to Verg Medical Center .
+The patient was begun on a regimen of vincristine , adriamycin and dexamethasone .
+She tolerated the first cycle without any complications noted .
+The patient transferred her care to Santusli Hospital at Pointexasp Region General Hospital where her renal needs were tended to by Dr. Pascuph .
+This hospitalization represents her second cycle of VAD .
+PAST MEDICAL HISTORY :
+Unremarkable .
+ALLERGIES :
+Penicillin , which produces a rash .
+SOCIAL HISTORY :
+She denies any tobacco .
+FAMILY HISTORY :
+She has a sister with Alzheimer &apos;s , and she has a daughter with breast cancer .
+MEDICATIONS :
+Included iron , multivitamins , calcium , compazine , Ativan , fentanyl patch , Percocet .
+HOSPITAL COURSE :
+The patient was admitted to Pointexasp Region General Hospital for further management of her multiple myeloma and the renal failure .
+1. Multiple myeloma .
+The patient was started on a regimen of vincristine 0.4 mg a day times four days of continuous infusion , adriamycin 9 mg / m2 per day for four days of continuous infusion and dexamethasone 40 mg p.o. q day x four days .
+The patient was also dialyzed according to a Tuesday , Thursday , Saturday regimen .
+The chemotherapy was well tolerated , and the patient was noted to be in good spirits throughout .
+The patient was also taking hemodialysis with no complications noted .
+The patient on day 5 of admission , after completing her second cycle of chemotherapy , was to be transferred to Didelb Hospital for further rehabilitation and care .
+On the day of discharge , the following was the patient &apos;s physical exam .
+The patient was known to be a 74 year old woman in no acute distress , appearing about her stated age .
+She has diffuse alopecia secondary to chemotherapy .
+Pupils equal , round , reactive to light .
+There was no scleral icterus .
+The nose and throat were clear .
+The neck revealed no adenopathy .
+There were no bruits , and there was no elevated JVP .
+Heart examination revealed an S1 , S2 with no rubs , murmurs or gallops .
+The abdomen was benign .
+The extremities revealed no clubbing , cyanosis or edema .
+The lungs were generally clear to auscultation bilaterally .
+On the day of discharge , the patient &apos;s laboratory values are as follows .
+Sodium 133 , potassium 3.8 , chloride 99 , bicarbonate 23 , BUN 48 , creatinine 6.1 , glucose 102 .
+Those are predialysis labs .
+The white blood cells are 12 , hemoglobin 8.8 , hematocrit 28 , MCV 83 , RDW 18.5 and platelets 274 .
+Once again , those are pre-dialysis labs .
+ASSESSMENT AND PLAN :
+The patient is to follow up with Dr. Quown at Santusli Hospital on the 21st of October 1999 at 10:00 a.m. , and she is to continue her medications .
+DISCHARGE MEDICATIONS :
+Calcium acetate 667 mg p.o. t.i.d. , Peridex 10 ml b.i.d. , Clotrimazole Troche 1 troche p.o. q.i.d. , Nystatin suspension 10 ml swish and swallow q.i.d. , Prilosec 20 mg p.o. q day , Oxycodone 5 to 10 mg p.o. q 6 hours , Compazine 10 mg p.o. q 6 hours prn nausea , Bactrim DS 1 tablet p.o. q Monday , Wednesday , Friday , Niferex tablets 50 mg p.o. b.i.d. , Nephrocaps tablets one tab p.o. q day .
+Dictated By :
+MA MEED , M.D. UV64
+Attending :
+TELSHEY K. SWATLLEEBTIK , M.D. LU61 YI383/6739
+Batch :
+3184
+Index No. X1SJAN2VMD
+D :
+10/02/98
+T :
+10/02/98

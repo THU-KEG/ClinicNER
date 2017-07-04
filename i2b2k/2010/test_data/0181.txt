@@ -1,0 +1,115 @@
+Admission Date :
+2010-03-11
+Discharge Date :
+2010-03-28
+Date of Birth :
+1946-10-26
+Sex :
+M
+Service:
+ADMISSION DIAGNOSIS:
+1. Unstable angina .
+2. Non-ST elevation myocardial infarction .
+3. Atrial fibrillation .
+DISCHARGE DIAGNOSIS :
+1. Persistent atrial fibrillation .
+2. Coronary artery disease .
+3. Coronary artery bypass grafting times two .
+HISTORY OF THE PRESENT ILLNESS :
+The patient is a 63 - year-old man with a history of hypertension and prior history of atrial fibrillation secondary to hyperthyroidism who presented to an outside hospital with a history of left-sided chest pain at rest .
+The patient awoke with chest pressure radiating to the right chest associated with diaphoresis .
+The patient was found to have a blood pressure of 170/108 with atrial fibrillation and rapid ventricular response to a heart rate of 140s .
+The patient was rate controlled and transferred to the Stillman Infirmary for emergent cardiac catheterization .
+PAST MEDICAL HISTORY :
+1. Atrial fibrillation secondary to hyperthyroidism , initially diagnosed in 2005 .
+2. Status post current cardioversion times four .
+3. Hyperthyroidism , status post radioactive iodine ablation .
+4. Status post carpal tunnel release .
+5. Status post umbilical hernia repair .
+6. Hypertension .
+MEDICATIONS AT HOME :
+1. Accupril 40 mg q.d.
+2. Aspirin 325 mg q.d.
+3. Clonidine 0.1 mg b.i.d.
+PHYSICAL EXAMINATION ON ADMISSION :
+General :
+The patient was in no acute distress , well developed .
+Vital signs :
+Stable , afebrile .
+HEENT :
+Normocephalic , atraumatic .
+PERRL , anicteric , EOMI .
+The throat was clear .
+Neck :
+Supple , midline , without masses or lymphadenopathy .
+No bruit or JVD .
+Cardiovascular :
+Irregularly / irregular without murmurs , rubs , or gallops .
+Chest :
+Clear to auscultation bilaterally .
+Abdomen :
+Soft , nontender , nondistended , without masses or organomegaly .
+Extremities :
+Warm , noncyanotic , nonedematous times four .
+Neurological :
+Grossly intact .
+ADMISSION LABORATORY DATA :
+CBC 11.3 / 15.7 / 44.6 / 183 .
+PT 14 , INR 1.3 , PTT 115 .
+Chemistries :
+137 / 4.3 / 104 / 22 / 14 / 0.7 / 155 .
+ALT 27 , AST 21 , alkaline phosphatase 72 , total bilirubin 1.2 , amylase 47 .
+The U/A was negative .
+HOSPITAL COURSE :
+The patient was transferred for cardiac catheterization .
+Emergent cardiac catheterization revealed an ejection fraction of 45% , right dominant coronary artery system with occlusive single vessel disease of the LAD .
+Multiple wires were used to attempt to cross the total occlusion , but were ultimately unsuccessful .
+The patient was continued on a heparin drip for atrial fibrillation .
+Cardiothoracic Surgery consultation was obtained and the patient was taken to the Operating Room on 2010-03-12 for coronary artery bypass grafting times two ; LIMA to the LAD , saphenous vein graft to the diagonal artery .
+Subsequent to this , the patient was transferred to the CRSU for closer monitoring .
+He was deemed to be too lethargic and sleepy to be extubated on postoperative day number zero .
+The patient was extubated early on postoperative day number one without significant complication .
+He remained in atrial fibrillation .
+The EP Service was consulted regarding the patient 's atrial fibrillation .
+This was his main issue in the postoperative course .
+He was attempted on multiple different drugs including Procainamide , Diltiazem , Esmolol , Sotalol , Amiodarone .
+The patient was kept therapeutically anticoagulated throughout this period .
+The patient was also started on digoxin .
+Ultimately , the patient was transferred to the floor and anticoagulation with Coumadin was begun .
+The patient arrived on the floor with medications as follows :
+Sotalol 180 mg b.i.d. , Diltiazem 90 mg q.i.d. , digoxin 0.125 mg q.d.
+While the patient was awaiting therapeutic anticoagulation with Coumadin , he spontaneously converted into normal sinus rhythm .
+The patient was found to have a resting heart rate of approximately 50 subsequent to this .
+In consultation with the EP Service , Diltiazem was stopped .
+After approximately 24 hours , the patient converted back into atrial fibrillation and Diltiazem was restarted at 60 mg q.i.d.
+The patient then had one more episode where he was converted to normal sinus rhythm but this lasted only a few hours before reverting back to atrial fibrillation .
+The patient was ultimately discharged on postoperative day number 16 , tolerating a regular diet , and adequate pain control on p.o. pain medications , having no anginal symptoms and with an INR of 2.0 .
+The patient failed multiple attempts at cardioversion .
+DISCHARGE CONDITION :
+Stable .
+INR 2.0.
+DISPOSITION :
+To home .
+DIET :
+Cardiac .
+DISCHARGE MEDICATIONS :
+1. Percocet 5/325 mg one to two q. four hours p.r.n.
+2. Aspirin 325 mg q.d.
+3. Colace 100 mg b.i.d.
+4. Coumadin 5 mg q.d.
+5. Sotalol 180 mg b.i.d.
+6. Digoxin 0.125 mg q.d.
+7. Diltiazem 60 mg q.i.d.
+8. Ambien 5-10 mg q.h.s. p.r.n.
+DISCHARGE INSTRUCTIONS :
+The patient should follow-up with his cardiologist in one to two weeks .
+He will also go home with VNA for INRs twice weekly with the results reported to his PCP or cardiologist for Coumadin adjustment .
+The patient should follow-up with Dr. Halcomb in six weeks time .
+Octavia W. Levitre , M.D. 05-383
+Dictated By : James Q. Mitchell , M.D.
+MEDQUIST36
+D : 2010-03-28 10:15
+T : 2010-03-28 10:46
+JOB # : 41466
+Signed electronically by : DR. Janice Carpenter on : Andrea 2010-04-01 8:20 AM
+( End of Report )

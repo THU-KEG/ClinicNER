@@ -1,0 +1,49 @@
+411696276 DH
+9877367
+931208
+6525806
+3/29/2005 12:00:00 AM
+ED Discharge Summary
+Unsigned
+DIS
+Report Status :
+Unsigned
+ED DISCHARGE NOTIFICATION / SUMMARY
+FREIERMLINKENEIGHCAABLINFARST , ANEA
+MRN :
+9877367
+Age :
+88y
+REGISTRATION DATE :
+03/29/2005 07:22 PM
+Provider :
+SYMA GRAMHERDES
+PRELIMINARY REPORT
+PCP notified by MD :
+Yes - Direct contact with PCP
+Benefits Assigned :
+Y
+Discharge Note
+Date / Time :
+03/29/2005 22:00
+Discharge Status :
+Discharged
+Condition on Discharge :
+Stable
+Patient States Complaint :
+FALL VS SYNCOPE
+Diagnosis :
+mechanical fall
+Treatment Rendered :
+emergency evaluation , head CT , labs , consultation with PCP
+Discharge Medications :
+resume home meds
+Disposition , Follow up and Instructions to Patient :
+Dr. Afriphauthcaughelksaxcaugh is aware of this ED visit .
+Resume all your regular medications and follow up with Dr Afriphauthcaughelksaxcaugh as scheduled .
+Call her office or return to the ED if there are any mental status changes that concern you .
+PCP Name :
+AFRIPHAUTHCAUGHELKSAXCAUGH , LAA
+Provider Number :
+94323
+This report was created by GRAMHERDES , SYMA 03/29/2005 10:34 PM

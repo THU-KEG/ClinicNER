@@ -1,0 +1,5 @@
+c="sob" 30:0 30:0||t="problem"||a="present"
+c="copd exacerbation ( emphysema )" 32:0 32:4||t="problem"||a="present"
+c="a pulmonary nodule in the right lower lobe" 35:5 35:12||t="problem"||a="possible"
+c="cancer" 35:16 35:16||t="problem"||a="possible"
+c="the lung nodule" 40:11 40:13||t="problem"||a="present"

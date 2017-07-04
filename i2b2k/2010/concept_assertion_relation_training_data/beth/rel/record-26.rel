@@ -1,0 +1,52 @@
+c="zantac" 97:13 97:13||r="TrAP"||c="gastroesophageal reflux disease" 97:3 97:5
+c="liver function tests" 100:0 100:2||r="TeRP"||c="slightly elevated liver function tests" 100:8 100:12
+c="sublingual nitroglycerin" 12:25 12:26||r="TrIP"||c="exertional chest pain" 12:10 12:12
+c="physical examination" 40:1 40:2||r="TeRP"||c="afebrile" 40:7 40:7
+c="postoperative delirium" 87:36 87:37||r="PIP"||c="distinctive psychiatric disorder" 87:29 87:31
+c="subsequent radiographic imaging" 80:11 80:13||r="TeRP"||c="an acute infarct" 80:59 80:61
+c="subsequent radiographic imaging" 80:11 80:13||r="TeRP"||c="chronic appearing infarcts in the right occipital lobe" 80:15 80:22
+c="subsequent radiographic imaging" 80:11 80:13||r="TeRP"||c="more chronic infarcts" 80:32 80:34
+c="subsequent radiographic imaging" 80:11 80:13||r="TeCP"||c="his confusion" 80:2 80:3
+c="chronic appearing infarcts in the right occipital lobe" 80:15 80:22||r="PIP"||c="more chronic infarcts" 80:32 80:34
+c="his stroke" 111:29 111:30||r="PIP"||c="his inability to eat" 111:23 111:26
+c="chronic rbc transfusion" 137:5 137:7||r="TrAP"||c="chronic blood loss anemia" 137:0 137:3
+c="review of systems" 17:0 17:2||r="TeRP"||c="any orthopnea" 17:8 17:9
+c="review of systems" 17:0 17:2||r="TeRP"||c="paroxysmal nocturnal dyspnea" 17:11 17:13
+c="a urine culture" 124:4 124:6||r="TeRP"||c="e. coli" 124:18 124:19
+c="aortic arch graft" 134:6 134:8||r="TrAP"||c="aortic arch aneurysm" 134:0 134:2
+c="an insulin sliding scale" 104:20 104:23||r="TrAP"||c="slightly elevated blood sugars" 104:7 104:10
+c="cholecystitis" 103:17 103:17||r="PIP"||c="cholelithiasis" 103:19 103:19
+c="the major neurologic event" 79:0 79:3||r="PIP"||c="slow to awake" 79:13 79:15
+c="intermittently resistant" 124:22 124:23||r="PIP"||c="e. coli" 124:18 124:19
+c="his propofol drip" 79:17 79:19||r="TrCP"||c="slow to awake" 79:13 79:15
+c="his propofol drip" 79:17 79:19||r="TrCP"||c="the major neurologic event" 79:0 79:3
+c="bactrim" 126:24 126:24||r="TrAP"||c="the e. coli in his urine" 126:32 126:37
+c="basal insulin" 104:25 104:26||r="TrAP"||c="slightly elevated blood sugars" 104:7 104:10
+c="his blood sugars" 104:29 104:31||r="TeRP"||c="slightly elevated blood sugars" 104:7 104:10
+c="ciprofloxacin" 124:25 124:25||r="TrCP"||c="intermittently resistant" 124:22 124:23
+c="ciprofloxacin" 124:25 124:25||r="TrWP"||c="e. coli" 124:18 124:19
+c="aortic valve replacement" 133:6 133:8||r="TrAP"||c="critical aortic stenosis" 133:0 133:2
+c="common bile duct dilatation" 103:11 103:14||r="PIP"||c="cholecystitis" 103:17 103:17
+c="common bile duct dilatation" 103:11 103:14||r="PIP"||c="cholelithiasis" 103:19 103:19
+c="coronary artery bypass graft" 132:6 132:9||r="TrAP"||c="coronary artery disease" 132:0 132:2
+c="any gallstones" 103:8 103:9||r="PIP"||c="cholecystitis" 103:17 103:17
+c="any gallstones" 103:8 103:9||r="PIP"||c="cholelithiasis" 103:19 103:19
+c="cardiac catheterization" 14:0 14:1||r="TeRP"||c="80% stenosis of the mid left anterior descending" 14:16 14:23
+c="cardiac catheterization" 14:0 14:1||r="TeRP"||c="a dilated aortic root" 14:8 14:11
+c="cardiac catheterization" 14:0 14:1||r="TeRP"||c="70% stenoses of the left circumflex and oblique marginal artery" 14:32 14:41
+c="cardiac catheterization" 14:0 14:1||r="TeRP"||c="90% stenosis of the posterior descending artery" 14:43 14:49
+c="the catheterization tip" 123:0 123:2||r="TeRP"||c="serratia" 123:6 123:6
+c="a right upper quadrant ultrasound" 103:0 103:4||r="TeRP"||c="any gallstones" 103:8 103:9
+c="a right upper quadrant ultrasound" 103:0 103:4||r="TeRP"||c="common bile duct dilatation" 103:11 103:14
+c="his psychiatric issues" 87:15 87:17||r="PIP"||c="his neurologic insults" 87:22 87:24
+c="his psychiatric issues" 87:15 87:17||r="PIP"||c="distinctive psychiatric disorder" 87:29 87:31
+c="his psychiatric issues" 87:15 87:17||r="PIP"||c="postoperative delirium" 87:36 87:37
+c="positive blood and urine cultures" 120:3 120:7||r="PIP"||c="methicillin resistant staphylococcus aureus" 120:13 120:16
+c="the procedure" 91:24 91:25||r="TrCP"||c="his sternal wound" 91:11 91:13
+c="pan sensitive" 120:20 120:21||r="TeRP"||c="methicillin resistant staphylococcus aureus" 120:13 120:16
+c="repair" 62:11 62:11||r="TrAP"||c="his critical aortic stenosis" 62:12 62:15
+c="repair" 62:11 62:11||r="TrAP"||c="his coronary artery disease" 62:17 62:20
+c="repair" 62:11 62:11||r="TrAP"||c="his significantly dilated ascending aortic aneurysm" 62:22 62:27
+c="a little bit out of it" 82:13 82:18||r="PIP"||c="somewhat confused" 82:10 82:11
+c="the pneumonia" 27:5 27:6||r="PIP"||c="recent weight loss" 27:0 27:2
+c="metoprolol" 92:11 92:11||r="TrAP"||c="hypertension" 92:5 92:5

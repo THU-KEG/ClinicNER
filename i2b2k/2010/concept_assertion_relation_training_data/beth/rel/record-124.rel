@@ -1,0 +1,61 @@
+c="sputum culture" 95:0 95:1||r="TeRP"||c="staph. aureus" 95:5 95:6
+c="cxr" 77:0 77:0||r="TeRP"||c="faint ill-defined opacities" 77:5 77:7
+c="interval worsening in the left lung" 79:3 79:8||r="PIP"||c="multilobar pneumonia" 79:0 79:1
+c="ischemic" 82:6 82:6||r="PIP"||c="left parietal subcortical hypodensity" 82:0 82:3
+c="a bacterial pna" 90:23 90:25||r="PIP"||c="multifocal consolidation" 90:19 90:20
+c="a pe" 90:11 90:12||r="PIP"||c="the acute onset of chest pain" 90:0 90:5
+c="multifocal pneumonia" 76:11 76:12||r="PIP"||c="peripheral patchy opacities" 76:1 76:3
+c="zofran" 161:1 161:1||r="TrAP"||c="nausea" 161:11 161:11
+c="a multifocal pneumonic process" 77:21 77:24||r="PIP"||c="faint ill-defined opacities" 77:5 77:7
+c="three bowel resections" 31:8 31:10||r="TrAP"||c="crohn 's disease" 31:1 31:3
+c="three bowel resections" 31:8 31:10||r="TrCP"||c="short gut syndrome" 31:17 31:19
+c="a head ct" 128:0 128:2||r="TeRP"||c="any acute processes" 128:8 128:10
+c="vistaril" 160:1 160:1||r="TrAP"||c="nausea" 160:10 160:10
+c="dehydration" 114:13 114:13||r="PIP"||c="mild ari" 114:3 114:4
+c="initial volume repletion" 114:16 114:18||r="TrAP"||c="dehydration" 114:13 114:13
+c="initial volume repletion" 114:16 114:18||r="TrIP"||c="mild ari" 114:3 114:4
+c="a cta" 27:17 27:18||r="TeCP"||c="pe" 27:22 27:22
+c="a cta" 27:17 27:18||r="TeRP"||c="multifocal bilateral pna" 27:25 27:27
+c="a cta" 27:17 27:18||r="TeRP"||c="pe" 27:30 27:30
+c="two back surgeries" 36:5 36:7||r="TrAP"||c="degenerative disc disease" 36:1 36:3
+c="nrb" 97:5 97:5||r="TrAP"||c="hypoxic" 97:3 97:3
+c="ileostomy" 88:8 88:8||r="TrCP"||c="short gut syndrome" 88:11 88:13
+c="ileostomy" 88:8 88:8||r="TrAP"||c="crohn 's disease" 88:4 88:6
+c="ards" 100:16 100:16||r="PIP"||c="diffuse infiltrative process" 100:11 100:13
+c="pseudocyst formation" 42:8 42:9||r="PIP"||c="chronic pancreatitis" 42:5 42:6
+c="risperdal" 33:8 33:8||r="TrCP"||c="eps side effects" 33:4 33:6
+c="" pin placement " in left foot" 35:3 35:9||r="TrAP"||c="arthritis" 35:1 35:1
+c="ct" 34:8 34:8||r="TeRP"||c="chronic idiopathic pancreatitis" 34:1 34:3
+c="dec. air movement" 53:7 53:9||r="PIP"||c="crackles at right base" 53:2 53:5
+c="ileostomy" 143:4 143:4||r="TrCP"||c="short gut syndrome" 143:12 143:14
+c="ileostomy" 143:4 143:4||r="TrAP"||c="crohn 's disease" 143:7 143:9
+c="abd ct" 40:0 40:1||r="TeRP"||c="multiple calcifications in the body and tail of the pancreas" 40:5 40:14
+c="abd ct" 40:0 40:1||r="TeRP"||c="a larger cystic lesion in the tail of the pancreas" 40:16 40:25
+c="the cxr" 27:1 27:2||r="TeRP"||c="ptx" 27:11 27:11
+c="the cxr" 27:1 27:2||r="TeRP"||c="pna" 27:8 27:8
+c="eventual ileostomy" 31:12 31:13||r="TrCP"||c="short gut syndrome" 31:17 31:19
+c="eventual ileostomy" 31:12 31:13||r="TrAP"||c="crohn 's disease" 31:1 31:3
+c="iv hydration" 39:4 39:5||r="TrAP"||c="short gut syndrome" 39:9 39:11
+c="replacement" 39:20 39:20||r="TrAP"||c="clotting" 39:15 39:15
+c="1l nc" 104:8 104:9||r="TrAP"||c="her o2 requirement" 104:2 104:4
+c="a pna" 25:24 25:25||r="PIP"||c="an elevated wbc count" 25:13 25:16
+c="a pna" 25:24 25:25||r="PIP"||c="sob" 25:9 25:9
+c="a pna" 25:24 25:25||r="PIP"||c="sx of chest pain" 25:4 25:7
+c="a pna" 25:24 25:25||r="PIP"||c="her fever" 25:1 25:2
+c="the vent" 103:5 103:6||r="TrIP"||c="her o2 requirement" 103:0 103:2
+c="nutritional support" 143:19 143:20||r="TrAP"||c="short gut syndrome" 143:12 143:14
+c="a chest x ray" 100:5 100:8||r="TeRP"||c="diffuse infiltrative process" 100:11 100:13
+c="port-a-cath placement" 39:1 39:2||r="TrAP"||c="short gut syndrome" 39:9 39:11
+c="port-a-cath placement" 39:1 39:2||r="TrCP"||c="clotting" 39:15 39:15
+c="head ct" 80:0 80:1||r="TeCP"||c="delta ms" 80:11 80:12
+c="tpn" 88:17 88:17||r="TrAP"||c="short gut syndrome" 88:11 88:13
+c="pt 's blood cultures" 94:0 94:3||r="TeRP"||c="staph aureus" 94:8 94:9
+c="pt 's blood cultures" 94:0 94:3||r="TeRP"||c="enterococcus" 94:11 94:11
+c="palpation over ruq" 57:5 57:7||r="TeRP"||c="tender" 57:3 57:3
+c="palpation over ruq" 57:5 57:7||r="TeRP"||c="guarding" 57:11 57:11
+c="palpation over ruq" 57:5 57:7||r="TeRP"||c="rebound" 57:13 57:13
+c="ileostomy" 19:7 19:7||r="TrAP"||c="crohn 's" 19:4 19:5
+c="ileostomy" 19:7 19:7||r="TrCP"||c="short gut syndrome" 19:10 19:12
+c="the multi-focal pna" 137:17 137:19||r="PIP"||c="significant pain" 137:14 137:15
+c="tpn" 143:22 143:22||r="TrAP"||c="short gut syndrome" 143:12 143:14
+c="the chest ct" 90:15 90:17||r="TeRP"||c="multifocal consolidation" 90:19 90:20

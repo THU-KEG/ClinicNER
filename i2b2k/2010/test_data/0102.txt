@@ -1,0 +1,66 @@
+142995994 SC
+54818584
+976113
+1/23/1992 12:00:00 AM
+Discharge Summary
+Signed
+DIS
+Admission Date :
+01/23/1992
+Report Status :
+Signed
+Discharge Date :
+01/26/1992
+DIAGNOSIS ON DISCHARGE :
+1. STATUS POST MOTORVEHICLE ACCIDENT WITH TRANSIENT PARAPLEGIA .
+2. RIGHT HYDRONEPHROSIS ON CT SCAN .
+HISTORY OF PRESENT ILLNESS :
+The patient is a 20 year old black female who was a pedestrian when struck by a car at apparent high speed .
+There was apparent loss of consciousness at the scene and significant deformity of the anterior portion of the motorvehicle with positive starring of the windshield .
+The patient was conscious on the scene when evaluated by EMT &apos;s but at the scene , the patient was apparently paraplegic below the umbilicus with absence of movement and sensation below the umbilicus .
+PAST MEDICAL HISTORY :
+None .
+PAST SURGICAL HISTORY :
+Status post laparotomy for an ovarian cyst in 1988 .
+MEDICATIONS ON ADMISSION :
+None .
+ALLERGIES :
+None .
+She denies cigarette use and ethanol use as well as a recreational drug use .
+PHYSICAL EXAMINATION :
+On initial exam , her left shoulder was tender to palpation over the proximal humerus with decreased range of motion .
+She was without the ability to move her left lower extremity with decreased sensation in the left leg .
+The right leg was with decreased range of motion of thigh flexion and extension .
+The back was notable for tenderness at the level of L3-L5 .
+LABORATORY EXAMINATION :
+Initial radiologic evaluation showed negative C-spine , thoracic spine , and lumbosacral spine films .
+Abdominal CT was negative except for right hydronephrosis with mild right hydroureter .
+Back MRI was negative .
+Film of the left humerus was also negative .
+HOSPITAL COURSE :
+A Neurosurgery consultation was obtained , and it was their impression that the patient &apos;s paraplegia might possibly represent a cord concussion , and recommended treatment with intravenous steroids for 24 hours .
+The patient &apos;s paraplegia resolved by the morning of her second hospital day , and she maintained 5/5 motor strength in all groups .
+A Urology consultation was obtained , and it was recommended that an IVP be obtained .
+This was obtained on the day of discharge , however , due to residual contrast in the colon from the patient &apos;s prior abdominal CT scan , the exam was postponed after a scout film was obtained .
+The patient fell well on the day of discharge .
+She remained afebrile throughout her hospital course .
+Additionally on the night before discharge , flexion and extension views of the lumbosacral spine were obtained , and showed no fracture or instability .
+DISPOSITION :
+CONDITION ON DISCHARGE :
+Good .
+MEDICATIONS ON DISCHARGE :
+Tylenol 650 mg p.o. q4 hours p.r.n. pain .
+She will followup in the Wardca Presiew Hospital in one week .
+She will have an IVP repeated in one week at which time she should have cleared the residual contrast in her colon .
+She will have urology followup after her IVP .
+OP303/0134 NARI BLACK , M.D. SU1
+D :
+01/26/92
+Batch :
+7505
+Report :
+K7798E74
+T :
+01/27/92
+Dictated By :
+SHAZA C. SCHAUMANN , M.D.

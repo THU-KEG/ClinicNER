@@ -1,0 +1,147 @@
+618630652 TH
+25702708
+7362133
+05/18/2005 12:00:00 AM
+transplant rejection
+DIS
+Admission Date :
+05/18/2005
+Report Status :
+Discharge Date :
+05/21/2005
+****** FINAL DISCHARGE ORDERS ******
+VANGESKIBEATHETLAND , AJOEAN J
+631-09-69-0 O85
+Room :
+7P-028
+Service :
+RNM
+DISCHARGE PATIENT ON :
+05/21/05 AT 11:00 AM
+CONTINGENT UPON
+Not Applicable
+WILL D / C ORDER BE USED AS THE D / C SUMMARY :
+YES
+Attending :
+DOUET , DAMI L. , M.D.
+CODE STATUS :
+Full code
+DISPOSITION :
+Home
+DISCHARGE MEDICATIONS :
+CALCITRIOL 0.5 MCG PO BID CALCIUM CARBONATE ( 500 MG ELEMENTAL CA++ ) 5,000 MG PO TID PEPCID ( FAMOTIDINE ) 20 MG PO BID TACROLIMUS 5 MG PO Q12H
+Food / Drug Interaction Instruction
+Separate antacids by at least two hours and avoid grapefruit juice
+Override Notice :
+Override added on 05/19/05 by GUIRRE , SHELLTILI B. , M.D. on order for DILTIAZEM PO ( ref # 086429935 )
+POTENTIALLY SERIOUS INTERACTION :
+TACROLIMUS and DILTIAZEM HCL
+Reason for override :
+MD aware
+Previous override information :
+Override added on 05/19/05 by SAPSPANT , AJAC R , M.D. on order for DILTIAZEM EXTENDED RELEASE PO ( ref # 131507128 )
+POTENTIALLY SERIOUS INTERACTION :
+TACROLIMUS and DILTIAZEM HCL
+Reason for override :
+request by renal , will follow level
+Previous override information :
+Override added on 05/19/05 by SAPSPANT , AJAC R , M.D. on order for DILTIAZEM SUSTAINED RELEASE PO ( ref # 930638554 )
+POTENTIALLY SERIOUS INTERACTION :
+TACROLIMUS and DILTIAZEM HCL
+Reason for override :
+will monitor levels
+Previous override information :
+Override added on 05/18/05 by TONE , NIDI M. , M.D. , M.P.H.
+POTENTIALLY SERIOUS INTERACTION :
+DILTIAZEM HCL and TACROLIMUS
+Reason for override :
+will monitor BACTRIM SS ( TRIMETHOPRIM /SULFAMETHOXAZOLE SI ... ) 1 TAB PO QD DILTIAZEM EXTENDED RELEASE 360 MG PO QD Starting IN AM ( 05/20 )
+Food / Drug Interaction Instruction
+Avoid grapefruit unless MD instructs otherwise .
+Alert overridden :
+Override added on 05/19/05 by SAPSPANT , AJAC R , M.D.
+POTENTIALLY SERIOUS INTERACTION :
+TACROLIMUS and DILTIAZEM HCL
+Reason for override :
+request by renal , will follow level
+CELLCEPT ( MYCOPHENOLATE MOFETIL ) 1,000 MG PO BID
+Food / Drug Interaction Instruction
+Give on an empty stomach ( give 1hr before or 2hr after food ) Food decreases peak by up to 40% VALCYTE ( VALGANCICLOVIR ) 450 MG PO QD EPOETIN ALFA 25,000 UNITS SC QWEEK VITAMIN D 2 ( ERGOCALCIFEROL ) 50,000 UNITS PO QWEEK X 6 doses DILAUDID ( HYDROMORPHONE HCL ) 1-2 MG PO Q4H PRN Pain
+DIET :
+2 gram Sodium
+ACTIVITY :
+Resume regular exercise
+FOLLOW UP APPOINTMENT ( S ) :
+renal clinic 05/25/05 ,
+ALLERGY :
+PEPTO BISMOL , GUAIFENESIN , BISMUTH SUBSALICYLATE SUSPENSION
+ADMIT DIAGNOSIS :
+r / o transplant rejection
+PRINCIPAL DISCHARGE DIAGNOSIS ;
+Responsible After Study for Causing Admission ) transplant rejection
+OTHER DIAGNOSIS ;
+Conditions , Infections , Complications , affecting Treatment / Stay
+FSGS -&gt; esrd on hd since 10/3 htn s / p vaginal delivery 7/7 s / p subtotal parathyroidectomy 9/6
+OPERATIONS AND PROCEDURES :
+OTHER TREATMENTS / PROCEDURES ( NOT IN O.R. )
+renal biopsy 05/19
+BRIEF RESUME OF HOSPITAL COURSE :
+30F w ESRD thought 2/2 FSGS on peritoneal dialysis since 10/3 , underwent renal transplant from living unrelated donor on 5/8/05 ( adm 5/8 - 5/13 ) ; post-op course c / b fever to 103 ( 19 WBC in peritoneal fluid , treated empirically w levo / flagyl x 7d ) and break in PD tubing ( tx w vanco ) .
+D / c&apos;d home , doing well , routine labs showed bump in creatinine from 1.2 to 1.6 , so admitted to evaluate for ? rejection .
+ROS negative for f / ch/ n / v/d / dysuria .
+No sick contacts .
++mild periincisional tenderness .
++1600-2000cc UO
+PMH :
+as above , HTN , s / p vag delivery 7/7 , subtotal parathyroidectomy in 9/6 .
+ALL :
+peptobismol/ guafinesin -&gt; hives
+MEDS at home :
+toprol XL 50 , dilt 240 , calcitriol 0.5 bid , calcium carbonate 4000mg tid , famotidine 20 bid , oxycodone 10-15 q3 prn , prednisone 20 , tacro 8 bid , bactrim SS qd , cellcept 1g bid , valcyte 450 qd , epoiten 25 qwk
+FH/ SH :
+married , no tob / etoh/ ivdu .
+Physical Exam :
+99.6 79-106 116/74 18 99RA WDWN F , NAD , RRR , 2/6 SM at LSB , CTAB , abd soft , mild peri-incisional tenderness , +BS , no r / r/g , +JP drain near site , + PD catheter , 1+ edema in B.LE , 2+ DP .
+LABS/ STUDIES :
+-- Cr down to 1.4 at discharge , hct 28 ( baseline 24-29 ) , FK 17 , UA +9-15 wbc , 2+ pro , 2+ blood , 0-1 hy casts
+-- ECHO ( 7/8 ) :
+EF 70% , mild septal LVH/ hyperdynamic ventricle , trace MR/ TR
+Hosp Course :
+30F w ESRD 2/2 FSGS s / p renal transplant 10d prior to admission , admitted w acute rise in creatinine .
+Diff dx. includes uti , pre-renal , acute rejection
+Renal :
+The patient was made NPO after admission .
+Her repeat Cr was 1.7 and she had a repeat Cr that was 1.7 , up from 1.6 in the office .
+She had a biopsy on hospital day 2 .
+The final biopsy results were pending at the time of discharge .
+She was treated with pulse dose steroids , Solumedrol 500 mg IV x 3 .
+Her discharge Cr was 1.4 .
+She will be discharged on prednisone 20 mg po qd .
+Her home regimen of immunosuppressives was continued .
+Her Tacrolimus was initially increased to 8 bid and once she was therapeutic on it , it was decreased to 5 bid .
+Her Diltiazem was increased to 360 qd in an effort to improve retention of Tacrolimus .
+Endo :
+The patient &apos;s Ca was followed closely and repleted .
+She was given Vit D2 50K units x 1 .
+She will be discharged on VitD2 50K units qweek x 6 weeks .
+Full Code Heme :
+She was given one dose of Darbapoetin .
+CV :
+She was normotensive .
+Her betablocker was discontinued when her CCB was increased .
+FEN :
+She was on a low salt , low protein diet .
+PPX :
+She was continued on Pepcid and placed on pneumoboots while in bed .
+ADDITIONAL COMMENTS :
+Take lab slip to have labs drawn on Saturday 05/23 .
+Review results in clinic Monday 05/25 .
+Transplant surgery will see you and evaluate for pulling drain in clinic Monday .
+Be sure to record output from drain over the weekend .
+DISCHARGE CONDITION :
+Stable
+TO DO / PLAN :
+No dictated summary
+ENTERED BY :
+SAPSPANT , AJAC R , M.D. ( GW80 ) 05/21/05 10:47 AM
+****** END OF DISCHARGE ORDERS ******

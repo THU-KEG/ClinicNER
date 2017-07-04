@@ -1,0 +1,8 @@
+c="a repeat cat scan of the head" 66:6 66:12||r="TeRP"||c="change in the subdural bleed" 66:15 66:19
+c="a repeat cat scan" 65:8 65:11||r="TeCP"||c="the bleeding" 65:28 65:29
+c="serial neurologic checks" 65:4 65:6||r="TeCP"||c="the bleeding" 65:28 65:29
+c="tetracycline" 24:1 24:1||r="TrAP"||c="acne" 24:3 24:3
+c="head ct" 60:0 60:1||r="TeRP"||c="a small right parietal subdural blood" 60:8 60:13
+c="tetracycline" 79:1 79:1||r="TrAP"||c="her acne" 79:7 79:8
+c="workup" 16:0 16:0||r="TeRP"||c="parietal subdural bleed on the right side" 16:15 16:21
+c="a ct scan of the head" 16:6 16:11||r="TeRP"||c="parietal subdural bleed on the right side" 16:15 16:21

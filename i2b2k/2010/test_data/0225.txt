@@ -1,0 +1,103 @@
+Admission Date :
+2017-04-26
+Discharge Date :
+2017-05-01
+Date of Birth :
+1955-02-25
+Sex :
+M
+Service :
+CARD CMED
+HISTORY OF PRESENT ILLNESS :
+This is a 62 year old gentleman who underwent an exercise treadmill test for screening through the Beth Israel Deaconess Hospital-Needham Clinic .
+The test was positive for EKG changes and shortness of breath .
+The patient has no history of chest pain; no history of myocardial infarction .
+The patient was referred to Cambridge Health Alliance for cardiac catheterization .
+Cardiac catheterization showed an ejection fraction of 50% , left ventricular end diastolic pressure of 20 , 90% left anterior descending lesion , 80% left circumflex lesion , 80% mid right coronary artery lesion and 80% distal right coronary artery lesion .
+The patient was referred to Dr. Rota for coronary artery bypass grafting .
+PAST MEDICAL HISTORY :
+1. Hypertension .
+2. Type 2 diabetes mellitus .
+3. Hypercholesterolemia .
+4. Thirty pack year tobacco history , quit one month ago .
+5. Gout .
+6. Gastroesophageal reflux disease .
+7. History of salivary gland removal .
+ALLERGIES :
+No known drug allergies .
+PREOPERATIVE MEDICATIONS :
+1. Glucophage XR 1000 mg p.o. q. day .
+2. Avandia 4 mg p.o. q. day .
+3. Diovan 160 mg p.o. q. day .
+4. Atenolol 25 mg p.o. q. day .
+5. Lipitor 10 mg p.o. q. day .
+6. Niaspan 500 mg p.o. q. day .
+7. Enteric-coated aspirin .
+HOSPITAL COURSE :
+The patient was admitted to Saint Vincent Hospital on 2017-04-26 and underwent a coronary artery bypass graft times four with left internal mammary artery to left anterior descending , saphenous vein graft to right coronary artery , saphenous vein graft to PDA and saphenous vein graft to obtuse marginal with Dr. Rota .
+Please see the Operative Note for further details .
+The patient was transferred to the Intensive Care Unit in stable condition on Neo-Synephrine infusion .
+The patient was weaned the next day from mechanical ventilation on his first postoperative night .
+Postoperative days one and two , the patient continued to require Neo-Synephrine to maintain systolic blood pressures greater than 100 .
+On postoperative day two , the patient 's hematocrit was noted to be 23.1 ; he was transfused one unit of packed red blood cells as well as given a dose of Lasix .
+The Neo-Synephrine was weaned off by postoperative day number three .
+The patient 's chest tubes were removed on postoperative day three without incident .
+The patient was started on low dose Lasix and Lopressor which he tolerated well .
+On postoperative day number four , the patient was transferred from the Intensive Care Unit to the regular part of the hospital where he began working with Physical Therapy and on his first session he was able to ambulate 500 feet and climb one flight of stairs while remaining hemodynamically stable without requiring any oxygen .
+On postoperative day number five , the patient continued to remain hemodynamically stable .
+The patient 's epicardial pacing wires were removed without incident and the patient was cleared for discharge to home .
+CONDITION ON DISCHARGE :
+Temperature maximum 99.8 F. ; pulse 76 and sinus rhythm ; blood pressure 107/61 ; respiratory rate 18 ; room air oxygen saturation 95% .
+The patient 's weight on 05-01 was 101.4 .
+The patient weighed 100 kilograms preoperatively .
+LABORATORY DATA :
+White blood cell count 5.8 , hematocrit 23.5 , platelet count 118 .
+Sodium 140 , potassium 3.9 , chloride 103 , bicarbonate 18 , BUN 11 , creatinine 0.8 , glucose 144 .
+PT 29 , INR 1.1 and PTT 22.9 .
+Neurologically , the patient is alert and oriented times three , anxious .
+Neurological examination is non-focal .
+Heart is regular rate and rhythm without rub or murmur .
+Respiratory breath sounds are clear bilaterally , decreased at the bases .
+Abdomen with positive bowel sounds , soft , nontender , nondistended , tolerating a regular diet .
+Sternal incision staples are intact and open to air .
+Incision is clean and dry .
+There is no erythema and sternum is stable .
+Right lower extremity vein harvest site has a moderate amount of ecchymosis at the very distal portion of the incision at the ankle .
+There is a minimum amount of serosanguinous drainage .
+There is no erythema .
+DISCHARGE DIAGNOSES :
+1. Coronary artery disease .
+2. Status post coronary artery bypass graft times four .
+3. Type 2 diabetes mellitus .
+4. Postoperative anemia .
+DISCHARGE MEDICATIONS :
+1. Atenolol 25 mg p.o. q. day .
+2. Lasix 20 mg p.o. q. day times seven days .
+3. Potassium chloride 20 mEq p.o. q. day times seven days .
+4. Niferex 150 mg p.o. q. day times one month .
+5. Vitamin C 500 mg p.o. twice a day times one month .
+6. Multivitamin one p.o. q. day times one month .
+7. Ambien 5 mg p.o. q. h.s. p.r.n.
+8. Colace 100 mg p.o. twice a day .
+9. Avandia 4 mg p.o. q. day .
+10. Glucophage 500 mg p.o. twice a day .
+11. Lipitor 20 mg p.o. q. day .
+12. Zantac 150 mg p.o. twice a day .
+13. Niaspan 500 mg p.o. q. day .
+14. Percocet 5/325 one to two p.o. q. four to six hours p.r.n.
+DISPOSITION :
+The patient is to be discharged to home .
+CONDITION ON DISCHARGE :
+Stable condition .
+DISCHARGE INSTRUCTIONS :
+1. The patient is to follow-up with Dr. Neri in one to two weeks .
+2. The patient is to follow-up with Dr. Rota in three to four weeks .
+3. The patient is to return to Smith on or about 05-17 to have his staples removed .
+Gabriela E. D. Castillo , M.D. 05-025
+Dictated By : Julia Q Mcafee , M.D.
+MEDQUIST36
+D : 2017-05-01 15:06
+T : 2017-05-01 15:37
+JOB # : 59432
+Signed electronically by : DR. Kathy Brendel on : TUE 2017-05-02 8:08 AM
+( End of Report )

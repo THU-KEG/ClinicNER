@@ -1,0 +1,234 @@
+Admission Date :
+2019-03-29
+Discharge Date :
+2019-04-01
+Date of Birth :
+1935-12-05
+Sex :
+M
+Service :
+NEUROLOGY
+Allergies :
+Lorazepam / Penicillins / Prednisone / Hydrochlorothiazide / Ceftriaxone / Phenytoin
+Attending : Derrick Z Wooster , M.D.
+Chief Complaint : progressing slowing of mentation and gait difficulties since a week ; evaluation for ICH
+Major Surgical or Invasive Procedure :
+None
+History of Present Illness :
+The patient is a 83 yo R-handed man with a history of multiple intracranial hemorrhages during the last few years , pacemaker , hyperlipidemia , arrhythmia who now presents with gradual decline in gait and slowing of mentation over the last week .
+The patient had a fall about ten days ago , when he was walking the dog .
+The leash got wrapped around his legs .
+According to his wife he had a small abrasion on the top of his head , but nothing major .
+He did not complain about a headache .
+He was at baseline with respect to his gait ( at baseline unsteady , though he refuses to walk with a walker ) and his mentation ( at baseline difficulties with memory since months ; keeps forgetting appointments ).
+Then about a week ago , the patient and his wife noted that his gait became even more unsteady , though he did not fall .
+He also had difficulties navigating through his apartment , having difficulties finding the fridge for example .
+They were concerned that the fall might have caused another bleed , as had happened in the past , and this prompted them to come to the Deanna .
+No headache , neckpain , nausea , vomiting or focal weakness / numbness .
+Review of systems : denies any fever , chills , weight loss , visual changes , hearing changes , dysphagia , tingling , numbness , bowel-bladder dysfunction , chest pain , shortness of breath , abdominal pain , dysuria , hematuria , or bright red blood per rectum .
+His legs have been feeling weaker , bilaterally since the last week .
+Past Medical History :
+1. Previous interventricular hemorrhages :
+06-30 resolved as of repeat head CT one month later , no residual deficits; 03-03 : ICH in 3rd , 4th , and L-lat ventricle ; no aneurysm ; 07-01 : ICH in R-temporal lobe ; question of underlying mass at that time per contrast CT ; decided to follow up with serial scans rather than to biopsy
+2. pacemaker placement for arrhythmia , Afibb ; during last hospitalization episodes of NSVT
+3. history of slowness of gait , ? parkinsons ? and possibly dementia followed by Dr. Ahern ( Laurence Eichorn ).
+Sinemet was stopped during last admission 06-30 as he was thought to NOT have PD .
+4. Depression
+5. COPD
+6. hyperlipidemia
+7. bilateral cataract surgery
+8. orthostatic hypotension , on midodrine
+Social History :
+The pt. is married , independent in ADLS , lives with wife in a retirement community .
+Significant tobacco history x 40 yrs x 1ppd , quit 20 yrs ago ,
+Reported occassional glass of wine , no illicit drugs
+He is a retired architect .
+Wife states that he would NOT want to be recussitated , and that OSH placed ETT before asking her .
+Family History : no kids , no bleeds or strokes in other family members
+Physical Exam :
+Vitals :
+96.7 HR60 BP153/52 , later 178/85 RR 18T sO298% RA
+Gen :
+NAD , in bed
+HEENT : mmm
+Neck : no LAD ; no carotid bruits ; limited range neck movements bilaterally
+Lungs :
+Clear to auscultation bilaterally
+Cardiovascular :
+Regular rate and rhythm , normal S1 and S2 , no murmurs , gallops and rubs .
+Abdomen : normal bowel sounds , soft , nontender , nondistended
+Extremities : no edema; cold feet bilaterally
+Mental Status :
+Awake and alert , cooperative with exam , normal affect ; facial expression somewhat sparse .
+Oriented to place and person , not date 1996 .
+Attention :
+DOYbw .
+Memory :
+Registration :
+03-29 items ; Recall 03-29 at 5 min .
+Language : fluent ; repetition : intact ; Naming intact ; Comprehension intact ; no dysarthria , no paraphasic errors .
+East Sandwich : intact ;
+3D-construction : poor , difficulties putting handles in clock ; No Apraxia .
+No Neglect .
+Unable to do luria .
+Named 10 animals in 1 minute , no perseveration , but no further animals after 30 secs .
+Cranial Nerves :
+II :
+Visual fields are full to confrontation , pupils equally round and reactive to light both directly and consensually , 2.5 --> 2 mm bilaterally .
+III , IV , VI :
+Extraocular movements intact with few beats of horizontal endgaze nystagmus .
+Limited CMED CCU movements in upgaze .
+Fixation and saccades are normal .
+V :
+Facial sensation intact to light touch and pinprick .
+VII :
+Facial movement symmetrical ; no facial droop .
+VIII :
+Hearing intact to finger rub bilaterally .
+IX :
+Palate elevates in midline .
+XII :
+Tongue protrudes in midline , no fasciculations .
+XI :
+Sternocleidomastoid and trapezius normal bilaterally .
+Motor System :
+Decreased bulk throughout ; tone normal bilaterally .
+No adventitious movements , no tremor , no asterixis .
+Right
+D - 5 ; T - 5 ; B - 5 ; WF - 5 ; WE - 5 ; FiF - 5 ; Bruner - 5 ; Ip - 5 ; Gl - 5 ; Q - 5- ; H - 5 ; AF - 5 ; TF - 5 ; TE - 5
+Left
+D - 5 ; T - 5 ; B - 5 ; WF - 5 ; WE - 5 ; FiF - 5 ; Bruner - 5 ; Ip - 5 ; Gl - 5 ; Q - 5- ; H - 5 ; AF - 5 ; TF - 5 ; TE - 5-
+No pronator drift .
+No rebound .
+Sensory system :
+Sensation intact to light touch , pin prick , temperature ( cold ) .
+Decreased vibration in feet and ankles bilaterally , some in knees ; proprioception decreased in his feet bilaterally .
+Reflexes :
+Right B - 2 ; T - 2 ; Br - 2 ; Pa - 1 ; Pl - 0
+Left
+B - 2 ; T - 2 ; Br - 2 ; Pa - 1 ; Pl - 0 ( Less brisk than on R , but exam limited due to cuff )
+Toes : mute bilaterally ; TFL contracted on the L .
+Coordination :
+Normal Correa , Kimberly , HTS .
+No dysmetria or pastpointing .
+Gait : not tested
+( later tested and patient markedly unstable on feet )
+Pertinent Results :
+2019-03-29 10:59 PM
+GLUCOSE - 89
+2019-03-29 10:59 PM
+CK ( CPK )- 128
+2019-03-29 10:59 PM
+CK - MB - 6 cTropnT -< 0.01
+2019-03-29 04:00 PM URINE
+HOURS - RANDOM
+2019-03-29 04:00 PM URINE
+GR HOLD - HOLD
+2019-03-29 04:00 PM URINE
+COLOR - Straw APPEAR - Clear SP Stickney - 1.017
+2019-03-29 04:00 PM URINE
+BLOOD - NEG NITRITE - NEG PROTEIN - NEG GLUCOSE - NEG KETONE - NEG BILIRUBIN - NEG UROBILNGN - NEG PH - 7.0 LEUK - NEG
+2019-03-29 02:00 PM
+GLUCOSE - 72 UREA N - 17 CREAT - 0.8 SODIUM - 140 POTASSIUM - 4.4 CHLORIDE - 103 TOTAL CO2 - 29 ANION GAP - 12
+2019-03-29 02:00 PM
+WBC - 6.7 RBC - 4.53 * HGB - 14.8 HCT - 44.6 MCV - 99 * MCH - 32.8 * MCHC - 33.3 RDW - 12.6
+2019-03-29 02:00 PM
+NEUTS - 65.5 LYMPHS - 25.8 MONOS - 7.0 EOS - 1.4 BASOS - 0.2
+2019-03-29 02:00 PM
+MACROCYT - 1+
+2019-03-29 02:00 PM
+PLT COUNT - 213
+2019-03-29 02:00 PM
+PT - 12.3 PTT - 24.5 INR ( PT )- 1.1
+CT BRAIN ( INITIAL )
+FINDINGS :
+There is a 41 x 23 mm area of hyperdensity within the right frontal lobe , with moderate surrounding vasogenic edema
+( series 2 , image 23 ) , compatible with acute intraparenchymal hemorrhage .
+The chronic encephalomalacic changes at the adjacent right frontal lobe and the right parietal / occipital region remain stable in appearance .
+There is mild mass effect upon the anterior Mims of the right lateral ventricle .
+No further intraaxial or extraaxial fluid collections or hematoma are identified .
+There is no displacement of the normally midline structures , hydrocephalus , or effacement of the basal cisterns at present .
+Review of bone windows demonstrates no skull bulge or skull base fracture .
+There is an air / fluid level within the right maxillary sinus - ? acute sinusitis , but acute blood cannot be excluded , in the setting of acute trauma .
+CONCLUSION :
+41 x 23 mm acute intraparenchymal hematoma at the right frontal lobe , causing mild mass effect upon the ipsilateral lateral ventricle , suspicious of hemorrhage secondary to congophilic angiopathy in this age group .
+Chronic encephalomalacic changes at the right frontal lobe and right parietal / occipital region are unchanged in appearance since 2018-11-27 .
+REPEAT HEAD CT 03-30 : no significant change from above .
+EKG :
+Atrial pacing .
+Since the previous tracing of 2018-03-15 atrial pacing is a new finding .
+The electrocardiogram is otherwise , unchanged and continues to Weymouth voltage in the limb leads and non-specific ST-T wave abnormalities .
+Read by :
+Stella , Kendra B .
+Intervals Axes
+Rate 60 PR 188 QRS 104 QT/QTc 460/460 P 85 QRS 55 T 75
+Brief Hospital Course :
+The patient is a 83 yo man with a history of past intracranial hemorrhages ( most recent 07-01 with R-frontal hemorrhage ) who presented with gradually slowing of mentation and increased gait instability since one week .
+On initial exam the patient was not oriented to time , seemed somewhat slow , and had difficulties generating a list of animals .
+His cranial nerves and strength were full , and the sensory exam showed mildly decreased vibration and proprioception in both LE , suggesting peripheral neuropathy .
+A CT was performed in the Deanna that showed a new significant R-frontal intraparenchymal hemorrhage in the same location as the prior bleed .
+The patient was seen by both neurology and neurosurgery , and the two teams agreed that the etiology seemed to be related to underlying amyloidosis .
+During the last admission the question of a mass underlying a hemorrhage in the R-frontal region was raised .
+The location of the hemorrhage was not felt to be typical for hypertensive bleed ( cortical ) and it was felt to be unlikely that the recent fall was related to the bleed .
+The patient could not undergo an MRI due to his pacer .
+He was admitted to the neurology ICU for closer monitoring and was stable overnight - BP was initially elevated and required a labetalol drip for < 24 hours , then stabilized .
+The goal SBP of < 150 was achieved .
+Coags and UA were checked and were normal .
+For the question of seizure activity associated with a cortical bleed , he was started prophylactically on Keppra ( given questionable allergy to dilantin ) , at 500 mg bid ; no seizure activity was seen .
+This medication should be continued as an outpatient at least while the bleed has time to clear up , with planned titration up to 1000 mg bid on 04-05 .
+Head CT repeated on 03-30 was unchanged , and the patient remained stable with only very suble focal exam findings ( very mild right pronator drift ) as well as his persistently poor memory related to dementia .
+The plan after 24 hours was to transfer him to the floor , but the hospital was full and he never got a bed .
+Cardiovascularly , lipitor and amiodarone were continued .
+He could not get an MRI due to his pacemaker .
+There were no telemetry events , and he ruled out by enzyme .
+Pulmonlologically , his chest xray was negative and he complained of no breathing problems .
+Endocrinologically , BG was monitored to improve outcome in ICU setting though he had no history of DM .
+Of note , Hba1c done 03-04 was slightly elevated ( " borderline DM " ) at 6.3 ; this was repeated and was still pending on the day of discharge .
+Ins / outs and electrolytes were monitored and were not abnormal ; he was on a bowel regimen , VD boots and PUD prophylaxis with protonix during the admission .
+Walking was assessed later and the patient was unstable on his feet .
+PT was asked to see him for this gait problem .
+Brandon felt well and was seen by PT who suggested a rehab/Hahnemann Hospital ( Worcester ) to work on walking with the eventual goal of returning to assisted living with his wife when walking improved .
+Follow-up was arranged with neurosurgery in 5-6 weeks with repeat head ct to be arranged by neurosurgery office to make sure blood has cleared , and if indicated , to look for a possible underlying lesion ( although unlikely ) .
+Medications on Admission :
+Amiodarone 200 mg Tablet Sig : 0.5 Tablet PO qod - in March , should be on odd days .
+Donepezil 5 mg Tablet Sig : Two ( 2 ) Tablet PO HS ( at bedtime ) .
+Docusate Sodium 100 mg Capsule Sig : One ( 1 ) Capsule PO BID ( 2 times a day ) .
+Multivitamin Capsule Sig : One ( 1 ) Cap PO DAILY ( Daily ) .
+Mirtazapine 30 mg Tablet Sig : 0.5 Tablet PO HS ( at bedtime ) .
+Atorvastatin 10 mg Tablet Sig : One ( 1 ) Tablet PO at bedtime .
+Ocuvite Tablet Sig : One ( 1 ) Tablet PO once a day .
+Artificial Tears Drops Sig : One ( 1 ) drop Ophthalmic twice a day : ou .
+Ensure Liquid Sig : 0.5 to 1 can PO three times a day .
+Midodrine 10 mg Tablet Sig : 1.5 Tablets PO twice a day : at 8am and noon .
+Ritalin 5 mg Tablet Sig : see below Tablet PO see below : 1.5 tablets at 10am ( 7.5mg ) , 1 tablet 2pm ( 5mg ) .
+Prilosec 20 mg Capsule , Delayed Release ( E.C. ) Sig : One ( 1 ) Capsule , Delayed Release ( E.C. ) PO once a day .
+Guaifenesin 100 mg / 5 mL Liquid Sig : 01-28 teaspoons PO every six ( 6 ) hours as needed for cold symptoms .
+Discharge Medications :
+1. Amiodarone 200 mg Tablet Sig : 0.5 Tablet PO qod - in March , should be on odd days .
+2. Donepezil 5 mg Tablet Sig : Two ( 2 ) Tablet PO HS ( at bedtime ) .
+3. Docusate Sodium 100 mg Capsule Sig : One ( 1 ) Capsule PO BID ( 2 times a day ) .
+4. Multivitamin Capsule Sig : One ( 1 ) Cap PO DAILY ( Daily ) .
+5. Mirtazapine 30 mg Tablet Sig : 0.5 Tablet PO HS ( at bedtime ) .
+6. Atorvastatin 10 mg Tablet Sig : One ( 1 ) Tablet PO at bedtime .
+7. Levetiracetam 500 mg Tablet Sig : One ( 1 ) Tablet PO BID ( 2 times a day ) : on 04-05 , please increase to TWO tablets bid ( 1000 mg bid ) .
+8. Ocuvite Tablet Sig : One ( 1 ) Tablet PO once a day .
+9. Artificial Tears Drops Sig : One ( 1 ) drop Ophthalmic twice a day : ou .
+10. Ensure Liquid Sig : 0.5 to 1 can PO three times a day .
+11. Midodrine 10 mg Tablet Sig : 1.5 Tablets PO twice a day : at 8 am and noon .
+12. Ritalin 5 mg Tablet Sig : see below Tablet PO see below : 1.5 tablets at 10 am ( 7.5 mg ) , 1 tablet 2 pm ( 5 mg ) .
+13. Prilosec 20 mg Capsule , Delayed Release ( E.C. ) Sig : One ( 1 ) Capsule , Delayed Release ( E.C. ) PO once a day .
+14. Guaifenesin 100 mg / 5 mL Liquid Sig : 01-28 teaspoons PO every six ( 6 ) hours as needed for cold symptoms .
+Discharge Disposition :
+Extended Care
+Discharge Diagnosis :
+Right sided intraparenchymal cerebral hemorrhage
+Discharge Condition :
+Stable - still with difficulty walking , and mental status exam with memory loss c/w dementia , but otherwise no focal weakness .
+Discharge Instructions :
+Please call MD or return to Deanna if new symptoms suggestive of stroke or brain hemorrhage including weakness , numbness / tingling , facial droop , visual changes , vertigo , loss of coordination , or worsened problems with walking .
+Followup Instructions :
+Please f/u with Dr. Hernandez / neurosurgery in 6 weeks - patient will receive a call from the neurosurgery office to set up a repeat head CT prior and to schedule this visit .
+Daniel Laura MD , PHD 13-279
+Completed by : Charles Rodriguez MD 38-818 2019-04-01 @ 1518
+Signed electronically by : DR. Stacie Henry on : MON 2019-05-06 12:14 PM
+( End of Report )

@@ -1,0 +1,41 @@
+c="po diltiazem" 100:27 100:28||r="TrAP"||c="afib" 100:6 100:6
+c="ucx" 28:0 28:0||r="TeRP"||c="proteus" 28:2 28:2
+c="moderate to severe right hydroureteronephrosis" 63:1 63:5||r="PIP"||c="two obstructing distal right ureteral stones" 63:7 63:12
+c="closed reduction" 35:7 35:8||r="TrAP"||c="closed fracture of radius" 35:2 35:5
+c="ucx" 99:0 99:0||r="TeRP"||c="proteus" 99:2 99:2
+c="a dilt gtt" 29:9 29:11||r="TrAP"||c="afib" 29:6 29:6
+c="levaquin" 28:9 28:9||r="TrAP"||c="proteus" 28:2 28:2
+c="tube placement" 24:2 24:3||r="TrCP"||c="renal artery puncture" 24:7 24:9
+c="tube placement" 24:2 24:3||r="TrCP"||c="afib" 24:11 24:11
+c="tube placement" 24:2 24:3||r="TrCP"||c="increased dyspnea" 24:14 24:15
+c="coumadin" 33:3 33:3||r="TrAP"||c="a.fib" 33:1 33:1
+c="this regimen" 28:20 28:21||r="TrAP"||c="proteus" 28:2 28:2
+c="her inr" 21:0 21:1||r="TeRP"||c="elevated" 21:6 21:6
+c="a dilt gtt" 100:9 100:11||r="TrAP"||c="afib" 100:6 100:6
+c="bisacodyl" 121:1 121:1||r="TrAP"||c="constipation" 121:20 121:20
+c="this regimen" 99:19 99:20||r="TrAP"||c="proteus" 99:2 99:2
+c="levaquin" 99:9 99:9||r="TrAP"||c="proteus" 99:2 99:2
+c="iv metoprolol" 111:18 111:19||r="TrIP"||c="rvr" 111:13 111:13
+c="iv metoprolol" 111:18 111:19||r="TrIP"||c="afib" 111:11 111:11
+c="afib" 111:11 111:11||r="PIP"||c="rvr" 111:13 111:13
+c="her blood cultures" 101:11 101:13||r="TeRP"||c="proteus" 101:16 101:16
+c="her blood cultures" 101:11 101:13||r="TeRP"||c="septic" 101:6 101:6
+c="drugs" 12:8 12:8||r="TrCP"||c="known allergies" 12:5 12:6
+c="tube placement" 95:2 95:3||r="TrCP"||c="renal artery puncture" 95:7 95:9
+c="tube placement" 95:2 95:3||r="TrCP"||c="afib" 95:11 95:11
+c="tube placement" 95:2 95:3||r="TrCP"||c="increased dyspnea" 95:14 95:15
+c="ureteral stone" 92:12 92:13||r="PIP"||c="hydronephrosis" 92:15 92:15
+c="her hydronephrosis" 105:15 105:16||r="PIP"||c="ureteral stone" 105:1 105:2
+c="po diltiazem" 29:27 29:28||r="TrIP"||c="afib" 29:6 29:6
+c="small bilateral pleural effusions" 59:10 59:13||r="PIP"||c="chf" 59:16 59:16
+c="ureteral stent placement" 20:20 20:22||r="TrAP"||c="a r ureteral stone" 20:5 20:8
+c="ureteral stent placement" 20:20 20:22||r="TrAP"||c="hydronephrosis" 20:11 20:11
+c="a r ureteral stone" 20:5 20:8||r="PIP"||c="hydronephrosis" 20:11 20:11
+c="right ventricular systolic function" 73:0 73:3||r="TeRP"||c="depressed" 73:5 73:5
+c="her rate control" 113:10 113:12||r="TrCP"||c="further problems" 113:7 113:8
+c="this ct without iv contrast" 64:33 64:37||r="TeRP"||c="this stone" 64:21 64:22
+c="a nephrostomy tube" 105:7 105:9||r="TrAP"||c="her hydronephrosis" 105:15 105:16
+c="obstructing 5 mm right mid ureteral calculus" 64:2 64:8||r="PIP"||c="mild hydroureter" 64:10 64:11
+c="beta blockers" 109:13 109:14||r="TrIP"||c="atrial fibrillation" 109:9 109:10
+c="beta blockers" 109:13 109:14||r="TrIP"||c="a.fib" 109:1 109:1
+c="definitive treatment" 106:18 106:19||r="TrAP"||c="her nephrolithiasis" 106:21 106:22

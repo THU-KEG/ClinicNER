@@ -1,0 +1,11 @@
+c="cardiac catheterization" 16:0 16:1||r="TeRP"||c="90% left anterior descending lesion" 16:17 16:21
+c="cardiac catheterization" 16:0 16:1||r="TeRP"||c="80% left circumflex lesion" 16:23 16:26
+c="cardiac catheterization" 16:0 16:1||r="TeRP"||c="80% mid right coronary artery lesion" 16:28 16:33
+c="cardiac catheterization" 16:0 16:1||r="TeRP"||c="80% distal right coronary artery lesion" 16:35 16:40
+c="the patient 's epicardial pacing wires" 48:0 48:5||r="TrCP"||c="incident" 48:9 48:9
+c="the patient 's chest tubes" 44:0 44:4||r="TrCP"||c="incident" 44:12 44:12
+c="the test" 13:0 13:1||r="TeRP"||c="ekg changes" 13:5 13:6
+c="the test" 13:0 13:1||r="TeRP"||c="shortness of breath" 13:8 13:10
+c="the incision at the ankle" 65:18 65:22||r="PIP"||c="ecchymosis" 65:11 65:11
+c="respiratory breath sounds" 60:0 60:2||r="TeRP"||c="decreased at the bases" 60:7 60:10
+c="right lower extremity vein harvest site" 65:0 65:5||r="PIP"||c="ecchymosis" 65:11 65:11

@@ -1,0 +1,31 @@
+c="arresting regional wall motion abnormality" 70:34 70:38||r="PIP"||c="focal apical hypokinesis" 70:40 70:42
+c="examination" 50:7 50:7||r="TeRP"||c="lifts" 50:3 50:3
+c="examination" 50:7 50:7||r="TeRP"||c="heaves" 50:5 50:5
+c="an echocardiogram" 70:3 70:4||r="TeRP"||c="a mildly dilated left atrium" 70:13 70:17
+c="an echocardiogram" 70:3 70:4||r="TeRP"||c="mild symmetric lvh" 70:19 70:21
+c="an echocardiogram" 70:3 70:4||r="TeRP"||c="mild region lv systolic dysfunction" 70:28 70:32
+c="an echocardiogram" 70:3 70:4||r="TeRP"||c="arresting regional wall motion abnormality" 70:34 70:38
+c="an echocardiogram" 70:3 70:4||r="TeRP"||c="focal apical hypokinesis" 70:40 70:42
+c="an echocardiogram" 70:3 70:4||r="TeRP"||c="a moderately dilated aortic root" 70:55 70:59
+c="an echocardiogram" 70:3 70:4||r="TeRP"||c="a mildly dilated ascending aorta" 70:61 70:65
+c="an echocardiogram" 70:3 70:4||r="TeRP"||c="pericardial effusions" 70:78 70:79
+c="beta blocker" 67:4 67:5||r="TrAP"||c="hypertension" 67:0 67:0
+c="a transdermal nicotine patch" 100:34 100:37||r="TrAP"||c="cravings" 100:49 100:49
+c="integrilin" 67:10 67:10||r="TrAP"||c="mi" 67:14 67:14
+c="nitroglycerin" 99:15 99:15||r="TrAP"||c="chest pain" 99:20 99:21
+c="nitroglycerin" 99:15 99:15||r="TrAP"||c="pressure" 99:23 99:23
+c="nitroglycerin" 99:15 99:15||r="TrAP"||c="shortness of breath" 99:25 99:27
+c="aspirin" 62:6 62:6||r="TrAP"||c="his coronary artery disease" 62:1 62:4
+c="coronary angiography" 19:0 19:1||r="TeRP"||c="left lad with 99% midstenosis" 19:12 19:16
+c="a relook catheterization" 21:6 21:8||r="TeRP"||c="occlusions" 21:14 21:14
+c="a relook catheterization" 21:6 21:8||r="TeCP"||c="the chest pain" 21:0 21:2
+c="diltiazem" 59:44 59:44||r="TrAP"||c="residuals" 59:40 59:40
+c="telemetry" 68:9 68:9||r="TeRP"||c="ectopy" 68:11 68:11
+c="unremitting 12-05 pain" 14:7 14:9||r="PIP"||c="diaphoresis" 14:15 14:15
+c="unremitting 12-05 pain" 14:7 14:9||r="PIP"||c="shortness of breath" 14:11 14:13
+c="ace inhibitor" 67:7 67:8||r="TrAP"||c="hypertension" 67:0 67:0
+c="lad stent" 59:34 59:35||r="TrAP"||c="an st elevation mi" 59:28 59:31
+c="lad stent" 59:34 59:35||r="TrCP"||c="residuals" 59:40 59:40
+c="the first ekg" 15:7 15:9||r="TeRP"||c="t wave inversions" 15:22 15:24
+c="the first ekg" 15:7 15:9||r="TeRP"||c="st elevations in v1-v3" 15:14 15:17
+c="nitroglycerin" 59:42 59:42||r="TrAP"||c="residuals" 59:40 59:40

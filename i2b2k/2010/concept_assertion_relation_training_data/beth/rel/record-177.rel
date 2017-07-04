@@ -1,0 +1,13 @@
+c="bilateral lower extremeties" 108:7 108:9||r="TeRP"||c="dvt" 108:16 108:16
+c="symptoms" 111:9 111:9||r="PIP"||c="trauma" 111:13 111:13
+c="ct chest" 100:0 100:1||r="TeRP"||c="bilateral segmental , subsegmental pes" 100:4 100:8
+c="ateletasis of lingula" 97:1 97:3||r="PIP"||c="pneumonitis" 97:7 97:7
+c="a d-dimer" 106:6 106:7||r="TeRP"||c="elevated" 106:12 106:12
+c="laxative abuse" 32:4 32:5||r="PIP"||c="chronic constipation" 32:1 32:2
+c="cta" 107:2 107:2||r="TeRP"||c="bilateral pulmonary embolisms" 107:5 107:7
+c="patient 's urinalysis" 122:4 122:6||r="TeRP"||c="uti" 122:9 122:9
+c="abg" 106:0 106:0||r="TeRP"||c="widened a-a gradient" 106:2 106:4
+c="coumadin" 159:4 159:4||r="TrAP"||c="clots" 159:15 159:15
+c="asa" 74:0 74:0||r="TeRP"||c="tricyclic" 74:15 74:15
+c="antibiotics" 160:4 160:4||r="TrAP"||c="urinary tract infection" 160:8 160:10
+c="levofloxacin" 122:18 122:18||r="TrAP"||c="uti" 122:9 122:9

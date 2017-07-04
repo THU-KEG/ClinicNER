@@ -1,0 +1,10 @@
+c="ct scan" 18:18 18:19||r="TeRP"||c="diagnosed liver laceration" 18:14 18:16
+c="hydromorphone" 56:1 56:1||r="TrAP"||c="pain" 56:22 56:22
+c="a pca" 47:8 47:9||r="TrAP"||c="pain" 47:4 47:4
+c="po medication" 47:13 47:14||r="TrAP"||c="pain" 47:4 47:4
+c="the liver laceration" 48:0 48:2||r="PIP"||c="further complication" 48:11 48:12
+c="the liver laceration" 48:0 48:2||r="PIP"||c="rupture" 48:9 48:9
+c="surgical managment" 48:17 48:18||r="TrAP"||c="the liver laceration" 48:0 48:2
+c="surgical managment" 48:17 48:18||r="TrAP"||c="further complication" 48:11 48:12
+c="surgical managment" 48:17 48:18||r="TrAP"||c="rupture" 48:9 48:9
+c="auscultation" 29:3 29:3||r="TeRP"||c="murmors" 29:12 29:12

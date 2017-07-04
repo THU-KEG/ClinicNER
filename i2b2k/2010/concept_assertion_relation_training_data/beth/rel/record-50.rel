@@ -1,0 +1,13 @@
+c="a troponin" 65:4 65:5||r="TeRP"||c="her current cardiac failure" 65:26 65:29
+c="the wall motion abnormalities" 65:11 65:14||r="PIP"||c="a non-q wave myocardial infarction" 65:17 65:21
+c="the wall motion abnormalities" 65:11 65:14||r="PIP"||c="her current cardiac failure" 65:26 65:29
+c="a non-q wave myocardial infarction" 65:17 65:21||r="PIP"||c="her current cardiac failure" 65:26 65:29
+c="chest x-ray" 56:0 56:1||r="TeRP"||c="congestive heart failure" 56:6 56:8
+c="left axis deviation" 58:10 58:12||r="PIP"||c="poor r-wave progression" 58:14 58:16
+c="echocardiogram" 62:0 62:0||r="TeRP"||c="moderately depressed left ventricular systolic function" 62:5 62:10
+c="echocardiogram" 62:0 62:0||r="TeRP"||c="hypokinesis of the lower half of septum and apex" 62:14 62:22
+c="mra of the kidney" 76:23 76:26||r="TeCP"||c="renal artery stenosis" 76:16 76:18
+c="mra of the kidney" 76:23 76:26||r="TeRP"||c="severe right renal artery stenosis at its origin" 76:29 76:36
+c="her hypertension" 76:1 76:2||r="PIP"||c="renal artery stenosis" 76:16 76:18
+c="her creatinine" 83:2 83:3||r="TeRP"||c="worsened" 83:5 83:5
+c="stent left renal artery" 91:7 91:10||r="TrAP"||c="bilateral renal artery stenosis" 91:1 91:4

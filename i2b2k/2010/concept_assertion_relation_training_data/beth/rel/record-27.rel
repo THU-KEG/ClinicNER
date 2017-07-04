@@ -1,0 +1,52 @@
+c="mi" 23:2 23:2||r="PIP"||c="cad" 23:0 23:0
+c="wound swab" 55:1 55:2||r="TeRP"||c="vre" 55:4 55:4
+c="colonscopy" 95:3 95:3||r="TeRP"||c="friable colonic tissue" 95:13 95:15
+c="colonscopy" 95:3 95:3||r="TeRP"||c="pseudomembrane" 95:11 95:11
+c="decompression" 96:8 96:8||r="TrWP"||c="tender" 96:3 96:3
+c="decompression" 96:8 96:8||r="TrWP"||c="distended" 96:5 96:5
+c="repair" 105:16 105:16||r="TrAP"||c="colovesicular fistula" 105:18 105:19
+c="nitroglycerin" 86:9 86:9||r="TrAP"||c="unstable angina" 86:6 86:7
+c="prior study" 57:19 57:20||r="TeRP"||c="pneumatosis in the ascending colon" 57:27 57:31
+c="white strips" 172:1 172:2||r="TrAP"||c="your incisions" 172:4 172:5
+c="focal narrowing of the sigmoid colon" 58:3 58:8||r="PIP"||c="the dilatation" 58:12 58:13
+c="focal narrowing of the sigmoid colon" 58:3 58:8||r="PIP"||c="wall thickening" 58:15 58:16
+c="the dilatation" 58:12 58:13||r="PIP"||c="wall thickening" 58:15 58:16
+c="her initial ct scan" 92:2 92:5||r="TeRP"||c="dilated turner colon" 92:7 92:9
+c="her initial ct scan" 92:2 92:5||r="TeRP"||c="wall thickening" 92:11 92:12
+c="her initial ct scan" 92:2 92:5||r="TeRP"||c="pneumatosis" 92:14 92:14
+c="oxycodone" 147:1 147:1||r="TrAP"||c="pain" 147:24 147:24
+c="staples" 109:11 109:11||r="TrAP"||c="her incision" 109:0 109:1
+c="repair" 18:5 18:5||r="TrAP"||c="colovesicular fistula" 18:7 18:8
+c="a cystoscopy" 111:4 111:5||r="TeRP"||c="leak" 111:9 111:9
+c="tf s," 117:9 117:10||r="TrCP"||c="high residuals" 117:6 117:7
+c="tpn" 117:12 117:12||r="TrAP"||c="high residuals" 117:6 117:7
+c="g tube" 97:10 97:11||r="TrAP"||c="unresponsiveness" 97:16 97:16
+c="subtotal colectomy" 97:7 97:8||r="TrAP"||c="unresponsiveness" 97:16 97:16
+c="ileostomy" 97:13 97:13||r="TrAP"||c="unresponsiveness" 97:16 97:16
+c="non-operative treatment" 97:18 97:19||r="TrCP"||c="unresponsiveness" 97:16 97:16
+c="a small collection of extraluminal gas" 69:24 69:29||r="PIP"||c="left lower quadrant thick-walled peripherally enhancing fluid collection" 69:1 69:8
+c="a ct scan" 103:2 103:4||r="TeRP"||c="an abcess" 103:9 103:10
+c="a ct scan" 103:2 103:4||r="TeRP"||c="a colovesicular fistula" 103:12 103:14
+c="an abcess" 103:9 103:10||r="PIP"||c="a colovesicular fistula" 103:12 103:14
+c="iv pain medicines" 125:7 125:9||r="TrAP"||c="her pain" 125:2 125:3
+c="treatment" 124:9 124:9||r="TrAP"||c="persistent hyperglycemia" 124:11 124:12
+c="lasix po" 89:10 89:11||r="TrAP"||c="trace lower extremity edema" 89:3 89:6
+c="repair" 162:15 162:15||r="TrAP"||c="colovesicular fistula" 162:17 162:18
+c="limited evaluation" 61:1 61:2||r="TeCP"||c="known sigmoid-vesicle fistula" 61:4 61:6
+c="further clinical investigation" 60:14 60:16||r="TeCP"||c="cancer" 60:5 60:5
+c="further clinical investigation" 60:14 60:16||r="TeCP"||c="an underlying mass lesion" 60:0 60:3
+c="colace" 175:7 175:7||r="TrAP"||c="constipation" 175:15 175:15
+c="pain medication" 176:4 176:5||r="TrCP"||c="drowsy" 176:10 176:10
+c="a dry dressing" 171:11 171:13||r="TrAP"||c="clear drainage" 171:3 171:4
+c="a dry dressing" 171:11 171:13||r="TrAP"||c="your incisions" 171:6 171:7
+c="your incisions" 171:6 171:7||r="PIP"||c="clear drainage" 171:3 171:4
+c="a stool softener" 175:3 175:5||r="TrAP"||c="constipation" 175:15 175:15
+c="vcug" 75:1 75:1||r="TeRP"||c="leak" 75:4 75:4
+c="troponins" 85:0 85:0||r="TeRP"||c="mildly elevated" 85:2 85:3
+c="your incisions" 167:31 167:32||r="PIP"||c="foul smelling or colorful drainage" 167:25 167:29
+c="diverticulitis" 58:20 58:20||r="PIP"||c="the dilatation" 58:12 58:13
+c="diverticulitis" 58:20 58:20||r="PIP"||c="wall thickening" 58:15 58:16
+c="diverticulitis" 58:20 58:20||r="PIP"||c="focal narrowing of the sigmoid colon" 58:3 58:8
+c="sigmoid diverticulosis" 58:0 58:1||r="PIP"||c="focal narrowing of the sigmoid colon" 58:3 58:8
+c="compressive atelectasis" 68:5 68:6||r="PIP"||c="small bilateral pleural effusions" 68:0 68:3
+c="repair" 105:8 105:8||r="TrAP"||c="a leak from relaford pouch" 105:10 105:14

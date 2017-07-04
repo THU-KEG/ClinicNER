@@ -1,0 +1,11 @@
+c="the chest x-ray" 60:3 60:5||r="TeRP"||c="a collapsed left upper lobe" 60:7 60:11
+c="stent" 11:24 11:24||r="TrAP"||c="proximal and mid-rca lesion" 11:25 11:28
+c="stent" 11:24 11:24||r="TrAP"||c="om lesion" 11:30 11:31
+c="a myoview" 12:2 12:3||r="TeRP"||c="ischemia" 12:16 12:16
+c="a myoview" 12:2 12:3||r="TeRP"||c="fixed inferior wall defect" 12:8 12:11
+c="echo" 18:0 18:0||r="TeRP"||c="moderate dilatation of the descending aorta" 18:8 18:13
+c="cardiac catheterization" 16:2 16:3||r="TeRP"||c="obstructive disease" 16:10 16:11
+c="cardiac catheterization" 16:2 16:3||r="TeRP"||c="left anterior descending minimal disease" 16:13 16:17
+c="cardiac catheterization" 16:2 16:3||r="TeRP"||c="left circumflex 40% mid-stenosis" 16:19 16:22
+c="myocardial infarction" 11:17 11:18||r="PIP"||c="coronary artery disease" 11:11 11:13
+c="carotids" 47:0 47:0||r="TeRP"||c="bruits" 47:4 47:4

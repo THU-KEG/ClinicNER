@@ -1,0 +1,50 @@
+c="demand ischemia" 78:7 78:8||r="PIP"||c="hypertensive urgency" 78:12 78:13
+c="vancomycin" 165:9 165:9||r="TrAP"||c="your line infection" 165:16 165:18
+c="sliding scale" 96:5 96:6||r="TrAP"||c="dmi" 96:1 96:1
+c="blood cultures" 34:27 34:28||r="TeCP"||c="abscess at the site" 34:43 34:46
+c="demand ischemia" 101:4 101:5||r="PIP"||c="original hypertensive urgency" 101:9 101:11
+c="demand ischemia" 101:4 101:5||r="PIP"||c="persistent elevation of trop" 101:13 101:16
+c="original hypertensive urgency" 101:9 101:11||r="PIP"||c="persistent elevation of trop" 101:13 101:16
+c="heparin gtt" 112:10 112:11||r="TrAP"||c="subtherapeuticon inr" 112:2 112:3
+c="dialysis" 111:8 111:8||r="TrCP"||c="difficulty" 111:10 111:10
+c="somewhat uncomfortable" 30:9 30:10||r="PIP"||c="nausea" 30:13 30:13
+c="somewhat uncomfortable" 30:9 30:10||r="PIP"||c="abdominal pain" 30:15 30:16
+c="dialysis" 103:17 103:17||r="TrAP"||c="esrd" 103:1 103:1
+c="dialysis" 103:17 103:17||r="TrCP"||c="difficulty" 103:19 103:19
+c="esrd" 103:1 103:1||r="PIP"||c="htn" 103:8 103:8
+c="esrd" 103:1 103:1||r="PIP"||c="dm" 103:6 103:6
+c="hd" 103:12 103:12||r="TrAP"||c="esrd" 103:1 103:1
+c="vancomycin" 116:13 116:13||r="TrAP"||c="his port line infection" 116:17 116:20
+c="sbp" 32:8 32:8||r="TeRP"||c="hypotensive" 32:6 32:6
+c="vancomycin" 105:6 105:6||r="TrAP"||c="his port line infection" 105:19 105:22
+c="fsbs" 97:7 97:7||r="TeRP"||c="hypoglycemia" 97:5 97:5
+c="hd" 20:19 20:19||r="TrAP"||c="esrd" 20:17 20:17
+c="cad" 99:1 99:1||r="PIP"||c="cp" 99:5 99:5
+c="cad" 99:1 99:1||r="PIP"||c="sob" 99:7 99:7
+c="nph" 96:11 96:11||r="TrAP"||c="dmi" 96:1 96:1
+c="reglan" 95:24 95:24||r="TrIP"||c="gastroparesis" 95:15 95:15
+c="n/v" 74:25 74:25||r="PIP"||c="inability to take meds" 74:18 74:21
+c="inability to take meds" 74:18 74:21||r="PIP"||c="hypertension" 74:15 74:15
+c="tte" 86:0 86:0||r="TeRP"||c="endocarditis" 86:8 86:8
+c="a ultrasound" 34:32 34:33||r="TeCP"||c="abscess at the site" 34:43 34:46
+c="similar complaints" 95:10 95:11||r="PIP"||c="n/v/" 95:1 95:1
+c="similar complaints" 95:10 95:11||r="PIP"||c="abdominal pain" 95:2 95:3
+c="similar complaints" 95:10 95:11||r="PIP"||c="gastroparesis" 95:15 95:15
+c="labile blood sugars" 28:2 28:4||r="PIP"||c="hypoglycemia" 28:9 28:9
+c="dilaudid" 95:22 95:22||r="TrIP"||c="gastroparesis" 95:15 95:15
+c="av fistula" 110:10 110:11||r="TrCP"||c="numerous clots" 110:7 110:8
+c="av graft" 51:4 51:5||r="TrCP"||c="clot" 51:2 51:2
+c="ativan" 95:20 95:20||r="TrIP"||c="gastroparesis" 95:15 95:15
+c="his fs" 29:7 29:8||r="TeRP"||c="critically high" 29:13 29:14
+c="pain and anti-nausea meds" 39:17 39:20||r="TrCP"||c="somnolent" 39:14 39:14
+c="vancomycin" 41:20 41:20||r="TrAP"||c="gpc in pairs and clusters" 41:5 41:9
+c="drugs" 11:8 11:8||r="TrCP"||c="known allergies" 11:5 11:6
+c="a partial hd session" 35:2 35:5||r="TrCP"||c="hypotension" 35:9 35:9
+c="inability to toleral oral antihypertensive medication" 93:3 93:8||r="PIP"||c="diabetic gastropathy" 93:0 93:1
+c="inability to toleral oral antihypertensive medication" 93:3 93:8||r="PIP"||c="hypertensive urgency" 93:14 93:15
+c="cad" 48:1 48:1||r="PIP"||c="1-vessel disease" 48:3 48:4
+c="cad" 48:1 48:1||r="PIP"||c="50% stenosis d1" 48:6 48:8
+c="blood cultures" 41:0 41:1||r="TeRP"||c="gpc in pairs and clusters" 41:5 41:9
+c="hemodialysis" 45:3 45:3||r="TrAP"||c="esrd" 45:1 45:1
+c="port line infection" 158:2 158:4||r="PIP"||c="bacteremia" 158:0 158:0
+c="bisacodyl" 146:1 146:1||r="TrAP"||c="constipation" 146:19 146:19

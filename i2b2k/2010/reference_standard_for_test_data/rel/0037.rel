@@ -1,0 +1,21 @@
+c="stridorous breathing" 33:6 33:7||r="PIP"||c="respiratory distress" 33:9 33:10
+c="cystic" 69:13 69:13||r="PIP"||c="large ~6 x 6 cm sized right thyroid mass" 69:0 69:8
+c="pacer" 47:3 47:3||r="TrAP"||c="sss" 47:0 47:0
+c="the most recent ct" 99:18 99:21||r="TeRP"||c="further invasion of the tumor" 99:23 99:27
+c="endotracheal obstructing tumor" 94:2 94:4||r="PIP"||c="thyroid mass" 94:13 94:14
+c="removal" 95:4 95:4||r="TrAP"||c="the intratracheal tumor component" 95:6 95:9
+c="the mass" 25:0 25:1||r="PIP"||c="cystic" 25:5 25:5
+c="the tumor" 88:0 88:1||r="PIP"||c="a relatively monotonous proliferation of spindle cells" 88:5 88:11
+c="stat pathology" 95:13 95:14||r="TeRP"||c="anaplastic tumor" 95:16 95:17
+c="debridement" 18:0 18:0||r="TrAP"||c="mass" 18:2 18:2
+c="more complete assessment" 85:9 85:11||r="TeCP"||c="the neck mass" 85:13 85:15
+c="more complete assessment" 85:9 85:11||r="TeCP"||c="lymphadenopathy" 85:17 85:17
+c="surgery" 27:2 27:2||r="TrNAP"||c="syncope" 27:8 27:8
+c="dedicated mr of the neck" 85:0 85:4||r="TeCP"||c="the neck mass" 85:13 85:15
+c="dedicated mr of the neck" 85:0 85:4||r="TeCP"||c="lymphadenopathy" 85:17 85:17
+c="pacer placement" 27:10 27:11||r="TrNAP"||c="sss;" 27:13 27:13
+c="extrinsic compression of the high trachea" 94:6 94:11||r="PIP"||c="thyroid mass" 94:13 94:14
+c="ct neck" 38:10 38:11||r="TeRP"||c="tracheal mass" 38:13 38:14
+c="direct invasion of the subglottic , cervical and proximal thoracic trachea" 80:8 80:18||r="PIP"||c="7-cm diameter right neck mass" 80:1 80:5
+c="a uri" 29:13 29:14||r="PIP"||c="dry cough;" 29:18 29:19
+c="a uri" 29:13 29:14||r="PIP"||c="symptoms" 29:16 29:16

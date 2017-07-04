@@ -1,0 +1,33 @@
+c="chest xray" 97:0 97:1||r="TeRP"||c="signs of edema" 97:6 97:8
+c="chest xray" 97:0 97:1||r="TeRP"||c="consolidation" 97:4 97:4
+c="workup" 101:9 101:9||r="TeCP"||c="his tumor" 101:11 101:12
+c="radiation therapy" 39:5 39:6||r="TrAP"||c="his laryngeal cancer" 39:12 39:14
+c="his pathology" 121:0 121:1||r="TeCP"||c="a large grade iv glioma" 121:5 121:9
+c="decadron" 110:12 110:12||r="TrAP"||c="swelling" 110:18 110:18
+c="po pain medications" 122:29 122:31||r="TrAP"||c="his pain" 122:26 122:27
+c="resection" 39:8 39:8||r="TrAP"||c="his laryngeal cancer" 39:12 39:14
+c="ct" 98:0 98:0||r="TeRP"||c="a right parietal hyperdense and heterogenously enhancing mass" 98:2 98:9
+c="ct" 98:0 98:0||r="TeRP"||c="the surrounding vasogenic edema" 98:16 98:19
+c="glioblastoma" 99:16 99:16||r="PIP"||c="primary cns neoplasm" 99:11 99:13
+c="open debulking" 102:20 102:21||r="TrAP"||c="the tremendous tumor burden" 102:6 102:9
+c="the tremendous tumor burden" 102:6 102:9||r="PIP"||c="his symptoms" 102:14 102:15
+c="a 16 french coude catheter" 112:17 112:21||r="TrAP"||c="an inability to void" 112:12 112:15
+c="ativan" 138:1 138:1||r="TrAP"||c="anxiety" 138:9 138:9
+c="stulz neuro navigation" 104:25 104:27||r="TrAP"||c="the tumor" 104:22 104:23
+c="mri" 100:0 100:0||r="TeRP"||c="a large heterogenous enhancing right parietal mass lesion" 100:2 100:9
+c="mri" 100:0 100:0||r="TeRP"||c="ependymal spread" 100:13 100:14
+c="a large heterogenous enhancing right parietal mass lesion" 100:2 100:9||r="PIP"||c="ependymal spread" 100:13 100:14
+c="prostatectomy" 43:14 43:14||r="TrAP"||c="bph" 43:16 43:16
+c="his symptoms" 32:19 32:20||r="PIP"||c="his gait weakness" 32:15 32:17
+c="further workup" 37:9 37:10||r="TeCP"||c="the mass" 37:12 37:13
+c="a right parietal occipital craniotomy" 104:14 104:18||r="TrAP"||c="the tumor" 104:22 104:23
+c="reconstruction" 39:10 39:10||r="TrAP"||c="his laryngeal cancer" 39:12 39:14
+c="iv pain medications" 122:8 122:10||r="TrAP"||c="the patient &apos;s pain" 122:0 122:3
+c="a cg scan" 36:11 36:13||r="TeRP"||c="a mass in the right parietal lobe" 36:15 36:21
+c="a postoperative mri" 109:0 109:2||r="TeRP"||c="post surgical changes" 109:12 109:14
+c="a postoperative mri" 109:0 109:2||r="TeRP"||c="remarkable findings" 109:8 109:9
+c="debulking" 104:20 104:20||r="TrAP"||c="the tumor" 104:22 104:23
+c="a cane" 30:10 30:11||r="TrAP"||c="the increasing weakness" 30:18 30:20
+c="a cane" 30:10 30:11||r="TrAP"||c="uncoordination of his feet" 30:3 30:6
+c="repeat imaging" 118:2 118:3||r="TeRP"||c="some edema" 118:5 118:6
+c="repeat imaging" 118:2 118:3||r="TeRP"||c="mass affect" 118:8 118:9

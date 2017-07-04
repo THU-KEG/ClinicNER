@@ -1,0 +1,143 @@
+Admission Date :
+2015-11-22
+Discharge Date :
+2015-11-27
+Date of Birth :
+1942-03-04
+Sex :
+M
+Service :
+CMED CCU-GREEN
+HISTORY OF PRESENT ILLNESS :
+The patient is a 73 year old male with a recent history of paroxysmal atrial fibrillation and hypercholesterolemia who presented to the Emergency Department with the chief complaint of syncope .
+The patient was discharged from The Hospital for Orthopedics with the diagnosis of pulmonary embolism about six months prior to the current admission and was started on Warfarin .
+One month prior to this admission , the patient reports not feeling well with worsening gastric distress .
+A few weeks prior to admission , he fell down on his back and started taking ibuprofen 1000 mg once a day for pain and Vioxx in addition to his aspirin and Coumadin regimen .
+The night prior to admission , he was found by his wife on the bathroom floor in a pool of urine , unresponsive without any body movements , post-ictal state .
+EMS was activated , however , the patient refused to go to the hospital .
+A similar episode happened at 2 a.m. the same night and at 07:45 on the day of admission , the patient lost consciousness once again when he was trying to sit up .
+He was then transferred to The Hospital for Orthopedics .
+The patient reports some nausea and epigastric pressure which is post-prandial .
+He denies any emesis , melena , diarrhea or constipation .
+He describes the room spinning with attempts to sit upright .
+No history of previous episodes was noted .
+Denies incontinence .
+He does have diaphoresis and weakness with orthostatic changes .
+In the Emergency Department , stool guaiac was trace positive .
+Hematocrit was 24.8 , with a baseline of 46 .
+Gastric lavage was grossly positive for coffee ground material .
+His INR was found to be 4.4 .
+He was given Vitamin K 10 mg subcutaneously , 2.5 liters of normal saline , two units of packed red blood cells and two units of fresh frozen plasma and transferred to the Medical Intensive Care Unit for further management .
+PAST MEDICAL HISTORY :
+1. Hyperthyroid disease status post radioactive iodine ablation , now hypothyroid on Levoxyl .
+2. History of pulmonary embolism , etiology unknown .
+It was thought to be induced by frequent flying to California .
+The patient was started on Coumadin five months prior to this admission .
+3. Hypercholesterolemia .
+Well controlled on Lipitor .
+Last total cholesterol was 168 in 2015-08-24 .
+4. Paroxysmal atrial fibrillation in the setting of pulmonary embolism .
+PAST SURGICAL HISTORY :
+1. Only significant for a right inguinal hernia repair .
+ALLERGIES :
+Penicillin .
+OUTPATIENT MEDICATIONS :
+1. Lipitor 10 mg three times a week .
+2. Aspirin 81 .
+3. Propranolol 10 mg three times a day .
+4. Coumadin 6.25 mg once a day .
+5. Levoxyl 100 mEq q. day .
+6. Ambien p.r.n.
+7. Vitamins .
+8. Vioxx times three weeks .
+SOCIAL HISTORY :
+The patient quit smoking 20 years ago ; ethanol one glass of wine a day .
+He is a retired elementary school principal and now works in Johnson management .
+FAMILY HISTORY :
+Significant for mother who has hypertension and stroke at the age of 70 .
+PHYSICAL EXAMINATION :
+Temperature was 100.3 F. ; heart rate was 115 .
+In general , in no acute distress .
+Alert and oriented times three .
+HEENT :
+Extraocular movements are intact .
+Pupils equally round and reactive to light and accommodation bilaterally .
+Oropharynx clear .
+Mucosal membranes are moist .
+Cardiovascular :
+Regular rate and rhythm , normal S1 , S2 , no murmurs , rubs or gallops .
+Pulmonary clear to auscultation anteriorly .
+Abdomen soft , mildly distended , nontender , positive bowel sounds .
+Extremities with no edema , one to two pulses in all four extremities .
+LABORATORY :
+Sodium 141 , potassium 4.4 , chloride 108 , bicarbonate 23 , BUN 57 , creatinine 0.7 , glucose 115 .
+White blood cell count 11.0 , differential with 76 neutrophils , 2 monos , 21 lymphocytes , and no eosinophils .
+Hematocrit 24.8 , platelets 223 , INR 2.4 , CK 234 .
+CT scan of the head showed no hemorrhage or edema .
+EKG showed normal sinus rhythm at 90 with normal intervals and ST wave inversions and early R wave progression .
+HOSPITAL COURSE :
+The patient was transferred to Medical Intensive Care Unit for further management for acute GI bleed .
+1. Gastrointestinal bleed :
+The patient continued to receive blood transfusions on the floor and serial hematocrits with serial INR checks were drawn .
+As he was receiving his third unit of packed red blood cells , the patient became tachycardic and short of breath .
+His temperature raised from 98.6 F. , to 101.0 F.
+He was shown to have rigors .
+The transfusion was stopped and the patient was given Tylenol 1 mg with epinephrine , 100 mg of hydrocortisone , 25 mg of Benadryl and Demerol 15 as well as Pepcid .
+He had emesis times three of 75 cc of coffee ground material .
+The patient also desaturated to the low 80 s and was started on a non-rebreather mask .
+His saturations improved quickly on 100% non-rebreather mask within 15 to 20 minutes .
+Shortly after his mental status changed ; he became disoriented and euphoric and continued to be in this state for two more hours .
+After that period of time , his mental status gradually improved and he continued to receive his blood transfusions requiring a total of ten units of packed red blood cells and four units of fresh frozen plasma to reach a hematocrit of 30.0 , which remained stable for the duration of his stay .
+On admission , the patient was started on high dose proton pump inhibitors for prophylaxis .
+On Wednesday , 11-25 , an esophagogastroduodenoscopy was performed and was significant for the following findings :
+Medium hiatal hernia , Barrett's esophagus , erosion of the gastroesophageal junction , granularity , erythema and congestion of the antrum in the pre-pyloric region compatible with gastritis .
+Erosions in the antrum and pre-pyloric region , granularity , erythema and congestion of the anterior bulb and posterior bulb compatible with duodenitis .
+It was recommended by Gastroenterology that the patient is to stay off aspirin for at least four to six weeks at discharge to prevent further bleeding .
+2. Cardiovascular :
+During transfusion reaction episode , the patient had an episode of tachycardia ranging from 134 to 158 , for one to two hours .
+EKG during this episode was taken and showed sinus tachycardia ; however , serial enzymes were significant for CK peaking at 1075 , MB peaking at 114 and MB index peaking at 10.8 , consistent with myocardial damage .
+The day following this episode , EKG showed loss of R wave progression in anterior leads and Q waves in leads III and AVF consistent with anteroseptal myocardial infarction .
+The patient 's blood pressures remained stable during his stay .
+He had no episodes of arrhythmia on Telemetry .
+Cardiology consultation was obtained .
+The myocardial infarction was attributed to demand ischemia secondary to acute hematocrit drop exacerbated by tachycardia secondary to blood transfusion reaction .
+Further Cardiologic work-up was suggested as an outpatient at four to six weeks post discharge .
+The patient was started on Lopressor , Lipitor and Lisinopril .
+3. After ten units of packed red blood cells and four units of fresh frozen plasma transfusions , the patient 's hematocrit remained stable at above 30 .
+His INR decreased to 1.3 at the time of discharge .
+He required no blood transfusions for four days prior to discharge .
+4. History of pulmonary embolism likely secondary to frequent flying .
+The need for further anti-coagulation was discussed with the patient 's attending , Dr. Coleman , and it was decided not to continue anti-coagulation due to increased risk of gastrointestinal bleeding .
+The patient remained symptom free during his stay in the hospital , saturating well in room air .
+5. Endocrine :
+The patient was restarted on Levothyroxine soon after admission .
+His hemoglobin A1C was sent and it was pending at the time of discharge .
+6. Single mental status change times two hours during episode of blood transfusion reaction .
+Was most likely due to multiple drugs administered during the episode including Demerol .
+After this episode , the patient 's mental status remained clear for the rest of the duration of his stay .
+7. Prophylaxis :
+The patient was sent home on proton pump inhibitors .
+His Helicobacter pylori serology was sent and was pending at the time of discharge .
+CONDITION AT DISCHARGE :
+Good .
+DISPOSITION :
+The patient was discharged to home on the following medications .
+DISCHARGE MEDICATIONS :
+1. Lisinopril 5 mg p.o. q. day .
+2. Metoprolol 37.5 mg p.o. twice a day .
+3. Lipitor 10 mg p.o. q. day .
+4. Pantoprazole 40 mg p.o. q. day .
+5. Levothyroxine 100 micrograms p.o. q. day .
+DISCHARGE INSTRUCTIONS :
+1. The patient was to arrange his follow-up with his primary care physician , Bryan Smith .
+2. To follow-up with his Cardiologist , Dr. Delores Padilla within one to two weeks of discharge .
+Tammy Thompson , M.D.
+40-318
+Dictated By : Randolph Q Barber , M.D.
+MEDQUIST36
+D : 2015-11-26 15:15
+T : 2015-11-26 16:10
+JOB #:
+90402
+Signed electronically by : DR. Tammy Thompson on : FRI 2015-11-27 8:46 PM
+( End of Report )

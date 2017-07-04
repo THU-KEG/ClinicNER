@@ -1,0 +1,206 @@
+Admission Date :
+2014-12-03
+Discharge Date :
+2014-12-18
+Date of Birth :
+1962-09-23
+Sex :
+F
+Service :
+Medicine
+HISTORY OF PRESENT ILLNESS :
+The patient is a 52 - year-old female with no known cardiopulmonary history who presented with a chief complaint of dyspnea on exertion as well as exertional chest tightness which was acute-on-chronic .
+The patient stated her symptoms began in 2011 and have increased in intensity and frequency every since then .
+She reports dyspnea on exertion and chest tightness daily which worsened significantly one day prior to admission .
+Says that she could not walk a few yards without developing symptoms .
+She describes the chest tightness as substernal and epigastric .
+She denied any associated nausea , vomiting , diaphoresis , lightheadedness , or dizziness .
+She does have radiation of the pain to her neck and jaw bilaterally .
+She also describes a fast heart rate and palpitations .
+She stated her symptoms improved with rest , and she denied any symptoms beginning when she was at rest .
+The patient reports a previous workup which included a negative exercise treadmill test , a normal MIBI in 2011-04-10 , and a normal echocardiogram in 2012 ( except some borderline mild pulmonary hypertension ) with an ejection fraction of 55% .
+REVIEW OF SYSTEMS :
+Review of systems was significant for menopausal symptoms ( for which she has attempted hormone replacement therapy , discontinued in 2014 ).
+She also reports difficulty sleeping , daytime sleepiness .
+She sleeps on elevated pillows secondary to her gastroesophageal reflux disease .
+Occasional paroxysmal nocturnal dyspnea in the past but none recently .
+Occasional lower extremity edema , left greater than right .
+No abdominal or urinary complaints .
+PAST MEDICAL HISTORY :
+1. Gastroesophageal reflux disease .
+2. Grave's , status post radiation resulting in hypothyroidism .
+3. Migraines .
+MEDICATIONS ON ADMISSION :
+Synthroid , Prilosec 20 mg p.o. , Fioricet , Celebrex .
+ALLERGIES :
+PENICILLIN causes a rash .
+FAMILY HISTORY :
+Diabetes , Grave's disease , but no history of cardiopulmonary disease .
+SOCIAL HISTORY :
+The patient lives with her husband , and they have no children .
+She denies any tobacco or alcohol history .
+She does use herbal remedies including Primrose oil , Siberian ginseng , and has a history of use of wallerian root .
+PHYSICAL EXAMINATION ON PRESENTATION :
+Vital signs were temperature of 98.4 , heart rate 74 , blood pressure 130/91 , respiratory rate 21 , satting 98% on room air .
+HEENT revealed pupils were equally round and reactive to light .
+The oropharynx was clear .
+Neck was supple , no lymphadenopathy , no thyromegaly , no jugular venous distention , and no bruits .
+Lungs had scant crackles at the left base and middle field ; otherwise clear .
+Cardiovascular had a regular rate and rhythm .
+No murmurs .
+No fourth heart sound or third heart sound .
+No parasternal heave .
+Gastrointestinal revealed soft , nontender , and nondistended .
+No hepatosplenomegaly .
+No masses .
+No bruits .
+Normal active bowel sounds .
+Extremities had no edema , 2+ distal pedis .
+Neurologically , grossly nonfocal .
+LABORATORY DATA ON PRESENTATION :
+At the time of admission , white blood cell count 11.1 , hematocrit 37.7 , platelets 326 .
+Sodium 140 , potassium 4 , chloride 105 , bicarbonate 28 , BUN 17 , creatinine 0.8 , glucose 76 .
+Creatine kinase 100 , MB 4 , troponin of less than 0.3 .
+RADIOLOGY / IMAGING :
+Electrocardiogram revealed left atrial hypertrophy , right ventricular hypertrophy , and poor R wave progression which were new .
+Also , T wave inversions in II , III , aVF , V1 through V5 ; new evolving right bundle-branch block .
+HOSPITAL COURSE :
+The patient is a 52 - year-old female with no known history of cardiac disease presenting with dyspnea on exertion and chest tightness , who was admitted for evaluation and management of her symptoms .
+1. CARDIOVASCULAR :
+The patient was admitted for complaints of dyspnea on exertion and chest pressure which could be consistent with angina .
+However , given the long duration of the symptoms and negative workup in the past , it was thought to be unlikely .
+However , the patient was started on an aspirin as well as a beta blocker , and a rule out myocardial infarction protocol was initiated .
+A stress thallium was planned for the day following admission .
+However , on the night of admission the patient was found lying in her bed diaphoretic and obtunded , and a code was called .
+Further examination revealed a strong palpable pulse with a systolic blood pressure in the 130 s and a heart rate in the 80 s.
+Over the course of the next few minutes the patient became increasingly more responsive .
+She was treated with a fluid bolus .
+The patient quickly responded to a fluid bolus and became interactive .
+She reported that she was sitting on the commode urinating and began to feel nauseous and presyncopal .
+She was able to get to bed at which point she passed out .
+She denied any chest pain or pressure , and no shortness of breath during this event .
+A rhythm check obtained during the time of this event demonstrated a pause of six seconds followed by a junctional escape rhythm .
+An electrocardiogram obtained after the code demonstrated no acute changes .
+Her acute bradycardic event was felt likely secondary to her new beta blocker in conjunction with a vagal response .
+It was determined to stop the beta blocker , and atropine was placed at the bedside .
+On the following day the patient underwent an echocardiogram which demonstrated dilated right ventricle secondary to chronic dysfunction and a pulmonary artery pressure of greater than 100 .
+Her stress test was cancelled .
+A CT angiogram was ordered to evaluate for chronic thromboembolic disease as a potential cause of her pulmonary hypertension .
+She was ruled out for myocardial infarction with three sets of normal enzymes and continued to be monitored on telemetry .
+A Pulmonary consultation was obtained to evaluate for possible etiology of the patient 's hypotension .
+There was little evidence to suggest any cardiac disease , and given the patient 's Grave's disease an autoimmune process was felt to be possible .
+In addition , consideration was given to sarcoidosis , human immunodeficiency virus , and drug-induced given her history of herbal medication use .
+It was recommended that the patient begin anticoagulation given the severity of her pulmonary hypertension .
+It was also planned to undergo a right heart catheterization with a vasodilation trial by the catheterization laboratory .
+A right heart catheterization was performed on 2014-12-05 .
+A pharmacologic pulmonary vasodilator challenge was performed with a positive response .
+In addition , a CT angiogram of the chest with pulmonary embolism protocol showed no intravascular filling defect but did show a right upper lobe ground-glass and scattered adenopathy .
+Therefore , in the end left atrial hypertension was essentially ruled out as a primary cause .
+Chronic pulmonary embolus was less likely given her negative CT angiogram .
+Chronic lung disease was unlikely given the patient 's normal pulmonary function tests and DLCO in 2012 as well as a normal CT angiogram .
+Collagen vascular disease could not be definitively ruled out ; however , given the patient 's lack of connective tissue disorder stigmata it was thought to be less likely , and the patient 's human immunodeficiency virus test was negative .
+Therefore , it was felt that the patient was most likely experiencing a primary pulmonary hypertension .
+Consideration was given to treating the patient with a course of calcium channel blocker ; however , given the patient 's poor response to Lopressor , it was determined that this would not be optimal treatment for the patient 's pulmonary hypertension .
+Therefore , her insurance company was contacted regarding the potential of Flolan as a treatment .
+Plans were made for placement of a Hickman catheter and initiation of Flolan treatment .
+However , on 12-07 , the patient once again experienced an episode of unresponsiveness .
+Upon arrival by the physician the patient was awake , alert , and oriented with a pulse in the 80 s, with pressure in the 80 s, and satting 100% on room air .
+She described this episode as an uncomfortable feeling in her chest .
+The patient was treated with 2 liters of intravenous fluids with a bump in her systolic blood pressure to the 90 s.
+Review of telemetry revealed an 8 to 9 beat episode of nonsustained ventricular tachycardia followed by an episode of bradycardia to 60 beats per minute .
+The etiology of these cardiovascular episodes was unclear , but was felt likely secondary to the patient 's tenuous cardiovascular status given the fact that she had clear pulmonary hypertension , was very preload dependent , and had an intact left ventricular function but with cardiac output limited due to left ventricular compression by a dilated left ventricle .
+Given the patient 's persistent hypotensive episodes , and decreased urine output , she was transferred back to the Medical Intensive Care Unit for management prior to initiation of Flolan therapy .
+On 12-08 , the Hickman catheter was placed in preparation of Flolan administration .
+During the Mass. Mental Health Center Medical Intensive Care Unit stay , the patient was found to exquisitely preload dependent and responded well to aggressive fluids as needed to maintain her blood pressure with a systolic of greater than 90 .
+She had no further episodes of bradycardia during her Medical Intensive Care Unit stay .
+In addition , the patient 's urine output improved dramatically with hydration therapy , suggesting her low urine output was secondary to decreased cardiac output secondary to low preload .
+The patient continued to be followed by the Electrophysiology Service , who determined that the patient was demonstrating severe vasal sensitivity with bradycardia necessitating pacemaker placement .
+This was to be deferred until after the patient had her Hickman in place .
+Because the patient 's pulmonary pressures responded so well to adenosine during right heart catheterization , it was thought that the patient would be a good candidate for Flolan therapy .
+Flolan was initiated on 12-08 at 5 nanograms per kilogram per minute .
+The patient was monitored for symptoms of Flolan therapy including nausea , vomiting , first bite jaw claudication , or hypotension .
+Over the course of the hospital stay the patient 's Flolan dose was titrated to receive maximum benefit without precipitating symptoms of Flolan overdose .
+The patient was felt to be stable on her current Flolan dose and was therefore transferred back to the floor .
+A high resolution CT was requested to further evaluate for possible secondary cause of her primary pulmonary hypertension ; however , the patient refused it at this time .
+Plans for placement of a pacemaker were initiated .
+However , on the night prior to the planned surgical date the patient suffered an episode of bleeding from her Hickman catheter site .
+Surgery was notified and pressure was applied ; however , it did not stop oozing .
+A surgicel dressing was placed and prolonged pressure resulted in resolution of the bleeding .
+In addition , an extra stitch was placed in an effort to stop the bleeding .
+Following this episode the patient felt like she was " too stressed " for pacemaker placement .
+Therefore , she was monitored over the next few days for any further bleeding events .
+Over the course of the next few days the patient became more accustomed to her Flolan , and Flolan teaching was continued .
+She continued to have occasional episodes of dizziness , shortness of breath , and hypotension whenever the alarm sounded suggesting that the Flolan bag needed to be changed .
+However , over the course of the hospital stay these decreased both in frequency and severity .
+On 12-15 , the patient went for placement of a pacemaker .
+She had dual-mode , dual-pacing , dual-sensing pacemaker placed with a lower rate at 60 ppm , and upper rate of 120 ppm with a paced AV of 150 msec .
+The patient recovered well from her surgery for pacemaker placement .
+At the time of discharge , the patient was tolerating her Flolan therapy well .
+She had received a full course of Flolan teaching and reported that she and her husband felt comfortable with the administration of the medication at home .
+She was set up with a primary pulmonary hypertension support group , and home services were arranged to help her in the initiation of Flolan therapy .
+Following pacemaker placement the patient had no further episodes of bradycardia on telemetry , and therefore she was discharged in satisfactory condition .
+2. INFECTIOUS DISEASE :
+The patient had no signs or symptoms of infection at the time of admission .
+However , she was noted to have a relatively elevated white blood cell count that remained stable over the course of her hospital stay .
+However , near the end of her hospitalization the patient began describing increased urinary frequency which persisted once her Foley catheter was removed .
+A urinalysis was positive and urine culture grew enterococcus which was pan sensitive .
+Therefore , the patient was started on levofloxacin therapy to complete a 10 - day course .
+Following initiation of the antibiotic the patient 's white blood cell count quickly came down , and she remained afebrile .
+At the time of discharge , the patient still had a mildly elevated white blood cell count but was asymptomatic with a normal temperature .
+She will complete two more days of Levaquin therapy as an outpatient .
+3. RENAL :
+The patient 's BUN and creatinine were followed over the course of her hospital stay .
+These remained stable and within normal limits .
+It was felt that the decreased urine output was secondary to her preload dependence , and that her urine output increased significantly when she was adequately hydrated in the Medical Intensive Care Unit .
+4. GASTROINTESTINAL :
+The patient has a history of gastroesophageal reflux disease .
+She was continued on Protonix over the course of her hospital stay and had no further gastrointestinal issues .
+5. HEMATOLOGY :
+The patient 's hematocrit remained stable over the course of her hospital stay .
+Despite bleeding from the Hickman site , she did not require any transfusion therapy .
+6. FLUIDS / ELECTROLYTES / NUTRITION :
+The patient tolerated a regular diet throughout the course of her hospital stay .
+Her electrolytes were checked on a daily basis and remained within normal limits , being replaced as needed .
+She was discharged to home on a regular diet .
+7. ENDOCRINE :
+The patient with a history of hypothyroidism .
+She was continued on her regular Synthroid dose .
+She will need a TSH and T4 checked as an outpatient .
+8. CODE STATUS :
+The patient is a full code .
+9. FLOLAN ADMINISTRATION :
+At the time of discharge , the patient was tolerating a Flolan dose of 5 nanograms per kilogram per minute .
+A Physical Therapy consultation was obtained to initiate a 6 - minute walk test .
+On room air , the patient 's oxygen saturation was 95% and dropped to 88% following a 6 - minute walk .
+The patient was discharged to home with appropriate Flolan teaching and supplies .
+She was to follow up with Dr. Savage in the Clinic the following week .
+CONDITION AT DISCHARGE :
+The patient was stable .
+DISCHARGE STATUS :
+She was discharged to home .
+DISCHARGE FOLLOWUP :
+She has follow up with Dr. Schwartz in the Clinic on Monday , 12-22 , at 2:30 p.m. to check her INR and digoxin level .
+She also has follow up with Dr. Savage in the Pulmonary Clinic on 12-25 at 12:15 p.m. for management of her pulmonary hypertension .
+MEDICATIONS ON DISCHARGE :
+1. Coumadin 2 mg p.o. q.6h.
+2. Tylenol No. 3 one to two tablets p.o. q.4h. p.r.n. for pain .
+3. Digoxin 0.125 mg p.o. q.d.
+4. Levofloxacin 500 mg p.o. t.i.d. times two days .
+5. Protonix 40 mg p.o. q.d.
+6. Tylenol 650 mg p.o. q.4-6h. p.r.n. for fever or pain .
+7. Synthroid 125 mcg p.o. q.d.
+8. Colace 100 mg p.o. q.d.
+9. Lactulose 30 cc p.o. q.6h. p.r.n. for constipation .
+10. Flolan 5 nanograms per kilograms per minute , continuous infusion .
+11. Oxygen per nasal cannula as needed .
+Alan Q. Steckelberg , M.D.
+54-745
+Dictated By : Roy C Ali , M.D.
+MEDQUIST36
+D : 2014-12-18 18:32
+T : 2014-12-21 10:44
+JOB #:
+60351
+( cclist )
+Signed electronically by : DR. Melody PARKS on : TUE 2014-12-23 6:28 AM
+( End of Report )

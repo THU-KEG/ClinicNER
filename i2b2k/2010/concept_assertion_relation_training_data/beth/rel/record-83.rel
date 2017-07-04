@@ -1,0 +1,43 @@
+c="lasix" 20:24 20:24||r="TrNAP"||c="recurrent hypokalemia" 20:27 20:28
+c="take po liquids" 33:5 33:7||r="TrAP"||c="volume depletion" 33:10 33:11
+c="bp control" 28:16 28:17||r="TrAP"||c="her coronary disease" 28:27 28:29
+c="plavix" 85:6 85:6||r="TrAP"||c="failure of these stents" 85:11 85:14
+c="oxycodone" 53:1 53:1||r="TrAP"||c="pain" 53:22 53:22
+c="the patient 's recent rp bleed" 22:1 22:6||r="PIP"||c="a recurrent bleed" 22:12 22:14
+c="albuterol sulfate" 61:1 61:2||r="TrAP"||c="wheezing" 61:27 61:27
+c="albuterol sulfate" 61:1 61:2||r="TrAP"||c="shortness of breath" 61:23 61:25
+c="the hypotension" 19:0 19:1||r="PIP"||c="volume depletion" 19:6 19:7
+c="the hypotension" 19:0 19:1||r="PIP"||c="her diarrhea" 19:10 19:11
+c="the hypotension" 19:0 19:1||r="PIP"||c="loose stools" 19:13 19:14
+c="the hypotension" 19:0 19:1||r="PIP"||c="decreased po intake" 19:18 19:20
+c="volume depletion" 19:6 19:7||r="PIP"||c="her diarrhea" 19:10 19:11
+c="volume depletion" 19:6 19:7||r="PIP"||c="loose stools" 19:13 19:14
+c="volume depletion" 19:6 19:7||r="PIP"||c="decreased po intake" 19:18 19:20
+c="decreased po intake" 19:18 19:20||r="PIP"||c="her gerd" 19:23 19:24
+c="decreased po intake" 19:18 19:20||r="PIP"||c="thrush" 19:26 19:26
+c="volume depletion" 27:1 27:2||r="PIP"||c="her low bp" 27:10 27:12
+c="ns" 18:17 18:17||r="TrAP"||c="hypotension" 18:1 18:1
+c="resolving abdominal hematoma" 39:25 39:27||r="PIP"||c="irritation of gi system" 39:30 39:33
+c="endoscopy" 46:12 46:12||r="TeCP"||c="her guiac pos stools" 46:7 46:10
+c="po prednisone" 31:12 31:13||r="TrCP"||c="thrush" 31:1 31:1
+c="po prednisone" 31:12 31:13||r="TrAP"||c="copd exacerbation" 31:15 31:16
+c="diarrhea" 34:1 34:1||r="PIP"||c="loose stools" 34:8 34:9
+c="your aspirin" 85:3 85:4||r="TrAP"||c="failure of these stents" 85:11 85:14
+c="her guiac positive stools" 41:27 41:30||r="PIP"||c="gastritis" 41:33 41:33
+c="her guiac positive stools" 41:27 41:30||r="PIP"||c="gastric ulcer" 41:35 41:36
+c="her guiac positive stools" 41:27 41:30||r="PIP"||c="lower gi pathology" 41:40 41:42
+c="rapid atrial fibrillation" 77:1 77:3||r="PIP"||c="demand ischemia" 77:5 77:6
+c="meds" 37:13 37:13||r="TrCP"||c="occ nausea" 37:10 37:11
+c="axr" 38:7 38:7||r="TeRP"||c="obstruction" 38:5 38:5
+c="her steroid inhalers" 31:8 31:10||r="TrCP"||c="thrush" 31:1 31:1
+c="her steroid inhalers" 31:8 31:10||r="TrAP"||c="copd exacerbation" 31:15 31:16
+c="h.pylori serologies" 46:16 46:17||r="TeCP"||c="her guiac pos stools" 46:7 46:10
+c="her mild diarrhea" 39:5 39:7||r="PIP"||c="viral" 39:21 39:21
+c="her mild diarrhea" 39:5 39:7||r="PIP"||c="resolving abdominal hematoma" 39:25 39:27
+c="her mild diarrhea" 39:5 39:7||r="PIP"||c="irritation of gi system" 39:30 39:33
+c="her mild diarrhea" 39:5 39:7||r="PIP"||c="few loose bm" 39:9 39:11
+c="her mild diarrhea" 39:5 39:7||r="PIP"||c="liquid stool" 39:13 39:14
+c="medications" 42:11 42:11||r="TrCP"||c="only mild nausea" 42:7 42:9
+c="the patient 'd pm bp meds" 18:3 18:8||r="TrNAP"||c="hypotension" 18:1 18:1
+c="egd" 46:14 46:14||r="TeCP"||c="her guiac pos stools" 46:7 46:10
+c="toprol xl" 28:21 28:22||r="TrAP"||c="her coronary disease" 28:27 28:29

@@ -1,0 +1,7 @@
+c="worsening pain" 43:4 43:5||t="problem"||a="hypothetical"
+c="pain" 39:14 39:14||t="problem"||a="hypothetical"
+c="gerd" 35:0 35:0||t="problem"||a="present"
+c="abdominal pain" 33:7 33:8||t="problem"||a="present"
+c="blood in stool" 43:10 43:12||t="problem"||a="hypothetical"
+c="acid reflux" 31:1 31:2||t="problem"||a="present"
+c="black stools" 43:7 43:8||t="problem"||a="hypothetical"

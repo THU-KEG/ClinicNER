@@ -1,0 +1,44 @@
+c="her blood pressure" 111:8 111:10||r="TeCP"||c="hypertension" 111:0 111:0
+c="physical examination" 87:20 87:21||r="TeRP"||c="rales" 87:18 87:18
+c="physical examination" 87:20 87:21||r="TeRP"||c="significant wheezing" 87:15 87:16
+c="myocardial infarction" 91:22 91:23||r="PIP"||c="a coronary event" 91:12 91:14
+c="a coronary event" 91:12 91:14||r="PIP"||c="the patient 's shortness of breath" 91:0 91:5
+c="evaluation" 93:24 93:24||r="TeCP"||c="2:1 heart block" 93:13 93:15
+c="her calculated fractional excretion of sodium" 104:0 104:5||r="TeRP"||c="a prerenal cause" 104:10 104:12
+c="chest x-ray" 80:0 80:1||r="TeRP"||c="equivocal retrocardiac opacity" 80:3 80:5
+c="evaluation" 101:25 101:25||r="TeCP"||c="a 2:1 heart block" 101:14 101:17
+c="evaluation" 101:25 101:25||r="TeCP"||c="heart block" 101:0 101:1
+c="cerebrovascular accident" 29:2 29:3||r="PIP"||c="residual right sided weakness" 29:5 29:8
+c="the patient 's electrocardiogram" 101:7 101:10||r="TeRP"||c="a 2:1 heart block" 101:14 101:17
+c="the patient 's electrocardiogram" 101:7 101:10||r="TeRP"||c="heart block" 101:0 101:1
+c="the patient 's electrocardiogram" 93:0 93:3||r="TeRP"||c="2:1 heart block" 93:13 93:15
+c="steroids" 109:15 109:15||r="TrAP"||c="chronic obstructive pulmonary disease exacerbation" 109:17 109:21
+c="steroids" 109:15 109:15||r="TrAP"||c="gastrointestinal bleed" 109:8 109:9
+c="steroids" 109:15 109:15||r="TrAP"||c="guaiac positive stools" 109:1 109:3
+c="guaiac positive stools" 109:1 109:3||r="PIP"||c="gastrointestinal bleed" 109:8 109:9
+c="steroids" 96:25 96:25||r="TrAP"||c="chronic obstructive pulmonary disease exacerbation" 96:17 96:21
+c="antibiotics" 96:27 96:27||r="TrAP"||c="chronic obstructive pulmonary disease exacerbation" 96:17 96:21
+c="a wheelchair" 86:27 86:28||r="TrAP"||c="difficulty ambulating" 86:20 86:21
+c="doxycycline" 89:6 89:6||r="TrAP"||c="pneumonia" 89:11 89:11
+c="a holter monitor" 36:6 36:8||r="TeCP"||c="bradycardia" 36:0 36:0
+c="a holter monitor" 36:6 36:8||r="TeCP"||c="first degree av block" 36:13 36:16
+c="guaiac positive stools" 107:13 107:15||r="PIP"||c="gastrointestinal bleed" 107:10 107:11
+c="colonoscopy" 114:22 114:22||r="TeCP"||c="gastrointestinal bleed" 114:10 114:11
+c="colonoscopy" 114:22 114:22||r="TeCP"||c="guaiac positive stools" 114:1 114:3
+c="electrocardiogram" 81:0 81:0||r="TeRP"||c="sinus bradycardia" 81:2 81:3
+c="nebulizer treatment" 18:9 18:10||r="TrAP"||c="chronic obstructive pulmonary disease exacerbation" 18:17 18:21
+c="chronic obstructive pulmonary disease" 22:0 22:3||r="PIP"||c="asthmatic component" 22:5 22:6
+c="esophagogastroduodenoscopy" 114:20 114:20||r="TeCP"||c="gastrointestinal bleed" 114:10 114:11
+c="esophagogastroduodenoscopy" 114:20 114:20||r="TeCP"||c="guaiac positive stools" 114:1 114:3
+c="chest x-ray" 89:13 89:14||r="TeRP"||c="pneumonia" 89:11 89:11
+c="a holter monitor" 17:11 17:13||r="TeRP"||c="first degree av block" 17:19 17:22
+c="steroids" 90:5 90:5||r="TrAP"||c="severe airway obstruction" 90:9 90:11
+c="antibiotics" 18:14 18:14||r="TrAP"||c="chronic obstructive pulmonary disease exacerbation" 18:17 18:21
+c="aspirin" 19:10 19:10||r="TrAP"||c="lateral st depressions" 19:5 19:7
+c="chest x-ray" 87:31 87:32||r="TeRP"||c="left lower lobe opacity" 87:25 87:28
+c="chronic obstructive pulmonary disease exacerbation" 88:13 88:17||r="PIP"||c="the patient 's shortness of breath" 88:3 88:8
+c="albuterol" 88:24 88:24||r="TrAP"||c="the patient 's shortness of breath" 88:3 88:8
+c="albuterol" 88:24 88:24||r="TrAP"||c="chronic obstructive pulmonary disease exacerbation" 88:13 88:17
+c="atrovent nebulizers" 88:26 88:27||r="TrAP"||c="the patient 's shortness of breath" 88:3 88:8
+c="atrovent nebulizers" 88:26 88:27||r="TrAP"||c="chronic obstructive pulmonary disease exacerbation" 88:13 88:17
+c="nebulizers" 96:23 96:23||r="TrAP"||c="chronic obstructive pulmonary disease exacerbation" 96:17 96:21

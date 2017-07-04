@@ -1,0 +1,113 @@
+c="ciprofloxacin" 245:0 245:0||r="TrAP"||c="gnr" 245:16 245:16
+c="blood cltures" 248:0 248:1||r="TeRP"||c="klebsiella pneumoniae" 248:5 248:6
+c="blood cltures" 248:0 248:1||r="TeRP"||c="klebsiella pneumoniae" 248:10 248:11
+c="blood cltures" 248:0 248:1||r="TeRP"||c="proteus mirabilis" 248:13 248:14
+c="8mm obstructing stone" 234:4 234:6||r="PIP"||c="hydro" 234:8 234:8
+c="8mm obstructing stone" 234:4 234:6||r="PIP"||c="stranding" 234:10 234:10
+c="stranding" 234:10 234:10||r="PIP"||c="hydro" 234:8 234:8
+c="foul smelling urine" 235:10 235:12||r="PIP"||c="urosepsis" 235:7 235:7
+c="urostomy" 50:1 50:1||r="TrAP"||c="neurogenic bladder" 50:9 50:10
+c="urostomy" 50:1 50:1||r="TrAP"||c="persistent leak" 50:12 50:13
+c="persistent leak" 50:12 50:13||r="PIP"||c="neurogenic bladder" 50:9 50:10
+c="right 8 mm proximal ureteral stone" 230:42 230:47||r="PIP"||c="left pyelo" 230:39 230:40
+c="pericarditis" 230:11 230:11||r="PIP"||c="sle" 230:8 230:8
+c="sle" 42:1 42:1||r="PIP"||c="pericarditis" 42:4 42:4
+c="an 8 mm right proximal ureteral stone" 29:3 29:9||r="PIP"||c="inflammatory stranding" 29:14 29:15
+c="an 8 mm right proximal ureteral stone" 29:3 29:9||r="PIP"||c="right-sided hydronephrosis" 29:11 29:12
+c="cysts" 111:16 111:16||r="PIP"||c="bilateral round , hypodense renal lesions" 111:1 111:6
+c="eight mm right proximal ureteral stone" 108:1 108:6||r="PIP"||c="right-sided hydronephrosis" 108:8 108:9
+c="2l nc" 241:19 241:20||r="TrAP"||c="small oxygen requirement" 241:15 241:17
+c="tylenol" 24:10 24:10||r="TrIP"||c="llq and groin pain" 24:3 24:6
+c="palpation" 69:91 69:91||r="TeRP"||c="nt" 69:89 69:89
+c="uti" 233:12 233:12||r="PIP"||c="febrile" 233:5 233:5
+c="repeat imaging" 242:0 242:1||r="TeRP"||c="mild pulmonary congestion" 242:5 242:7
+c="ileal conduit" 230:23 230:24||r="TrAP"||c="neurogenic bladder" 230:18 230:19
+c="neurogenic bladder" 230:18 230:19||r="PIP"||c="transverse myelitis" 230:13 230:14
+c="sensitivity" 259:23 259:23||r="TeCP"||c="gnr" 259:13 259:13
+c="sensitivity" 259:23 259:23||r="TeCP"||c="two colony morphologies" 259:17 259:19
+c="two colony morphologies" 259:17 259:19||r="PIP"||c="gnr" 259:13 259:13
+c="asa" 54:16 54:16||r="TrAP"||c="dvt in rle" 54:3 54:5
+c="blood cultures" 251:6 251:7||r="TeRP"||c="growth" 251:14 251:14
+c="steroids" 45:13 45:13||r="TrAP"||c="recurrent optic neuritis" 45:23 45:25
+c="pylonephritis" 234:13 234:13||r="PIP"||c="stranding" 234:10 234:10
+c="pylonephritis" 234:13 234:13||r="PIP"||c="hydro" 234:8 234:8
+c="pylonephritis" 234:13 234:13||r="PIP"||c="8mm obstructing stone" 234:4 234:6
+c="inflammatory perinephric stranding" 97:19 97:21||r="PIP"||c="an 8 x 7 x 7 mm stone in the proximal right ureter" 97:1 97:13
+c="stress dose steroids" 286:1 286:3||r="TrAP"||c="sepsis" 286:9 286:9
+c="urosepsis" 230:30 230:30||r="PIP"||c="ureteropelvic stone" 230:27 230:28
+c="bleed" 263:26 263:26||r="PIP"||c="a drifting hct" 263:20 263:22
+c="urostomy" 230:21 230:21||r="TrAP"||c="neurogenic bladder" 230:18 230:19
+c="3 colony types" 189:7 189:9||r="PIP"||c="mixed bacterial types" 189:2 189:4
+c="ct abd" 29:0 29:1||r="TeRP"||c="right-sided hydronephrosis" 29:11 29:12
+c="ct abd" 29:0 29:1||r="TeRP"||c="left sided hydronephrosis" 29:26 29:28
+c="ct abd" 29:0 29:1||r="TeRP"||c="inflammatory stranding" 29:14 29:15
+c="ct abd" 29:0 29:1||r="TeRP"||c="pyelonephritis of the left kidney" 29:20 29:24
+c="ct abd" 29:0 29:1||r="TeRP"||c="an 8 mm right proximal ureteral stone" 29:3 29:9
+c="pyelonephritis of the left kidney" 29:20 29:24||r="PIP"||c="left sided hydronephrosis" 29:26 29:28
+c="paraplegia" 20:16 20:16||r="PIP"||c="transverse myelitis" 20:13 20:14
+c="ct." 235:23 235:23||r="TeRP"||c="stone" 235:17 235:17
+c="ct." 235:23 235:23||r="TeRP"||c="hydro" 235:19 235:19
+c="ct." 235:23 235:23||r="TeRP"||c="pyelo" 235:21 235:21
+c="hydro" 235:19 235:19||r="PIP"||c="stone" 235:17 235:17
+c="pyelo" 235:21 235:21||r="PIP"||c="hydro" 235:19 235:19
+c="coumadin" 54:9 54:9||r="TrAP"||c="dvt in rle" 54:3 54:5
+c="urine cultures" 249:0 249:1||r="TeRP"||c="staph aureus coag" 249:5 249:7
+c="urine cultures" 249:0 249:1||r="TeRP"||c="gram negative rods" 249:11 249:13
+c="right hydronephrosis" 97:16 97:17||r="PIP"||c="an 8 x 7 x 7 mm stone in the proximal right ureter" 97:1 97:13
+c="a ct abd" 234:0 234:2||r="TeRP"||c="8mm obstructing stone" 234:4 234:6
+c="a ct abd" 234:0 234:2||r="TeRP"||c="hydro" 234:8 234:8
+c="a ct abd" 234:0 234:2||r="TeRP"||c="stranding" 234:10 234:10
+c="paraplegia" 230:16 230:16||r="PIP"||c="transverse myelitis" 230:13 230:14
+c="laser surgery" 48:21 48:22||r="TrAP"||c="capsular ossification" 48:12 48:13
+c="laser surgery" 48:21 48:22||r="TrAP"||c="a secondary cataract" 48:15 48:17
+c="any new symptoms" 353:5 353:7||r="PIP"||c="fevers" 353:10 353:10
+c="any new symptoms" 353:5 353:7||r="PIP"||c="rash" 353:12 353:12
+c="any new symptoms" 353:5 353:7||r="PIP"||c="increase in bloody urine" 353:14 353:17
+c="sbp" 238:5 238:5||r="TeRP"||c="hypotension" 238:3 238:3
+c="anemia workup" 267:0 267:1||r="TeRP"||c="anemia of chronic disease" 267:6 267:9
+c="tums" 292:8 292:8||r="TrAP"||c="osteoporosis" 292:1 292:1
+c="perc urostomy tube" 230:52 230:54||r="TrAP"||c="right hydro" 230:57 230:58
+c="perc urostomy tube" 230:52 230:54||r="TrAP"||c="right hydro" 230:49 230:50
+c="right hydro" 230:49 230:50||r="PIP"||c="right 8 mm proximal ureteral stone" 230:42 230:47
+c="most recent u/s" 40:23 40:25||r="TeRP"||c="right stone" 40:20 40:21
+c="blood cx" 34:3 34:4||r="TeRP"||c="gnr" 34:7 34:7
+c="loss of sensation" 62:9 62:11||r="PIP"||c="poor motor movements" 62:4 62:6
+c="a low bicarb" 298:2 298:4||r="PIP"||c="renal wasting" 298:8 298:9
+c="inflammatory stranding" 108:11 108:12||r="PIP"||c="eight mm right proximal ureteral stone" 108:1 108:6
+c="surveillance cultures" 245:8 245:9||r="TeRP"||c="gnr" 245:16 245:16
+c="blood culture sensitivities" 246:11 246:13||r="TeRP"||c="gnr" 246:17 246:17
+c="the meropenam" 248:18 248:19||r="TrAP"||c="klebsiella pneumoniae" 248:5 248:6
+c="the meropenam" 248:18 248:19||r="TrAP"||c="klebsiella pneumoniae" 248:10 248:11
+c="the meropenam" 248:18 248:19||r="TrAP"||c="proteus mirabilis" 248:13 248:14
+c="a ct abdomen" 264:0 264:2||r="TeRP"||c="any retroperitoneal bleed" 264:9 264:11
+c="u/a" 233:9 233:9||r="TeRP"||c="uti" 233:12 233:12
+c="pericarditis" 20:11 20:11||r="PIP"||c="sle" 20:8 20:8
+c="speciation" 259:21 259:21||r="TeCP"||c="gnr" 259:13 259:13
+c="speciation" 259:21 259:21||r="TeCP"||c="two colony morphologies" 259:17 259:19
+c="ivfs" 20:47 20:47||r="TrWP"||c="hypotn" 20:44 20:44
+c="drainage." 235:41 235:41||r="TrAP"||c="right hydronephrosis" 235:34 235:35
+c="hydronephrosis" 99:7 99:7||r="PIP"||c="left renal stones" 99:1 99:3
+c="left sided hydronephrosis" 109:6 109:8||r="PIP"||c="pyelonephritis of the left kidney" 109:0 109:4
+c="palpation" 69:79 69:79||r="TeRP"||c="nt" 69:77 69:77
+c="neurogenic bladder" 20:18 20:19||r="PIP"||c="transverse myelitis" 20:13 20:14
+c="meropenem" 246:9 246:9||r="TrAP"||c="gnr" 246:17 246:17
+c="decompression" 235:39 235:39||r="TrAP"||c="right hydronephrosis" 235:34 235:35
+c="lithotripsy" 40:4 40:4||r="TrAP"||c="nephrolithiasis" 40:2 40:2
+c="cultures from urine" 259:0 259:2||r="TeRP"||c="gnr" 259:13 259:13
+c="a screen" 189:26 189:27||r="TeCP"||c="pseudomonas aeruginosa" 189:29 189:30
+c="a screen" 189:26 189:27||r="TeCP"||c="staphylococcus aureus" 189:32 189:33
+c="a screen" 189:26 189:27||r="TeCP"||c="beta streptococcus" 189:35 189:36
+c="paraplegia-exacerbation" 44:6 44:6||r="PIP"||c="recurrent transverse myelitis" 44:0 44:2
+c="stress steroids" 20:49 20:50||r="TrWP"||c="hypotn" 20:44 20:44
+c="chest film" 270:17 270:18||r="TeRP"||c="pulmonary congestion" 270:21 270:22
+c="urostomy" 69:60 69:60||r="TrCP"||c="midline scar" 69:56 69:57
+c="an anion gap" 298:13 298:15||r="PIP"||c="a low bicarb" 298:2 298:4
+c="3l nasal cannula o2" 237:4 237:7||r="TrAP"||c="hypoxic" 237:2 237:2
+c="imaging" 235:37 235:37||r="TeRP"||c="right hydronephrosis" 235:34 235:35
+c="a percutaneous nephrostomy tube" 255:8 255:11||r="TrAP"||c="gnr bactermeia" 255:5 255:6
+c="a percutaneous nephrostomy tube" 255:8 255:11||r="TrAP"||c="right sided hydronephrosis" 255:1 255:3
+c="the patient 's mild hypoxia" 242:14 242:18||r="PIP"||c="mild pulmonary congestion" 242:5 242:7
+c="urosepsis" 42:16 42:16||r="PIP"||c="sle" 42:1 42:1
+c="actonel/vit d" 292:5 292:6||r="TrAP"||c="osteoporosis" 292:1 292:1
+c="ileal loop conduit" 50:3 50:5||r="TrAP"||c="neurogenic bladder" 50:9 50:10
+c="ileal loop conduit" 50:3 50:5||r="TrAP"||c="persistent leak" 50:12 50:13

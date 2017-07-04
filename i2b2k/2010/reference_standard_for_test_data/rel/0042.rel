@@ -1,0 +1,44 @@
+c="chest twinges" 26:3 26:4||r="PIP"||c="nonradiating" 26:7 26:7
+c="chest twinges" 26:3 26:4||r="PIP"||c="sharp" 26:10 26:10
+c="lower extremity non-invasive studies" 98:9 98:12||r="TeRP"||c="a small right common femoral clot" 98:17 98:22
+c="an intra-atrial shunt" 101:2 101:4||r="PIP"||c="a patent foramen ovale" 101:12 101:15
+c="lasix" 110:5 110:5||r="TrAP"||c="her edema" 110:12 110:13
+c="echocardiogram" 112:5 112:5||r="TeRP"||c="pulmonary hypertension" 112:0 112:1
+c="coumadin" 113:21 113:21||r="TrAP"||c="chronic pulmonary embolus" 113:4 113:6
+c="coumadin" 113:21 113:21||r="TrAP"||c="deep venous thrombosis" 113:13 113:15
+c="3/6 crescendo decrescendo murmur at the right upper sternal border" 60:0 60:9||r="PIP"||c="radiation to the carotids" 60:11 60:14
+c="her atenolol" 108:0 108:1||r="TrNAP"||c="bradycardia" 108:6 108:6
+c="captopril" 105:6 105:6||r="TrAP"||c="high" 105:4 105:4
+c="walker" 19:3 19:3||r="TrAP"||c="osteoarthritis" 19:9 19:9
+c="a poor study" 102:3 102:5||r="TeRP"||c="a pulmonary embolus" 102:10 102:12
+c="diastolic dysfunction" 91:15 91:16||r="PIP"||c="hypertension" 91:19 91:19
+c="her blood pressure" 105:0 105:2||r="TeRP"||c="high" 105:4 105:4
+c="congestive heart failure" 91:7 91:9||r="PIP"||c="diastolic dysfunction" 91:15 91:16
+c="anticoagulation" 155:1 155:1||r="TrAP"||c="right common femoral artery deep venous thrombosis" 155:6 155:12
+c="anticoagulation" 129:4 129:4||r="TrAP"||c="the positive d-dimer" 129:6 129:8
+c="chest ct" 130:0 130:1||r="TeRP"||c="pulmonary embolus" 130:8 130:9
+c="tylenol" 164:0 164:0||r="TrAP"||c="headache" 164:8 164:8
+c="right lumpectomy" 34:16 34:17||r="TrAP"||c="breast cancer" 34:10 34:11
+c="a tte" 100:0 100:1||r="TeRP"||c="mild mitral regurgitation" 100:9 100:11
+c="a tte" 100:0 100:1||r="TeRP"||c="mild tricuspid regurgitation" 100:17 100:19
+c="a tte" 100:0 100:1||r="TeRP"||c="left atrial enlargement" 100:13 100:15
+c="laxative of choice" 164:36 164:38||r="TrAP"||c="constipation" 164:43 164:43
+c="darkened erythema" 66:11 66:12||r="PIP"||c="crusted" 66:15 66:15
+c="darkened erythema" 66:11 66:12||r="PIP"||c="indented" 66:17 66:17
+c="cellulitis" 28:14 28:14||r="PIP"||c="lower extremity edema" 28:3 28:5
+c="enema of choice" 164:32 164:34||r="TrAP"||c="constipation" 164:43 164:43
+c="edema" 34:8 34:8||r="PIP"||c="lower extremity cellulitis" 34:4 34:6
+c="xrt" 34:19 34:19||r="TrAP"||c="breast cancer" 34:10 34:11
+c="osteoarthritis" 34:26 34:26||r="PIP"||c="right leg deformities" 34:28 34:30
+c="a cane" 19:5 19:6||r="TrAP"||c="osteoarthritis" 19:9 19:9
+c="cellulitis on her legs" 123:2 123:5||r="PIP"||c="distention" 123:10 123:10
+c="cellulitis on her legs" 123:2 123:5||r="PIP"||c="edema" 123:12 123:12
+c="cellulitis on her legs" 123:2 123:5||r="PIP"||c="poor perfusion" 123:14 123:15
+c="distention" 123:10 123:10||r="PIP"||c="edema" 123:12 123:12
+c="chest ct" 102:0 102:1||r="TeRP"||c="a pulmonary embolus" 102:10 102:12
+c="atenolol" 153:11 153:11||r="TrCP"||c="mild bradycardia" 153:8 153:9
+c="a shallow chronic ulcer in the right shin" 67:0 67:7||r="PIP"||c="desquamation bilaterally around the ankle" 67:9 67:13
+c="3 plus pitting edema to the knee bilaterally" 66:0 66:7||r="PIP"||c="darkened erythema" 66:11 66:12
+c="subsequent dobutamine mibi" 103:3 103:5||r="TeRP"||c="a small to medium perfusion defect" 103:25 103:30
+c="subsequent dobutamine mibi" 103:3 103:5||r="TeRP"||c="inducible ischemia" 103:10 103:11
+c="30.3.chest x-ray" 80:4 80:5||r="TeRP"||c="cardiomegaly" 80:7 80:7

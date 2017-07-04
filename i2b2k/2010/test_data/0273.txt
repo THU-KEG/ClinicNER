@@ -1,0 +1,153 @@
+Admission Date :
+2014-12-29
+Discharge Date :
+2015-01-20
+Date of Birth :
+1944-09-05
+Sex :
+M
+Service :
+SURGERY
+Allergies :
+Patient recorded as having No Known Allergies to Drugs
+Attending : Patricia H Leonard , M.D.
+Chief Complaint :
+End stage liver disease
+Major Surgical or Invasive Procedure :
+Piggyback orthotopic liver transplant
+Liver biopsy
+History of Present Illness :
+Mr. Reese is a 70 - year-old gentleman with end stage liver disease secondary to alcoholic cirrhosis .
+Of note , he underwent radiofrequency ablation of two small liver nodules , one in segment VI and the other in the caudate lobe .
+Both are less than 2 cm .
+Cytology on these nodules was suspicious for hepatocellular carcinoma .
+The ablation was done on 2013-12-04 .
+He had decompensation of his cirrhosis in 2011 with ascites and SBP .
+He also had encephalopathy during that period .
+The liver was from a 62 year-old gentleman who had died from CVA with normal liver function .
+He has no history of a GI bleed or varices by endoscopy .
+His last drink was in 2009-11-11 .
+Prior to this , he drank a bottle of wine a day
+Past Medical History :
+His past medical history is also remarkable for non-insulin dependent diabetes and hypertension .
+He has coronary artery disease and underwent a CABG in 1998 .
+He has a history of gastroesophageal reflux disease and anemia .
+He also has had a prior inguinal hernia repair .
+Social History :
+The patient obtained a degree in law .
+He worked for the attorney general 's office early in his career but eventually started his own business in foreign currency exchange from which he retired in 2009 .
+He does not smoke , and there is no history of IV drug abuse .
+Physical Exam :
+On pre-operative exam , he was awake , alert , and oriented x3 .
+He was not in any apparent distress .
+He was afebrile with normal vitals .
+He is 6 feet 1 inches tall and has a pre-op weight of 181 pounds .
+He had no pallor or obvious jaundice .
+He had no asterixis .
+He had palmar erythema .
+There was no clubbing .
+He had no lymphadenopathy .
+His chest was clear to ascultation .
+His heart sounds were regular rate rhythm .
+His abdomen is soft and nontender .
+No masses or viscera was felt .
+He had good femoral pulses bilaterally .
+He had no pedal edema or lower extremity lesions .
+His neurological exam was intact .
+Pertinent Results :
+2014-12-30 10:34 AM BLOOD ALT - 699 * AST - 1434 * AlkPhos - 65 Amylase - 46 TotBili - 5.9 *
+2015-01-01 11:46 AM BLOOD ALT - 1423 * AST - 1066 * AlkPhos - 72 TotBili - 6.2 *
+2015-01-19 04:47 AM BLOOD ALT - 355 * AST - 90 * AlkPhos - 352 * TotBili - 3.2 *
+Brief Hospital Course :
+Mr. Reese Jones the procedure well .
+Post-operatively , he was slow to recover but did progressed nicely .
+Within the fist few days after the surgery , his liver function tests were elevated to as high as 1484 for ALT , 915 for AST , and 7.6 for total bilirubin .
+His Alk Phos were inititially low a few days after the operation , but it rised up to 422 two weeks after , but down-trended , as with the rest of his liver function test by the time he left the hospital .
+Several tests , including Duplex Ultrasound , CT of the Abdomen , and Abdominal A-gram all showed patent right and left hepatic arteries arising from the celiac trunk .
+An ERCP was also done , showing a filling defect from a narrowed donor duct , but no strictures .
+A sphincterotomy wss done to drain the sludge from the central common duct .
+There was a small bleed resulting from the sphincterotomy , but it was controlled by epinepherine injections .
+Initial biopsy of the allograft three days after the operation was consistent with preservation / ischemic injury .
+Result of a second biopsy , which was done three weeks after the operation , is still pending .
+During his hospital stay , his blood glucose were elevated and labile ranging from below normal values [ 40-60 's] to the 200-300 's .
+He was completely assymptomatic while below normal values .
+At one point , he had to be on an insulin drip .
+However with the help of Albano , his blood glucose began to normalize .
+He has also been working with Physical Therapy to regain his strength .
+He has been ambulating on his own several times a day .
+Also , he has been afebrile with stable vitals , tolerating a regular diet , producing good urine and adequate stool .
+Furthermore , he has had no complaints , including pain , while his lab values are normalizing .
+He will be discharged to home , in good condition , with very specific intructions to follow up with Albano for his diabetic care and the Transplant Clinic for his transplant care .
+Discharge Medications :
+1. Trimethoprim - Sulfamethoxazole 80-400 mg Tablet Sig : One ( 1 ) Tablet PO DAILY ( Daily ) .
+Disp :* 30 Tablet ( s )* Refills :* 2 *
+2. Pantoprazole 40 mg Tablet , Delayed Release ( E.C. ) Sig : One ( 1 ) Tablet , Delayed Release ( E.C. ) PO Q24H ( every 24 hours ) .
+Disp :* 30 Tablet , Delayed Release ( E.C. )( s )* Refills :* 2 *
+3. Mycophenolate Mofetil 500 mg Tablet Sig : Two ( 2 ) Tablet PO BID ( 2 times a day ) .
+Disp :* 120 Tablet ( s )* Refills :* 2 *
+4. Prednisone 5 mg Tablet Sig : Three ( 3 ) Tablet PO DAILY ( Daily ) .
+Disp :* 30 Tablet ( s )* Refills :* 2 *
+5. Valganciclovir 450 mg Tablet Sig : Two ( 2 ) Tablet PO DAILY ( Daily ) .
+Disp :* 60 Tablet ( s )* Refills :* 2 *
+6. Ursodiol 300 mg Capsule Sig : One ( 1 ) Capsule PO TID ( 3 times a day ) .
+7. Metoprolol Tartrate 25 mg Tablet Sig : 1.5 Tablets PO BID ( 2 times a day ) .
+8. Acetaminophen 325 mg Tablet Sig : 1-2 Tablets PO Q4-6H ( every 4 to 6 hours ) as needed .
+9. Fluconazole 200 mg Tablet Sig : Two ( 2 ) Tablet PO Q24H ( every 24 hours ) .
+Disp :* 60 Tablet ( s )* Refills :* 2 *
+10. Insulin SS and fixed dose
+Fingerstick QACHS , 3 AM Insulin SC Fixed Dose Orders
+Breakfast
+NPH
+17 Units
+Insulin SC Sliding Scale
+Breakfast Lunch Dinner Bedtime
+Regular Regular Regular Regular
+Glucose Insulin Dose Insulin Dose Insulin Dose Insulin Dose
+0-60 mg / dL 4 oz. Juice 4 oz. Juice 4 oz. Juice 4 oz. Juice
+61-120 mg / dL 1 Units 0 Units 0 Units 0 Units
+121-160 mg / dL 2 Units 0 Units 1 Units 0 Units
+161-200 mg / dL 3 Units 4 Units 2 Units 0 Units
+201-240 mg / dL 5 Units 6 Units 4 Units 0 Units
+241-280 mg / dL 6 Units 7 Units 5 Units 1 Units
+281-320 mg / dL 7 Units 8 Units 6 Units 2 Units
+321-360 mg / dL 9 Units 10 Units 8 Units 3 Units
+361-400 mg / dL 11 Units 11 Units 10 Units 4 Units
+> 400 mg / dL Notify M.D. Notify M.D. Notify M.D. Notify M.D.
+11. Tacrolimus 0.5 mg Capsule Sig : Three ( 3 ) Capsule PO twice a day .
+Disp :* 180 Capsule ( s )* Refills :* 0 *
+12. Insulin NPH Human Recomb 100 unit / mL Cartridge Sig : One ( 1 ) Subcutaneous at breakfast : Please take as prescribed by Albano / Transplant Team .
+Disp :* 10 * Refills :* 2 *
+13. Insulin Regular Human 300 unit / 3 mL Insulin Pen Sig : One ( 1 ) Subcutaneous four times a day : Please take as prescribed by Albano / Transplant team .
+Disp :* 10 * Refills :* 2 *
+14. Insulin Syringe Needless ( Disp ) 1 mL Syringe Sig : One ( 1 ) Miscell. as directed by Albano / Trasplant .
+Disp :* 150 * Refills :* 2 *
+Discharge Disposition :
+Home with Service
+Discharge Diagnosis :
+End stage liver disease
+Discharge Condition :
+Good
+Discharge Instructions :
+Please take medications as prescribed and read warning labels carefully .
+If symptoms such as fever / chills , nausea / vomiting , increasing pain / redness / purulent discharge from incision , increasing jaundice , please call or go to the emergency room immediately .
+Remember to call for a follow up appointment ( bellow ) .
+Light activities until seen in clinic .
+May eat regular food .
+May shower but no baths .
+Pat incision wounds dry , do not scrub wound when showering .
+Absolutely no smoking .
+Followup Instructions :
+Provider :
+Francis Britni , MD Phone :( 646 ) 444-8240
+Date / Time : 2015-01-22 10:40
+Provider :
+Francis Britni , MD Phone :( 646 ) 444-8240
+Date / Time : 2015-01-29 10:40
+Provider :
+Francis Britni , MD Phone :( 646 ) 444-8240
+Date / Time : 2015-02-05 9:20
+Please follow up with Albano , as direct by them , a few days after discharge from the hospital ( ( 371 ) 400 5776 .
+Francis Britni MD 34-902
+Completed by : Wayne Chris MD 18-062 2015-01-20 @ 1208
+Signed electronically by : DR. Francis VU Vila on : MON 2015-01-26 6:12 PM
+( End of Report )

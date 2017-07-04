@@ -1,0 +1,71 @@
+620454779 DH
+2882245
+183657
+557967
+2/4/2001 12:00:00 AM
+Discharge Summary
+Signed
+DIS
+Report Status :
+Signed
+DISCHARGE SUMMARY
+NAME :
+BELBJESC , WITLASIE
+UNIT NUMBER :
+886-33-32
+ADMISSION DATE :
+02/04/2001
+DISCHARGE DATE :
+02/06/2001
+PRINCIPAL DIAGNOSIS :
+Left shoulder - proximal humerus fracture .
+PRINCIPAL PROCEDURE :
+Left shoulder hemiarthroplasty .
+HISTORY OF PRESENT ILLNESS :
+the patient is a 58-year-old woman who sustained a left shoulder proximal humerus fracture .
+She has been seen by Dr. Post and now elects to undergo surgical treatment .
+PAST MEDICAL HISTORY :
+Hypothyroidism , hypercholesterolemia .
+MEDICATIONS ON ADMISSION :
+Synthroid , Pravachol , baby aspirin .
+ALLERGIES :
+No known drug allergies .
+PHYSICAL EXAMINATION :
+Heart regular rate and rhythm .
+Lungs are clear .
+Left shoulder pain and swelling with ecchymosis .
+5/5 wrist extension , EDL , DI , forward flexion , pinch .
+Sensation intact to light touch and pinprick throughout .
+HOSPITAL COURSE :
+The patient was admitted on 02/04/01 for surgery that day .
+She was taken to the operating room where she underwent a left shoulder hemiarthroplasty .
+Intraoperative findings included the proximal humerus fracture that was found to be in four parts rather than three parts .
+Initially , it had been hoped that the fracture would be amenable to open reduction internal fixation .
+However , it was found to require hemiarthroplasty which was undertaken .
+The patient tolerated the procedure well and postoperatively was brought in stable extubated condition to the Post-Anesthesia Recovery Unit and later to the regular floor .
+Postoperative x-ray showed a well aligned and located left hemiarthroplasty of the shoulder .
+Postoperatively , the patient was neurovascularly intact with 5/5 strength throughout her distal left upper extremity and intact sensation axillary , medial , ulna , radial nerve distributions .
+She had brisk capillary refill in all fingers .
+On postoperative day # 1 , her pain medication was weaned to oral form once she was tolerating good PO .
+She worked with Physical Therapy for pendulum and passive range of motion only .
+She was kept on perioperative antibiotics .
+By postoperative day # 2 , she was doing much better with excellent pain control .
+Her dressing was changed revealing a clean , dry , and intact wound .
+She continued to be neurovascularly intact .
+She was felt to be stable and ready for discharge to home .
+DISCHARGE MEDICATIONS :
+Percocet 1-2 PO q4h p.r.n. pain as well as regular home medications .
+DISCHARGE INSTRUCTIONS :
+The patient may shower after 72 hours .
+She should leave her dressing on and change it on an as needed basis .
+She should follow-up with Dr. Post in 10-14 days .
+Electronically Signed MIBET J ALLESHANI HUDES , M.D. 02/26/2001 08:12
+_____________________________ MIA PRAINDAIZ , MD
+TR :
+ge
+DD :
+02/06/2001
+TD :
+02/08/2001 9:12 A
+cc :
+MIA PRAINDAIZ , M.D.

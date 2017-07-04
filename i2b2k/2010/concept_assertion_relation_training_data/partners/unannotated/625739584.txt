@@ -1,0 +1,79 @@
+625739584
+PUOMC
+5838116
+794008
+768876
+12/9/2002 12:00:00 AM
+Discharge Summary
+Signed
+DIS
+Report Status :
+Signed
+DISCHARGE SUMMARY
+NAME :
+URKE , AMA L
+UNIT NUMBER :
+499-91-11
+ADMISSION DATE :
+12/09/2002
+DISCHARGE DATE :
+12/11/2002
+PRINCIPAL DIAGNOSIS :
+Recurrent left temporoparietal tumor .
+OPERATIONS / PROCEDURES :
+Re-do left craniotomy for tumor resection .
+HISTORY :
+The patient is a 48-year-old female with a history of astrocytoma who presented with a history of astrocytoma , who underwent craniotomy in 1993 .
+The surgery was followed by XRT and chemotherapy with vincristine and Temodar .
+The patient did well until 1988 when she underwent a stereotactic brain biopsy because of the development of left frontal lesion .
+Biopsy confirmed foci of astrocytoma .
+She was treated with XRT and PCV chemotherapy .
+In April 2000 , the patient underwent a left occipital craniotomy for tumor .
+She did well until recently when she developed difficulty with reading comprehension , word-finding , reversing words and letters .
+Imaging studies revealed a new lesion for which the patient was taken back to the operating room .
+PAST MEDICAL HISTORY :
+Medical history is as above .
+Surgical history is as above .
+MEDICATIONS ON ADMISSION :
+1. Decadron 4 mg b.i.d.
+2. Dilantin 200 mg alternating with 300 mg q.d.
+3. Zantac 150 mg q.d.
+4. Multivitamins .
+ALLERGIES :
+IV CONTRAST given during CT scan which caused sinus congestion , joint swelling , nausea .
+PHYSICAL EXAMINATION :
+Patient is awake , alert , oriented x 3 .
+Cranial nerves intact .
+Tandem gait is unsteady .
+Heel-to-shin unsteady ; finger-to-nose was intact .
+Strength was 5/5 .
+Sensory was intact .
+HOSPITAL COURSE :
+The patient was taken to the operating room on 12/9/2002 where she underwent a re-do craniotomy for tumor resection .
+For details , please see the operative report .
+The patient tolerated the procedure well .
+Postoperatively , she had a right hemianopsia and an expressive aphasia .
+She was , otherwise , neurologically intact .
+She had a moderate expressive aphasia which was slightly worse than preoperatively .
+Postoperatively , she was watched in the ICU and transferred to the floor on postoperative day one .
+She worked with physical therapy and occupational therapy .
+Neuro-oncology was consulted .
+She will follow up with Dr. Kohmedlfreiermbeem in the brain tumor clinic .
+She was given prescriptions for Percocet , Colace , Decadron taper and Zantac .
+Postoperative MRI showed no evidence of residual .
+She was instructed to keep her incision dry until the sutures were out .
+She will call Dr. Celkkaysqian &apos;s office for a follow-up appointment .
+A AH nurse will also visit her at home as well as home PT .
+WERN NEIGHELKS , M.D.
+DICTATING FOR :
+Electronically Signed LUPEVICKETTE L LIST , M.D.
+01/09/2003 16:56
+_____________________________ LUPEVICKETTE L LIST , M.D.
+TR :
+rmk
+DD :
+12/11/2002
+TD :
+12/12/2002 8:42 A 794008
+cc :
+LUPEVICKETTE L LIST , M.D.

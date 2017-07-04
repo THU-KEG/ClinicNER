@@ -1,0 +1,5 @@
+c="his chest x-ray" 43:0 43:2||r="TeRP"||c="some mediastinal shift" 43:7 43:9
+c="his chest x-ray" 43:0 43:2||r="TeRP"||c="the right-sided lesion" 43:12 43:14
+c="the right-sided lesion" 43:12 43:14||r="PIP"||c="some mediastinal shift" 43:7 43:9
+c="the last x-ray" 43:20 43:22||r="TeRP"||c="increasing shift" 43:16 43:17
+c="his admission physical exam" 24:0 24:3||r="TeRP"||c="a vigorous nondysmorphic" 24:5 24:7

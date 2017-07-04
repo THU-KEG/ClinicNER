@@ -1,0 +1,35 @@
+c="obstruction" 97:5 97:5||r="PIP"||c="partial obstructive events" 97:19 97:21
+c="obstruction" 97:5 97:5||r="PIP"||c="obstruction to airflow" 97:8 97:10
+c="obstruction" 97:5 97:5||r="PIP"||c="some obstructive apnea" 97:12 97:14
+c="obstruction to airflow" 97:8 97:10||r="PIP"||c="some obstructive apnea" 97:12 97:14
+c="obstruction to airflow" 97:8 97:10||r="PIP"||c="partial obstructive events" 97:19 97:21
+c="his chest discomfort" 117:13 117:15||r="PIP"||c="anxious" 117:21 117:21
+c="cath" 64:9 64:9||r="TeRP"||c="af" 64:17 64:17
+c="cath" 64:9 64:9||r="TeRP"||c="mild cad in the left coronary artery symptom" 64:24 64:31
+c="a cath" 34:18 34:19||r="TeRP"||c="a 40% rca" 34:24 34:26
+c="a 40% rca" 34:24 34:26||r="PIP"||c="hazy" 34:30 34:30
+c="occasional chest pain" 39:6 39:8||r="PIP"||c="emotional stress" 39:10 39:11
+c="lower extremity study" 68:2 68:4||r="TeCP"||c="a dvt in both legs" 68:8 68:12
+c="any swelling" 74:10 74:11||r="PIP"||c="the swelling" 74:21 74:22
+c="a ct scan" 66:3 66:5||r="TeCP"||c="a pe" 66:9 66:10
+c="the myocardial perfusion images" 78:0 78:3||r="TeRP"||c="ischemia" 78:9 78:9
+c="ativan" 130:0 130:0||r="TrAP"||c="anxiety" 130:6 130:6
+c="medication for antianxiety" 119:13 119:15||r="TrAP"||c="his anxiety level" 119:26 119:28
+c="75 respiratory events" 95:16 95:18||r="PIP"||c="apnea" 95:21 95:21
+c="intermittent substernal chest pain" 40:5 40:8||r="PIP"||c="radiation to the left shoulder" 40:10 40:14
+c="his ekg" 50:7 50:8||r="TeRP"||c="hyperacute t-wave anteriorly" 50:13 50:15
+c="nexium" 116:13 116:13||r="TrAP"||c="acid reflux" 116:18 116:19
+c="counseling" 119:22 119:22||r="TrAP"||c="his anxiety level" 119:26 119:28
+c="further testing" 119:19 119:20||r="TeCP"||c="his anxiety level" 119:26 119:28
+c="a repeat ct scan" 71:23 71:26||r="TeCP"||c="pulmonary nodule" 71:33 71:34
+c="lower extremity pulses" 113:0 113:2||r="TeRP"||c="edema" 113:7 113:7
+c="a sleep study" 95:3 95:5||r="TeRP"||c="75 respiratory events" 95:16 95:18
+c="a sleep study" 95:3 95:5||r="TeRP"||c="apnea" 95:21 95:21
+c="ekg" 77:0 77:0||r="TeRP"||c="ischemia" 77:4 77:4
+c="physical exam" 74:1 74:2||r="TeRP"||c="any swelling" 74:10 74:11
+c="physical exam" 74:1 74:2||r="TeRP"||c="the swelling" 74:21 74:22
+c="a ppi" 116:10 116:11||r="TrAP"||c="acid reflux" 116:18 116:19
+c="a ct scan with contrast" 73:15 73:19||r="TeCP"||c="nodes in his neck" 73:22 73:25
+c="medications" 133:18 133:18||r="TrAP"||c="anxiety" 133:20 133:20
+c="nitroglycerin" 121:0 121:0||r="TrAP"||c="chest pain" 121:9 121:10
+c="intermittent right neck swelling" 73:5 73:8||r="PIP"||c="nodes in his neck" 73:22 73:25

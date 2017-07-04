@@ -1,0 +1,23 @@
+c="examination" 41:0 41:0||r="TeRP"||c="cool extremities" 41:8 41:9
+c="ventricular tachycardia" 60:5 60:6||r="PIP"||c="ventricular fibrillation" 60:10 60:11
+c="multiple cardioversions" 60:16 60:17||r="TrWP"||c="ventricular fibrillation" 60:10 60:11
+c="an ejection fraction" 53:7 53:9||r="TeRP"||c="worsening systolic dysfunction" 53:13 53:15
+c="a catheterization" 32:8 32:9||r="TeRP"||c="moderate to diffuse atherosclerosis" 32:15 32:18
+c="an endomyocardial biopsy" 38:10 38:12||r="TeRP"||c="ejection" 38:15 38:15
+c="chest x-ray" 36:0 36:1||r="TeRP"||c="cariogenic pulmonary edema" 36:3 36:5
+c="the echocardiogram" 53:0 53:1||r="TeRP"||c="pericardial effusion" 53:4 53:5
+c="the echocardiogram" 53:0 53:1||r="TeRP"||c="worsening systolic dysfunction" 53:13 53:15
+c="coronary angiography" 32:4 32:5||r="TeRP"||c="moderate to diffuse atherosclerosis" 32:15 32:18
+c="grade 1b rejection" 34:6 34:8||r="PIP"||c="endothelialitis" 34:10 34:10
+c="grade 1b rejection" 34:6 34:8||r="PIP"||c="eosinophils" 34:12 34:12
+c="a creatinine" 31:27 31:28||r="TeRP"||c="chronic renal insufficiency" 31:23 31:25
+c="a biopsy" 34:0 34:1||r="TeRP"||c="endothelialitis" 34:10 34:10
+c="a biopsy" 34:0 34:1||r="TeRP"||c="grade 1b rejection" 34:6 34:8
+c="a biopsy" 34:0 34:1||r="TeRP"||c="eosinophils" 34:12 34:12
+c="the rhythm" 59:0 59:1||r="TeRP"||c="sinus tachycardia" 59:3 59:4
+c="hydrocortisone" 54:0 54:0||r="TrAP"||c="aggressive coronary allograft vasculopathy" 54:15 54:18
+c="chest x-ray" 50:0 50:1||r="TeRP"||c="prominent pulmonary vessels" 50:3 50:5
+c="chest x-ray" 50:0 50:1||r="TeRP"||c="enlarged heart" 50:7 50:8
+c="the electrocardiogram" 49:0 49:1||r="TeRP"||c="marked decrease in all volts" 49:8 49:12
+c="the electrocardiogram" 49:0 49:1||r="TeRP"||c="poor r wave progression" 49:3 49:6
+c="a repeat angiogram" 33:0 33:2||r="TeRP"||c="coronary allograft disease" 33:11 33:13

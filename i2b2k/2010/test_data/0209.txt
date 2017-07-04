@@ -1,0 +1,124 @@
+Admission Date :
+2013-08-24
+Discharge Date :
+2013-08-27
+Date of Birth :
+1987-09-08
+Sex :
+M
+Service :
+Trauma Surgery
+HISTORY OF PRESENT ILLNESS :
+This is a 25 - year-old gentleman who is status post a motor vehicle accident in which he was the unrestrained driver and struck a telephone pole .
+He was ejected from the car and landed on his face .
+Extreme damage was reported to the vehicle by first responders .
+It was presumed high-speed motor vehicle collision .
+The patient was CMED-flighted to Quincy Medical Center , and he was intubated upon arrival in the Emergency Department .
+After initial trauma assessment and initiation of resuscitation , a CT scan was performed .
+Images of his head , abdomen , and thorax were obtained .
+His injuries included bilateral zygomal and orbital rim fractures , a right temporal fracture , bilateral frontal contusions , and a right temporal epidural versus subdural hematoma .
+The anterior and posterior of the frontal sinus was fractured with communication with the ethmoid air cells , presumably caused air in the orbit .
+PAST MEDICAL HISTORY :
+Denies .
+PAST SURGICAL HISTORY :
+Denies .
+SOCIAL HISTORY :
+Denies .
+ALLERGIES :
+Denies .
+MEDICATIONS ON ADMISSION :
+Denies .
+PHYSICAL EXAMINATION ON PRESENTATION :
+Initial examination revealed the patient had a heart rate in the 80s , with a blood pressure of 150/80s .
+He was intubated with multiple abrasions , and severe swelling and contusions of his face .
+He was not following commands .
+His Boston Coma Scale was 16 .
+His pupils were reactive on the right going from 3 mm to 2 mm of light .
+The response was brisk .
+On the left , his pupils went from 2.5 mm to 2 mm , also brisk .
+Initial evaluation revealed corticate posturing was noted by the trauma team .
+He withdrew equally and purposefully after 20 minutes in the trauma bay .
+He withdrew to noxious stimuli equally and purposefully after 20 minutes in the trauma bay .
+HOSPITAL COURSE BY SYSTEM :
+1. NEUROLOGY :
+Mr. Roach was transported to Intensive Care Unit from the trauma bay .
+Upon arrival , Neurosurgery promptly placed V. Holtzen bolt .
+This allowed continuous monitoring of intracranial pressure .
+Notably , intracranial pressure was 17 when the bolt was placed .
+During his hospitalization , his intracranial pressure was monitored very closely and maintained to a level of less than 20 .
+To do this , mannitol 25 mg q. 6h. was used .
+While using mannitol , his serum osmolalities were followed closely .
+In addition , to monitoring his intracranial pressure , his systemic blood pressures were maintained in such a manner that his cerebral perfusion pressure was maintained at 70 mmHg .
+A parameter monitor for his neurologic status PaCO2 which was maintained between 35 and 40 during his hospitalization .
+Mr. Roach was kept sedated with propofol and was given Fentanyl and / or morphine boluses for pain .
+Neurologic checks were followed initially every one hour and then every two hours to monitor for change in neurologic examination .
+During his hospitalization , two subsequent CAT scans were obtained ; one on hospital day two .
+This CAT scan revealed possible worsening and was read as epidural versus subdural bleed .
+After a discussion with both Radiology and Neurosurgery , the decision was made that the worsening did not appear significant , and this was not accompanied by a change in his clinical condition .
+His intracranial pressure remained stable , and his clinical examination was unchanged .
+An additional CT scan was obtained on hospital day three .
+This examination was unchanged from the previous examination .
+Again , his intracranial pressure and neurologic examination remained the same , and conservative treatment was opted for .
+2. CARDIOVASCULAR :
+As described in previous section , Neo-Synephrine and eventually Levophed were used to maintain a coronary perfusion pressure of greater than 70 .
+A pulmonary artery catheter was placed on hospital day four .
+This catheter was placed when the patient started to demonstrate septic physiology and for increasing pressor support .
+Please see Infectious Disease section for more details .
+3. GASTROINTESTINAL :
+Mr. Roach was n.p.o. from the time of his admission .
+A orogastric tube was passed .
+Initially during admission , carafate was given down the orogastric tube .
+However , on a routine chest x-ray shot on hospital day three , a mediastinum was noted .
+This raised the question of potential esophageal rupture .
+Gastroenterology was consulted for this .
+Gastroenterology was consulted to assist in creating the most appropriate diagnostic rhythm given his intubated and sedated status .
+At this point , his carafate was switched to intravenous Protonix and he was strictly n.p.o.
+4. HEMATOLOGY :
+Throughout Mr. Richard admission , his hematocrit remained stable in the low 30s .
+As will be discussed in the Infectious Disease section , he developed an episode of what appeared to be sepsis , and his white blood cell count peaked at 23 .
+Mr. Roach was on Pneumo boots spontaneous compression devices for deep venous thrombosis prophylaxis .
+He was not a candidate for subcutaneous heparin as we were concerned of an intracranial hemorrhage .
+An inferior vena cava filter was considered but was deferred , as it was felt that Mr. Roach was too unstable to undergo the procedure .
+5. ENDOCRINE :
+Mr. Marian blood sugar was maintained under tight control from 100 to 130 using a regular insulin sliding-scale .
+6. INFECTIOUS DISEASE :
+Mr. Roach had a spike in white blood cell count and developed fevers .
+His blood urine and sputum were all cultured .
+Blood cultures were pertinent for one bottle of gram - positive coagulase - negative Staphylococcus which grew from 08-25 .
+His preliminary cultures including sputum from 08-25 grew Escherichia coli .
+Sputum from 08-27 grew gram-negative rods , not yet speciated , and from 08-27 a bronchoalveolar lavage grew 1+ gram-negative rods and 4+ polymorphonuclear lymphocytes .
+Throughout this time , Mr. Richard temperature continued to increase and was such that on hospital day four , his temperature maximum was 42.2 degrees centigrade .
+During his hospitalization , his was treated with vancomycin for his gram-negative rods , imipenem , and Flagyl .
+Initially , he had been placed on clindamycin to cover his drain , but his cultures became positive , and his white blood cell count increased .
+He was switched from clindamycin to the imipenem and Flagyl .
+Vancomycin was added when we had the positive blood culture .
+With a fever of 102 , up to 42 degrees centigrade , aggressive measures including cooling blankets , alcohol swabs , and fans were used in an attempt to bring his body temperature down .
+Hypercarbia would result and increase in cerebral perfusion , paralysis was initiated to decrease genesis of carbon dioxide secreted during shivering .
+7. PULMONARY :
+As discussed in the Infectious Disease section , Mr. Roach developed a pneumonia likely from gram-negative organisms , but most likely from Escherichia coli .
+For this pneumonia , he was placed empirically on imipenem , vancomycin , and Flagyl .
+On hospital day three , Mr. Roach had developed an episode of tachycardia and tachypnea .
+For this , a CT angiogram was obtained which demonstrated no pulmonary embolism .
+On hospital day four , a routine chest x-ray revealed a left-sided pneumothorax .
+For this , a left #34 Caucasian chest tube was placed .
+On the evening of hospital day four , Mr. Roach had an acute episode whereby his central venous pressure rose sharply and immediately followed by a period of asystole .
+Urgent resuscitation measures were initiated .
+The measures included attempts at pacing .
+Epinephrine and atropine were administered as were bicarbonate and calcium .
+He had a differential diagnosis of asystole preceded by an acute rise in central venous pressure included attention pneumothorax , cardiac tamponade , and pulmonary embolism .
+During the resuscitation afterwards , it was noted that a patent left chest tube was present in the left chest , so initially neo-decompression was attempted in the right chest .
+There was no sign of attention pneumothorax with decompression , and a right chest tube was placed .
+During this time , a needle aspiration of what was felt to be the pericardium was performed revealing bloody fluid coming back .
+A left anterior thoracotomy was made by the Cardiac Surgery fellow who was present .
+After 30 minutes of active resuscitation including internal cardiac massage , there was no evidence of return of vital signs or electric activity to the heart as noted on electrocardiogram monitors .
+Resuscitation was terminated at 1914 on 08-27 .
+After the termination of resuscitation , both the anesthesia Intensive Care Unit attending and the surgical attending were present to discuss the proceedings events with the patient 's family members including his next of kin , his mother .
+Permission for a postmortem examination was granted .
+Matthew M. Barnett , M.D. 78-102
+Dictated By : Mark D. Eng , M.D.
+MEDQUIST36
+D : 2013-08-28 00:21
+T : 2013-09-03 11:11
+JOB # : 24887
+Signed electronically by : DR. Katherin Toth on : MON 2013-10-14 3:05 PM
+( End of Report )

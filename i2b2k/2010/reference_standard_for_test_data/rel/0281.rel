@@ -1,0 +1,13 @@
+c="diuresis" 39:5 39:5||r="TrAP"||c="shortness of breath" 39:25 39:27
+c="diuresis" 39:5 39:5||r="TrAP"||c="fluid shifts" 39:29 39:30
+c="diuresis" 39:5 39:5||r="TrAP"||c="increasing shortness of breath" 39:8 39:11
+c="shortness of breath" 39:25 39:27||r="PIP"||c="fluid shifts" 39:29 39:30
+c="albuterol" 18:3 18:3||r="TrAP"||c="her asthma" 18:9 18:10
+c="cesarean section" 32:18 32:19||r="TrAP"||c="the decompensation" 32:21 32:22
+c="erythromycin" 19:9 19:9||r="TrCP"||c="known allergy" 19:2 19:3
+c="penicillin" 19:5 19:5||r="TrCP"||c="known allergy" 19:2 19:3
+c="vancomycin" 19:7 19:7||r="TrCP"||c="known allergy" 19:2 19:3
+c="cesarean section" 35:17 35:18||r="TrCP"||c="any acute cardiac decompensation" 35:8 35:11
+c="physical exam" 24:1 24:2||r="TeRP"||c="bilateral lower extremity edema" 24:9 24:12
+c="physical exam" 24:1 24:2||r="TeRP"||c="mildly elevated pressures" 24:14 24:16
+c="physical exam" 24:1 24:2||r="TeRP"||c="jugular venous distension" 24:25 24:27

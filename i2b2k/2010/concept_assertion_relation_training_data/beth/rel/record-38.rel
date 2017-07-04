@@ -1,0 +1,31 @@
+c="placement" 82:0 82:0||r="TrAP"||c="a bile leak from the duct of luschka" 82:2 82:9
+c="endoscopic retrograde cholangiopancreatography" 15:9 15:11||r="TeCP"||c="bile leak" 15:26 15:27
+c="cholecystectomy" 15:29 15:29||r="TrCP"||c="bile leak" 15:26 15:27
+c="steri-strips" 58:8 58:8||r="TrAP"||c="post laparoscopic incisions" 58:2 58:4
+c="post laparoscopic incisions" 58:2 58:4||r="PIP"||c="erythema" 58:6 58:6
+c="abdominal ct" 69:0 69:1||r="TeRP"||c="small fluid in the circumferential thickening of the distal stomach" 69:10 69:19
+c="abdominal ct" 69:0 69:1||r="TeRP"||c="inflammation in the right upper quadrant" 69:3 69:8
+c="her white blood cell count" 85:2 85:6||r="TeRP"||c="really elevated" 85:9 85:10
+c="her white blood cell count" 85:2 85:6||r="TeRP"||c="a bandemia" 85:16 85:17
+c="fentanyl" 13:5 13:5||r="TrCP"||c="adverse reaction" 13:2 13:3
+c="tongue injury" 13:7 13:8||r="PIP"||c="adverse reaction" 13:2 13:3
+c="an abdominal ct" 95:0 95:2||r="TeRP"||c="mild pancreatitis" 95:9 95:10
+c="any drainage" 96:9 96:10||r="TrAP"||c="intra-abdominal fluid collections" 96:3 96:5
+c="fentanyl" 36:24 36:24||r="TrCP"||c="jaw clenching" 36:19 36:20
+c="fentanyl" 36:24 36:24||r="TrCP"||c="her rigidity" 36:16 36:17
+c="interstitial cystitis" 29:5 29:6||r="PIP"||c="urinary frequency" 29:1 29:2
+c="anesthesia" 47:9 47:9||r="TrCP"||c="groggy" 47:6 47:6
+c="infection" 25:11 25:11||r="PIP"||c="her fevers" 25:13 25:14
+c="infection" 25:11 25:11||r="PIP"||c="chills" 25:16 25:16
+c="palpation of her abdomen" 92:16 92:19||r="TeRP"||c="marked rebound" 92:13 92:14
+c="stent placement" 74:23 74:24||r="TrAP"||c="a bile leak" 74:26 74:28
+c="an endoscopic retrograde cholangiopancreatography" 74:17 74:20||r="TeCP"||c="a bile leak" 74:26 74:28
+c="jaw clenching" 23:9 23:10||r="PIP"||c="biting tongue" 23:12 23:13
+c="a successful endoscopic retrograde cholangiopancreatography" 21:2 21:6||r="TeRP"||c="a bile leak at the duct of luschka" 21:10 21:17
+c="tongue biting" 75:8 75:9||r="PIP"||c="jaw clenching" 75:5 75:6
+c="cholecystectomy" 74:31 74:31||r="TrCP"||c="a bile leak" 74:26 74:28
+c="fentanyl" 75:12 75:12||r="TrCP"||c="jaw clenching" 75:5 75:6
+c="fentanyl" 75:12 75:12||r="TrCP"||c="tongue biting" 75:8 75:9
+c="fentanyl" 75:12 75:12||r="TrCP"||c="rigidity" 75:3 75:3
+c="an abdominal ct" 19:14 19:16||r="TeRP"||c="thickened stomach" 19:23 19:24
+c="an abdominal ct" 19:14 19:16||r="TeRP"||c="free air" 19:26 19:27

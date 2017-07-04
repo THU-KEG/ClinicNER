@@ -1,0 +1,5 @@
+c="treatment" 53:5 53:5||r="TrAP"||c="unconjungated hyperbilirubinemia" 53:7 53:8
+c="phototherapy" 53:10 53:10||r="TrAP"||c="unconjungated hyperbilirubinemia" 53:7 53:8
+c="immunization" 79:13 79:13||r="TrAP"||c="influenza" 79:15 79:15
+c="state newborn screens" 71:1 71:3||r="TeRP"||c="abnormal results" 71:14 71:15
+c="treatment" 22:10 22:10||r="TrAP"||c="prematurity" 22:12 22:12

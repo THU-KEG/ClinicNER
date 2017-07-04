@@ -1,0 +1,9 @@
+c="resection" 31:1 31:1||r="TrAP"||c="mouth tumor" 31:5 31:6
+c="frozen section" 35:0 35:1||r="TeRP"||c="invasive squamous cell carcinoma" 35:6 35:9
+c="an open gastrostomy tube" 44:13 44:16||r="TrCP"||c="complications" 44:21 44:21
+c="morphine" 52:5 52:5||r="TrAP"||c="pain" 52:9 52:9
+c="lorazepam" 24:10 24:10||r="TrAP"||c="anxiety" 24:20 24:20
+c="his tracheostomy tube" 82:3 82:5||r="TrCP"||c="minimal secretions" 82:20 82:21
+c="flap checks" 76:0 76:1||r="TeRP"||c="positive biphasic doppler signals" 76:13 76:16
+c="pathology" 13:0 13:0||r="TeRP"||c="invasive squamous cell carcinoma" 13:4 13:7
+c="squamous cell carcinoma" 12:7 12:9||r="PIP"||c="stage t2 n0" 12:16 12:18

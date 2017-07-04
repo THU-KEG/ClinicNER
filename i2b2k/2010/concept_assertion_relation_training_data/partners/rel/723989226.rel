@@ -1,0 +1,42 @@
+c="previous electrocardiogram" 84:14 84:15||r="TeRP"||c="significant changes" 84:21 84:22
+c="hemicolectomy" 28:6 28:6||r="TrAP"||c="colon cancer" 28:2 28:3
+c="the chest x-ray" 94:9 94:11||r="TeRP"||c="the opacities" 94:6 94:7
+c="the chest x-ray" 94:9 94:11||r="TeRP"||c="pulmonary edema" 94:16 94:17
+c="the chest x-ray" 94:9 94:11||r="TeRP"||c="some abnormality in the right lower lobe" 94:23 94:29
+c="his suprapubic catheter" 33:9 33:11||r="TrCP"||c="discomfort" 33:14 33:14
+c="his suprapubic catheter" 33:9 33:11||r="TrCP"||c="some blood at the site" 33:17 33:21
+c="discomfort" 33:14 33:14||r="PIP"||c="some blood at the site" 33:17 33:21
+c="prilosec" 105:21 105:21||r="TrAP"||c="the patient &apos;s abdominal pain" 105:0 105:4
+c="electrocardiogram" 84:0 84:0||r="TeRP"||c="sinus tachycardia" 84:2 84:3
+c="respiratory insuffiencey" 30:25 30:26||r="PIP"||c="severe chronic obstructive pulmonary disease" 30:9 30:13
+c="respiratory insuffiencey" 30:25 30:26||r="PIP"||c="pneumonia" 30:31 30:31
+c="severe chronic obstructive pulmonary disease" 30:9 30:13||r="PIP"||c="pneumonia" 30:31 30:31
+c="a suprapubic tube" 53:4 53:6||r="TrAP"||c="atonic bladder" 53:1 53:2
+c="suprapubic catheter" 25:3 25:4||r="TrAP"||c="atonic bladder" 25:0 25:1
+c="cimetidine" 102:20 102:20||r="TrCP"||c="mild epigastric discomfort" 102:12 102:14
+c="scarring in both lungs" 48:26 48:29||r="PIP"||c="his usual severe bilateral emphysema_____" 48:20 48:24
+c="a suprapubic catheter area" 32:17 32:20||r="TrCP"||c="discomfort" 32:15 32:15
+c="coronary artery disease" 55:1 55:3||r="PIP"||c="angina" 55:8 55:8
+c="neck exam" 71:0 71:1||r="TeRP"||c="jugular venous distention" 71:4 71:6
+c="neck exam" 71:0 71:1||r="TeRP"||c="masses" 71:9 71:9
+c="antibiotics" 95:5 95:5||r="TrAP"||c="pneumonia" 95:8 95:8
+c="a chest x-ray" 48:0 48:2||r="TeRP"||c="new changes" 48:11 48:12
+c="a chest x-ray" 48:0 48:2||r="TeRP"||c="his usual severe bilateral emphysema_____" 48:20 48:24
+c="a chest x-ray" 48:0 48:2||r="TeRP"||c="scarring in both lungs" 48:26 48:29
+c="prilosec" 103:5 103:5||r="TrAP"||c="gastroesophageal reflux disease" 103:16 103:18
+c="prilosec" 103:5 103:5||r="TrAP"||c="gastritis" 103:14 103:14
+c="heart exam" 74:0 74:1||r="TeRP"||c="s3" 74:15 74:15
+c="heart exam" 74:0 74:1||r="TeRP"||c="murmur" 74:10 74:10
+c="a colectomy" 56:6 56:7||r="TrAP"||c="colon cancer" 56:3 56:4
+c="his chest x-ray" 48:14 48:16||r="TeRP"||c="his usual severe bilateral emphysema_____" 48:20 48:24
+c="his chest x-ray" 48:14 48:16||r="TeRP"||c="new changes" 48:11 48:12
+c="his chest x-ray" 48:14 48:16||r="TeRP"||c="scarring in both lungs" 48:26 48:29
+c="lung exam" 72:0 72:1||r="TeRP"||c="decreased breath sounds" 72:3 72:5
+c="lung exam" 72:0 72:1||r="TeRP"||c="crackles in the bases" 72:9 72:12
+c="a chest x-ray" 94:0 94:2||r="TeRP"||c="the opacities" 94:6 94:7
+c="a chest x-ray" 94:0 94:2||r="TeRP"||c="pulmonary edema" 94:16 94:17
+c="a chest x-ray" 94:0 94:2||r="TeRP"||c="some abnormality in the right lower lobe" 94:23 94:29
+c="intravenous ticarcillin" 89:5 89:6||r="TrAP"||c="gram negative pneumonia" 89:9 89:11
+c="prophylaxis" 102:28 102:28||r="TrAP"||c="peptic ulcer disease" 102:30 102:32
+c="the patient &apos;s diuresis" 93:1 93:4||r="TrIP"||c="his respiratory status" 93:6 93:8
+c="the ticarcillin" 98:0 98:1||r="TrAP"||c="a serious pneumonia" 98:16 98:18

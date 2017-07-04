@@ -1,0 +1,29 @@
+c="oxycodone" 89:10 89:10||r="TrIP"||c="the patient &apos;s pain" 89:0 89:3
+c="motrin" 89:12 89:12||r="TrIP"||c="the patient &apos;s pain" 89:0 89:3
+c="motrin ( ibuprofen )" 29:0 29:3||r="TrAP"||c="pain" 29:9 29:9
+c="motrin ( ibuprofen )" 29:0 29:3||r="TrAP"||c="headache" 29:11 29:11
+c="ampicillin" 110:5 110:5||r="TrAP"||c="3+ enterococci" 110:1 110:2
+c="levofloxacin" 110:7 110:7||r="TrAP"||c="3+ enterococci" 110:1 110:2
+c="the patient &apos;s post-procedure imaging" 84:6 84:10||r="TeCP"||c="the patient &apos;s fluid collection" 84:20 84:24
+c="cts chest" 66:0 66:1||r="TeRP"||c="pe" 66:5 66:5
+c="cts chest" 66:0 66:1||r="TeRP"||c="pulmonary nodules in his rml" 66:11 66:15
+c="3 specimens" 99:2 99:3||r="TeCP"||c="c. difficile" 99:6 99:7
+c="incision" 120:20 120:20||r="PIP"||c="excessive bleeding" 120:17 120:18
+c="incision" 120:20 120:20||r="PIP"||c="drainage" 120:15 120:15
+c="cxr" 67:6 67:6||r="TeRP"||c="bl atelectasis" 67:3 67:4
+c="fu imaging" 66:18 66:19||r="TeCP"||c="pulmonary nodules in his rml" 66:11 66:15
+c="blood cultures" 112:0 112:1||r="TeRP"||c="ngtd" 112:5 112:5
+c="an abscessogram" 118:0 118:1||r="TeRP"||c="fistula" 118:9 118:9
+c="an ileocolic resection" 62:10 62:12||r="TrAP"||c="a right colon cancer" 62:14 62:17
+c="the catheter" 84:14 84:15||r="TrWP"||c="the patient &apos;s fluid collection" 84:20 84:24
+c="ct of the abdomen" 68:0 68:3||r="TeRP"||c="a collection in the rlq" 68:5 68:9
+c="oxycodone" 36:3 36:3||r="TrAP"||c="pain" 36:9 36:9
+c="recurrent disease" 62:24 62:25||r="PIP"||c="a right colon cancer" 62:14 62:17
+c="colonoscopy" 62:27 62:27||r="TeRP"||c="recurrent disease" 62:24 62:25
+c="his wbc" 83:8 83:9||r="TeCP"||c="a fever" 83:3 83:4
+c="blood cultures" 107:0 107:1||r="TeRP"||c="bacteroides fragilis" 107:4 107:5
+c="his catheters" 89:5 89:6||r="TrCP"||c="the patient &apos;s pain" 89:0 89:3
+c="temp" 120:7 120:7||r="TeCP"||c="fevers" 120:5 120:5
+c="ir placement of a drainage catheter" 82:19 82:24||r="TrAP"||c="his abdominopelvic fluid collection" 82:26 82:29
+c="levofloxacin" 109:8 109:8||r="TrAP"||c="2+ e. coli" 109:1 109:3
+c="ampicillin" 109:6 109:6||r="TrAP"||c="2+ e. coli" 109:1 109:3

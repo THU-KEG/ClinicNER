@@ -1,0 +1,82 @@
+288506174 ELMVH
+40919878
+8888128
+2/12/2003 12:00:00 AM
+bladder cancer s / p cystoscopy , bilateral retrograde pyelograms , TURBT
+DIS
+Admission Date :
+02/12/2003
+Report Status :
+Discharge Date :
+02/13/2003
+****** DISCHARGE ORDERS ******
+HAUTHFREDE , MEND
+182-68-43-2 A45
+Room :
+9T-968
+Service :
+URO
+DISCHARGE PATIENT ON :
+02/13/03 AT 10:00 AM
+CONTINGENT UPON
+Not Applicable
+WILL D / C ORDER BE USED AS THE D / C SUMMARY :
+YES
+Attending :
+SIMPLE , VITA , M.D.
+DISPOSITION :
+Home
+DISCHARGE MEDICATIONS :
+LEVOFLOXACIN 250 MG PO QD X 3 Days
+Food / Drug Interaction Instruction
+Administer iron products a minimum of 2 hours before or after a levofloxacin or ciprofloxacin dose dose If on tube feeds , please cycle ( hold 1 hr before to 2 hr after ) Take 2 hours before or 2 hours after dairy products .
+DIET :
+No Restrictions
+ACTIVITY :
+Resume regular exercise
+FOLLOW UP APPOINTMENT ( S ) :
+Dr Simple 1-2 weeks ,
+ALLERGY :
+Cephalosporins
+ADMIT DIAGNOSIS :
+bladder cancer
+PRINCIPAL DISCHARGE DIAGNOSIS ;
+Responsible After Study for Causing Admission ) bladder cancer s / p cystoscopy , bilateral retrograde pyelograms , TURBT
+OTHER DIAGNOSIS ;
+Conditions , Infections , Complications , affecting Treatment / Stay
+prostate cancer s / p Lupron and XRT , bladder cancer , HTN , pernicious anemia , obesity , h / o asthmatic bronchitis , emphysema
+OPERATIONS AND PROCEDURES :
+s / p cystoscopy , bilateral retrograde pyelograms , TURBT 02/12/03
+OTHER TREATMENTS / PROCEDURES ( NOT IN O.R. )
+none
+BRIEF RESUME OF HOSPITAL COURSE :
+Patient is an 81-year-old male with a history of prostate cancer treated with Lupron and XRT s / p TURP who presented in 12/14 with gross hematuria and passage of clots .
+He underwent cystoscopy which revealed an anterior bladder wall mass and bladder stone which was irrigated out of the bladder .
+Bladder pathology revealed invasive transitional cell carcinoma .
+Patient continues to experience intermittent hematuria ( no clots ) .
+He denies frequency , hesitancy , dysuria , flank pain , fever / chills .
+He now presents for cystoscopy and TURBT .
+Patient was taken to the operating room on 02/12/03 and underwent cystoscopy , bilateral retrograde pyelograms , and transurethral resection of bladder tumor ( TURBT ) without complication .
+Patient tolerated the procedure well .
+Patient was placed on continuous bladder irrigation ( CBI ) at mild to moderate rate overnight .
+CBI was s topped at 6 am and urine in Foley catheter tube was clear .
+Patient had no complaints of pain , no other complaints .
+Foley was discontinued in the morning on postop day 1 ( 02/13/03 ) and patient was able to void without problems .
+He was having no pain , was ambulating , and was taking regular diet .
+Patient was deemed stable for discharge and will follow up with Dr Simple in one to two weeks .
+ADDITIONAL COMMENTS :
+- Please call to schedule follow up appointment with Dr Simple in 1-2 weeks :
+130-641-2447
+- Please return to emergency room if passing large amounts blood in urine , if unable to urinate , if having abdominal or suprapubic pain , flank pain , fever , chills , any other concerning symptoms
+- Urine will be blood-tinged ( light pink ) for several days--this is expected and normal
+DISCHARGE CONDITION :
+Stable
+TO DO / PLAN :
+- Please call to schedule follow up appointment with Dr Simple in 1 to 2 weeks :
+130-641-2447
+- Please return to emergency room if experience gross blood in urine , inability to urinate , flank pain , fever , chills , suprapubic pain , other concerning symptoms
+- Blood-tinged urine ( light pink ) is expected for several days postoperatively
+No dictated summary
+ENTERED BY :
+SAGETLAND , KINGI TAANG , M.D. ( WW88 ) 02/13/03 10:16 AM
+****** END OF DISCHARGE ORDERS ******

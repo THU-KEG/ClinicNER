@@ -1,0 +1,122 @@
+Admission Date :
+2013-10-21
+Discharge Date :
+2013-10-31
+Date of Birth :
+1928-10-14
+Sex :
+F
+Service :
+CARDIOTHORACIC
+Allergies :
+Codeine / Shellfish / Ciprofloxacin
+Attending : Pamela I Wickman , M.D.
+Chief Complaint :
+Exertional angina and dyspnea on exertion
+Major Surgical or Invasive Procedure :
+2013-10-21 CABG x 3 ( LIMA -> LAD , SVG -> OM , SVG -> PDA )
+History of Present Illness :
+This is an 85 year old female with prior history of non-hodgkins lymphoma , s/p Cytoxan in 2003 a with recurrence in 2009 .
+Follow up examinations have found a suspicious left lower lobe finding .
+Cardiac workup prior to left lower lobe resection led to cardiac catheterization which found severe three vessel disease with 04-05+ mitral regurgitation .
+She now present for surgical intervention .
+Past Medical History :
+Non-hodgkins lymphoma - s/p Cytoxan in 2003 and 2001 , History of Varicella Zoster with opthalmic lesions , History of Menieres Disease , GERD , Glaucoma , History of chronic sinusitis , s/p cataract surgery , s/p TAH and BSO , s/p appendectomy , s/p bilateral breast reduction
+Social History :
+Retired RN .
+Lives alone but family is close .
+Denies tobacco and ETOH .
+Family History :
+Daughter died of MI at age 49 .
+Physical Exam :
+Vitals :
+BP 160-170/80-84 , HR 82 , Resp 20
+General :
+Elderly female in no acute distress
+HEENT :
+Oropharynx benign
+Neck :
+Supple , no JVD , no carotid bruits
+Chest :
+Lungs CTA bilaterally
+Heart :
+Regular rate , 04-07 holosystolic murmur
+Abdomen :
+Soft , nontender , nondistended
+Ext :
+Warm , no edema
+Pulses :
+2+ distally
+Neuro :
+Nonfocal
+Pertinent Results :
+2013-10-29 06:10 AM BLOOD WBC - 10.9 RBC - 3.99 * Hgb - 12.6 Hct - 37.9 MCV - 95 MCH - 31.5 MCHC - 33.2 RDW - 13.9 Plt Ct - 330 #
+2013-10-29 06:10 AM BLOOD Glucose - 76 UreaN - 12 Creat - 0.9 Na - 141 K - 3.5 Cl - 104 HCO3 - 26 AnGap - 15
+2013-10-30 06:28 AM BLOOD Phenyto - 5.5 *
+Brief Hospital Course :
+Mrs. Mandelbaum was admitted and underwent three vessel coronary artery bypass grafting by Dr. Larry Mckinney .
+Of note , intraoperative transesophageal echocardiogram evaluation showed only mild mitral regurgitation , so no repair/replacement was indicated .
+Following the operation , she was brought to the CSRU .
+On postoperative day one , she was noted to be largely unresponsive with left hemiparesis .
+Restlessness with body tremors were also noted .
+A stat MRI was notable for multiple abnormal foci consistent with systemic emboli .
+These were found in the right cerebellar , occipital and anterior parietal lobes .
+The neurology service was consulted and attributed these findings to cholesterol emboli .
+Due to seizure activity , Dilantin was started .
+Anticoagulation was not recommended .
+Over the next several days , her neurological status slowly improved .
+She was eventually extubated without incident .
+She went on to experience paroxysmal atrial fibrillation which was initially treated with intravenous Amiodarone .
+She concomitantly had loose stools which were C. diff negative .
+Her clinical status stablized and she transferred to the step down unit on postoperative day six .
+She remained mostly in a normal sinus rhythm and transitioned to oral Amiodarone which will need to continue for three months postop .
+She tolerated beta blockade which was slowly advanced as tolerated .
+She worked daily with physical and occupational therapy .
+Her neurological status continued to improve .
+Acyclovir was eventually increased from her maintenance dose for a herpes zoster breakout on her right upper back .
+In addition , she was empirically started on Flagyl for persistent diarrhea ( despite negative C. diff cultures ) , however she developed an additional rash on her buttocks after the first dose of flagyl , so the flagyl was discontinued .
+She developed a urinary tract infection for which she was started on Bactrim .
+A foley catheter was inserted given her mutiple episodes of incontinence that were adding to skin irritation .
+On insertion she was found to be retaining 1400 cc of urine , so the foley catheter was left in .
+She continued to make clinical improvements and was cleared for discharge to rehab on postoperative day 10 .
+Medications on Admission :
+Acyclovir 800 qd , Nexium 40 qd , Lipitor 40 qd , Coreg 6.25 bid , Asa 81 qd , Timolol CMED CSRU gtts , Calcium , MVI , Vitamin C
+Discharge Medications :
+1. Acetaminophen 325 mg Tablet Sig : 1-2 Tablets PO Q4H ( every 4 hours ) as needed for fever or pain .
+Tablet ( s )
+2. Metoprolol Tartrate 50 mg Tablet Sig : One ( 1 ) Tablet PO BID ( 2 times a day ) .
+3. Phenytoin Sodium Extended 100 mg Capsule Sig : One ( 1 ) Capsule PO TID ( 3 times a day ) .
+4. Furosemide 20 mg Tablet Sig : One ( 1 ) Tablet PO BID ( 2 times a day ).
+Tablet ( s )
+5. Pantoprazole 40 mg Tablet , Delayed Release ( E.C. ) Sig : One ( 1 ) Tablet , Delayed Release ( E.C. ) PO Q24H ( every 24 hours ) .
+6. Amiodarone 200 mg Tablet Sig : Two ( 2 ) Tablet PO once a day for 7 days : 400 mg PO daily for 1 week , then decrease to 200 mg PO daily .
+Tablet ( s )
+7. Aspirin 81 mg Tablet , Delayed Release ( E.C. ) Sig : One ( 1 ) Tablet , Delayed Release ( E.C. ) PO DAILY ( Daily ) .
+8. Acyclovir 800 mg Tablet Sig : 0.5 Tablet PO 5X/D ( 5 times a day ) for 5 days : Then decrease dose to 800 mg PO daily .
+9. Lipitor 40 mg Tablet Sig : One ( 1 ) Tablet PO once a day .
+10. Potassium Chloride 20 mEq Packet Sig : One ( 1 ) Packet PO BID ( 2 times a day ) .
+11. Trimethoprim - Sulfamethoxazole 160-800 mg Tablet Sig : One ( 1 ) Tablet PO BID ( 2 times a day ) .
+12. Miconazole Nitrate 2 % Powder Sig : One ( 1 ) Appl Topical BID ( 2 times a day ) as needed .
+Discharge Disposition :
+Extended Care
+Discharge Diagnosis :
+Coronary artery disease - s/p CABG
+Varicella Zoster
+Postop CVA
+Postop Atrial fibrillation
+Discharge Condition :
+Good .
+Discharge Instructions :
+Follow medications on discharge instructions .
+Do not lift more than 10 lbs. for 2 months .
+Do not drive for 4 weeks .
+Call our office for sternal drainage , temp > 101.5
+No lotions , creams , or powders on wounds .
+Followup Instructions :
+Make an appointment with Dr. Madden for 1-2 weeks .
+Make an appointment with Dr. Murray for 4 weeks .
+Make an appointment with Dr. Mclaughlin in neurology clinic for 4 weeks .
+Briley von der Ross MD 67-576
+Completed by : Ann Kenneth NP 80-BXH 2013-10-31 @ 1005
+Signed electronically by : DR. Santos von der Ross on : TUE 2013-11-05 7:12 AM
+( End of Report )

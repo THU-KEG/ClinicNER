@@ -1,0 +1,149 @@
+Admission Date :
+2016-09-05
+Discharge Date :
+2016-09-14
+Date of Birth :
+1940-08-17
+Sex :
+M
+Service :
+CSU
+CHIEF COMPLAINT :
+Chest pain and back pain .
+HISTORY OF PRESENT ILLNESS :
+Mr. Hohlt is a 76 - year-old man with a history of hypertension , hyperlipidemia and prior myocardial infarction with a percutaneous transluminal coronary angioplasty of the right coronary artery in 2005 at the Cambridge Health Alliance .
+He states that he has experienced pain and tightness in his back radiating into both shoulders starting on 2016-09-02 .
+The patient denies shortness of breath , dizziness , diaphoresis , or nausea .
+The pain lasted for 30 seconds following pushing a wheelbarrow and resolved with rest .
+The patient denied any prior episodes of pain or any since 2005 following the initial episode of pain .
+The patient informs his primary care provider who referred him to the emergency room .
+He then presented to Mass. Mental Health Center where he was ruled out for an myocardial infarction by enzymes and electrocardiograms .
+The patient also underwent a negative evaluation for dissecting aortic aneurysm .
+On 2016-09-03 , the patient began experiencing continuing chest pain of increasing intensity .
+He was treated with nitroglycerin paste and IV Integrelin as well as Plavix .
+At that time , he ruled in for an NST EMI with a peak CK of 412 and a troponin of 6.23 .
+Electrocardiograms progressed to inverted T waves in V5 and V6 .
+The patient is now transferred to Cambridge Health Alliance for cardiac catheterization .
+PAST MEDICAL HISTORY :
+Hypertension , hyperlipidemia , IMI in 2005 .
+PAST SURGICAL HISTORY :
+Partial thyroidectomy , herniorrhaphy , percutaneous transluminal coronary angioplasty of the RCA in 2005 , left knee surgery as well as tonsil and adenoid surgery .
+ALLERGIES :
+No known drug allergies .
+MEDICATIONS AT HOME :
+1. Flomax 0.4 q.d.
+2. Aspirin 325 q.d.
+3. Lipitor 10 q.d.
+4. Naproxen p.r.n. as well as several vitamins and supplements .
+5. Zestoretic with an unknown dose .
+MEDICATIONS ON TRANSFER :
+1. Captopril 25 t.i.d.
+2. Protonix q.d. 40 .
+3. Nitroglycerin paste 1 inch q. 6 hours .
+4. Lopressor 25 b.i.d.
+5. Plavix 75 q.d.
+6. Lovenox 90 b.i.d.
+7. Aspirin 325 q.d.
+8. Lipitor 10 q.d.
+SOCIAL HISTORY :
+Married , retired accountant with six children .
+He denies any tobacco use , 2 to 3 alcohol drinks per week .
+FAMILY HISTORY :
+Father died in his 80 's of pacemaker failure , also had a myocardial infarction in his 70 's.
+PHYSICAL EXAMINATION :
+Vital signs :
+Heart rate is 55 , blood pressure is 129/79 , Respiratory rate is 22 , O2 sat is 96 percent on 2 liters .
+In general , well-appearing man , lying on a stretcher in no acute distress .
+Neck :
+2 plus carotids with no jugular venous distention and no bruits and no thyromegaly .
+Lungs :
+Fine crackles in the bases , otherwise clear .
+Cardiovascular :
+Regular rate and rhythm , S1 and S2 with no murmurs , rubs or gallops .
+Abdomen : Soft and nontender and nondistended , normal active bowel sounds and no bruits .
+Pulses are 2 plus femoral bilaterally , 2 plus dorsalis pedis as well as posterior tibial bilaterally .
+No edema .
+Neurological :
+Alert and oriented times 3 .
+Chest CT done at the outside hospital showed no gallstones .
+Left kidney with a small cyst splenic lesion and no triple A .
+Electrocardiogram has sinus rhythm with Q wave in 2 , 3 , and F , flattened T waves in the lateral leads , sinus rhythm at a rate of 56 .
+LABORATORY DATA :
+White blood cell count is 8.3 , hematocrit 42.7 , platelets 180 , INR was 1.1 , sodium 135 , potassium 4.0 , chloride 99 , CO2 33 , BUN 13 , creatinine 1.0 , glucose 96 .
+While on transfer , the patient underwent cardiac catheterization .
+Please see cathed report for full details .
+In summary , the catheterization showed left main with no obstructive disease , LAD with 70 percent serial lesion , left circumflex with 70 percent proximal , OM1 and OM2 both 70 percent lesions , RCA with nonobstructive disease and ejection
+fraction of 25 percent .
+The patient was referred to CT surgery who was seen and accepted for coronary artery bypass grafting .
+On 09-06 , he was brought to the Operating Room , please see the Operating Room report for full details .
+In summary , he had a coronary artery bypass graft times 4 with a LIMA to the LAD , saphenous vein graft OM1 , saphenous vein graft OM2 and saphenous vein graft of the diagonal .
+His bypass time was 105 minutes with a cross clamp time of 87 minutes .
+He tolerated the operation well and was transferred from the Operating Room to the cardiothoracic ICU .
+At the time of transfer , he was AV paced at a rate of 88 beats per minute .
+He had Propofol at 30 mc per kg per minute and Neo-Synephrine to maintain his blood pressure .
+The patient did well in the immediate postoperative period .
+His anesthesia was reversed .
+He was weaned from the ventilator and successfully extubated .
+He remained hemodynamically stable throughout the remainder of his operative day .
+On postoperative day 1 , the patient remained hemodynamically stable on a Neo-Synephrine drip to maintain an adequate blood
+pressure .
+He remained in the Intensive Care Unit as he was unable to be weaned off of his Neo-Synephrine drip .
+On postoperative day 1 , his Swan-Ganz catheter was removed as well .
+On postoperative day 2 , another attempt was made to wean the patient off of Neo-Synephrine unsuccessfully .
+His chest tubes were removed .
+However , because he could not be weaned from the Neo-Synephrine , he again remained in the Intensive Care Unit .
+On postoperative day 3 , an additional attempt was made to wean the patient from his Neo-Synephrine unsuccessfully .
+The patient also received a unit of packed red blood cells in an additional attempt to wean from Neo-Synephrine .
+This also did not help in the attempt to wean from Neo-Synephrine .
+His Foley catheter was removed and he remained again in the ICU .
+On postoperative day 4 , additional attempts were made to wean the patient off of his Neo-Synephrine , however , he continued to drop his blood pressure whenever an attempt was made .
+Other than that , the patient remained completely stable .
+On postoperative day 5 , the patient was finally weaned off of his Neo-Synephrine and diuresis was begun .
+He remained in the Intensive Care Unit for an additional day to monitor his hemodynamics .
+On postoperative day 6 , the patient remained hemodynamically stable and he was transferred to the floor for continuing postoperative care and cardiac rehabilitation .
+Over the next two days , the patient had an uneventful hospitalization .
+His activity level was increased with the assistance of physical therapy department and the nursing staff .
+On postoperative day 7 , it was decided that the patient would be stable and ready to be discharged to home on the following day .
+At the time of this dictation , the patient 's physical examination is as follows : Vital signs were temperature 99 , heart rate 84 in sinus rhythm , blood pressure was 114/63 , Respiratory rate was 18 , O2 sat was 94 percent on room air .
+Weight preoperatively was 88.5 kilos , at discharge was 90.4 kilos .
+LABORATORY DATA :
+White blood cell count 8.8 , hematocrit 29.7 , platelets 367 , sodium 139 , potassium 4.7 , chloride 102 , CO2 27 , BUN 17 , creatinine 1.1 , glucose 95 .
+PHYSICAL EXAMINATION :
+Neurological : Alert and oriented times 3 .
+Moves all extremities and follows commands .
+Respiratory :
+Clear to auscultation bilaterally .
+Cardiovascular : Regular rate and rhythm , S1 and S2 .
+No murmurs .
+Sternum is stable , incision with staples , opened to air , clean and dry .
+Abdomen : Soft and nontender , nondistended with positive bowel sounds .
+Extremities :
+Warm and well profuse with 1 to 2 plus edema .
+Right saphenous vein graft site with Steri-strips , open to air , clean and dry .
+The patient 's condition at discharge is good .
+DISCHARGE DIAGNOSIS :
+1. Coronary artery disease , status post coronary artery bypass grafting times 4 with LIMA to the LAD , saphenous vein graft to OM1 , saphenous vein graft to OM2 and saphenous vein graft to the diagonal .
+2. Hypertension .
+3. Hypercholesterolemia .
+4. Status post partial thyroidectomy .
+5. Status post hernia repair .
+6. Status post left knee surgery .
+7. Status post tonsil and adenoid surgery .
+DISCHARGE MEDICATIONS :
+1. Atorvastatin 10 mg q.d.
+2. Plavix 75 mg q.d. times 3 months .
+3. Aspirin 325 mg q.d.
+4. Lasix 20 mg q.d. times two weeks .
+5. Potassium chloride 20 mEq q.d. times two weeks .
+6. Metoprolol 12.5 mg b.i.d.
+7. Percocet 1 to 2 tabs q. 4 hours p.r.n.
+The patient is to be discharged home with visiting nurses .
+He is to have follow up in the wound clinic in two weeks and follow up with Dr. Brewster in two to three weeks and follow up with Dr. Rota in 4 weeks .
+Herbert Jesus , Georgia 01835
+Dictated By : Scott OK Astarita , M.D.
+MEDQUIST36
+D : 2016-09-14 12:52:27
+T : 2016-09-14 13:28:05
+Job #: 15604
+Signed electronically by : DR. Richard Gomez on : FRI 2016-09-16 7:05 AM
+( End of Report )

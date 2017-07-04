@@ -1,0 +1,11 @@
+c="anterior wall prolapses" 56:0 56:2||r="PIP"||c="loss of urine on valsalva;" 56:9 56:13
+c="luminal irregularity" 74:2 74:3||r="PIP"||c="spasm" 74:18 74:18
+c="cystoscopy;" 138:25 138:25||r="TeCP"||c="pelvic organ prolapse" 138:27 138:29
+c="embolization" 157:13 157:13||r="TrAP"||c="the bleeding vessel" 157:5 157:7
+c="exploratory laparotomy" 151:0 151:1||r="TeRP"||c="hemoperitonium" 151:3 151:3
+c="tagged cell and angiographic studies" 158:0 158:4||r="TeRP"||c="active bleeding" 158:14 158:15
+c="tagged cell and angiographic studies" 158:0 158:4||r="TeRP"||c="emobolization" 158:18 158:18
+c="diffusely small caliber vasculature" 73:2 73:5||r="PIP"||c="shock" 73:8 73:8
+c="examination" 143:11 143:11||r="TeRP"||c="active bleeding" 143:3 143:4
+c="left salpingo oophorectomy" 31:0 31:2||r="TrAP"||c="torsion;" 31:5 31:5
+c="angiography" 157:9 157:9||r="TeCP"||c="the bleeding vessel" 157:5 157:7

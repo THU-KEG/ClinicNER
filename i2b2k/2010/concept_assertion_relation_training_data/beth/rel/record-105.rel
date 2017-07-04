@@ -1,0 +1,17 @@
+c="cath" 21:0 21:0||r="TeRP"||c="80% lm lesion" 21:6 21:8
+c="pefusion imaging" 19:6 19:7||r="TeRP"||c="perfusion defects" 19:12 19:13
+c="drugs" 12:8 12:8||r="TrCP"||c="known allergies" 12:5 12:6
+c="metal plate" 26:7 26:8||r="TrAP"||c="gsw" 26:11 26:11
+c="creams" 145:14 145:14||r="TrNAP"||c="any incisions" 145:20 145:21
+c="resting regional wall motion abnormalities" 79:0 79:4||r="PIP"||c="mild inferior hypokinesis" 79:6 79:8
+c="powders" 145:18 145:18||r="TrNAP"||c="any incisions" 145:20 145:21
+c="overall left ventricular systolic function" 77:0 77:4||r="TeRP"||c="mildly depressed" 77:6 77:7
+c="lotions" 145:16 145:16||r="TrNAP"||c="any incisions" 145:20 145:21
+c="color doppler" 71:9 71:10||r="TeRP"||c="atrial septal defect" 71:1 71:3
+c="oxycodone-acetaminophen" 130:1 130:1||r="TrAP"||c="pain" 130:16 130:16
+c="2d" 71:7 71:7||r="TeRP"||c="atrial septal defect" 71:1 71:3
+c="pre-op eval." 18:11 18:12||r="TeRP"||c="abnormal ekg" 18:5 18:6
+c="echo" 20:0 20:0||r="TeRP"||c="mild lvh" 20:6 20:7
+c="echo" 20:0 20:0||r="TeRP"||c="inferior hk" 20:9 20:10
+c="echo" 20:0 20:0||r="TeRP"||c="mild mr" 20:15 20:16
+c="echo" 20:0 20:0||r="TeRP"||c="mild lae" 20:18 20:19

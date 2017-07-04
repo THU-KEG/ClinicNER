@@ -1,0 +1,39 @@
+649953363_d
+FIH
+8723483
+069162
+196826
+Christmas Eve 12:00:00 AM
+ED Discharge Summary
+Unsigned
+DIS
+Report Status :
+Unsigned
+ED DISCHARGE NOTIFICATION / SUMMARY
+UPH , JIM
+MRN :
+8723483
+Age :
+57y
+REGISTRATION DATE :
+Christmas Eve 02:44 PM
+Provider :
+Dwainco Rallsversgach
+PRELIMINARY REPORT
+PCP notified by MD :
+Yes
+Direct contact with PCP Benefits Assigned :
+N
+Discharge Date / Time :
+12/24/2000 22:50
+Patient States Complaint :
+ABD PAIN / SOB
+Diagnosis :
+Abdominal pain of unclear origin likely due to metastatic lung disease
+Treatment Rendered :
+Morphine Discharge Medications :
+Increase Fentanyl patch to 50ug Otherwise routine .
+Disposition , Follow up and Instructions to Patient :
+1. Follow up with PCP Monday 12/27/00
+2. Return to the ER if worse in any way .
+This report was created by Rallsversgach , Dwainco 12/24/2000 10:51 PM

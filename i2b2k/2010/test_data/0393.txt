@@ -1,0 +1,250 @@
+Admission Date :
+2015-09-20
+Discharge Date :
+2015-09-30
+Date of Birth :
+1961-09-28
+Sex :
+F
+Service :
+NEUROLOGY
+Allergies :
+Lamictal / Keflex / Navane / Inderal / Depakote
+Attending : Cindy U. Kelly , M.D.
+Chief Complaint :
+transfer from OSH , seizure
+Major Surgical or Invasive Procedure :
+Lumbar puncture
+History of Present Illness :
+Ms. Swanson is a 53 yo woman with PMH significant for seizure disorder , brain injury , and ? atypical multiple sclerosis who presents with right face twitch and right arm shaking .
+History is obtained from her sister , William from Lawrence General Hospital , and from her primary neurologist , Dr. Brian .
+She lives in an assisted living , and was noted yesterday to have generalized tonic-clonic activity beginning on the right side and lasting 90 minutes .
+EMS gave her valium 5 mg pr at the facility and brought her to Barnstable County Hospital .
+She persisted with right sided seizure activity there and was given valium 10 mg and ativan 1 mg , as well as loaded with dilantin 1000 mg .
+She was transferred to the Providence Behavioral Health Hospital CMED .
+Here she was given an additional valium 5 mg x 2 and ativan 1 mg x 3 for persistent twitching in her face and right hand .
+Since the ativan , her facial twitching has apparently improved , but she continues to have hand twitches .
+She also had an EEG , which showed left sided slowing on preliminary read .
+Apparently she has a long history of seizure disorder , possibly from a history of traumatic brain injury ( though per Dr. Paula , 
+records from that hospitalization indicate she may have only had a very mild injury ) and has been managed on dilantin and keppra .
+Since she has seen Dr. Ollie , she has had at least two episodes of status epilepticus and one generalized seizure , as well as some less significant seizures which are characterized by left gaze preference and left sided tonic-clonic activity .
+Her dilantin levels had been somewhat difficult to control .
+He tried adding lamictal , but this caused a rash .
+At the time of her last visit ( 2015-03-18 ) Dr. Bradley had discussed the addition of a third Castelluccio , possibly zonegran ( less likely topamax ), to the dilantin 200 mg bid and keppra 1500 mg bid .
+Her sister had wanted to keep the current course because she felt she was doing well where she was living and did not want to upset that .
+However , she had several dilantin levels drawn since her last visit , with 15.4 in 05 - 23.5 in Theresa , and 3.09 - 18 .
+Her sister reports that the medication dose had been changed to 200 mg qam and 100 mg qpm in Theresa , and a review of her Union Hospital - North Shore Medical Center records indicates that this may have occurred in an urgent care appointment secondary to slurred speech and a recent fall and a non-trough level of 15.9 .
+According to her sister , the patient has no short-term memory .
+She has been living in an assisted living facility and frequently calls her even right after she has left without remembering her visit .
+The patient walks with a walker at baseline and goes out for dinner and shopping with her sister .
+Ms. Swanson also carries a diagnosis of " atypical MS ", which she brought with her to Dr. Billie .
+According to Dr. Nicole , she has had stable deficits for many years without any flare-like episodes .
+She had an MRI in 2014 that showed multiple plaque-like lesions , but these were entirely stable since 2010 .
+She is not undergoing any treatment .
+Reportedly she has been evaluated at Shriner's Hospital for Crippled Children , HealthSouth Braintree Rehab Hospital , and possibly St. Elizabeth's Medical Center of Boston .
+She has not had an LP as far as Dr. Ginger knows .
+Past Medical History :
+h/o head trauma
+atypical MS
+seizures
+depression
+hypercholesterolemia
+Social History :
+lives in assisted living .
+Sister Andrew is HCP
+Family History :
+not elicited
+Physical Exam :
+ICU exam :
+VS : T99.5 , BP 126/72 , HR 99 , RR 15 , SaO2 99% / RA
+Genl : lying in bed , right hand moving rhythmically , NGT in place
+MS : not following commands , withdraws to noxious stimuli , making incomprehensible vocalizations
+CN : PERRL , corneal reflex intact , nasal tickle intact , face symmetric .
+Motor : moving right hand rhythmically with occasional right face twitching as well .
+Moves all extremities to stimuli , L > R
+Sensation : intact to noxious stimuli in all four extremities
+Reflexes : 3+ throughout , both toes upgoing
+Recent exam :
+Afebrile , VSS
+Following commands , oriented to name , place .
+Able to carry on simple conversation .
+No dysarthria , speech fluent .
+CN : PEERL , EOM full , tongue midline
+Motor : moves all extremities with some strength, improved bilaterally
+Reflexes : as above
+Pertinent Results :
+Admission labs :
+2015-09-20 03:54 AM BLOOD WBC - 11.4 *# RBC - 3.96 * Hgb - 12.1 Hct - 35.1 * MCV - 88 MCH - 30.6 MCHC - 34.6 RDW - 13.1 Plt Ct - 152
+2015-09-28 07:50 AM BLOOD Neuts - 83.3 * Lymphs - 10.1 * Monos - 5.3 Eos - 1.1 Baso - 0.2
+2015-09-20 03:54 AM BLOOD PT - 12.3 PTT - 26.7 INR(PT) - 1.1
+2015-09-20 03:54 AM BLOOD Glucose - 97 UreaN - 12 Creat - 0.4 Na - 137 K - 3.8 Cl - 101 HCO3 - 26 AnGap - 14
+2015-09-20 03:54 AM BLOOD Albumin - 4.0 Calcium - 8.0 * Phos - 2.9 Mg - 2.0
+2015-09-20 03:54 AM BLOOD ALT - 14 AST - 18 AlkPhos - 92 TotBili - 0.3
+2015-09-20 03:54 AM BLOOD Phenyto - 18.4
+Discharge labs :
+2015-09-29 07:25 AM BLOOD Phenyto - 5.1 *
+U/A :
+2015-09-22 03:04 PM URINE Color - Straw Appear - Clear Sp Dixon - 1.010
+2015-09-22 03:04 PM URINE Blood - SM  Nitrite - NEG Protein - NEG Glucose - NEG Ketone - 15 Bilirub - NEG Urobiln - NEG pH - 5.0 Leuks - MOD
+2015-09-22 03:04 PM URINE RBC - 6 * WBC - 29 * Bacteri - OCC Yeast - NONE Epi - < 1
+2015-09-28 03:04 PM URINE Color - Yellow Appear - Clear Sp Brown - 1.015
+2015-09-28 03:04 PM URINE Blood - LG Nitrite - NEG Protein - TR Glucose - NEG Ketone - NEG Bilirub - NEG Urobiln - 0.2 pH - 6.5 Leuks - NEG
+2015-09-28 03:04 PM URINE RBC - 01-04 * WBC - 04-19 Bacteri - FEW Yeast - NONE Epi - 0-2
+CSF :
+2015-09-25 02:20 PM CEREBROSPINAL FLUID ( CSF ) WBC - 6 RBC - 2 * Polys - 0 Lymphs - 92 Monos - 8
+2015-09-25 02:20 PM CEREBROSPINAL FLUID ( CSF ) WBC - 6 RBC - 0 Polys - 0 Lymphs - 95 Monos - 5
+2015-09-25 02:20 PM CEREBROSPINAL FLUID ( CSF ) TotProt - 56 * Glucose - 77
+2015-09-25 02:20 PM CEREBROSPINAL FLUID ( CSF ) ANGIOTENSIN 1 CONVERTING ENZYME - PND
+2015-09-25 02:20 PM CEREBROSPINAL FLUID ( CSF ) VDRL - PND
+2015-09-25 02:20 PM CEREBROSPINAL FLUID ( CSF ) Ernest VIRUS ( JCV ) DNA DETECTION BY POLYMERASE CHAIN REACTION ( PCR )- PND
+2015-09-25 02:20 PM CEREBROSPINAL FLUID ( CSF ) VARICELLA DNA ( PCR )- PND
+2015-09-25 02:20 PM CEREBROSPINAL FLUID ( CSF ) HERPES SIMPLEX VIRUS PCR - PND
+2015-09-25 02:20 PM CEREBROSPINAL FLUID ( CSF ) EBV - PCR - PND
+2015-09-25 02:20 PM CEREBROSPINAL FLUID ( CSF ) CYTOMEGALOVIRUS - PCR - negative
+Other :
+cryptococcus : negative
+CSF negative
+blood cx NGTD
+urine cx lactobacillus
+CSF cytology : NEGATIVE FOR MALIGNANT CELLS .
+Reactive lymphoid cells .
+immunotyping negative .
+CXR 09-28 : No evidence for pneumonia .
+No change since prior study of 2015-09-24 .
+CT HEAD FINDINGS : There is moderately severe , confluent periventricular white matter hypodensity surrounding the frontal horns , posterior horns , and more superiorly , involving the centra semiovale .
+These findings are unchanged from prior studies , and may relate to the " atypical " demyelinating process , suggested in the indication on the prior MRI ; however , they are non-specific .
+There is no evidence of acute intra - or extra - axial hemorrhage .
+There is no shift of normally midline structures .
+The ventricles are mildly prominent , but are unchanged from the prior study .
+There is no interval loss of focal gray - white matter differentiation to suggest acute infarction , though CT is not sensitive in the early stages .
+No focal masses is seen .
+IMPRESSION :
+1) No intracranial hemorrhage or mass effect ; no significant interval change from CT of 2015-07-20 .
+2) Diffuse , confluent periventricular white matter hypodensity , which may relate to an underlying demyelinating process ( as suggested in the indication provided for the prior MRI ).
+The markedly low - attenation ( 14-15 HU ) centered within this process suggests either irreversible demyelination with cavitation (" black hole "), or lacunar infarction on a vascular basis .
+Generalized and marked callosal atrophy ( on the MR ) also suggest advanced , irreversible disease .
+3) No mass is appreciated on this limited non-contrast study ; if clinically concerned , an MRI with gadolinium is recommended .
+MRI : There is a similar configuration of increased T2 signal in the periventricular white matter of both cerebral hemispheres , suggesting demyelinating disease .
+As previously noted , there is associated volume loss , thinning of the corpus callosum , and slight widening of the ventricles .
+On post-contrast images , there is a probably stable appearance of a 5 mm linear , focal area of enhancement in the left centrum semiovale , of uncertain etiology .
+Also ehancing is 3 mm linear lesion in the left hippocampal cortex anteriorly , not seen on the 08-20 MR , but that study was very motion - degraded .
+The hippocampus would be a most unusual site for involvement by multiple sclerosis .
+There is no apparent mass lesion or mass effect .
+No changes in the overall morphology of the brain are identified .
+The surrounding osseous and soft tissue structures are unremarkable .
+The major vascular flow patterns are normal .
+IMPRESSION :
+1. Stable appearance of confluent areas of increased T2 signal in the periventricular white matter , consistent with severe demyelinating disease .
+2. Enhancing lesions in the left centrum semiovale and also left hippocampal cortex .
+This former lesion was evident on MR dating back to 2014-08-15 , though is more prominent at this time , likely due to less motion degradation of the current scan .
+Etiology of these enhancing lesions is uncertain , but could be atypical manifestations of demyelination .
+EEG :
+ABNORMALITY #1: Throughout the recording there were frequent bursts of generalized theta and delta slowing .
+Facial twitching was described by the technologist and seen on the video .
+This is primarily right-sided , facial movement clinically and did not appear to involve the forehead or CMED CSRU .
+There were no clear EEG correlate .
+ABNORMALITY #2: The background voltages were occasionally lower on the left side , and there were additional bursts of delta slowing  seen broadly on the left side alone .
+ABNORMALITY #3: The background rhythms were dominated by much faster beta rhythm .
+They appeared to reach an 8 Hz frequency on the right at times , though the background was disorganized and slow on both sides for 
+much of the recording .
+It was of much lower voltage on the left .
+HYPERVENTILATION : Could not be performed .
+INTERMITTENT PHOTIC STIMULATION : Could not be performed .
+SLEEP : No normal waking or sleeping morphologies were seen .
+CARDIAC MONITOR : Showed a generally regular rhythm .
+IMPRESSION : Abnormal portable EEG due to the bursts of generalized slowing and additional left-sided slowing and voltage dimunition , along with some slowing of the background .
+The generalized and background features indicate a wide-spread encephalopathy .
+The left sided slowing and voltage reduction surpassed an additional dysfunction on the left side , possibly wide-spread cortical dysfunction .
+There is a possibility of a structural lesion on the left , but the encephalopathy dominated the overall picture .
+There were no clear epileptiform discharges .
+No EEG correlate was established for the facial twitching .
+The lack of EEG correlate to the facial twitching does not exclude a central cause ( and , indeed , this appeared most likely based on the clinical and video observations ).
+Brief Hospital Course :
+53 yo woman with h/o seizure disorder , demyelinating disease , and brain injury , presents with prolonged seizure , now unresponsive with persistent twitching of right arm and face .
+This is most consistent with complex partial seizures with a focus in the left hemisphere , most likely the motor strip .
+In the past , her seizures were on the left side , which implies that she now has a new focus .
+It is possible that this is secondary to her underlying demyelinating disease , but per report this has not been very active .
+Other possibilities include infection , including her UTI .
+It is likely that these seizures began due to subtherapeutic dilantin levels on her new dose of 200 mg / 100 mg .
+Her seizure management is difficult , given the higher doses were causing her to fall and slur her speech .
+Discussed with Dr. Joaquin the addition of an alternate Castelluccio with the possibility of tapering down the dilantin in the future , and he agreed that she may benefit from zonegran .
+Cannot use lamictal or depakote due to reactions .
+Topamax is another possibility , but not ideal in a patient with preexisting cognitive deficits .
+She was started on zonegran at 50 mg daily with plans to increase by 50 mg every other week to a goal dose of 200 mg / day ; she was on 100 mg daily at discharge and should have her dose increased on 10-12 and again on 10-26 .
+She was continued on keppra and dilantin with trough checked frequently and adjustment as needed .
+Ativan was used for breakthrough seizures ( facial twitching ).
+MRI/MRA showed new temporal lesions , but it is unclear if these are the cause or effect of her seizures .
+She will need to have a repeat MRI in several months for further evaluation .
+LP was done and had no changes to suggest a different etiology ( ie negative cytology and negative immunophenotyping ).
+Oligoclonal bands were not assessed as there was not enough CSF per the laboratory .
+She will need repeated dilantin troughs with one time dose when trough is subtherapeutic .
+Pending tests :
+ANGIOTENSIN 1 CONVERTING ENZYME
+EBV-PCR
+HERPES SIMPLEX VIRUS PCR
+Ernest VIRUS ( JCV ) DNA PCR
+LYME , TOTAL EIA WITH REFLEX TO CSF RATIO
+VARICELLA DNA ( PCR )
+VDRL
+2. atypical MS : discussed with her outpt neurologist ( Dr. Ford in Boston Medical Center ); no current role for MS medications .
+MRI was performed and showed new lesions vs sz effects in the left temporal lobe .
+She also had a new lesion on her last MRI in the centrum semiovale .
+LP was done to evaluate for malignancy , and no malignant cells were seen .
+Immunotyping was negative as well ( per verbal report ).
+Unfortunately , oligoclonal bands could not be sent from the CSF ( lab sent CSF for other studies and there was not enough left over for OCB s).
+This was relayed to the family ( Kirk ).
+Given that she does have new lesions on MRI , if OCB s were sent this would have weighed in in her dx of MS , and it's possible she could benefit from MS therapy .
+This was relayed to the family , and they will readdress this with Dr. Ford ( MS Hoyos ).
+The family is confident in any decision Dr. Ford would make re : therapy for her MS .
+3. fevers on admission : Pt w/ positive U/A , treated with bactrim x 3 days with defervescence .
+4. depression : continue escitalopram ; assess need to change medication as an outpatient .
+5. FEN : NGT was placed given her altered mental status , and she has been unable to pass a swallow evaluation , but has improved .
+This should be repeated in several days as her mental status continues to clear .
+Commun : Sister Andrew is HCP . ( 780 ) 970-0261
+Dispo : PT/OT worked with patient during admission
+Medications on Admission :
+Dilantin 200/100
+Keppra 1500 mg bid
+Lexapro 20 mg q day
+Folate 1 mg q day
+Calcium 1 tab bid
+Discharge Medications :
+1. Zonisamide 100 mg Capsule Sig : One ( 1 ) Capsule PO DAILY ( Daily ): Increase by 50 mg every other week ( next increase 2015-10-12 ).
+2. Phenytoin 50 mg Tablet , Chewable Sig : Four ( 4 ) Tablet , Chewable PO QAM ( once a day ( in the morning )).
+3. Phenytoin 50 mg Tablet , Chewable Sig : Three ( 3 ) Tablet , Chewable PO QPM ( once a day ( in the evening )).
+4. Phenytoin 50 mg Tablet , Chewable Sig : One ( 1 ) Tablet , Chewable PO EVERY OTHER DAY ( Every Other Day ).
+5. Levetiracetam 500 mg Tablet Sig : Four ( 4 ) Tablet PO BID ( 2 times a day ).
+6. Escitalopram 10 mg Tablet Sig : Two ( 2 ) Tablet PO DAILY ( Daily ).
+7. Folic Acid 1 mg Tablet Sig : One ( 1 ) Tablet PO DAILY ( Daily ).
+8. Lansoprazole 30 mg Tablet , Rapid Dissolve , DR Turner : One ( 1 ) Tablet , Rapid Dissolve , DR Hughes DAILY ( Daily ).
+9. Docusate Sodium 150 mg / 15 mL Liquid Sig : One Hundred ( 100 ) mg PO BID ( 2 times a day ).
+10. Senna 8.6 mg Tablet Sig : One ( 1 ) Tablet PO BID ( 2 times a day ).
+11. Bisacodyl 10 mg Suppository Sig : One ( 1 ) Suppository Rectal DAILY ( Daily ) as needed for constipation .
+12. Heparin ( Porcine ) 5,000 unit / mL Solution Sig : 5000 ( 5000 ) units Injection TID ( 3 times a day ).
+Discharge Disposition :
+Extended Care
+Facility :
+L.F. Quigley Memorial Hospital & Rehab Center - Berkshire Medical Center
+Discharge Diagnosis :
+Seizure
+History of atypical multiple sclerosis
+Memory loss
+Status post brain injury
+Urinary tract infection
+Discharge Condition :
+Stable , much improved from admission , and almost at baseline .
+Discharge Instructions :
+Take all medications as prescribed .
+Please increase zonegran dose by 50 every other week until it reaches 200 mg daily , with first dose change 10-12 to 150 mg daily and second dose change 10-26 to 200 mg daily .
+Follow up with Dr. Pilcher , Dr. Donnie , and Dr. Harris upon discharge .
+Call the doctor or go to the emergency room with increased seizure frequency , unresponsiveness , new weakness or numbness , or any other concerning symptoms .
+Followup Instructions :
+Please follow up with a repeat MRI in several months to evaluate new lesions in the brain .
+Follow up with :
+Dr. Harris ( 859-847-5149 ) on 2015-10-05 at 915 am .
+Dr. Alejandro (( 211 ) 394-5801 ) on 2015-10-20 at 145 pm .
+Dr. Sheets (( 506 ) 858 7552) on 2015-10-26 at 10 am .
+Wayne Deloris MD 55-122
+Completed by : Meghan Mark MD 99-323 2015-09-30 @ 1502
+Signed electronically by : DR. Sheila SHEEN on : WED 2015-09-30 4:59 PM
+( End of Report )

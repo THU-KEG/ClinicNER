@@ -1,0 +1,98 @@
+c="ruq us" 190:0 190:1||r="TeRP"||c="infection" 190:9 190:9
+c="amputation of right 2nd toe" 63:2 63:6||r="TrAP"||c="osteomyelitis" 63:9 63:9
+c="echo" 177:0 177:0||r="TeRP"||c="trace ar" 177:5 177:6
+c="echo" 177:0 177:0||r="TeRP"||c="mr" 177:10 177:10
+c="increased pain in her lower back" 22:5 22:10||r="PIP"||c="her arthritis" 22:16 22:17
+c="pain" 225:10 225:10||r="PIP"||c="arthritis" 225:12 225:12
+c="repeat ekg" 114:27 114:28||r="TeRP"||c="these changes" 114:30 114:31
+c="her transaminases" 193:0 193:1||r="TeRP"||c="slightly elevated" 193:3 193:4
+c="slightly elevated" 193:3 193:4||r="PIP"||c="shock liver" 193:11 193:12
+c="shock liver" 193:11 193:12||r="PIP"||c="hypotension" 193:20 193:20
+c="levofloxacin" 192:28 192:28||r="TrAP"||c="hospital aquired pneumonia" 192:38 192:40
+c="levofloxacin" 192:28 192:28||r="TrAP"||c="gi sources" 192:42 192:43
+c="levofloxacin" 192:28 192:28||r="TrAP"||c="hip infection" 192:48 192:49
+c="lfts" 202:0 202:0||r="TeRP"||c="elevated" 202:2 202:2
+c="repletion" 213:12 213:12||r="TrWP"||c="low" 213:10 213:10
+c="her fludrocortisone" 215:5 215:6||r="TrCP"||c="these symptoms." 215:22 215:23
+c="repletion" 180:12 180:12||r="TrWP"||c="low" 180:10 180:10
+c="fludrocortisone" 211:10 211:10||r="TrAP"||c="addison 's-" 211:1 211:2
+c="tylenol" 223:4 223:4||r="TrIP"||c="pain" 223:0 223:0
+c="polyendocrine deficiency" 18:8 18:9||r="PIP"||c="adrenal insufficiency" 18:12 18:13
+c="polyendocrine deficiency" 18:8 18:9||r="PIP"||c="dm" 18:15 18:15
+c="polyendocrine deficiency" 18:8 18:9||r="PIP"||c="premature ovarian failure" 18:17 18:19
+c="polyendocrine deficiency" 18:8 18:9||r="PIP"||c="hypoparathyroidism" 18:21 18:21
+c="polyendocrine deficiency" 18:8 18:9||r="PIP"||c="addison 's disease" 18:23 18:25
+c="her fludrocortisone" 181:5 181:6||r="TrCP"||c="these symptoms" 181:22 181:23
+c="shock liver" 203:7 203:8||r="PIP"||c="hypotension" 203:10 203:10
+c="shock liver" 203:7 203:8||r="PIP"||c="hepatitis" 203:12 203:12
+c="shock liver" 203:7 203:8||r="PIP"||c="cholangitis" 203:14 203:14
+c="shock liver" 203:7 203:8||r="PIP"||c="choledocholithiasis" 203:16 203:16
+c="an echo" 195:6 195:7||r="TeRP"||c="little valvular disease" 195:13 195:15
+c="syncope" 186:26 186:26||r="PIP"||c="injury" 186:21 186:21
+c="hypotensive" 212:12 212:12||r="PIP"||c="febrile" 212:14 212:14
+c="hypoparathyroidism" 315:2 315:2||r="PIP"||c="hypocalcemia" 315:0 315:0
+c="treatment" 230:11 230:11||r="TrWP"||c="very depressed" 230:2 230:3
+c="the steroids" 199:0 199:1||r="TrIP"||c="addison 's" 199:13 199:14
+c="the steroids" 199:0 199:1||r="TrIP"||c="superimposed infection" 199:17 199:18
+c="stress dose steroids" 212:16 212:18||r="TrAP"||c="febrile" 212:14 212:14
+c="stress dose steroids" 212:16 212:18||r="TrAP"||c="hypotensive" 212:12 212:12
+c="blood pressure" 180:20 180:21||r="TeRP"||c="elevated" 180:16 180:16
+c="exam" 195:24 195:24||r="TeRP"||c="two loud systolic murmurs" 195:19 195:22
+c="blood pressure" 214:6 214:7||r="TeRP"||c="elevated" 214:2 214:2
+c="80 systolic" 168:15 168:16||r="TeRP"||c="hypotensive" 168:13 168:13
+c="an infectious source" 188:23 188:25||r="PIP"||c="fevers" 188:16 188:16
+c="an infectious source" 188:23 188:25||r="PIP"||c="recurrent hypotension" 188:10 188:11
+c="an infectious source" 188:23 188:25||r="PIP"||c="a fever" 188:5 188:6
+c="an infectious source" 188:23 188:25||r="PIP"||c="tachycardia" 188:18 188:18
+c="crutches" 92:7 92:7||r="TrAP"||c="unsteady" 92:4 92:4
+c="vancomycin" 192:33 192:33||r="TrAP"||c="hip infection" 192:48 192:49
+c="vancomycin" 192:33 192:33||r="TrAP"||c="gi sources" 192:42 192:43
+c="vancomycin" 192:33 192:33||r="TrAP"||c="hospital aquired pneumonia" 192:38 192:40
+c="palpation of scalp" 81:5 81:7||r="TeRP"||c="tenderness" 81:3 81:3
+c="a wheelchair" 225:3 225:4||r="TrAP"||c="pain" 225:10 225:10
+c="a wheelchair" 225:3 225:4||r="TrAP"||c="arthritis" 225:12 225:12
+c="multiple medical problems" 18:4 18:6||r="PIP"||c="polyendocrine deficiency" 18:8 18:9
+c="multiple medical problems" 18:4 18:6||r="PIP"||c="adrenal insufficiency" 18:12 18:13
+c="multiple medical problems" 18:4 18:6||r="PIP"||c="dm" 18:15 18:15
+c="multiple medical problems" 18:4 18:6||r="PIP"||c="premature ovarian failure" 18:17 18:19
+c="multiple medical problems" 18:4 18:6||r="PIP"||c="hypoparathyroidism" 18:21 18:21
+c="multiple medical problems" 18:4 18:6||r="PIP"||c="addison 's disease" 18:23 18:25
+c="multiple medical problems" 18:4 18:6||r="PIP"||c="breast ca" 18:28 18:29
+c="multiple medical problems" 18:4 18:6||r="PIP"||c="depression" 18:31 18:31
+c="multiple medical problems" 18:4 18:6||r="PIP"||c="tylenol with codeine overdose" 18:43 18:46
+c="multiple medical problems" 18:4 18:6||r="PIP"||c="hypotension" 18:48 18:48
+c="a r hip film" 176:20 176:23||r="TeRP"||c="loosening" 176:26 176:26
+c="a r hip film" 176:20 176:23||r="TeRP"||c="inflammation" 176:28 176:28
+c="culture data" 189:9 189:10||r="TeCP"||c="infection" 189:7 189:7
+c="metronidazole" 192:30 192:30||r="TrAP"||c="hip infection" 192:48 192:49
+c="metronidazole" 192:30 192:30||r="TrAP"||c="gi sources" 192:42 192:43
+c="metronidazole" 192:30 192:30||r="TrAP"||c="hospital aquired pneumonia" 192:38 192:40
+c="her potassium" 180:6 180:7||r="TeRP"||c="low" 180:10 180:10
+c="ivf" 163:49 163:49||r="TrIP"||c="hypotension" 163:39 163:39
+c="fludrocort" 215:19 215:19||r="TrCP"||c="these symptoms." 215:22 215:23
+c="ect therapy" 55:3 55:4||r="TrAP"||c="depression" 55:1 55:1
+c="a hip film" 195:28 195:30||r="TeRP"||c="inflammation" 195:33 195:33
+c="a hip film" 195:28 195:30||r="TeRP"||c="loosening" 195:35 195:35
+c="medical care" 323:27 323:28||r="TrAP"||c="other worrisome symptoms" 323:21 323:23
+c="medical care" 323:27 323:28||r="TrAP"||c="a fever" 323:16 323:17
+c="medical care" 323:27 323:28||r="TrAP"||c="lightheadedness" 323:11 323:11
+c="medical care" 323:27 323:28||r="TrAP"||c="a low bp" 323:6 323:8
+c="60 systolic" 163:41 163:42||r="TeRP"||c="hypotension" 163:39 163:39
+c="crusted blood on tip" 81:27 81:30||r="PIP"||c="fall injury" 81:35 81:36
+c="plt smr" 97:4 97:5||r="TeRP"||c="high plt ct" 97:7 97:9
+c="colonic dysfunction" 52:1 52:2||r="PIP"||c="diarrhea" 52:5 52:5
+c="colonic dysfunction" 52:1 52:2||r="PIP"||c="constipation" 52:7 52:7
+c="urine culture" 196:0 196:1||r="TeRP"||c="coag" 196:5 196:5
+c="urine culture" 196:0 196:1||r="TeRP"||c="staph" 196:7 196:7
+c="her glucose" 219:13 219:14||r="TeRP"||c="somewhat low" 219:16 219:17
+c="na" 180:14 180:14||r="TeRP"||c="elevated" 180:16 180:16
+c="a r hip film" 222:0 222:3||r="TeRP"||c="pathology" 222:7 222:7
+c="a r hip film" 222:0 222:3||r="TeRP"||c="failure" 222:9 222:9
+c="mastectomies" 67:5 67:5||r="TrAP"||c="breast ca" 67:2 67:3
+c="fludrocort" 181:19 181:19||r="TrCP"||c="these symptoms" 181:22 181:23
+c="na" 214:0 214:0||r="TeRP"||c="elevated" 214:2 214:2
+c="shock liver" 204:13 204:14||r="PIP"||c="her hypotensive episode" 204:16 204:18
+c="basal prednisone" 211:7 211:8||r="TrAP"||c="addison 's-" 211:1 211:2
+c="her potassium" 213:6 213:7||r="TeRP"||c="low" 213:10 213:10
+c="urine cultures" 173:0 173:1||r="TeRP"||c="organisms" 173:5 173:5
+c="urine cultures" 173:0 173:1||r="TeRP"||c="staph" 173:8 173:8

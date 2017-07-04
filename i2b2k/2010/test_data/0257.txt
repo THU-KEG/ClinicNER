@@ -1,0 +1,96 @@
+648746074
+CTMC
+84164942
+960919
+9/7/1992 12:00:00 AM
+Discharge Summary
+Signed
+DIS
+Admission Date :
+09/07/1992
+Report Status :
+Signed
+Discharge Date :
+09/12/1992
+ADMISSION DIAGNOSES :
+1. STAGE IV ENDOMETRIAL CANCER
+2. STAGE III-C OVARIAN CANCER
+DISCHARGE DIAGNOSES :
+1. STAGE IV ENDOMETRIAL CANCER
+2. STAGE III-C OVARIAN CANCER
+TREATMENTS :
+Chemotherapy of IFEX , MESNA and VP-16 .
+HISTORY OF PRESENT ILLNESS :
+The patient is a 31 year old gravida 0 with stage IV endometrial cancer and stage III-C ovarian cancer vs metastatic endometrial cancer for line 2 , cycle 1 chemotherapy .
+The patient presented in 10-90 , with heavy bleeding per vagina .
+D and C showed grade II-III adenocarcinoma with squamous differentiation at Wellla Uxinny : mount Medical Center in Com St. , Tton , Arkansas 32167 .
+The patient underwent TAH / BSO , partial omentectomy at CTMC in 10-90 .
+At that time , tumor was found to be studding on the right diaphragm , gross tumor in the omentum and large bowel , tumor through the uterine serosa .
+Pathology showed grade II-III papillary adenocarcinoma of the endometrium with squamous differentiation which was focally invasive and superficial myometrium .
+The ovary showed papillary serous adeno with omental involvement consistent with an endometroid adenocarcinoma .
+The question was whether or not whether she had two primaries vs metastatic endometrial cancer .
+The patient underwent 6 cycles of CAP in Pemrancetul Tonsst. .
+However  , during the fourth cycle  , Cytoxan was dropped .
+Her CA-125 on 6-27-91 , was 249 and on 8-29-91 , was 734 .
+In 05-92 , the patient was admitted to Wellla Uxinny : mount Medical Center with left leg DVT and started on Heparin therapy .
+She was discharged from there on Coumadin therapy .
+On admission , the patient has no complaints except anxiety .
+PAST MEDICAL HISTORY :
+Negative except as above .
+PAST SURGICAL HISTORY :
+Negative except as above .
+MEDICATIONS ON ADMISSION :
+Coumadin 5 mg po q d , Tagamet 400 mg po q d , Amoxicillin which was started on Labor Day , for a sore throat and Ativan 1 mg po prn nausea / anxiety .
+ALLERGIES :
+The patient gets hives to aspirin and tomatoes also cause her hives .
+PHYSICAL EXAMINATION :
+The temp was 99.4  , BP 114/78  , pulse 128 and respirations 20 .
+She was an anxious female , in no acute distress .
+HEENT exam showed PERRLA , EOMI , oropharynx benign .
+The lungs were clear to auscultation .
+CV was regular rate and rhythm without murmurs .
+The abdomen was soft , positive bowel sounds , non tender , large , hard mass occupying the lower abdomen and left upper quadrant .
+The extremities were non tender without edema .
+LABORATORY DATA :
+On admission , the sodium was 136 , potassium 3.0 , chloride 98 , CO2 20 , BUN 8 , creatinine 0.8 and glucose 94 , ALT 5 , AST 10 , LDH 166 , alkaline phosphatase 81 , total bili 0.6 , direct bili .3 , albumin 3.3 , calcium 8.8 and uric acid 3.1 .
+She had CA-125 which was pending at the time of discharge .
+Her hematocrit was 31.1 , WBC 11.6 and 151,000 platelets .
+PLAN :
+The patient is thus stage IV endometrial and stage III-C ovarian vs metastatic endometrial for line II , cycle I chemotherapy IFEX , MESNA and VP-16 .
+The plan was for urinalysis q d .
+With the history of DVT , we plan Coumadin and check her coags .
+The patient was tachycardiac on admission and it was felt she was dehydrated and / or anxious at the time of her initial evaluation .
+EKG showed sinus tachycardia and incomplete right bundle branch block .
+When compared with ECG of 11-06-90 , there was borderline criteria for anterior MI although the patient denied any chest pain at any point .
+HOSPITAL COURSE :
+The patient underwent chemotherapy on the following doses :
+IFEX 1.2 grams per meter squared x 3 days , MESNA 1.2 grams per meter squared x 3 days continuous IV infusion .
+She had VP-16 mixed with 250 cc IV fluid given over 1 hour each day for 3 days .
+She also had MESNA dose of .6 grams per meter squared after her IFEX / MESNA were completed .
+The patient 's urinalysis on admission was significant for red blood cells which were TNTC as well as uric acid .
+Because it was felt the patient was bleeding and the patient was contaminated , she received her IFEX / MESNA .
+A repeat straight cath was negative for RBC 's .
+After 1 day of chemotherapy , the patient had 8-10 RBC 's in her urine but by the second day of her IFEX infusion , she had 50-80 RBC 's in her urine as well as a few transitional epithelial cells .
+Because of this finding , her IFEX was stopped before completion of her second day of infusion .
+Her MESNA alone was continued at that time for IV infusion .
+She did receive her VP-16 without complication .
+Other significant issues were the patient 's hematocrit on admission at 31.1 which dwindled down to 26.2 by 9-10  .
+The patient was counselled and received 2 units of packed RBC 's at that time  .
+However , the patient 's hematocrit bumped only to 28.1 and a repeat later on 9-11 , showed hematocrit of 27.6 .
+At this time , an additional 2 units of packed RBC 's were transfused .
+The third issue was that her anticoagulation was grossly out of control on admission with PT of 25.6 and PTT of 42.2 .
+Her repeat on 9-8 , was 36.0 / 68.2 and her Coumadin was held .
+She received no Coumadin during her admission and by the time of discharge , her PT was down to 16.2 .
+She was restarted on Coumadin 2.5 mg per day .
+The patient 's hematocrit on the day of discharge was 35.6 showing significant bump in her count after her second two units of packed RBC 's .
+Her PT on the day of discharge was 13.2 and she was started on Coumadin 2.5 mg po q d as mentioned .
+The patient was discharged on 9-12-92 , with the approval of her attending physiciana , Dr. Porriede Friednantflirt .
+FOLLOW UP CARE :
+On 9-28-92 , the patient will return for chemotherapy and she will follow up with her primary doctor , Dr. Jescspald , for repeat PT and Coumadin dosing on Monday , 9-14-02 .
+LT503/7456 LAKO C. SCARVTWI , M.D. TH0
+D : 09/14/92
+Batch : 3799
+Report : V1670V4
+T : 09/15/92
+Dicatated By : GRA A. SPARDBOUILLNAPPS , M.D. AM57
+[ report _ end ]

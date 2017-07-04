@@ -1,0 +1,109 @@
+830001606 ELMVH
+18415942
+8554138
+7/30/2005 12:00:00 AM
+partial small bowel obstruction
+DIS
+Admission Date :
+07/30/2005
+Report Status :
+Discharge Date :
+07/31/2005
+****** FINAL DISCHARGE ORDERS ******
+LIKFREIERMKOTELEEBBREUTZ , JR , LYNA
+347-75-10-4 R07
+Room :
+05T-898
+Service :
+MED
+DISCHARGE PATIENT ON :
+07/31/05 AT 05:00 PM
+CONTINGENT UPON
+Not Applicable
+WILL D / C ORDER BE USED AS THE D / C SUMMARY :
+YES
+Attending :
+RHALTHOUZE , JAEL TESSNATHA , M.D.
+DISPOSITION :
+Home
+DISCHARGE MEDICATIONS :
+ACETYLSALICYLIC ACID 325 MG PO QD
+Alert overridden :
+Override added on 07/31/05 by :
+SERIOUS INTERACTION :
+KETOROLAC TROMETHAMINE , INJ and ASPIRIN
+Reason for override :
+d / c toradol ATENOLOL 25 MG PO QD Starting Today ( 07/31 ) LIPITOR ( ATORVASTATIN ) 10
+MG PO QD
+DIET :
+House / Low chol / low sat. fat
+ACTIVITY :
+Resume regular exercise
+FOLLOW UP APPOINTMENT ( S ) :
+PCP , call for appointment . ,
+ALLERGY :
+NKA ADMIT DIAGNOSIS :
+Partial SBO
+PRINCIPAL DISCHARGE DIAGNOSIS ;
+Responsible After Study for Causing Admission ) partial small bowel obstruction
+OTHER DIAGNOSIS ;
+Conditions , Infections , Complications , affecting Treatment / Stay
+umbilical hernia ( umbilical hernia ) CAD ( coronary artery disease ) MI ( myocardial infarction ) DVT ( deep venous thrombosis ) partial small bowel obstruction ( small bowel obstruction )
+OPERATIONS AND PROCEDURES :
+OTHER TREATMENTS / PROCEDURES ( NOT IN O.R. )
+IVF
+BRIEF RESUME OF HOSPITAL COURSE :
+CC :
+abd pain , nausea , diarrhea
+DX :
+partial
+SBO HPI :
+46 y / o s / p umbilical hernia repair presented with abd pain , Nausea and diarrhea for two days .
+--- PMH :
+MI after surgery s / p stent placement DVT after surgery received coumadin but only partially treated
+--- Meds at home :
+none
+--- All :
+none
+--- Social :
++smoking , moderate EtoH , No illicit drugs , works here at ELMVH as transport person
+--- Exam on admission He was found to have BP 140s Abd tenderness , +rebound , +distention Lungs clear Heart regular Ext without edema
+--- ER :
+He underwent CT which showed distal partial small bowel obstruction and was admitted .
+--- Hospital course :
+1. GI :
+He was placed NPO .
+Multiple attempts of NGT placement were made but the patient continued to refuse .
+Finally he tolerated it at 8pm and it was placed for three hours .
+His abd had further distended with more tenderness at the point he allowed placement of NGT .
+Then three hours later , he pulled it out and refused further placements .
+He received IVF .
+Surgery was consulted and they recommended q4hour abd exams which were performed .
+The following day his signs and symptoms became much better .
+He was moving much flatus and was very hungry .
+His tendernes was markedly diminished and his abd was less distended .
+His diet was advanced as tolerated .
+He did eat a half of a turkey sandwich against medical advice but did fine with it .
+--- CV :
+His BP was elevated throughout admission and he was started on Atenolol upon discharge .
+Also , he was started on Lipitor and Asa on discharge as he has a hx of MI .
+He was noted to have a larger L LE than R and LENIS revealed Popliteal DVT .
+This was thought to be chronic and so anticoagulation was not initiated .
+It is recommended that he get repeat ultrasound within two weeks to eval for extension to reassure that it is chronic .
+--- DISCHARGE INSTRUCTIONS :
+1. Follow up with PCP within two weeks .
+2. Have L Lower extremity ultrasound within two weeks .
+Your PCP can set this up .
+3. Take Atenolol , lipitor and Asprin
+4. Return to ER if you experience more pain , bloating , nausea , vomiting , diarrhea , anorexia , chest pain , shortness of breath or other concerns .
+ADDITIONAL COMMENTS :
+Have a follow up Lower Extremity Non-invasive Study to evaluate your leg clot within two weeks .
+It is probably chronic and stable but a follow up test could help reassure you of this .
+Your PCP can arrange it .
+DISCHARGE CONDITION :
+Stable
+TO DO / PLAN :
+No dictated summary
+ENTERED BY :
+LARDES , COLNKAY , PA-C ( PY23 ) 07/31/05 05:06 PM
+****** END OF DISCHARGE ORDERS ******

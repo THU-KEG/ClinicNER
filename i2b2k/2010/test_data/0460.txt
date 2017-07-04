@@ -1,0 +1,172 @@
+Admission Date :
+2013-10-27
+Discharge Date :
+2013-11-03
+Date of Birth :
+1971-05-13
+Sex :
+F
+Service :
+MEDICINE
+Allergies :
+Morphine / Latex
+Attending : Everett J. Decardo , M.D.
+Chief Complaint :
+GIB , hematemesis
+Major Surgical or Invasive Procedure :
+EGD with esophageal varices sclerosis
+History of Present Illness :
+42 year old female with h/o cholangiocarcinoma dx in 2009 s/p resection , with recent CT showing met cholangiocarcinoma in 9/2004 .
+Pt was recently admitted for fever due to cholangitis on 10-18 and had chemo ( CDDP and Gemcitabine ) on Monday , 10-21 .
+Since chemo pt has intermittent nausea adequately controlled by zofran and compazine .
+Pt was doing well till night of admission when she developed nausea / vomitting and sizable amount of hemoptysis and clots .
+Has low grade fever since chemo but otherwise ROS was neg for shaking chills , chest pain , SOB , coughing , constipation , diarrhea , tarry stools , abd pain .
+Pt has reported gaining 30 lbs since 08-31 due to ascites .
+In Monica : vitals : T 98.8 P 98 BP 136/68 R 29 Sat 98% RAPt had NG lavage which evantually cleared up , also was transfused 1U PRBC , GI consult called , also got zofran and iv protonix .
+Past Medical History :
+1. Ca Hx-Klatskin tumor originally diagnosed 2010-08-28 after presenting with painless jaundice .
+2010-10-01 pt underwent ex. lap with en bloc resection of L liver lobe , biliary tree , and portal vein .
+Reconstructed portal vein followed by Roux-en-Y hepaticojejunostomy .
+Per notes , pathology demonstrated biliary ductal adenocarcinoma ( T3N0M0 ) stage Margit .
+Since presentation , patient had multiple episodes of cholangitis ( 08-06 in past 3 years with last on 10-18 ), always short lived and treated with antimicrobial therapy .
+She has been on ciprofloxacin proph for about 1 year .
+Followed with yearly abdominal CT without radiographic progression .
+CAT scan was performed on 2013-09-20 at Kindred Park View Specialty Hospital of Springfield , which revealed that she had a recurrence of the tumor with occlusion of her portal vein occluding bile ducts , hepatic artery nearly completely occluded , and much ascites and was started on diuretics .
+She was was seen at Hallmark Health System heme / on clinic 10-09 and had repeat CT scan which revealed metastatic cholangiocarcinoma with mets to the ovaries , with tremendous increase in metastatic disease .
+There was there was obstructive uropathy on the right side , as well as questionable gastric outlet obstruction and peritoneal carcinomatosis .
+2. cholecystectomy at age 25
+3. MVA-multiple orthopedic procedures
+4. Strabismus
+Social History :
+She is a nurse Damian Mary Lane Hospital .
+She denies any alcohol , drugs or tobacco .
+She lives in Tobey Hospital with her mom .
+She is single , no children .
+Family History :
+Her maternal grandmother had breast cancer in her 80 s and her dad 's grandmother had stomach cancer and died in her 50 s.
+On her mom 's side is an extensive family cardiac history .
+Physical Exam :
+VITAL : afebrile , 96 , 108/51 , O2sat99%RA
+GENERAL : pleasant female in no apparent distress , jaundiced skin .
+HEENT : sclera icteric , OP clear , EOMI , PERRL .
+NECK : Supple .
+NODES : No supraclavicular , submandibular , axillary or inguinal lymphadenopathy .
+LUNGS : Clear to auscultation bilaterally .
+HEART : Regular rate , s1 s2 .
+ABDOMEN : soft and distended , but no actual tenderness .
+Guaiac neg by Monica
+BACK : No CVA tenderness .
+EXTREMITIES : No clubbing , cyanosis , but + edema .
+Pertinent Results :
+2013-10-27 01:30 AM
+GLUCOSE - 112 * UREA N - 14 CREAT - 0.8 SODIUM - 133 POTASSIUM - 4.0 CHLORIDE - 97 TOTAL CO2 - 23 ANION GAP - 17
+2013-10-27 01:30 AM
+ALT(SGPT) - 149 * AST(SGOT) - 83 * ALK PHOS - 663 * AMYLASE - 37 TOT BILI - 8.2 *
+2013-10-27 01:30 AM
+LIPASE - 42
+2013-10-27 01:30 AM
+IRON - 52
+2013-10-27 01:30 AM
+calTIBC - 230 * FERRITIN - 197 * TRF - 177 *
+2013-10-27 01:30 AM
+WBC - 3.0 * RBC - 2.25 * HGB - 7.2 * HCT - 20.9 * MCV - 93 MCH - 31.8 MCHC - 34.3 RDW - 14.7
+2013-10-27 01:30 AM
+NEUTS - 79.7 * BANDS - 0 LYMPHS - 13.3 * MONOS - 4.6 EOS - 2.2 BASOS - 0.2
+2013-10-27 01:30 AM
+HYPOCHROM - 1+ ANISOCYT - NORMAL POIKILOCY - 1+ MACROCYT - NORMAL MICROCYT - NORMAL POLYCHROM - NORMAL OVALOCYT - 1+
+2013-10-27 01:30 AM
+PLT COUNT - 88 *
+2013-10-27 01:30 AM
+PT - 13.4 PTT - 25.9 INR(PT) - 1.1
+2013-10-27 01:30 AM
+RET AUT - 0.3 *
+2013-10-27 01:30 AM URINE
+COLOR - Amber APPEAR - SlHazy SP Barajas - 1.025
+2013-10-27 01:30 AM URINE
+BLOOD - NEG NITRITE - POS PROTEIN - 30 GLUCOSE - NEG KETONE - TR BILIRUBIN - LG UROBILNGN - 0.2 PH - 5.5 LEUK - NEG
+2013-10-27 01:30 AM URINE
+RBC - 0-2 WBC - 0-2 BACTERIA - MOD YEAST - NONE EPI - 03-01 RENAL EPI - 0-2
+2013-10-27 01:30 AM URINE
+HYALINE - 0-2
+CT abd on 2013-10-17 showed :
+1. Recurrent cholangiocarcinoma , with intrahepatic bile duct dilatation and gastric outlet obstruction ; exact extent of disease is unclear , but likely extensive .
+No evidence of portal hypertension is seen .
+2. Large , cystic , multiseptated mass arising from the adnexa , worrisome for second primary malignancy .
+3. Ascites , and intraperitoneal carcinomatosis , which can arise from either of the two processes described above .
+4. Hiatal hernia .
+2013-11-03 07:30 AM
+BLOOD WBC - 2.2 * RBC - 3.09 * Hgb - 9.6 * Hct - 28.7 * MCV - 93 MCH - 31.2 MCHC - 33.6 RDW - 17.0 * Plt Ct - 89 *
+2013-10-31 06:00 AM
+BLOOD Neuts - 89.7 * Bands - 0 Lymphs - 6.9 * Monos - 2.6 Eos - 0.2 Baso - 0.7
+2013-11-03 07:30 AM
+BLOOD PT - 15.2 * PTT - 29.7 INR(PT) - 1.5
+2013-11-03 07:30 AM
+BLOOD Glucose - 117 * UreaN - 11 Creat - 0.9 Na - 135 K - 3.5 Cl - 97 HCO3 - 28 AnGap - 14
+2013-11-03 07:30 AM
+BLOOD AlkPhos - 431 * TotBili - 7.8 *
+2013-11-03 07:30 AM
+BLOOD Calcium - 8.3 * Phos - 3.5 Mg - 1.9
+2013-10-27 01:30 AM
+BLOOD calTIBC - 230 * Ferritn - 197 * TRF - 177 *
+Brief Hospital Course :
+1) GI - In the Monica pt had Hct of 20 and bloody NG lavage which did not clear .
+She was transfused 1U PRBC , GI consult called , also got zofran and iv protonix and admitted to the FICU .
+On arrival to unit pt had EGD which revealed grade III esophageal varices with signs of old bleeding .
+She was started on octreotide and nadolol to control portal htn .
+Pt was stable and had appropriate Hct bump to 25 after 2U PRBC 's.
+She also had climbing bilirubin and low grade temp and was started on Zosyn for suspected biliary obstruction and ascending cholangitis coverage .
+She was rescoped on 10-28 and varices were sclerosed ( no banding due to latex allergy ) and diuretics of lasix and aldactone were readded for ascites since BP stable .
+10-29 she was transfused another 3U PRBC 's with hct bump to 31.9 and antibiotic coverage broadend to Unasyn , Ceftriaxone , Flagyl because she continued to spike , and for SBP prophylaxis .
+Preprocedure of PTC on 10-30 she was transfused 1 unit PRBC 's, 2 platelets and 2U FFP and procedure went without complication .
+ON transfer to the floor she remained hemodynamically stable with stable Hct and declining bilirubin .
+She remained afebrile so on 11-02 antibiotic regimen was weaned to only levofloxacin .
+Liver teams recommended to repeat EGD with non latex banding in 7-10 days .
+She also went home on naldolol 20 mg qd for portal htn , and her home doses of diuretics to control her ascites .
+2. US finding - Pt was incidentally found to have R hydronephrosis and a R adenexal mass on her US .
+The hydronephrosis was likely caused by blockage by her tumor .
+Given her disease prognosis and the fact that her other kidney is functioning well , no intervention was done .
+Also the adenexal mass may represent a second primary maligancy .
+This was seen on a prior CT scan and her oncologist is aware .
+Again given the patient 's poor disease prognosis , there was no intervention made at this time .
+Medications on Admission :
+MEDICATIONS : She is on Lasix 40 mg p.o. b.i.d. , Aldactone 25 mg p.o. b.i.d. , Prilosec 20 mg p.o. daily , ciprofloxacin 250 mg p.o. daily , this is for prophylaxis for cholangitis and iron .
+Discharge Medications :
+1. Pantoprazole Sodium 40 mg Tablet , Delayed Release ( E.C. ) Sig : One ( 1 ) Tablet , Delayed Release ( E.C. ) PO Q12H ( every 12 hours ).
+Disp :* 60 Tablet , Delayed Release ( E.C. )(s)* Refills :* 2 *
+2. Furosemide 40 mg Tablet Sig : One ( 1 ) Tablet PO BID ( 2 times a day ).
+Disp :* 60 Tablet (s)* Refills :* 2 *
+3. Spironolactone 25 mg Tablet Sig : One ( 1 ) Tablet PO BID ( 2 times a day ).
+Disp :* 60 Tablet (s)* Refills :* 2 *
+4. Levofloxacin 500 mg Tablet Sig : One ( 1 ) Tablet PO Q24H ( every 24 hours ).
+Disp :* 30 Tablet (s)* Refills :* 0 *
+5. Ursodiol 300 mg Capsule Sig : One ( 1 ) Capsule PO TID ( 3 times a day ).
+Disp :* 90 Capsule (s)* Refills :* 2 *
+6. Prochlorperazine 10 mg Tablet Sig : One ( 1 ) Tablet PO Q6H ( every 6 hours ) as needed .
+Disp :* 30 Tablet (s)* Refills :* 0 *
+7. Nystatin 100,000 unit / mL Suspension Sig : Five ( 5 ) mL PO four times a day : Swish and swallow .
+Disp :* qs mL * Refills :* 2 *
+8. Nadolol 20 mg Tablet Sig : One ( 1 ) Tablet PO once a day .
+Disp :* 30 Tablet (s)* Refills :* 2 *
+9. Outpatient Lab Work
+Please have CBC and alkaline phosphatase and total bilirubin checked on Monday 11-04
+Discharge Disposition :
+Home with Service
+Discharge Diagnosis :
+Cholangiocarcinoma
+Biliary obstruction
+Grade III esophageal varices
+Discharge Condition :
+Stable .
+Discharge Instructions :
+Call your primary care doctor , oncologist , or return to the Emergency Room if you have increasing nausea , vomiting , leg swelling , confusion , or pain .
+Followup Instructions :
+Please follow up at all scheduled appointments including Wednesday in IR clinic .
+Call the IR clinic on Monday to confirm your appointment : ( 236 ) 672 0628 .
+Ask to speak with May Chen , PA.
+Call your primary care doctor Joanne Dennen for follow up appointments .
+You will have a banding procedure in 9 days .
+Please call the GI clinic and arrange to see Dr. Langton for an appointment : 232-2590 .
+Ronald Donna MD 19-658
+Completed by : Neal Robert MD 12-904 2013-11-04 @ 1405
+Signed electronically by : DR. Wilson J. Sanchez on : WED 2013-11-13 9:05 AM
+( End of Report )

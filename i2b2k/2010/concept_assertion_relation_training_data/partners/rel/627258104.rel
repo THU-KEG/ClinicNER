@@ -1,0 +1,54 @@
+c="bradycardia" 98:4 98:4||r="PIP"||c="subsequent fall in blood pressure" 98:6 98:10
+c="a chest xray" 26:6 26:8||r="TeRP"||c="a left apicalpneumothorax" 26:10 26:12
+c="maalox plus , extra strength" 134:0 134:4||r="TrAP"||c="indigestion" 134:13 134:13
+c="albumin" 96:10 96:10||r="TrAP"||c="his fluid" 96:15 96:16
+c="broad spectrum antibiotics" 88:7 88:9||r="TrAP"||c="sbp" 88:20 88:20
+c="a chest tube" 21:4 21:6||r="TrAP"||c="a loculated pleural effusion" 21:10 21:13
+c="hydrocortisone" 141:0 141:0||r="TrAP"||c="itching" 141:11 141:11
+c="neurologic examination" 69:0 69:1||r="TeRP"||c="slurred and slow speech" 69:9 69:12
+c="neurologic examination" 69:0 69:1||r="TeRP"||c="distractable" 69:14 69:14
+c="distractable" 69:14 69:14||r="PIP"||c="slurred and slow speech" 69:9 69:12
+c="chest xray" 92:0 92:1||r="TeRP"||c="pleurodesis" 92:5 92:5
+c="albuterol and atrovent nebs" 142:7 142:10||r="TrAP"||c="wheeze" 142:18 142:18
+c="oxycontin" 126:9 126:9||r="TrIP"||c="his pain" 126:0 126:1
+c="echocardiogram" 100:0 100:0||r="TeRP"||c="mild mitral regurgitation" 100:6 100:8
+c="levofloxacin" 121:5 121:5||r="TrAP"||c="sbp" 121:9 121:9
+c="ocean spray" 137:0 137:1||r="TrAP"||c="nasal dryness" 137:6 137:7
+c="msir" 138:9 138:9||r="TrAP"||c="pain" 138:22 138:22
+c="chest ct" 18:0 18:1||r="TeRP"||c="a pulmonary nodule" 18:3 18:5
+c="morphine immediate release" 138:5 138:7||r="TrAP"||c="pain" 138:22 138:22
+c="those white cells" 85:21 85:23||r="PIP"||c="his cancer" 85:29 85:30
+c="abdominal ct" 19:0 19:1||r="TeRP"||c="a 3.0 to 4.0 centimeter lesion in the pancreatic head" 19:3 19:12
+c="one gram stain" 83:5 83:7||r="TeRP"||c="rare gram negative rods" 83:11 83:14
+c="coronary artery disease" 39:0 39:2||r="PIP"||c="congestive heart failure" 39:4 39:6
+c="his urinalysis" 114:1 114:2||r="TeRP"||c="a prerenal state" 114:7 114:9
+c="lidocaine" 132:118 132:118||r="TrAP"||c="pain around foley site" 132:132 132:135
+c="workup" 124:5 124:5||r="TeCP"||c="pancreatic cancer" 124:7 124:8
+c="his avandia" 104:0 104:1||r="TrNAP"||c="the side effect profile" 104:6 104:9
+c="broad spectrum antibiotics" 120:4 120:6||r="TrAP"||c="clinical sbp" 120:13 120:14
+c="lasix" 96:12 96:12||r="TrAP"||c="his fluid" 96:15 96:16
+c="workup" 15:13 15:13||r="TeCP"||c="his pancreatic cancer" 15:15 15:17
+c="ffp" 109:3 109:3||r="TrAP"||c="his coagulopathy" 109:7 109:8
+c="prophylaxis" 88:18 88:18||r="TrAP"||c="sbp" 88:20 88:20
+c="an ercp" 20:0 20:1||r="TeRP"||c="a long segment of distal narrowing of the common bileduct" 20:5 20:14
+c="ativan" 133:6 133:6||r="TrCP"||c="very somnolent" 133:3 133:4
+c="lovenox" 111:23 111:23||r="TrAP"||c="bilateral deep venous thromboses" 111:10 111:13
+c="lactulose" 132:86 132:86||r="TrAP"||c="bowel movements" 132:101 132:102
+c="kbl mouthwash" 132:75 132:76||r="TrAP"||c="mouth discomfort" 132:83 132:84
+c="prophylaxis" 121:7 121:7||r="TrAP"||c="sbp" 121:9 121:9
+c="tap" 93:19 93:19||r="TeRP"||c="hypotensive" 93:25 93:25
+c="morphine" 126:11 126:11||r="TrAP"||c="breakthrough pain" 126:13 126:14
+c="atarax" 132:54 132:54||r="TrAP"||c="itching" 132:68 132:68
+c="ativan" 132:137 132:137||r="TrAP"||c="anxiety" 132:150 132:150
+c="diuresis" 115:5 115:5||r="TrAP"||c="his hypoalbunemic state" 115:15 115:17
+c="diuresis" 115:5 115:5||r="TrAP"||c="increased volume overload" 115:8 115:10
+c="chest xray" 95:0 95:1||r="TeRP"||c="volume overload" 95:6 95:7
+c="some mild fluid resuscitation" 93:28 93:31||r="TrCP"||c="pulmonary edema" 93:34 93:35
+c="the morphine" 140:0 140:1||r="TrAP"||c="breakthrough pain" 140:4 140:5
+c="lasix" 93:41 93:41||r="TrAP"||c="third space fluids" 93:46 93:48
+c="levofloxacin iv" 88:15 88:16||r="TrAP"||c="sbp" 88:20 88:20
+c="albumin" 93:39 93:39||r="TrAP"||c="third space fluids" 93:46 93:48
+c="biliary drain" 78:12 78:13||r="TrAP"||c="decreased output" 78:9 78:10
+c="serax" 136:14 136:14||r="TrAP"||c="nsomnia" 136:24 136:24
+c="sbp" 81:8 81:8||r="PIP"||c="signs" 81:3 81:3
+c="sbp" 81:8 81:8||r="PIP"||c="symptoms" 81:5 81:5

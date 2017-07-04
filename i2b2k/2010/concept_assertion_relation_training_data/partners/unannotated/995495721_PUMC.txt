@@ -1,0 +1,123 @@
+995495721 PUMC
+8102745
+918862
+1898892
+01/24/2002 12:00:00 AM
+Discharge Summary
+Signed
+DIS
+Report Status :
+Signed
+DISCHARGE SUMMARY NAME :
+KULRINNE , RYYELEGE N
+UNIT NUMBER :
+324-80-24
+ADMISSION DATE :
+01/24/2002
+DISCHARGE DATE :
+02/08/2002
+PRINCIPAL DIAGNOSIS :
+Acute anterior myocardial infarction .
+ASSOCIATED DIAGNOSES :
+1. Hypertension .
+2. Hyperlipidemia .
+3. Pulmonary hemorrhage .
+4. Cognitive deficit .
+5. Coronary artery disease .
+6. History of basal cell carcinoma .
+7. Urinary incontinence and urinary retention with benign prostatic hypertrophy .
+8. History of vertigo .
+PRINCIPAL PROCEDURE :
+1. Coronary artery stent placement to the left anterior descending with intubation and intra-aortic balloon placement .
+2. Bronchoscopy .
+3. Chest CT .
+4. Head CT .
+5. Circumflex artery stent .
+MEDICATIONS ON DISCHARGE :
+Aspirin 325 mg PO qd .
+Plavix 75 mg PO qd .
+Lopressor 12.5 mg PO bid .
+Enalapril 2.5 mg PO qd .
+Plavix 75 mg PO qd .
+Thiamine .
+Multivitamins .
+B12 .
+Folate .
+Seroquel 12.5 a.m. , 50 hs .
+Haldol 5 prn .
+HISTORY OF PRESENT ILLNESS :
+This 82-year-old gentleman was admitted on 01/24/02 with stuttering chest pain .
+Mr. Kulrinne has a history of cardiac risk factors , including hypertension , hyperlipidemia , obesity .
+He had developed intermittent chest pressure with exertion since last fall .
+He was placed on cardiac medications after a stress test had revealed reversible defects in the anteroseptal and apical leads .
+On medications , he continued to have some discomfort , although this was not quite clear from the outpatient setting .
+An attempt at medical management was continued .
+However , the patient developed crescendo pattern angina pectoris and presented on the day of admission .
+PAST MEDICAL HISTORY :
+As above .
+MEDICATIONS ON ADMISSION :
+Lipitor .
+Lopressor .
+Aspirin .
+Imdur .
+Nitroglycerin prn .
+ALLERGIES :
+No known drug allergies .
+SOCIAL HISTORY :
+The patient lives with is wife .
+TOBACCO :
+History of heavy smoking in the past .
+PHYSICAL EXAMINATION ON ADMISSION :
+Blood pressure 112 , Sa02 96% , afebrile .
+Lungs clear .
+S1 , S2 .
+No significant murmurs .
+Abdomen :
+Obese and soft .
+Extremities :
+Without edema .
+HOSPITAL COURSE :
+The patient was admitted to the floor with variable changes in his EKG .
+He became pain free in the Emergency Room and was initially admitted to Evinlandcalco Hospital .
+However , he developed recurrent chest discomfort on the floor with worsening of his anterior ST segments with elevation , and he was taken to the cardiac catheterization laboratory .
+In the cardiac catheterization laboratory , right heart catheterization showed RA 7 , RV 36/9 , wedge 16 .
+He was treated with Integrelin in addition to his intravenous heparin , aspirin , and nitrates .
+He was found to have the left anterior descending occluded proximally with right to left collaterals .
+The circumflex was codominant with severe 90% lesion proximally in the circumflex and 50% lesion in a large OM .
+The right coronary artery was codominant and had an ostial stenosis in the 70% range .
+Left ventriculography revealed an akinetic anterolateral wall .
+A balloon pump was placed and right heart catheterization was performed showing the above .
+The patient developed worsening ST elevation on the monitor and the decision was made to go ahead and open the left anterior descending .
+The procedure was reasonably complicated in that the left anterior descending had poor re-flow and two stents needed to be placed , as there was a second lesion in the mid left anterior descending .
+The distal vessel was quite diseased and poor with regard to vessel quality and caliber .
+A good result was obtained with a stent in the proximal left anterior descending and a stent in the mid left anterior descending and the patient went to the Intensive Care Unit on a balloon pump , intubated .
+His peak CPK was in the 3000 range .
+The patient developed hemoptysis while intubated and on Integrelin and heparin .
+He underwent bronchoscopy , which showed no specific lesion .
+In addition , chest CT showed no obvious reason for his hemoptysis , with the exception of atelectasis .
+It was felt that perhaps the patient had atelectasis and perhaps some aspiration , which predisposed him to hemoptysis .
+In addition , the patient had confusion and delirium .
+Head CT was without any obvious intracranial catastrophe .
+He was seen in consultation by the Neurology and Psychiatry services and felt to have cognitive deficits and was ultimately controlled and managed with a combination of Seroquel and Haldol .
+In addition , the patient had a sitter during parts of his hospital course to keep him oriented .
+The patient had a return to the cardiac catheterization lab on 2/2/02 to receive a stent to the tight circumflex .
+This was uneventful , without the need for intubation , etc , and the procedure went smoothly .
+He tolerated it well .
+The ostial right coronary was a relatively small vessel for the patient and was not approached this admission .
+The patient was transferred to Evinlandcalco Hospital .
+He had difficulties with urinary incontinence and required straight catheterization for post-void residuals up until the time of this dictation .
+He was still having 300 cc or so post-void remaining in his bladder .
+He is followed by Dr. Squithsherl in this regard .
+At the time of this dictation , the plan is for probable transfer to a rehabilitation facility for physical therapy .
+He has had no recurrent heart angina pectoris or heart failure .
+Of note , cardiac echocardiogram revealed an ejection fraction in the 40% range with apical akinesis .
+Electronically Signed RIETHERN N BREUN , M.D. 02/17/2002 11:29
+_____________________________ RIETHERN N BREUN , M.D.
+TR :
+fb
+DD :
+02/06/2002
+TD :
+02/06/2002 12:13 P 918862
+cc :
+RIETHERN N BREUN , M.D. SHASTA LIFRE RIVESHEW , M.D.

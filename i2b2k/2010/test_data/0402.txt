@@ -1,0 +1,96 @@
+677051476
+FIH
+4871976
+46286/a787
+826393
+1/11/1992 12:00:00 AM
+GASTRIC CARCINOMA
+Unsigned
+DIS
+Report Status :
+Unsigned
+ADMISSION DATE :
+01-11-92
+DISCHARGE DATE :
+01-22-92
+PRINCIPAL DIAGNOSIS :
+Gastric carcinoma
+ASSOCIATED DIAGNOSIS :
+hypothyroidism following near total thyroidectomy .
+PRINCIPAL PROCEDURE :
+On 1/12/92 near total gastrectomy with retrocolic Bill-Roth II gastrojejunostomy , portal node dissection , repair of ventral hernia , and needle jejunostomy tube placement .
+OTHER PROCEDURES :
+None
+HISTORY OF PRESENT ILLNESS :
+Ms. Tikrhalt is an 86 year old female , previously healthy , who presents with a 3 month history of dysphagia .
+A subsequent workup including upper gastrointestinal series and abdominal computerized tomography scan suggested the presence of a gastric mass .
+Endoscopy with biopsy revealed gastric carcinoma , poorly differentiated , within the body of the stomach along the greater curvature .
+She was subsequently referred to Dr. Ko for a possible resection of this carcinoma .
+She reports a 10 pound weight loss over the past several months .
+She denies any abdominal pain .
+PAST MEDICAL HISTORY :
+Significant for an appendectomy in the distant past , cholecystectomy in the past , history of of Cesarean section in the past and a history of near total thyroidectomy for nodular goiter in the past .
+MEDICATIONS ON ADMISSION :
+Her only medication is Thyrolar for her relative hypothyroidism following resection .
+There is a question of an allergy to Tylenol .
+She denies any history of hypertension , diabetes mellitus , coronary artery disease or peptic ulcer disease .
+Interestingly , she reports that both her mother and father died of stomach carcinoma .
+She is a former smoker , and drinks alcohol occasionally .
+PHYSICAL EXAMINATION :
+On physical examination she is an elderly but spry white female in no acute distress .
+Her sclera were nonicteric .
+Her oropharynx was clear .
+Her neck was supple without masses or bruits noted .
+Her lungs were clear to auscultation .
+Her cardiac examination was unremarkable .
+Examination of her abdomen revealed a flat nontender abdomen without palpable masses .
+There were multiple well healed surgical scars .
+She was guaiac negative .
+There was no cva tenderness or spinal tenderness noted .
+Her pulses were intact throughout .
+LABORATORY DATA :
+Sodium 139 , potassium 3.7 and BUN of 19 .
+Her hematocrit was 37.2 with a white blood count of 6.6 .
+Her Bilirubin direct and total were 0.1 and 0.3 respectively .
+Her alkaline phosphatase was 134 .
+Her electrocardiogram demonstrated normal sinus rhythm without acute ischemic changes .
+Chest X-Ray was unremarkable .
+The assessment at the time of admission was that of an 86 year old female with poorly differentiated gastric adenocarcinoma , admitted for resection .
+HOSPITAL COURSE :
+The patient was admitted to the Service of Dr. Fede A. Duhenile .
+On 1/12/92 she was taken to the operating room where she underwent a neart total gastrectomy with a retrocolic Bill-Roth II gastrojejunostomy reconstruction .
+In addition a small ventral hernia was noted upon abdominal exploration within a previous surgical incision .
+This was repaired .
+A needle jejunostomy catheter was placed at the time of her operation to facilitate postoperative nutrition .
+With regards to the cancer , there was a large mass along the greater curvature in the body of the stomach , and several perigastric lymph nodes which were taken with the specimen .
+In addition , there were at least two lymph nodes within the porta hepatis which were dissected free and taken en bloc with the specimen .
+The remainder of her abdomen was unremarkable without evidence of metastatic spread elsewhere , including the liver .
+The patient tolerated the procedure well and was taken to the recovery room in good condition .
+The patient 's postoperative course was for the most part unremarkable .
+Her wounds healed well without incident and the needle jejunostomy tube was utilized on the first postoperative day right up until the time of discharge , infusing Vivonex T.E.N.
+The patient tolerated this without difficulty .
+The patient 's nasogastric tube was removed on the 3rd postoperative day , and with the passage of flatus and good bowel sounds noted , she was started on a liquid diet which was advanced slowly .
+She was seen by the dietician and was advised with regard to needing numerous small meals during the day rather than 3 larger meals as she previously was used to .
+Her ambulation and mobilization increased gradually and by the time of discharge she was walking in the halls without assistance .
+As mentioned , her wounds healed well without incident and the staples were removed on the 10th postoperative day just prior to discharge .
+She had some difficulties with confusion in the early postoperative period which were attributable to her advanced age and a sundowning effect .
+These problems resolved by the 4th or 5th postoperative day and she remained lucid and alert for the remainder of her hospital stay .
+Surgical pathology report was completed prior to discharge which revealed poorly differentiated adenocarcinoma ulcerating and extending through the wall into the serosa of the stomach .
+Metastatic carcinoma was present in 3 of 3 lymph nodes .
+The gastric resection margins were free of carcinoma .
+The patient was set for discharge on the 11th postoperative day doing well .
+On the day prior to discharge she complained of some dysuria , a urine specimen was obtained , which showed numerous white cells consistent with a urinary tract infection .
+She was started empirically on Bactrim , while culture and sensitivity results were pending and remained pending at the time of this dictation .
+She will be discharged to home and will be seen in follow-up by her regular physicians as well as Dr. Ko .
+MEDICATIONS ON DISCHARGE :
+Bactrim , single strength , one p.o. b.i.d. times 10 days , initiated 9/27/92 , Synthroid 0.1 mg p.o. q.day , Ferrous Gluconate 300 mg p.o. t.i.d. and Folate 1 mg p.o. q. day .
+She will be seen by Visiting Nurses Association to help with general aspects of daily living as well as adequate diet planning following her gastric resection .
+TOMEDANKELL FLOWAYLES , M.D.
+TR :
+cdw / bmot
+DD :
+01-21-92
+TD :
+01/22/92
+CC :
+Dr. Ko

@@ -1,0 +1,121 @@
+c="zosyn" 214:6 214:6||r="TrAP"||c="vent associated pna" 214:19 214:21
+c="zosyn" 214:6 214:6||r="TrAP"||c="cellulitis" 214:11 214:11
+c="cxr" 113:1 113:1||r="TeRP"||c="chf" 113:6 113:6
+c="cxr" 113:1 113:1||r="TeRP"||c="effusions" 113:9 113:9
+c="cxr" 113:1 113:1||r="TeRP"||c="left retrocardiac opacity" 113:11 113:13
+c="cxr" 113:1 113:1||r="TeRP"||c="moderate cardiomegaly" 113:3 113:4
+c="left retrocardiac opacity" 113:11 113:13||r="PIP"||c="atelectasis" 113:16 113:16
+c="left retrocardiac opacity" 113:11 113:13||r="PIP"||c="consolidation" 113:18 113:18
+c="moderate cardiomegaly" 113:3 113:4||r="PIP"||c="chf" 113:6 113:6
+c="aicd placement" 62:7 62:8||r="TrAP"||c="inducible vtach" 62:1 62:2
+c="incentive spirometry" 142:1 142:2||r="TrAP"||c="atelectasis" 142:4 142:4
+c="dilt" 134:4 134:4||r="TrAP"||c="paf" 134:7 134:7
+c="lad stent" 18:10 18:11||r="TrAP"||c="mi" 18:6 18:6
+c="lad stent" 18:10 18:11||r="TrAP"||c="cad" 18:4 18:4
+c="cad" 18:4 18:4||r="PIP"||c="mi" 18:6 18:6
+c="ivf" 188:13 188:13||r="TrAP"||c="low fena" 188:9 188:10
+c="ivf" 188:13 188:13||r="TrAP"||c="dry" 188:7 188:7
+c="the intratrochanteric fracture" 27:7 27:9||r="PIP"||c="instability" 27:12 27:12
+c="aicd placement" 18:34 18:35||r="TrAP"||c="inducible vtach" 18:31 18:32
+c="rca stent" 18:14 18:15||r="TrAP"||c="mi" 18:6 18:6
+c="rca stent" 18:14 18:15||r="TrAP"||c="cad" 18:4 18:4
+c="a fib" 209:4 209:5||r="PIP"||c="rvr" 209:7 209:7
+c="lad stent" 49:3 49:4||r="TrAP"||c="cad" 49:1 49:1
+c="repeat rca stent" 49:15 49:17||r="TrAP"||c="cad" 49:1 49:1
+c="orif" 167:0 167:0||r="TrAP"||c="neck fracture" 167:4 167:5
+c="head ct" 192:0 192:1||r="TeRP"||c="acute bleed" 192:5 192:6
+c="head ct" 192:0 192:1||r="TeRP"||c="mass effect" 192:8 192:9
+c="head ct" 192:0 192:1||r="TeRP"||c="stroke" 192:12 192:12
+c="cardiac enzymes" 187:0 187:1||r="TeCP"||c="rapid af" 187:7 187:8
+c="dilt. gtt" 45:9 45:10||r="TrWP"||c="continued tachycardia" 45:6 45:7
+c="coumadin" 135:2 135:2||r="TrNAP"||c="upper gib" 135:8 135:9
+c="coumadin" 135:2 135:2||r="TrNAP"||c="afib" 135:4 135:4
+c="dilt. gtt." 172:11 172:12||r="TrWP"||c="continued tachycardia" 172:8 172:9
+c="opiates" 198:0 198:0||r="TrNAP"||c="ms change" 198:7 198:8
+c="post-operative narcotics" 178:23 178:24||r="TrCP"||c="depressed mental status" 178:18 178:20
+c="bilateral patchy ground glass opacities" 181:11 181:15||r="PIP"||c="aspiration" 181:17 181:17
+c="bilateral patchy ground glass opacities" 181:11 181:15||r="PIP"||c="pneumonia" 181:19 181:19
+c="bilateral patchy ground glass opacities" 181:11 181:15||r="PIP"||c="edema" 181:21 181:21
+c="vanco" 180:0 180:0||r="TrAP"||c="nosocomial infection" 180:5 180:6
+c="orif" 40:0 40:0||r="TrAP"||c="neck fracture" 40:4 40:5
+c="dilaudid" 23:15 23:15||r="TrAP"||c="severe " back pain "" 23:3 23:7
+c="ct of the neck" 24:0 24:3||r="TeRP"||c="c1 fracture" 24:7 24:8
+c="dilt. drip" 170:16 170:17||r="TrAP"||c="afib" 170:4 170:4
+c="dilt. drip" 170:16 170:17||r="TrAP"||c="rvr" 170:6 170:6
+c="afib" 170:4 170:4||r="PIP"||c="rvr" 170:6 170:6
+c="the c-collar" 26:26 26:27||r="TrAP"||c="pain" 26:32 26:32
+c="previous caths" 132:12 132:13||r="TeRP"||c="significant lesions" 132:16 132:17
+c="morphine" 267:0 267:0||r="TrCP"||c="confusion" 267:2 267:2
+c="morphine" 267:0 267:0||r="TrCP"||c="delerium" 267:4 267:4
+c="repair" 40:2 40:2||r="TrAP"||c="neck fracture" 40:4 40:5
+c="pacer" 18:41 18:41||r="TrAP"||c="sick sinus syndrome" 18:37 18:39
+c="a ct of the neck" 26:15 26:19||r="TeRP"||c="fracture" 26:22 26:22
+c="the x-ray" 24:10 24:11||r="TeRP"||c="intratrochanteric fracture of the right femur" 24:16 24:21
+c="b-blocker" 133:10 133:10||r="TrAP"||c="vtach" 133:13 133:13
+c="zosyn" 179:16 179:16||r="TrAP"||c="foot ulcer" 179:12 179:13
+c="beta blocker" 170:9 170:10||r="TrWP"||c="afib" 170:4 170:4
+c="beta blocker" 170:9 170:10||r="TrWP"||c="rvr" 170:6 170:6
+c="a.fib" 219:0 219:0||r="PIP"||c="rvr" 219:2 219:2
+c="b-blocker iv" 134:1 134:2||r="TrAP"||c="paf" 134:7 134:7
+c="nodal agents" 219:12 219:13||r="TrAP"||c="rvr" 219:2 219:2
+c="nodal agents" 219:12 219:13||r="TrAP"||c="a.fib" 219:0 219:0
+c="stenting" 36:6 36:6||r="TrAP"||c="cad" 36:4 36:4
+c="cxr" 236:30 236:30||r="TeRP"||c="worsening" 236:32 236:32
+c="asa" 225:3 225:3||r="TrAP"||c="cad" 225:0 225:0
+c="ep study" 62:4 62:5||r="TeRP"||c="inducible vtach" 62:1 62:2
+c="iv lopressor" 28:12 28:13||r="TrAP"||c="afib" 28:8 28:8
+c="ppm" 219:5 219:5||r="TrAP"||c="rvr" 219:2 219:2
+c="ppm" 219:5 219:5||r="TrAP"||c="a.fib" 219:0 219:0
+c="b blocker" 225:5 225:6||r="TrAP"||c="cad" 225:0 225:0
+c="initial ct" 233:7 233:8||r="TeRP"||c="fx" 233:5 233:5
+c="emergent repair" 127:7 127:8||r="TrAP"||c="intertrochanteric fracture" 127:10 127:11
+c="copd" 18:43 18:43||r="PIP"||c="restrictive lung disease" 18:45 18:47
+c="lasix" 236:37 236:37||r="TrWP"||c="worsening" 236:32 236:32
+c="unasyn" 179:6 179:6||r="TrAP"||c="foot ulcer" 179:12 179:13
+c="unasyn" 214:2 214:2||r="TrAP"||c="vent associated pna" 214:19 214:21
+c="unasyn" 214:2 214:2||r="TrAP"||c="cellulitis" 214:11 214:11
+c="coumadin" 33:6 33:6||r="TrNAP"||c="upper gi bleed" 33:12 33:14
+c="operative blood loss" 230:3 230:5||r="PIP"||c="anemia" 230:1 230:1
+c="2 mg dilaudid" 171:1 171:3||r="TrAP"||c="pain" 171:5 171:5
+c="comminuted intertrochanteric fracture of the right femur" 119:1 119:7||r="PIP"||c="avulsion of the lesser trochanter" 119:10 119:14
+c="comminuted intertrochanteric fracture of the right femur" 119:1 119:7||r="PIP"||c="displacement" 119:16 119:16
+c="comminuted intertrochanteric fracture of the right femur" 119:1 119:7||r="PIP"||c="angulation" 119:18 119:18
+c="lasix" 189:10 189:10||r="TrAP"||c="volume overloaded" 189:5 189:6
+c="cxr" 177:4 177:4||r="TeRP"||c="ngt coiled in esophagus" 177:6 177:9
+c="cta" 181:0 181:0||r="TeRP"||c="pe" 181:7 181:7
+c="cta" 181:0 181:0||r="TeRP"||c="bilateral patchy ground glass opacities" 181:11 181:15
+c="colonic resection" 61:2 61:3||r="TrAP"||c="perforation" 61:6 61:6
+c="a superficial ulcerations on her foot" 19:20 19:25||r="PIP"||c="erythema" 19:27 19:27
+c="pacer" 36:12 36:12||r="TrAP"||c="sss" 36:10 36:10
+c="vanc" 214:4 214:4||r="TrAP"||c="vent associated pna" 214:19 214:21
+c="vanc" 214:4 214:4||r="TrAP"||c="cellulitis" 214:11 214:11
+c="colonic resection" 141:11 141:12||r="TrCP"||c="prolonged wean" 141:8 141:9
+c="coumadin" 257:1 257:1||r="TrNAP"||c="gi bleed" 257:13 257:14
+c="rca stet" 49:9 49:10||r="TrAP"||c="cad" 49:1 49:1
+c="beta blocker" 43:9 43:10||r="TrWP"||c="afib" 43:4 43:4
+c="beta blocker" 43:9 43:10||r="TrWP"||c="rvr" 43:6 43:6
+c="narcotics" 190:12 190:12||r="TrCP"||c="depressed mental status" 190:2 190:4
+c="2 mg dilaudid" 44:1 44:3||r="TrAP"||c="pain" 44:5 44:5
+c="ace" 225:8 225:8||r="TrAP"||c="cad" 225:0 225:0
+c="hypoxia" 206:7 206:7||r="PIP"||c="atelectasis" 206:3 206:3
+c="hypoxia" 206:7 206:7||r="PIP"||c="copd" 206:1 206:1
+c="cardiac catheterization" 112:0 112:1||r="TeRP"||c="inferior , posterobasilar hypokinesis" 112:3 112:6
+c="cardiac catheterization" 112:0 112:1||r="TeRP"||c="1 + mr" 112:8 112:10
+c="cardiac catheterization" 112:0 112:1||r="TeRP"||c="om3 diffusely diseased" 112:27 112:29
+c="aicd" 126:14 126:14||r="TrAP"||c="inducible vtach" 126:11 126:12
+c="dilt. drip" 43:16 43:17||r="TrAP"||c="afib" 43:4 43:4
+c="dilt. drip" 43:16 43:17||r="TrAP"||c="rvr" 43:6 43:6
+c="exam" 244:1 244:1||r="TeRP"||c="lethargic" 244:4 244:4
+c="dilt drip" 185:5 185:6||r="TrIP"||c="atrial fibrillation" 185:0 185:1
+c="pacer" 126:16 126:16||r="TrAP"||c="inducible vtach" 126:11 126:12
+c="emergent repair" 27:4 27:5||r="TrAP"||c="the intratrochanteric fracture" 27:7 27:9
+c="emergent repair" 27:4 27:5||r="TrAP"||c="instability" 27:12 27:12
+c="aicd" 133:5 133:5||r="TrAP"||c="v-tach" 133:1 133:1
+c="f/u ct" 233:13 233:14||r="TeRP"||c="fx" 233:11 233:11
+c="mediations" 176:4 176:4||r="TrCP"||c="aspiration" 176:2 176:2
+c="repair" 167:2 167:2||r="TrAP"||c="neck fracture" 167:4 167:5
+c="pt 's respiratory distress" 178:0 178:3||r="PIP"||c="aspiration pneumonia" 178:10 178:11
+c="pt 's respiratory distress" 178:0 178:3||r="PIP"||c="pneumonitis" 178:13 178:13
+c="pt 's respiratory distress" 178:0 178:3||r="PIP"||c="depressed mental status" 178:18 178:20
+c="pacer placement" 53:5 53:6||r="TrAP"||c="sick sinus syndrome" 53:1 53:3
+c="desaturation" 236:14 236:14||r="PIP"||c="inc o2 requirement" 236:16 236:18

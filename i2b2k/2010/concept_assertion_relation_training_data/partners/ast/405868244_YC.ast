@@ -1,0 +1,8 @@
+c="pregnancy , term" 40:0 40:2||t="problem"||a="present"
+c="constipation" 29:7 29:7||t="problem"||a="hypothetical"
+c="perineal , 1st degree" 49:0 49:3||t="problem"||a="present"
+c="upset stomach" 31:22 31:23||t="problem"||a="hypothetical"
+c="observed abnormalities" 66:1 66:2||t="problem"||a="absent"
+c="pain" 29:14 29:14||t="problem"||a="hypothetical"
+c="first degree perineal laceration" 58:2 58:5||t="problem"||a="present"
+c="laceration" 48:0 48:0||t="problem"||a="present"

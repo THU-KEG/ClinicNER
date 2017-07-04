@@ -1,0 +1,133 @@
+512875472
+PRGH
+47241971
+271075
+4/26/1999 12:00:00 AM
+RT .
+BREAST CARCINOMA
+Signed
+DIS
+Admission Date :
+04/26/1999
+Report Status :
+Signed
+Discharge Date :
+05/14/1999
+PRINCIPAL DIAGNOSES :
+RIGHT BREAST CARCINOMA , STATUS POST HIGH DOSE CHEMOTHERAPY AND AUTOLOGOUS STEM CELL RESCUE .
+LIST OF SIGNIFICANT PROBLEMS :
+( 1 ) High risk carcinoma of the right breast .
+( 2 ) Hypertension .
+( 3 ) Hypothyroidism .
+HISTORY OF PRESENT ILLNESS :
+Ms. A is a 48-year-old woman , who was diagnosed with breast cancer in May of 1998 .
+She was in her usual state of health until May of 1997 , when her right breast was noted to be abnormal on mammography .
+Biopsy of this specific area was negative .
+Subsequent mammography was , reportedly , benign and without significant interval change .
+However , by May 1998 , she had appreciated a fullness in the right breast , and noted the emergence of a mass , which increased in size over time .
+Mammography was repeated , which was highly suspicious for malignancy .
+An ultrasound of the lesion was similarly suspicious for neoplasm .
+The patient , therefore , went to incisional biopsy , which confirmed invasive ductal carcinoma .
+She , subsequently , underwent mastectomy with axillary lymph node dissection ( November 1998 ) .
+The final results from pathology revealed a very large tumor measuring 14 centimeters in size permeating the whole breast with a positive deep margin .
+The tumor was described as histologically nuclear grade III with extensive lymphatic vascular invasion .
+ER and PR were strongly positive , although , a K-617 index was unfavorable at 30 percent with a high esterase .
+DNA content was deployed .
+On examination of the lymph nodes , 22 of 24 lymph nodes sampled were involved with carcinoma .
+Subsequent to surgery , she had an uncomplicated recovery .
+She then went on to dose-intensive Adriamycin and tolerated this procedure remarkably well .
+Restaging revealed no evidence of interval progression and the patient , therefore , went on to high-dose cyclophosphamide for stem cell mobilization .
+Leukophoresis went well and stem cell yields were excellent .
+Therefore , she is being admitted for intensification with high-dose cyclophosphamide , thiotepa , and carboplatin followed by stem cell rescue .
+PAST MEDICAL HISTORY :
+( 1 ) Breast cancer as per history of present illness .
+( 2 ) Hypertension .
+( 3 ) History of goiter , status post partial thyroidectomy .
+( 4 ) History of uterine fibroids , status post total abdominal hysterectomy .
+( 5 ) ? history of transient ischemic attack times one in 1987 .
+MEDICATIONS ON ADMISSION :
+( 1 ) Atenolol 25 milligrams q.d.
+( 2 ) Synthroid 0.125 milligrams q.d.
+( 3 ) Multivitamins .
+Note :
+She had been on Lovenox for a line associated deep vein thrombosis .
+ALLERGIES :
+She is allergic to quinine sulfate .
+SOCIAL HISTORY :
+The patient is an ex-smoker .
+She occasionally drinks alcohol , and works as a baker .
+She has a supportive partner , who works as a local fire fighter .
+She had menarche at the age of 13 .
+She is Gravida I , Para I .
+FAMILY HISTORY :
+Family history is negative for breast cancer .
+Her maternal grandmother had colon cancer , and her grandfather had laryngeal cancer .
+PHYSICAL EXAMINATION ON ADMISSION :
+GENERAL :
+The patient is alert , pleasant , and in no acute distress .
+VITAL SIGNS :
+Temperature 96.4 , blood pressure 120/90 , pulse 72 , saturations at 97 percent on room air .
+She weights 81.8 kilograms .
+HEENT / NECK :
+Head and neck examination is notable for alopecia and thrush on the tongue .
+There is no cervical lymphadenopathy appreciated .
+CHEST :
+Chest examination was clear to auscultation .
+CARDIOVASCULAR :
+Cardiac examination was normal with a S1 , S2 , and a grade I to II / VI systolic murmur at the left sternal border .
+ABDOMEN :
+Abdominal examination was benign .
+EXTREMITIES :
+Examination revealed no edema .
+No axillary lymphadenopathy .
+LABORATORY DATA :
+White count was 2.0 , hematocrit was 28.6 , and platelets were 308 .
+Serum electrolytes revealed sodium 138 , potassium 4.2 , chloride 101 , bicarbonate 26 , BUN 16 , creatinine 0.6 , and glucose 77 .
+DIAGNOSTIC STUDIES :
+Her electrocardiogram showed normal sinus rhythm at a rate of 62 with a leftward axis and normal intervals .
+She had a large R-wave in V2 , in V1 but with R less than S. She had an inverted T-wave in lead 3 , otherwise , no Q , ST-T wave changes .
+HOSPITAL COURSE :
+The patient was a 48-year-old woman with high risk carcinoma of the breast admitted for a STAMP with cyclophosphamide , thiotepa , and carboplatin .
+The patient was started on the standard protocol with day 0 being equal to December 1999 .
+Her hospital course was , overall , uncomplicated and notable for the following events :
+( 1 ) Hematology / Oncology :
+The patient became neutropenic on day minus 2 and reached a nadir of white blood count of 0.02 on May 8 .
+She had her first neutropenic fever on May 9 , 1999 , and all cultures from blood and urine are negative .
+A chest x-ray revealed no pneumonia .
+The patient was started on ceftazidime initially for febrile neutropenia , but quickly developed a pleuritic rash .
+She was put on piperacillin and gentamicin for enteric antibiotic coverage .
+She recovered her count and was no longer neutropenic on May 11 , 1999 , which is day plus 8 .
+On day plus 9 , she had a white count of over 10,000 and her antibiotic coverage was discontinued , as was the G-CSF .
+During the patient &apos;s stay here , she required platelet transfusions on two days , and received two units of packed red blood cells on May 8 for a hematocrit of 25.7 .
+The patient did not have very significant pain issues while in house , though , she did require a short course on a Fentanyl drip for management of throat pain .
+She never developed severe oral mucositis that was appreciable , and her oral thrush was treated successfully with fluconazole .
+( 2 ) Fluids , electrolytes and nutrition :
+The patient was able to tolerate p.o.&apos;s throughout her hospital stay .
+She did not have significant problems with marked electrolyte abnormalities .
+On April 29 , she had a sodium of 132 , which was her lowest during her hospital stay .
+Her sodium , subsequently , recovered with the administration of normal saline and p.r.n. doses of Lasix .
+Overall , the patient has had a very smooth hospital course without complications , and was in stable condition upon discharge .
+DISPOSITION :
+The patient is being discharged home with services .
+She will have SGGH services for line care and intravenous fluids .
+She will receive one liter of normal saline plus 20 milliequivalents of KCl per day on Saturday , Sunday , and Monday .
+FOLLOW UP :
+Her follow up will include an appointment with Dr. Squarcnides on Tuesday , and then she will return to the Santusli Hospital on next Friday , May 21 .
+DISCHARGE MEDICATIONS :
+( 1 ) Atenolol 25 milligrams q.d.
+( 2 ) Synthroid 125 micrograms p.o. q.d.
+( 3 ) Folate 1 milligram q.d.
+( 4 ) Multivitamin 1 tablet q.d.
+( 5 ) Prilosec 20 milligrams q.d.
+( 6 ) Compazine spansules 15 milligrams p.o. q.12h p.r.n. nausea .
+Dictated By :
+NABETH GLYNCRED , M.D. II00
+Attending :
+TRANGCA F. CHIRDSTEN , M.D. WQ56 HD432/9433
+Batch :
+68998
+Index No. ORKEY60J6E
+D :
+05/12/99
+T :
+05/12/99

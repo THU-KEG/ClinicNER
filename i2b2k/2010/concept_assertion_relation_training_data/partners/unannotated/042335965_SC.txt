@@ -1,0 +1,58 @@
+042335965 SC
+25444202
+677602
+6/10/2001 12:00:00 AM
+s / p myomectomy
+DIS
+Admission Date :
+06/10/2001
+Report Status :
+Discharge Date :
+06/13/2001
+****** DISCHARGE ORDERS ******
+PER , ALEODESSTA 659-43-14-0 N57
+Room :
+43L-22
+Service :
+GYN
+DISCHARGE PATIENT ON :
+06/13/01 AT 10:00 AM
+CONTINGENT UPON
+Attending evaluation
+WILL D / C ORDER BE USED AS THE D / C SUMMARY :
+YES
+DISPOSITION :
+Home
+DISCHARGE MEDICATIONS :
+PERCOCET 1-2 TAB PO Q4H PRN pain MOTRIN ( IBUPROFEN ) 600 MG PO Q6H PRN pain
+Food / Drug Interaction Instruction
+Take with food
+FE ( FERROUS SULFATE ) 300 MG PO BID
+Instructions :
+ferrosequels one tab po bid
+DIET :
+No Restrictions Activity - As tolerated
+RETURN TO WORK :
+Not Applicable
+FOLLOW UP APPOINTMENT ( S ) :
+please call to schedule apt w/ Dr. Smitrecurtsfrings , No Known Allergies
+ADMIT DIAGNOSIS :
+fibroid uterus
+PRINCIPAL DISCHARGE DIAGNOSIS ; Responsible After Study for Causing Admission ) s / p myomectomy
+OTHER DIAGNOSIS ; Conditions , Infections , Complications , affecting Treatment / Stay fibroid , endometrioma
+OPERATIONS AND PROCEDURES :
+s / p ex lap , myomectomy
+OTHER TREATMENTS / PROCEDURES ( NOT IN O.R. )
+none
+BRIEF RESUME OF HOSPITAL COURSE :
+Healthy 46 yo G2P0 w/ hx of endometriosis , infertility s / p myomectomy for enlarging uterine fibroids and intermittant urinary retension .
+ADDITIONAL COMMENTS :
+Please call your doctor if you have increasing pain , heavy bleeding , concerns re. your incision , fever T &gt; 100.4 or other concerns .
+No heavy lifting .
+DISCHARGE CONDITION :
+Stable
+TO DO / PLAN :
+No dictated summary
+ENTERED BY :
+SWALDTALC , OTLE ARA , M.D. ( GP13 ) 06/11/01 03:07 PM
+****** END OF DISCHARGE ORDERS ******

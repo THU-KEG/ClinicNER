@@ -1,0 +1,9 @@
+c="pathology" 21:0 21:0||r="TeRP"||c="a grade iii / iii infiltrating ductal carcinoma" 21:5 21:12
+c="this resection" 21:2 21:3||r="TrAP"||c="a grade iii / iii infiltrating ductal carcinoma" 21:5 21:12
+c="the procedure" 63:3 63:4||r="TrCP"||c="complications" 63:10 63:10
+c="the electrocardiogram" 60:0 60:1||r="TeRP"||c="st changes" 60:14 60:15
+c="the electrocardiogram" 60:0 60:1||r="TeRP"||c="r wave progression" 60:19 60:21
+c="some breast discomfort on the left side" 19:27 19:33||r="PIP"||c="a breast carcinoma" 19:19 19:21
+c="left axillary node dissection" 17:0 17:3||r="TrAP"||c="breast carcinoma" 17:7 17:8
+c="her vital signs" 40:0 40:2||r="TeRP"||c="afebrile" 40:8 40:8
+c="a wide resection" 20:2 20:4||r="TrAP"||c="a left breast mass" 20:6 20:9

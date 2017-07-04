@@ -1,0 +1,29 @@
+c="her chest x-ray" 117:14 117:16||r="TeRP"||c="new right upper lobe infiltrates" 117:19 117:23
+c="the egd" 128:0 128:1||r="TeRP"||c="three esophageal ulcers" 128:4 128:6
+c="the egd" 128:0 128:1||r="TeRP"||c="pill esophagitis" 128:14 128:15
+c="pill esophagitis" 128:14 128:15||r="PIP"||c="three esophageal ulcers" 128:4 128:6
+c="nasal cannula" 132:25 132:26||r="TrAP"||c="her oxygen requirement" 132:3 132:5
+c="ekg" 97:0 97:0||r="TeRP"||c="sinus brady" 97:2 97:3
+c="ekg" 97:0 97:0||r="TeRP"||c="stt wave abnormalities" 97:14 97:16
+c="cardiac markers" 102:7 102:8||r="TeRP"||c="mi" 102:5 102:5
+c="auscultation" 82:5 82:5||r="TeRP"||c="faint wheezes" 82:7 82:8
+c="auscultation" 82:5 82:5||r="TeRP"||c="rales" 82:11 82:11
+c="her vancomycin" 122:12 122:13||r="TrAP"||c="mrsa" 122:6 122:6
+c="her vancomycin" 122:12 122:13||r="TrAP"||c="these bacteria" 122:0 122:1
+c="mrsa" 122:6 122:6||r="PIP"||c="these bacteria" 122:0 122:1
+c="some fluid boluses" 126:30 126:32||r="TrIP"||c="a hypotensive episode" 126:23 126:25
+c="sublingual nitroglycerin" 30:15 30:16||r="TrIP"||c="pain" 30:21 30:21
+c="yeast" 135:26 135:26||r="PIP"||c="some erythematous rash" 135:9 135:11
+c="vancomycin" 131:17 131:17||r="TrAP"||c="mrsa pneumonia" 131:8 131:9
+c="chest ct" 133:44 133:45||r="TeCP"||c="pulmonary hypertension" 133:29 133:30
+c="this stress test" 112:0 112:2||r="TeRP"||c="some mild anterior septal thinning" 112:22 112:26
+c="this stress test" 112:0 112:2||r="TeRP"||c="ischemia" 112:32 112:32
+c="her right ventricular hypokinesis" 133:13 133:16||r="PIP"||c="pulmonary hypertension" 133:29 133:30
+c="nausea" 125:6 125:6||r="PIP"||c="some cough" 125:14 125:15
+c="nausea" 125:6 125:6||r="PIP"||c="apparent emesis" 125:17 125:18
+c="levofloxacin" 116:12 116:12||r="TrAP"||c="uti" 116:16 116:16
+c="uti" 116:16 116:16||r="PIP"||c="a fever" 116:5 116:6
+c="insulin" 33:7 33:7||r="TrAP"||c="hyperglycemia" 33:9 33:9
+c="this echo" 105:0 105:1||r="TeRP"||c="wall motion abnormality" 105:10 105:12
+c="chest x-ray" 96:0 96:1||r="TeRP"||c="low lung volumes" 96:3 96:5
+c="chest x-ray" 96:0 96:1||r="TeRP"||c="consolidation" 96:8 96:8

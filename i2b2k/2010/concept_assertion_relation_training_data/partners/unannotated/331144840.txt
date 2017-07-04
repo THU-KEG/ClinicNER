@@ -1,0 +1,79 @@
+331144840
+OMH
+5640896
+73163/esaf
+7/28/1994 12:00:00 AM
+HEPATIC METASTASES FROM COLON CANCER .
+Unsigned
+DIS
+Report Status :
+Unsigned
+ADMISSION DATE :
+7-28-94
+DISCHARGE DATE :
+7-29-94
+PRINCIPAL DIAGNOSIS :
+Hepatic metastases from colon cancer .
+ASSOCIATED DIAGNOSIS :
+1. Colon cancer ,
+2. disseminated intravascular coagulopathy .
+SPECIAL PROCEDURES AND OPERATIONS :
+1. On 7-28-94 , right trisegmentectomy ( hepatic resection ) .
+ADDITIONAL PROCEDURES :
+1. On 7-29-94 , exploratory laparotomy for bleeding ,
+2. on 7-29-94 , exploratory right thoracoabdominal incision for bleeding .
+HISTORY OF PRESENT ILLNESS :
+The patient is a 42 year old female with known metastatic colon carcinoma , limited to the liver , who is referred to Dr. Duhenile for placement of an internal pump for hepatic arterial chemotherapy .
+The patient initially presented in September of 1992 with bloody diarrhea .
+She subsequently underwent a right colectomy in September of 1992 for a Duke &apos;s C-II moderately well differentiated adenocarcinoma of the hepatic flexure .
+She subsequently recent adjuvant 5-FU and levamisole therapy but developed a right hepatic metastasis in September of 1993 .
+In Thanksgiving of 1993 , the patient underwent a partial right hepatectomy .
+Postoperatively , she did well , however she was noted to have a rising carcinoembryonic antigen level in February of 1994 , of 5.7 , and a 42.1 in April of 1994 .
+A computerized tomography scan obtained in April of 1994 revealed hepatic metastases involving both lobes .
+After two additional cycles of 5-FU and leucovorin , the patient had marked progression of her hepatic metastases associated with tumor fevers .
+The computerized tomography scans continued to demonstrate disease confined to the liver .
+HOSPITAL COURSE :
+The patient was admitted to the Oaksgekesser/ Memorial Hospital on 7-28-94 for placement of an infusaid pump versus an exploratory laparotomy for liver resection .
+Prior to surgery , the patient was taken to Vascular Radiology where she underwent superior mesenteric artery and ciliac angiograms .
+These demonstrated
+1. portal vein patent ,
+2. normal hepaticanatomy with normal right and left hepatic arteries ,
+3. an enlarged liver with necrotic regions consistent with known colon metastatic tumors .
+The patient was subsequently brought to the Operating Room where she underwent a hepatic right trisegmentectomy .
+The operative findings were notable for a softball sized tumor in the right lobe of the liver , as well as multiple smaller tumor nodules .
+The left lateral segment was grossly free of tumor .
+The intraoperative course was notable for acute hypotension with a systolic blood pressure in the fifties .
+The patient received 21 liters of lactated Ringers solution , 16 units of packed red blood cells , and 21 units of fresh frozen plasma , and 12 units of platelets .
+There were 5300 cc given via the Cellsaver .
+The patient was returned to the Surgical Intensive Care Unit .
+However , over the ensuing hours , the patient continued to have ongoing blood loss with hypotension .
+The decision was made to return the patient to the operating room .
+The patient was then returned to the operating room for an exploratory laparotomy for bleeding .
+The operative findings were notable for bleeding from the inferior vena cava .
+The patient was returned again to the Surgical Intensive Care Unit .
+However , again the patient continued to demonstrate ongoing hypotension and transfusion requirements .
+The patient required blood pressure support with pressors .
+Due to output of approximately 950 cc on placement of a right chest tube , the decision was made to return tothe operating room for exploration for bleeding .
+The patient was therefore explored through a right thoracoabdominal incision .
+The abdomen was again notable for bleeding from the inferior vena cava , a notable coagulopathy , and therefore , the abdomen was packed and the patient was returned to the Surgical Intensive Care Unit .
+However , over the subsequent 8-10 hours , the patient continued to demonstrate declining blood pressure despite maximal support with pressor agents including phenylephrine , norepinephrine , epinephrine , and dopamine .
+The patient continued to require transfusions .
+The patient &apos;s oxygenation became increasingly difficult , as the chest X-rays demonstrated marked pulmonary edema .
+The ventilator settings demonstrated elevating peak inspiratory pressures up to 75 millimeters .
+The urine output dropped dramatically , and the patient was treated with Lasix and Mannitol for an attempt at forced diuresis .
+As the patient &apos;s hemodynamic parameters demonstrated a narrow pulse pressure and rapidly elevated pulmonary artery pressures , the decision was made to perform echocardiogram to rule out potential paracardial tamponade .
+The study was considered to be inadequate , and it was unable definitively rule out the presence of such tamponade .
+Despite maximal support with pressor agents , mechanical ventilation , and ongoing transfusion with fresh frozen plasma and packed red blood cells , and a Protamine for treatment of the coagulopathy , the patient continued to demonstrate declining blood pressure , and subsequently expired with a cessation of heart rate and blood pressure at 11:20 p.m. on 7-29-94 .
+At this point , the mechanical ventilator was turned off .
+CONDITION ON DISCHARGE :
+The patient expired .
+RI MEDIA , M.D.
+DICTATING FOR :
+FEDE A. DUHENILE , M.D.
+TR :
+jf / bmot
+DD :
+7-29-94
+TD :
+07/31/94
+CC :

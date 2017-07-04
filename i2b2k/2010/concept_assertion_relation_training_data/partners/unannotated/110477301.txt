@@ -1,0 +1,78 @@
+110477301
+FIH
+6582882
+672220
+488259
+1/10/1999 12:00:00 AM
+Discharge Summary
+Unsigned
+DIS
+Report Status :
+Unsigned
+DISCHARGE SUMMARY NAME :
+GACOBECHAFF , NACHIDE N
+UNIT NUMBER :
+199-13-34
+ADMISSION DATE :
+01/10/1999
+DISCHARGE DATE :
+01/16/1999
+PRINCIPAL DIAGNOSIS :
+Squamous cell carcinoma , right pyriform sinus .
+ASSOCIATED DIAGNOSIS :
+None .
+PRINCIPAL PROCEDURE :
+Intentional balloon sacrifice / occlusion of right common and internal carotid artery .
+ASSOCIATED PROCEDURES :
+None .
+HISTORY AND REASON FOR HOSPITALIZATION :
+A 65-year-old white male , with a history of right pyriform sinus squamous cell carcinoma , prior left tongue resection for oral cancer in 1995 , post chemotherapy and radiation therapy .
+Recurrent right neck mass in April , 1998 , four resection of right neck mass by Dr. Cuchsoissfreiermcot , and for preoperative intentional balloon sacrifice of right internal carotid artery and common carotid artery due to evidence of invasion at the time of initial attempted surgical exploration .
+PHYSICAL EXAMINATION :
+This is a thin white male , appearing slightly older than stated age , with partial paralysis of right facial musculature .
+Head , eyes , ears , nose and throat :
+Right pyriform sinus mass lesion , right palate dysfunction , right apparent partial Horner syndrome .
+Neck :
+woody mass right neck / post radiation fibrotic changes .
+Chest :
+Unremarkable .
+Abdomen :
+Unremarkable .
+Vascular :
+Brisk pulses bilateral upper and lower extremities .
+Neurological examination :
+Cranial nerves II-XII intact with the exception of right cranial nerves X , right facial nerve paresis , right glossopharyngeal nerve paresis , left visual field partial absence ( noticed post procedure ) .
+LABORATORY DATA AND RADIOLOGIC DATA :
+During hospitalization computerized tomography scan examination of brain performed with and without intravenous contrast enhancement was obtained , following demonstration of left partial homonymous hemianopsia .
+Computerized tomography scan demonstrated two murally enhancing cystic masses , the first occupying much of the inferior right cerebellar hemisphere , the second shown focally in the left lateral occipital lobe , with associated vasogenic edema .
+Metastatic disease suspected .
+Additional magnetic resonance angiogram examination requested .
+HOSPITAL COURSE AND TREATMENT :
+The patient was admitted on 1/10/99 , at which time intentional balloon sacrifice of right coronary artery was performed .
+Systemic anticoagulation was accomplished with limited mobility permitted .
+Over the course of the next three days the patient was mobilized .
+At this time the diagnosis of presumed metastatic involvement of a super-tentorial and infratentorial compartments had been arrived at , and it was also noted that the patient &apos;s swallowing was sufficiently impaired where Nutrition was compromised and in question .
+It was decided at this point that the patient &apos;s neck resection may need to be withheld pending exploration of chemotherapeutic and radiation therapy options , and that the Nutrition status would need to be addressed .
+As such , it was decided that a transfer to the Valtawnprinceel Community Memorial Hospital under Dr. Cuchsoissfreiermcot &apos;care , who is the patient &apos;s Oncologic Otolaryngologic Surgeon , should be entertained .
+On the evening of 1/14/99 , nursing noticed that the patient was somewhat confused , and suspected a possible post ictal state .
+As such , the patient was placed on Dilantin , and Dilantin is being continued .
+CONDITION ON DISCHARGE :
+Good , with the exception of brain metastases and difficulty swallowing .
+DOCTOR &apos;S DISCHARGE ORDERS :
+MEDICATIONS ON DISCHARGE :
+Dilantin 100 mg. t.i.d. Kaopectate 30 cc. PO q.4 hours .
+Tylenol 650 mg. PO q.4 hours .
+DISPOSITION :
+The patient &apos;s instructions will mainly center on Dr. Cuchsoissfreiermcot &apos;recommendations regarding continuing therapy .
+Of note , the patient has a questionable history of a Penicillin allergy .
+RYNLORKAND JESC , M.D.
+DICTATING FOR :
+BERTKO J. CUCHSOISSFREIERMCOT , M.D.
+TR :
+gpy
+DD :
+01/16/1999
+TD :
+01/16/1999 7:21 P
+cc :
+RYNLORKAND JESC , M.D. NABETH GLYNCRED , M.D. Physician Test , MD BERTKO JERELIZE CUCHSOISSFREIERMCOT , M.D. STAT

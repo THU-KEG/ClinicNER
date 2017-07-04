@@ -1,0 +1,37 @@
+c="atropine" 19:18 19:18||r="TrIP"||c="asystolic" 19:3 19:3
+c="neurologic examination" 62:0 62:1||r="TeRP"||c="unarousible" 62:5 62:5
+c="ct angiogram" 76:0 76:1||r="TeRP"||c="pulmonary embolism" 76:6 76:7
+c="narcan" 21:7 21:7||r="TrWP"||c="unresponsive" 21:2 21:2
+c="recent out of hospital cardiac arrest" 25:22 25:27||r="PIP"||c="ongoing unresponsiveness" 25:19 25:20
+c="lumbar discectomy" 28:7 28:8||r="TrAP"||c="chronic low back pain" 28:1 28:4
+c="levofloxacin" 88:16 88:16||r="TrAP"||c="aspiration pneumonia" 88:21 88:22
+c="stab wound" 30:2 30:3||r="PIP"||c="pneumothorax" 30:6 30:6
+c="cold packs" 78:24 78:25||r="TrAP"||c="an out of hospital arrest" 78:4 78:8
+c="cold packs" 78:24 78:25||r="TrAP"||c="unresponsive" 78:11 78:11
+c="unresponsive" 78:11 78:11||r="PIP"||c="an out of hospital arrest" 78:4 78:8
+c="flagyl" 88:18 88:18||r="TrAP"||c="aspiration pneumonia" 88:21 88:22
+c="induced hypothermia" 25:12 25:13||r="TrAP"||c="ongoing unresponsiveness" 25:19 25:20
+c="induced hypothermia" 25:12 25:13||r="TrAP"||c="recent out of hospital cardiac arrest" 25:22 25:27
+c="electroencephalogram" 81:0 81:0||r="TeRP"||c="persistent seizure activity" 81:6 81:8
+c="epinephrine" 19:13 19:13||r="TrIP"||c="asystolic" 19:3 19:3
+c="the induced hypothermia" 80:7 80:9||r="TrWP"||c="unresponsive" 80:5 80:5
+c="a cooling blanket" 78:27 78:29||r="TrAP"||c="an out of hospital arrest" 78:4 78:8
+c="a cooling blanket" 78:27 78:29||r="TrAP"||c="unresponsive" 78:11 78:11
+c="induced hypothermia" 78:20 78:21||r="TrAP"||c="an out of hospital arrest" 78:4 78:8
+c="induced hypothermia" 78:20 78:21||r="TrAP"||c="unresponsive" 78:11 78:11
+c="withdrawal of the endotracheal tube" 24:16 24:20||r="TrIP"||c="left lung collapse" 24:9 24:11
+c="multiple cultures" 87:0 87:1||r="TeRP"||c="methicillin resistant staphylococcus aureus bacteremia" 87:12 87:16
+c="multiple cultures" 87:0 87:1||r="TeRP"||c="pneumonia" 87:18 87:18
+c="multiple cultures" 87:0 87:1||r="TeRP"||c="urinary tract infection" 87:21 87:23
+c="vancomycin" 88:10 88:10||r="TrAP"||c="these infections" 88:2 88:3
+c="sputum culture" 90:0 90:1||r="TeRP"||c="coagulase positive staphylococcus" 90:12 90:14
+c="sputum culture" 90:0 90:1||r="TeRP"||c="methicillin resistant staphylococcus aureus" 90:17 90:20
+c="coagulase positive staphylococcus" 90:12 90:14||r="PIP"||c="methicillin resistant staphylococcus aureus" 90:17 90:20
+c="an echocardiogram" 77:3 77:4||r="TeRP"||c="trivial mitral regurgitation" 77:15 77:17
+c="an echocardiogram" 77:3 77:4||r="TeRP"||c="obvious abnormalities" 77:21 77:22
+c="the cardiac examination" 58:0 58:2||r="TeRP"||c="murmurs" 58:6 58:6
+c="subsequent chest x-ray" 24:0 24:2||r="TeRP"||c="left lung collapse" 24:9 24:11
+c="initial chest x-ray" 23:0 23:2||r="TeRP"||c="a left retrocardiac opacity" 23:4 23:7
+c="initial chest x-ray" 23:0 23:2||r="TeRP"||c="prominent interstitium" 23:9 23:10
+c="initial chest x-ray" 23:0 23:2||r="TeRP"||c="low" 23:16 23:16
+c="right main stem intubation" 24:4 24:7||r="TrCP"||c="left lung collapse" 24:9 24:11

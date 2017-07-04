@@ -1,0 +1,16 @@
+c="thickened mitral leaflets" 22:8 22:10||r="PIP"||c="small vegetations on both anterior and posterior leaflets" 22:12 22:19
+c="mv replacement" 130:7 130:8||r="TrAP"||c="mitral valve endocarditis" 130:3 130:5
+c="lumbar laminectomy" 133:3 133:4||r="TrAP"||c="spinal stenosis" 133:0 133:1
+c="lae" 23:12 23:12||r="PIP"||c="abscess" 23:14 23:14
+c="magnesium hydroxide" 119:1 119:2||r="TrAP"||c="constipation" 119:25 119:25
+c="lumbar laminectomy" 29:3 29:4||r="TrAP"||c="spinal stenosis" 29:0 29:1
+c="a repeat tee" 24:2 24:4||r="TeRP"||c="4 + mr" 24:9 24:11
+c="a tee" 22:2 22:3||r="TeRP"||c="thickened mitral leaflets" 22:8 22:10
+c="a tee" 22:2 22:3||r="TeRP"||c="moderate to severe mitral regurgitation" 22:21 22:25
+c="a tee" 22:2 22:3||r="TeRP"||c="small vegetations on both anterior and posterior leaflets" 22:12 22:19
+c="drainage" 145:13 145:13||r="PIP"||c="chest incision" 145:15 145:16
+c="antibiotics" 21:8 21:8||r="TrWP"||c="recurrent bacteremia" 21:10 21:11
+c="further treatment" 25:22 25:23||r="TrAP"||c="fevers" 25:13 25:13
+c="further treatment" 25:22 25:23||r="TrAP"||c="positive blood cultures" 25:15 25:17
+c="mvr" 25:26 25:26||r="TrAP"||c="fevers" 25:13 25:13
+c="mvr" 25:26 25:26||r="TrAP"||c="positive blood cultures" 25:15 25:17

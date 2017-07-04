@@ -1,0 +1,83 @@
+397313619
+GH
+87056285
+9/6/2002 12:00:00 AM
+intracerebral hemorrhage
+DIS
+Admission Date :
+Labor Day
+Report Status :
+Discharge Date :
+09/08/2002
+****** DISCHARGE ORDERS ******
+FYFEUARDFEL , TADE 598-00-71-2F34
+Room :
+27X-301
+Service :
+NEU
+DISCHARGE PATIENT ON :
+09/08/02 AT 02:00 PM
+CONTINGENT UPON HO evaluation
+WILL D / C ORDER BE USED AS THE D / C SUMMARY :
+YES
+Attending :
+SCVIEU , TI S. , M.D.
+CODE STATUS :
+Full code
+DISPOSITION :
+Home w/ services
+DISCHARGE MEDICATIONS :
+BETOPTIC - S 0.25% ( BETAXOLOL HCL 0.25% ) 1 DROP OU BID METOPROLOL TARTRATE 100 MG PO TID Starting Today ( 09/08 )
+Food / Drug Interaction Instruction
+Take consistently with meals or on empty stomach .
+NITROGLYCERIN PATCH 0.2 MG / HR TP QD DILANTIN ( PHENYTOIN ) 100 MG PO QD Starting Today ( 09/07 )
+Instructions :
+x 1 week , then stop
+Food / Drug Interaction Instruction
+If on tube feeds , please cycle ( hold 1 hr before to 2 hr after )
+Alert overridden :
+Override added on 09/07/02 by :
+POTENTIALLY SERIOUS INTERACTION :
+RANITIDINE HCL , INJ and PHENYTOIN
+Reason for override :
+dilantin to taper to off PRAVACHOL ( PRAVASTATIN ) 40 MG PO QHS
+Food / Drug Interaction Instruction
+Avoid grapefruit unless MD instructs otherwise .
+NORVASC ( AMLODIPINE ) 5 MG PO BID
+Food / Drug Interaction Instruction
+Avoid grapefruit unless MD instructs otherwise .
+PROTONIX ( PANTOPRAZOLE ) 40 MG PO QD DOXEPIN HCL 50 MG PO HS ASPIRIN ENTERIC COATED 325 MG PO QD Starting Today ( 09/07 )
+Instructions :
+starting 09/12/02 PLAVIX ( CLOPIDOGREL ) 75 MG PO QD
+Instructions :
+starting 09/12/02 CANDESARTAN 16 MG PO QD
+DIET :
+House / ADA 1800 cals / dy
+RETURN TO WORK :
+Not Applicable
+FOLLOW UP APPOINTMENT ( S ) :
+outside neurology , primary care ( Cuch ) within 1wk ,
+ALLERGY :
+Penicillins , Sulfa , Erythromycins , Morphine
+ADMIT DIAGNOSIS :
+intracerebral hemorrhage
+PRINCIPAL DISCHARGE DIAGNOSIS ; Responsible After Study for Causing Admission ) intracerebral hemorrhage
+OTHER DIAGNOSIS ; Conditions , Infections , Complications , affecting Treatment Stay h / o intermittent atrial fibrillation hypertension hyperlipidemia coronary artery disease s / p CABG 1993 h / o R MCA stroke
+NIDDM OPERATIONS AND PROCEDURES :
+none
+OTHER TREATMENTS / PROCEDURES ( NOT IN O.R. ) CT head x 2 LENIs
+TTE BRIEF RESUME OF HOSPITAL COURSE :
+Please see LMR note for full details of admission .
+Briefly , pt presented 09/05/02 with ? new onset L facial droop with dysarthria ( in the context of old deficits 2 * R MCA stroke in 1999 ) .
+On head CT at an outside hospital , a 1 cm intracerebral hemorrhage was noted at the grey-white junction on the left side ( ie same side as her deficit ) and she was transferred to GH for further mgmt .
+She had been on coumadin for a h / o intermittent AFib , and this was discontinued , and her INR was reversed with FFP and vitamin K .
+Repeat head CTs showed a stable ICH ; the patient steadfastly refused MRI scan .As she appears to be at her baseline per daughter , she will be discharged home with her previous home health aide services , as well as BP checks after alteration of her BP regimen .
+She will continue on ASA / plavix rather than coumadin .
+ADDITIONAL COMMENTS :
+DISCHARGE CONDITION :
+Satisfactory
+TO DO / PLAN :
+patient will require home BP checks while medications are adjusted No dictated summary
+ENTERED BY :
+ZOCHNEG , SHARO E. , M.D. ( GQ12 ) 09/08/02 01:56 PM
+****** END OF DISCHARGE ORDERS ******

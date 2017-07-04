@@ -1,0 +1,26 @@
+c="a transthoracic echocardiogram" 87:0 87:2||r="TeRP"||c="a markedly dilated right atrium" 87:13 87:17
+c="a transthoracic echocardiogram" 87:0 87:2||r="TeRP"||c="a mildly dilated and elongated left atrium" 87:4 87:10
+c="lower extremity cellulitis" 20:9 20:11||r="PIP"||c="his symptoms" 20:15 20:16
+c="lower extremity cellulitis" 20:9 20:11||r="PIP"||c="previous episodes" 20:25 20:26
+c="atrial fibrillation" 85:5 85:6||r="PIP"||c="infection" 85:13 85:13
+c="atrial fibrillation" 85:5 85:6||r="PIP"||c="structural heart disease" 85:15 85:17
+c="cva" 33:1 33:1||r="PIP"||c="left-sided weakness" 33:4 33:5
+c="iv metoprolol" 88:14 88:15||r="TrIP"||c="rapid atrial fibrillation" 88:5 88:7
+c="ivf hydration" 73:14 73:15||r="TrAP"||c="his hypotension" 73:9 73:10
+c="his surgery" 97:15 97:16||r="TrCP"||c="inadequate absorption" 97:12 97:13
+c="a left lower extremity ultrasound" 79:0 79:4||r="TeRP"||c="deep venous thrombosis" 79:8 79:10
+c="review of systems" 22:0 22:2||r="TeRP"||c="painful urination" 22:7 22:8
+c="review of systems" 22:0 22:2||r="TeRP"||c="a reduction in urine output" 22:15 22:19
+c="repletion" 97:22 97:22||r="TrIP"||c="several asymptomatic electrolyte deficiecies" 97:2 97:5
+c="several asymptomatic electrolyte deficiecies" 97:2 97:5||r="PIP"||c="inadequate absorption" 97:12 97:13
+c="blood cultures" 77:0 77:1||r="TeRP"||c="beta streptococcus group b" 77:9 77:12
+c="the same infection" 78:6 78:8||r="PIP"||c="lower extremity cellulitis" 78:11 78:13
+c="velocity stenting proximal lad" 28:3 28:6||r="TrAP"||c="cad" 28:1 28:1
+c="ekg" 93:0 93:0||r="TeRP"||c="mild qt prolongation" 93:4 93:6
+c="a diltiazam drip" 73:21 73:23||r="TrAP"||c="atrial fibrillation" 73:25 73:26
+c="oral levofloxacin" 82:16 82:17||r="TrAP"||c="the organism" 82:1 82:2
+c="oral levofloxacin" 82:16 82:17||r="TrAP"||c="the infection" 82:23 82:24
+c="intravenous penicillin" 82:13 82:14||r="TrAP"||c="the organism" 82:1 82:2
+c="intravenous penicillin" 82:13 82:14||r="TrAP"||c="the infection" 82:23 82:24
+c="amiodarone" 93:11 93:11||r="TrWP"||c="mild qt prolongation" 93:4 93:6
+c="the tee" 91:0 91:1||r="TeRP"||c="thrombus" 91:5 91:5

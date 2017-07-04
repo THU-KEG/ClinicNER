@@ -1,0 +1,56 @@
+c="stent placement" 17:28 17:29||r="TrAP"||c="a long lad lesion" 17:20 17:23
+c="nasal cannula" 100:17 100:18||r="TrAP"||c="copd" 100:5 100:5
+c="a bedside transthoracic echocardiogram" 19:2 19:5||r="TeRP"||c="an effusion" 19:15 19:16
+c="further monitoring" 18:29 18:30||r="TeCP"||c="hypotensive" 18:3 18:3
+c="further monitoring" 18:29 18:30||r="TeCP"||c="bradycardiac" 18:5 18:5
+c="angioplasty" 91:24 91:24||r="TrAP"||c="an 80 percent mid lad lesion" 91:14 91:19
+c="gi bleed" 109:19 109:20||r="PIP"||c="guaiac positive stools" 109:23 109:25
+c="gi bleed" 109:19 109:20||r="PIP"||c="a slight drop in his hematocrit" 109:30 109:35
+c="guaiac positive stools" 109:23 109:25||r="PIP"||c="a slight drop in his hematocrit" 109:30 109:35
+c="02" 100:15 100:15||r="TrAP"||c="copd" 100:5 100:5
+c="a ck" 13:27 13:28||r="TeRP"||c="a non-st elevation mi" 13:22 13:25
+c="stent" 84:22 84:22||r="TrAP"||c="an 80 percent lad lesion" 84:10 84:14
+c="atropine" 18:18 18:18||r="TrIP"||c="hypotensive" 18:3 18:3
+c="atropine" 18:18 18:18||r="TrIP"||c="bradycardiac" 18:5 18:5
+c="vagal reaction" 88:76 88:77||r="PIP"||c="hypotension" 88:62 88:62
+c="vagal reaction" 88:76 88:77||r="PIP"||c="bradycardia" 88:64 88:64
+c="cardiac catheterization" 17:16 17:17||r="TeRP"||c="a total occlusion of the rca" 17:32 17:37
+c="cardiac catheterization" 17:16 17:17||r="TeRP"||c="a long lad lesion" 17:20 17:23
+c="the symptoms" 12:0 12:1||r="PIP"||c="diaphoresis" 12:5 12:5
+c="the symptoms" 12:0 12:1||r="PIP"||c="shortness of breath" 12:7 12:9
+c="angioplasty" 114:20 114:20||r="TrAP"||c="80 percent mid lad lesion" 114:11 114:15
+c="angioplasty" 114:20 114:20||r="TrAP"||c="non-st elevation myocardial infarction" 114:6 114:9
+c="angioplasty" 114:20 114:20||r="TrAP"||c="coronary artery disease" 114:0 114:2
+c="coronary artery disease" 114:0 114:2||r="PIP"||c="non-st elevation myocardial infarction" 114:6 114:9
+c="coronary artery disease" 114:0 114:2||r="PIP"||c="80 percent mid lad lesion" 114:11 114:15
+c="atrovent mdi" 100:24 100:25||r="TrAP"||c="copd" 100:5 100:5
+c="albuterol" 100:22 100:22||r="TrAP"||c="copd" 100:5 100:5
+c="transient dopamine" 88:71 88:72||r="TrAP"||c="hypotension" 88:62 88:62
+c="transient dopamine" 88:71 88:72||r="TrAP"||c="bradycardia" 88:64 88:64
+c="troponin" 13:39 13:39||r="TeRP"||c="a non-st elevation mi" 13:22 13:25
+c="his plavix" 93:6 93:7||r="TrNAP"||c="guaiac positive stools" 93:12 93:14
+c="his plavix" 93:6 93:7||r="TrNAP"||c="hematocrit drop" 93:16 93:17
+c="iv fluids" 88:68 88:69||r="TrAP"||c="hypotension" 88:62 88:62
+c="iv fluids" 88:68 88:69||r="TrAP"||c="bradycardia" 88:64 88:64
+c="stent placement" 91:26 91:27||r="TrAP"||c="an 80 percent mid lad lesion" 91:14 91:19
+c="first-degree av block" 78:19 78:21||r="PIP"||c="prolonged pr interval" 78:23 78:25
+c="cardiac catheterization" 84:0 84:1||r="TeRP"||c="an 80 percent lad lesion" 84:10 84:14
+c="cardiac catheterization" 84:0 84:1||r="TeRP"||c="a totally occluded rca" 84:3 84:6
+c="the initial ekg" 78:0 78:2||r="TeRP"||c="first-degree av block" 78:19 78:21
+c="the initial ekg" 78:0 78:2||r="TeRP"||c="prolonged pr interval" 78:23 78:25
+c="a non-st elevation mi" 91:7 91:10||r="PIP"||c="an 80 percent mid lad lesion" 91:14 91:19
+c="his plavix" 111:0 111:1||r="TrNAP"||c="gi bleed" 111:14 111:15
+c="a peak ck mb" 13:32 13:35||r="TeRP"||c="a non-st elevation mi" 13:22 13:25
+c="atropine" 88:66 88:66||r="TrAP"||c="hypotension" 88:62 88:62
+c="atropine" 88:66 88:66||r="TrAP"||c="bradycardia" 88:64 88:64
+c="guaiac positive" 109:6 109:7||r="PIP"||c="gi bleed" 109:19 109:20
+c="guaiac positive" 109:6 109:7||r="PIP"||c="guaiac positive stools" 109:23 109:25
+c="guaiac positive" 109:6 109:7||r="PIP"||c="a slight drop in his hematocrit" 109:30 109:35
+c="dopamine" 18:16 18:16||r="TrIP"||c="hypotensive" 18:3 18:3
+c="dopamine" 18:16 18:16||r="TrIP"||c="bradycardiac" 18:5 18:5
+c="iv fluids" 18:13 18:14||r="TrIP"||c="hypotensive" 18:3 18:3
+c="iv fluids" 18:13 18:14||r="TrIP"||c="bradycardiac" 18:5 18:5
+c="home 02" 25:6 25:7||r="TrAP"||c="copd" 25:0 25:0
+c="ptca" 88:55 88:55||r="TrAP"||c="mid lad lesion" 88:57 88:59
+c="chronic renal insufficiency" 104:5 104:7||r="PIP"||c="hypertension" 104:11 104:11
+c="a creatinine" 104:16 104:17||r="TeRP"||c="chronic renal insufficiency" 104:5 104:7

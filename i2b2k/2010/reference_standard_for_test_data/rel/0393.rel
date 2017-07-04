@@ -1,0 +1,80 @@
+c="infection" 167:3 167:3||r="PIP"||c="her uti" 167:6 167:7
+c="a repeat mri" 242:4 242:6||r="TeCP"||c="new lesions in the brain" 242:12 242:16
+c="ativan" 23:15 23:15||r="TrAP"||c="right sided seizure activity" 23:3 23:6
+c="video observations" 161:29 161:30||r="TeRP"||c="the facial twitching" 161:6 161:8
+c="topamax" 172:0 172:0||r="TrNAP"||c="preexisting cognitive deficits" 172:12 172:14
+c="dilantin" 23:24 23:24||r="TrAP"||c="right sided seizure activity" 23:3 23:6
+c="abnormal portable eeg" 155:2 155:4||r="PIP"||c="the bursts of generalized slowing" 155:7 155:11
+c="abnormal portable eeg" 155:2 155:4||r="PIP"||c="additional left-sided slowing" 155:13 155:15
+c="abnormal portable eeg" 155:2 155:4||r="PIP"||c="voltage dimunition" 155:17 155:18
+c="abnormal portable eeg" 155:2 155:4||r="PIP"||c="some slowing of the background" 155:22 155:26
+c="subtherapeutic dilantin levels" 168:9 168:11||r="PIP"||c="these seizures" 168:4 168:5
+c="her new dose" 168:13 168:15||r="TrCP"||c="these seizures" 168:4 168:5
+c="her new dose" 168:13 168:15||r="TrCP"||c="subtherapeutic dilantin levels" 168:9 168:11
+c="traumatic brain injury" 28:15 28:17||r="PIP"||c="seizure disorder" 28:7 28:8
+c="valium" 23:11 23:11||r="TrAP"||c="right sided seizure activity" 23:3 23:6
+c="stable deficits" 41:8 41:9||r="PIP"||c="any flare-like episodes" 41:14 41:16
+c="the medication dose" 36:4 36:6||r="TrAP"||c="slurred speech" 36:47 36:48
+c="the medication dose" 36:4 36:6||r="TrAP"||c="a non-trough level" 36:54 36:56
+c="mri/mra" 176:0 176:0||r="TeRP"||c="new temporal lesions" 176:2 176:4
+c="new temporal lesions" 176:2 176:4||r="PIP"||c="her seizures" 176:18 176:19
+c="lamictal" 32:3 32:3||r="TrCP"||c="a rash" 32:8 32:9
+c="ativan" 175:0 175:0||r="TrAP"||c="breakthrough seizures" 175:4 175:5
+c="ativan" 175:0 175:0||r="TrAP"||c="facial twitching" 175:7 175:8
+c="some less significant seizures" 30:25 30:28||r="PIP"||c="left gaze preference" 30:33 30:35
+c="some less significant seizures" 30:25 30:28||r="PIP"||c="left sided tonic-clonic activity" 30:37 30:40
+c="an eeg" 27:3 27:4||r="TeRP"||c="left sided slowing" 27:8 27:10
+c="therapy" 198:13 198:13||r="TrAP"||c="her ms" 198:15 198:16
+c="ms therapy" 196:33 196:34||r="TrAP"||c="ms" 196:24 196:24
+c="mri" 196:8 196:8||r="TeRP"||c="new lesions" 196:5 196:6
+c="ativan" 25:12 25:12||r="TrAP"||c="persistent twitching in her face and right hand" 25:18 25:25
+c="the ativan" 26:1 26:2||r="TrIP"||c="her facial twitching" 26:4 26:6
+c="the ativan" 26:1 26:2||r="TrIP"||c="hand twitches" 26:16 26:17
+c="malignant cells" 192:10 192:11||r="PIP"||c="malignancy" 192:6 192:6
+c="an additional valium" 25:4 25:6||r="TrAP"||c="persistent twitching in her face and right hand" 25:18 25:25
+c="lp" 192:0 192:0||r="TeCP"||c="malignancy" 192:6 192:6
+c="lp" 192:0 192:0||r="TeCP"||c="malignant cells" 192:10 192:11
+c="her last mri" 191:7 191:9||r="TeRP"||c="a new lesion" 191:3 191:5
+c="escitalopram" 200:4 200:4||r="TrAP"||c="depression" 200:1 200:1
+c="ngt" 201:3 201:3||r="TrAP"||c="her altered mental status" 201:7 201:10
+c="bactrim" 199:12 199:12||r="TrAP"||c="positive u/a" 199:7 199:8
+c="bactrim" 199:12 199:12||r="TrAP"||c="fevers" 199:1 199:1
+c="bisacodyl" 222:1 222:1||r="TrAP"||c="constipation" 222:20 222:20
+c="medication" 200:10 200:10||r="TrAP"||c="depression" 200:1 200:1
+c="the current scan" 139:27 139:29||r="TeRP"||c="this former lesion" 139:0 139:2
+c="these enhancing lesions" 140:2 140:4||r="PIP"||c="atypical manifestations of demyelination" 140:11 140:14
+c="mr" 139:6 139:6||r="TeRP"||c="this former lesion" 139:0 139:2
+c="cxr" 112:0 112:0||r="TeRP"||c="pneumonia" 112:6 112:6
+c="the video" 143:10 143:11||r="TeRP"||c="facial twitching" 143:0 143:1
+c="csf cytology" 109:0 109:1||r="TeRP"||c="malignant cells" 109:5 109:6
+c="the background voltages" 146:2 146:4||r="TeRP"||c="occasionally lower" 146:6 146:7
+c="mri" 190:0 190:0||r="TeRP"||c="new lesions" 190:5 190:6
+c="mri" 190:0 190:0||r="TeRP"||c="sz effects in the left temporal lobe" 190:8 190:14
+c="ms medications" 189:21 189:22||r="TrNAP"||c="atypical ms" 189:1 189:2
+c="lamictal" 171:2 171:2||r="TrCP"||c="reactions" 171:7 171:7
+c="depakote" 171:4 171:4||r="TrCP"||c="reactions" 171:7 171:7
+c="an additional dysfunction on the left side" 157:8 157:14||r="PIP"||c="wide-spread cortical dysfunction" 157:17 157:19
+c="wide-spread cortical dysfunction" 157:17 157:19||r="PIP"||c="the left sided slowing" 157:0 157:3
+c="wide-spread cortical dysfunction" 157:17 157:19||r="PIP"||c="voltage reduction" 157:5 157:6
+c="ct" 119:18 119:18||r="TeRP"||c="interval loss of focal gray - white matter differentiation" 119:3 119:11
+c="interval loss of focal gray - white matter differentiation" 119:3 119:11||r="PIP"||c="acute infarction" 119:14 119:15
+c="an mri" 42:2 42:3||r="TeRP"||c="multiple plaque-like lesions" 42:8 42:10
+c="ct head" 114:0 114:1||r="TeRP"||c="moderately severe , confluent periventricular white matter hypodensity" 114:6 114:13
+c="urine cx" 108:0 108:1||r="TeRP"||c="lactobacillus" 108:2 108:2
+c="mri" 127:0 127:0||r="TeRP"||c="increased t2 signal" 127:8 127:10
+c="increased t2 signal" 127:8 127:10||r="PIP"||c="demyelinating disease" 127:22 127:23
+c="post-contrast images" 129:1 129:2||r="TeRP"||c="a 5 mm linear , focal area of enhancement in the left centrum semiovale" 129:11 129:24
+c="the prior mri" 115:24 115:26||r="TeCP"||c="the " atypical " demyelinating process" 115:12 115:17
+c="ct" 122:13 122:13||r="TeRP"||c="intracranial hemorrhage" 122:2 122:3
+c="ct" 122:13 122:13||r="TeRP"||c="mass effect" 122:5 122:6
+c="ct" 122:13 122:13||r="TeRP"||c="significant interval change" 122:9 122:11
+c="diffuse , confluent periventricular white matter hypodensity" 123:1 123:7||r="PIP"||c="an underlying demyelinating process" 123:13 123:16
+c="increased t2 signal in the periventricular white matter" 137:7 137:14||r="PIP"||c="severe demyelinating disease" 137:18 137:20
+c="the prior mri" 123:25 123:27||r="TeCP"||c="an underlying demyelinating process" 123:13 123:16
+c="this limited non-contrast study" 126:6 126:9||r="TeRP"||c="mass" 126:2 126:2
+c="an mri with gadolinium" 126:15 126:18||r="TeCP"||c="mass" 126:2 126:2
+c="irreversible demyelination" 124:15 124:16||r="PIP"||c="cavitation (" black hole" 124:18 124:21
+c="marked callosal atrophy" 125:2 125:4||r="PIP"||c="advanced , irreversible disease" 125:12 125:15
+c="the markedly low - attenation" 124:0 124:4||r="PIP"||c="irreversible demyelination" 124:15 124:16
+c="the markedly low - attenation" 124:0 124:4||r="PIP"||c="lacunar infarction on a vascular basis" 124:24 124:29
+c="the mr" 125:7 125:8||r="TeRP"||c="marked callosal atrophy" 125:2 125:4

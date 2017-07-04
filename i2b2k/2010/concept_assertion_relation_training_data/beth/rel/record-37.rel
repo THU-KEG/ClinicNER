@@ -1,0 +1,65 @@
+c="bilateral pleural effusions" 177:10 177:12||r="PIP"||c="compressive atelectasis at the left lung base" 177:21 177:27
+c="ct of the abdomen without iv contrast" 177:0 177:6||r="TeRP"||c="bilateral pleural effusions" 177:10 177:12
+c="ct of the abdomen without iv contrast" 177:0 177:6||r="TeRP"||c="compressive atelectasis at the left lung base" 177:21 177:27
+c="orif" 217:28 217:28||r="TrAP"||c="right wrist fracture" 217:25 217:27
+c="ct of the pelvis without iv contrast" 189:0 189:6||r="TeRP"||c="a small amount of free fluid" 189:14 189:19
+c="bilateral pleural effusions" 199:1 199:3||r="PIP"||c="left-sided compressive atelectasis" 199:11 199:13
+c="exploratory laparotomy" 21:1 21:2||r="TeRP"||c="intra-abdominal abscess" 21:6 21:7
+c="exploratory laparotomy" 21:1 21:2||r="TeRP"||c="gross soilage with bile and gastric contents" 21:11 21:17
+c="exploratory laparotomy" 21:1 21:2||r="TeRP"||c="peritonitis" 21:9 21:9
+c="peritonitis" 21:9 21:9||r="PIP"||c="gross soilage with bile and gastric contents" 21:11 21:17
+c="drainage" 21:4 21:4||r="TrAP"||c="intra-abdominal abscess" 21:6 21:7
+c="drainage" 21:4 21:4||r="TrAP"||c="gross soilage with bile and gastric contents" 21:11 21:17
+c="drainage" 21:4 21:4||r="TrAP"||c="peritonitis" 21:9 21:9
+c="transfusion dependent" 38:3 38:4||r="PIP"||c="anemia" 38:1 38:1
+c="wide drainage" 22:3 22:4||r="TrAP"||c="perforated posterior duodenal ulcer" 22:6 22:9
+c="a b/l creatinine" 43:5 43:7||r="TeRP"||c="chronic renal insufficiency" 43:1 43:3
+c="beta blocker therapy" 44:11 44:13||r="TrAP"||c="first degree a-v heart block" 44:5 44:9
+c="pacemaker" 47:1 47:1||r="TrAP"||c="symptomatic bradycardia" 47:11 47:12
+c="ddd dual chamber rate response pacemaker" 47:3 47:8||r="TrAP"||c="symptomatic bradycardia" 47:11 47:12
+c="anemia" 212:1 212:1||r="PIP"||c="transfusion dependant" 212:4 212:5
+c="iss" 215:5 215:5||r="TrAP"||c="dm" 215:1 215:1
+c="internal and external drainage" 22:11 22:14||r="TrAP"||c="perforated posterior duodenal ulcer" 22:6 22:9
+c="wide drainage" 221:3 221:4||r="TrAP"||c="perforated posterior duodenal ulcer" 221:6 221:9
+c="internal and external drainage" 221:11 221:14||r="TrAP"||c="perforated posterior duodenal ulcer" 221:6 221:9
+c="ct scan" 218:0 218:1||r="TeRP"||c="free air" 218:7 218:8
+c="ct scan" 218:0 218:1||r="TeRP"||c="massive ascites" 218:10 218:11
+c="cardiac catheterization" 35:14 35:15||r="TeCP"||c="coronary artery disease" 35:1 35:3
+c="cardiac catheterization" 35:14 35:15||r="TeCP"||c="non-st-elevation myocardial infarction" 35:6 35:8
+c="non-st-elevation myocardial infarction" 35:6 35:8||r="PIP"||c="coronary artery disease" 35:1 35:3
+c="exploratory laparotomy" 220:1 220:2||r="TeRP"||c="intra-abdominal abscess" 220:6 220:7
+c="exploratory laparotomy" 220:1 220:2||r="TeRP"||c="peritonitis" 220:9 220:9
+c="exploratory laparotomy" 220:1 220:2||r="TeRP"||c="gross soilage with bile and gastric contents" 220:11 220:17
+c="gross soilage with bile and gastric contents" 220:11 220:17||r="PIP"||c="peritonitis" 220:9 220:9
+c="an ejection fraction" 36:3 36:5||r="TeRP"||c="chf" 36:1 36:1
+c="left anterior descending artery stent placement" 35:17 35:22||r="TrAP"||c="coronary artery disease" 35:1 35:3
+c="left anterior descending artery stent placement" 35:17 35:22||r="TrAP"||c="non-st-elevation myocardial infarction" 35:6 35:8
+c="drainage" 220:4 220:4||r="TrAP"||c="intra-abdominal abscess" 220:6 220:7
+c="drainage" 220:4 220:4||r="TrAP"||c="peritonitis" 220:9 220:9
+c="drainage" 220:4 220:4||r="TrAP"||c="gross soilage with bile and gastric contents" 220:11 220:17
+c="new inferior and inferolateral wall motion abnormalities" 88:0 88:6||r="PIP"||c="more severe mitral regurgitation" 88:8 88:11
+c="coronary angiography" 90:1 90:2||r="TeRP"||c="single vessel disease in a right dominant system" 90:4 90:11
+c="resting regional wall motion abnormalities" 78:0 78:4||r="PIP"||c="inferolateral , inferior and mid septal hypokinesis" 78:6 78:12
+c="exposure" 22:1 22:1||r="TrAP"||c="perforated posterior duodenal ulcer" 22:6 22:9
+c="creatinine" 99:15 99:15||r="TeRP"||c="moderate renal insufficiency" 99:11 99:13
+c="a pa" 97:6 97:7||r="TeRP"||c="moderate pulmonary hypertension" 97:0 97:2
+c="a mean ra pressure" 96:12 96:15||r="TeRP"||c="elevated right and left sided filling pressures" 96:4 96:10
+c="resting hemodynamics" 96:1 96:2||r="TeRP"||c="elevated right and left sided filling pressures" 96:4 96:10
+c="a mean wedge pressure" 96:21 96:24||r="TeRP"||c="elevated right and left sided filling pressures" 96:4 96:10
+c="a mechanical fall" 27:11 27:13||r="PIP"||c="a hip and arm fracture" 27:18 27:22
+c="left ventricular systolic function" 77:1 77:4||r="TeRP"||c="mildly depressed" 77:6 77:7
+c="ctropnt" 134:1 134:1||r="TeRP"||c="acute mi" 134:6 134:7
+c="ct of head and neck" 33:0 33:4||r="TeRP"||c="dislocation" 33:12 33:12
+c="ct of head and neck" 33:0 33:4||r="TeRP"||c="fx" 33:7 33:7
+c="ct of head and neck" 33:0 33:4||r="TeRP"||c="bleed" 33:9 33:9
+c="prednisone" 216:4 216:4||r="TrAP"||c="pmr" 216:1 216:1
+c="perforation" 196:30 196:30||r="PIP"||c="free air and free fluid in the pelvis and abdomen" 196:5 196:14
+c="glipizide" 215:3 215:3||r="TrAP"||c="dm" 215:1 215:1
+c="orthopedic hardware" 194:21 194:22||r="TrCP"||c="beam hardening artifact" 194:24 194:26
+c="ppi" 214:3 214:3||r="TrAP"||c="gerd" 214:1 214:1
+c="fixation" 200:7 200:7||r="TrAP"||c="right proximal humeral fracture" 200:1 200:4
+c="a mechanical fall" 206:7 206:9||r="PIP"||c="a hip and arm fracture" 206:14 206:18
+c="ekg" 70:12 70:12||r="TeRP"||c="1st deg block" 70:17 70:19
+c="ekg" 70:12 70:12||r="TeRP"||c="new twi inf/lat leads" 70:23 70:26
+c="ekg" 70:12 70:12||r="TeRP"||c="new st depressions v4-6" 70:28 70:31
+c="ekg" 70:12 70:12||r="TeRP"||c="lad" 70:21 70:21

@@ -1,0 +1,53 @@
+665274856 DH
+8857051
+631167
+8210311
+3/2/2004 12:00:00 AM
+ED Discharge Summary
+Revised
+DIS
+Report Status :
+Revised
+ED DISCHARGE NOTIFICATION / SUMMARY
+SAPA , LEAY
+MRN :
+8857051
+Age :
+44y
+REGISTRATION DATE :
+03/02/2004 06:51 AM
+Provider :
+NANSO GOINGNETHBUMPS
+PRELIMINARY REPORT Revised with Addendum :
+3/3/04 5:33:43 PM
+PCP notified by MD :
+Yes - Direct contact with PCP
+Benefits Assigned :
+N
+Discharge Date / Time :
+03/02/2004 14:44
+Discharge Status :
+Discharged
+Condition on Discharge :
+Stable
+Patient States Complaint :
+EPIGASTRIC PAIN
+Diagnosis :
+pancreatitis , dyspepsia
+Treatment Rendered :
+pain control
+Discharge Medications :
+prilosec 20 mg twice a day percocet 1-2 tablets every 6 hours as needed for pain maalox as needed
+Follow up Service :
+Maintain your appointments with oncology and gastroenterology .
+Disposition , Follow up and Instructions to Patient :
+If you have worsening symptoms or continued vomiting you should return as this may be indicative of worsening pancreatitis , which would require bowel rest and intravenous pain medication .
+Other worrisome symptoms that would warrant re-evaluation include blood in your vomit or stool , lightheadedness or fainting .
+PCP Name :
+DREWE , ALVEIE S
+Provider Number :
+64702
+This report was created by GOINGNETHBUMPS , NANSO 03/02/2004 02:48 PM
+Addendum Section Progress Note :
+I reviewed urinalysis which shows 10-20 wbc &apos;s called pt who reports she was given script for 2 cipro pills and has follow up next week .
+Ch Jove RN , ED Access - Jove - 3/3/04 5:33:43 PM

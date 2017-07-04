@@ -1,0 +1,42 @@
+884948991
+PUOMC
+6857671
+91825/q468
+156535
+5/23/1995 12:00:00 AM
+RENAL CELL CARCINOMA .
+Unsigned
+DIS
+Report Status :
+Unsigned
+ADMISSION DATE :
+5/23/95
+DISCHARGE DATE :
+5/30/95
+PRINCIPAL DIAGNOSIS :
+Renal cell carcinoma .
+ASSOCIATED DIAGNOSIS :
+Hypertension .
+PRINCIPAL PROCEDURE :
+Right radical nephrectomy on 5/23/95 .
+MEDICATIONS ON DISCHARGE :
+Percocet .
+HISTORY OF PRESENT ILLNESS :
+This 60 year old female presents with a mass in her right kidney and she was admitted a Same Day admit for right radical nephrectomy .
+This was carried out uneventfully , and pathology revealed a renal cell carcinoma .
+Postoperatively , she had a rather prolonged episode of ileus .
+She also had some respiratory problems requiring formal chest physical therapy and otherwise did quite well .
+Her postoperative creatinine was 0.8 .
+Electrolytes were 135 , 4.5 , chloride 101 , CO2 31 , hematocrit 34.8 .
+Preoperative evaluation revealed bone scan with no evidence of metastatic disease .
+Electrocardiogram showed sinus bradycardia .
+She will be follow up as an outpatient after her discharge .
+NAMAIREGID SHUFF , M.D.
+TR :
+pq / bmot
+DD :
+6/5/95
+TD :
+06/09/95
+CC :
+Dr. The Vein

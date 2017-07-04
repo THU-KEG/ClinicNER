@@ -1,0 +1,50 @@
+182104879
+CTMC
+52958515
+236384
+4/16/2000 12:00:00 AM
+CHRONIC RENAL FAILURE
+Signed
+DIS
+Admission Date :
+04/16/2000
+Report Status :
+Signed
+Discharge Date :
+04/19/2000
+HISTORY OF PRESENT ILLNESS :
+Ms. Ere is a 60 year old lady with end-stage renal disease secondary to diabetes who was on hemodialysis since 1996 .
+PAST MEDICAL HISTORY :
+1. Insulin-dependent diabetes .
+2. Hypertension .
+3. Coronary artery disease with single-vessel disease demonstrated by cardiac catheterization in 1997 .
+5. The patient is legally blind due to retinal neuropathy .
+6. Status post right inguinal fracture .
+7. Status post THA in 1987 .
+8. Asthma , no inhalers .
+ALLERGIES :
+Aspirin as well as Ancef .
+SOCIAL HISTORY :
+Remote smoking history .
+No alcohol use .
+HOSPITAL COURSE :
+The patient was admitted to the hospital on 04/16/00 and underwent an uneventful living related transplant on 04/17/00 per Dr. Kote .
+Postoperatively the patient did well .
+On postoperative day #1 did complain of a little nausea and vomiting , however , on postop day #2 patient was found unresponsive at 7:30 .
+Code Blue was called .
+Cardiopulmonary resuscitation was begun , protocol followed .
+The patient never regained a pulse .
+Her rhythm was in asystole as well as line B-fib .
+The patient subsequently expired on postoperative day #2 .
+An autopsy was refused by the family .
+Dictated By :
+RAMAG L. TROISQUARCKAYS , M.D.
+Attending :
+TOMEDANKELL FLOWAYLES , M.D. SI00 WO097/2926
+Batch :
+27897
+Index No. ECLH84D9K5
+D :
+05/06/00
+T :
+05/08/00

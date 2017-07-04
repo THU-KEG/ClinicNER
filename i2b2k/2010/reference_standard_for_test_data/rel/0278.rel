@@ -1,0 +1,29 @@
+c="an iron lung" 78:16 78:18||r="TrAP"||c="vent dependent" 78:13 78:14
+c="erythro" 73:20 73:20||r="TrCP"||c="nausea" 73:22 73:22
+c="erythro" 73:20 73:20||r="TrCP"||c="allergies" 73:10 73:10
+c="allergies" 73:10 73:10||r="PIP"||c="rash" 73:14 73:14
+c="allergies" 73:10 73:10||r="PIP"||c="hives" 73:18 73:18
+c="allergies" 73:10 73:10||r="PIP"||c="nausea" 73:22 73:22
+c="allergies" 73:10 73:10||r="PIP"||c="nausea" 73:26 73:26
+c="allergies" 73:10 73:10||r="PIP"||c="rash" 73:30 73:30
+c="bactrim" 73:16 73:16||r="TrCP"||c="hives" 73:18 73:18
+c="bactrim" 73:16 73:16||r="TrCP"||c="allergies" 73:10 73:10
+c="palpation at llq" 84:12 84:14||r="TeRP"||c="tenderness" 84:10 84:10
+c="levo" 94:2 94:2||r="TrAP"||c="uti" 94:8 94:8
+c="levo" 94:2 94:2||r="TrAP"||c="pyuria" 94:10 94:10
+c="exam" 84:0 84:0||r="TeRP"||c="hyperactive bowel sounds" 84:3 84:5
+c="exam" 84:0 84:0||r="TeRP"||c="abd distention" 84:7 84:8
+c="exam" 84:0 84:0||r="TeRP"||c="tenderness" 84:10 84:10
+c="ceclor" 73:24 73:24||r="TrCP"||c="nausea" 73:26 73:26
+c="ceclor" 73:24 73:24||r="TrCP"||c="allergies" 73:10 73:10
+c="clarythro" 73:28 73:28||r="TrCP"||c="rash" 73:30 73:30
+c="clarythro" 73:28 73:28||r="TrCP"||c="allergies" 73:10 73:10
+c="pcn" 73:12 73:12||r="TrCP"||c="rash" 73:14 73:14
+c="pcn" 73:12 73:12||r="TrCP"||c="allergies" 73:10 73:10
+c="tamoxifen" 78:11 78:11||r="TrAP"||c="breast ca" 78:7 78:8
+c="albuterol inhaler" 31:0 31:1||r="TrAP"||c="wheezing" 31:11 31:11
+c="albuterol inhaler" 31:0 31:1||r="TrAP"||c="shortness of breath" 31:7 31:9
+c="distended right colon" 86:10 86:12||r="PIP"||c="ileus" 86:15 86:15
+c="abd ct" 86:0 86:1||r="TeRP"||c="ileus" 86:15 86:15
+c="abd ct" 86:0 86:1||r="TeRP"||c="distended right colon" 86:10 86:12
+c="1mag citrate ( citrate of magnesia )" 33:0 33:6||r="TrAP"||c="constipation" 33:12 33:12

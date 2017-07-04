@@ -1,0 +1,30 @@
+c="cad" 127:1 127:1||r="PIP"||c="anginal symptoms" 127:5 127:6
+c="cad" 127:1 127:1||r="PIP"||c="ekg changes" 127:8 127:9
+c="cad" 127:1 127:1||r="PIP"||c="stemi" 127:11 127:11
+c="cad" 127:1 127:1||r="PIP"||c="lesions in lad , lcx , and plb" 127:18 127:25
+c="ekg changes" 127:8 127:9||r="PIP"||c="anginal symptoms" 127:5 127:6
+c="ekg changes" 127:8 127:9||r="PIP"||c="stemi" 127:11 127:11
+c="stent to lad" 18:7 18:9||r="TrAP"||c="cad" 18:5 18:5
+c="phentolamine" 142:18 142:18||r="TrAP"||c="chest pain" 142:20 142:21
+c="proximal lad" 91:1 91:2||r="TeRP"||c="ulcerated" 91:4 91:4
+c="lipitor" 147:4 147:4||r="TrAP"||c="hyperlipidemia" 147:1 147:1
+c="cardiac catheterization" 127:15 127:16||r="TeRP"||c="lesions in lad , lcx , and plb" 127:18 127:25
+c="severe global left ventricular hypokinesis" 110:2 110:6||r="PIP"||c="akinesis" 110:8 110:8
+c="ccb" 142:16 142:16||r="TrAP"||c="chest pain" 142:20 142:21
+c="aspiration" 150:8 150:8||r="PIP"||c="somnolent status" 150:10 150:11
+c="vicodin" 159:2 159:2||r="TrCP"||c="rash" 159:4 159:4
+c="ssi" 141:17 141:17||r="TrAP"||c="dm" 141:1 141:1
+c="ekg" 22:18 22:18||r="TeRP"||c="elevations in the anterior leads ( v2-5 )" 22:25 22:32
+c="ekg" 22:18 22:18||r="TeRP"||c="some st depressions in ii , iii , avf" 22:34 22:42
+c="ciwa" 145:10 145:10||r="TeCP"||c="withdrawal" 145:14 145:14
+c="metformin" 141:4 141:4||r="TrAP"||c="dm" 141:1 141:1
+c="this pain" 19:6 19:7||r="PIP"||c="anterior chest pain" 19:12 19:14
+c="this pain" 19:6 19:7||r="PIP"||c="radiation to right shoulder" 19:16 19:19
+c="ativan" 145:16 145:16||r="TrAP"||c="withdrawal" 145:14 145:14
+c="overall left ventricular systolic function" 111:0 111:4||r="TeRP"||c="severely depressed" 111:6 111:7
+c="ef" 134:3 134:3||r="TeCP"||c="chf" 134:1 134:1
+c="mi" 30:4 30:4||r="PIP"||c="cad" 30:1 30:1
+c="lasix" 134:11 134:11||r="TrAP"||c="chf" 134:1 134:1
+c="echo" 134:6 134:6||r="TeCP"||c="chf" 134:1 134:1
+c="stenting of lad" 30:8 30:10||r="TrAP"||c="cad" 30:1 30:1
+c="stenting of lad" 30:8 30:10||r="TrAP"||c="mi" 30:4 30:4

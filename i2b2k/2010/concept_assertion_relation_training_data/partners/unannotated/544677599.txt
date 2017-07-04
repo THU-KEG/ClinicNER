@@ -1,0 +1,112 @@
+544677599
+CTMC
+73857414
+176065
+10/10/1991 12:00:00 AM
+Discharge Summary
+Unsigned
+DIS
+Admission Date :
+10/10/1991
+Report Status :
+Unsigned
+Discharge Date :
+10/11/1991
+DISCHARGE DIAGNOSIS :
+RECURRENT STAGE 1B CERVICAL CANCER .
+ASSOCIATED DIAGNOSES :
+BONE METASTASES .
+ANEMIA .
+PERINEAL RASH .
+OPERATIONS AND PROCEDURES :
+1) Bone scan .
+2) Blood transfusion .
+3) Radiation Therapy consultation .
+4) Dermatology consultation .
+5) Im Villtro University Medical Center Medical Oncology consultation .
+HISTORY OF PRESENT ILLNESS :
+The patient is a 39 year old white female , gravida I , para l , with a history of recurrent stage lB cervical carcinoma .
+She was originally diagnosed with cervical cancer in May of l989 .
+She was staged as lB and pathology showed a small cell neuroendocrine tumor of the cervix .
+She underwent a radical hysterectomy .
+There were positive margins and positive nodes .
+in December of l990 , she had a vaginal apex mass on examination .
+Cystoscopy and proctoscopy were negative .
+A CT , however , confirmed a large pelvic mass with bilateral hydronephrosis .
+A biopsy of the mass revealed poorly differentiated metastatic small cell neuroendocrine tumor .
+Between March and May of l990 , she received two cycles of chemotherapy in two parts alternating Cisplatin and VP-l6 with Vincristine , Cytoxan , and Adriamycin .
+In June of l990 , she underwent radiation therapy and in July of l99l , a right ventriculogram showed an ejection fraction of 48% .
+Her chemotherapy was then changed to a single agent of Cytoxan .
+Also in July of l99l , she had right hip pain .
+There was a bony metastasis .
+Orthopedic Surgeons did an open reduction and internal fixation of a lytic lesion involving the right femur .
+On July 30 through August 4 of l99l , she received her first cycle of Ifosfamide and Mesna .
+She had prolonged neutropenia and on August 28 , she was admitted with a headache .
+CT scan at that time was normal .
+She had non-focal findings per the Neurology Service .
+On September 6 , she began the next cycle of second line chemotherapy consisting of Carboplatin , Ifosfamide , and Mesna .
+Since the last cycle of chemotherapy , she has had continued right hip pain and right mid lateral abdominal discomfort .
+She also had complaint of a left perineal rash over the last two weeks .
+She was started on Zovirax on October 3 .
+She presents for a bone scan , blood transfusion , and consideration of her third cycle of second line chemotherapy .
+PAST MEDICAL HISTORY :
+As above .
+PAST SURGICAL HISTORY :
+Radical hysterectomy in May of l989 , open reduction and internal fixation of femur in July of l99l , and examination under anesthesia , cystoscopy , and proctoscopy in December of l990 .
+PAST OBSTETRICAL HISTORY :
+Spontaneous vaginal delivery times three .
+CURRENT MEDICATIONS :
+Zovirax 200 mg five times daily , Methadone 50 mg t.i.d. , and Ativan p.r.n.
+PHYSICAL EXAMINATION :
+Blood pressure was ll0/70 , heart rate 84 , and temperature 97.4 .
+HEENT :
+No thyromegaly .
+CHEST :
+Clear to auscultation .
+HEART :
+Regular rate and rhythm .
+there was no distinct costovertebral angle tenderness .
+ABDOMEN :
+Slightly distended .
+There was mild tenderness to palpation in the right mid lateral abdomen .
+There were no peritoneal signs and no guarding .
+There were normal bowel sounds .
+EXTREMITIES :
+Without edema .
+PELVIC :
+By Dr. Friednantflirt revealed regrowth of the pelvic tumor .
+There was a dry scaly rash with multiple small scabs on the left perineum and posterior thigh .
+LABORATORY EXAMINATION :
+Her electrolytes were within normal limits , her BUN was ll , and creatinine was 0.8 .
+Her ALT was l0 , total bilirubin 0.4 , and magnesium was l.8 .
+Her admission CBC revealed a white blood count of 2.27 , with 56 polys and 3 bands .
+Her hematocrit was 22.9 and platelets were l24 .
+HOSPITAL COURSE :
+The patient was admitted for bone scan and blood transfusion as well as consideration of further chemotherapy .
+The bone scan was performed which revealed multiple metastases to the spine , ribs , and skull .
+There was noted , however , to be new pain in the right shoulder and , in fact , there was a lytic lesion involving the right shoulder and femur .
+Plain film revealed a moth-eaten appearance consistent with probable new metastases .
+The Radiation Service was consulted and noted that past areas treated including her right femur , her thoracic spine , pelvis , and right posterior ribs had all responded to radiation therapy and agreed that treating the right shoulder humerus and the right hip which had not been previously treated was reasonable .
+Planning for further radiation therapy was arranged for next week by the Radiation Service .
+She was also seen by the Dermatology Service who examined the rash and felt it was most likely a contact dermatitis .
+She was given Synalar Cream and Eucerin Cream as a moisturizer .
+The patient also received a unit of donor direct blood .
+Due to Dr. Friednantflirt &apos;s concern that the tumor was growing despite the available chemotherapeutic regimen , the Im Villtro University Medical Center Medical Oncology Service was consulted .
+They noted , as well , that she had failed the most active agents against small cell carcinomas .
+However , they felt that at the Venbonlea Health , there were several possible options including a possible phase I trial regimen .
+The plan at this time was made to further consider the options and the patient will follow-up with Im Villtro University Medical Center next week .
+On the evening of 12/26/06 , the patient was discharged home in stable condition .
+DISPOSITION :
+DISCHARGE MEDICATIONS :
+Methadone l5 mg p.o. t.i.d. , Synalar Cream b.i.d. , and Eucerin Cream .
+SB325/2198 LAKO C. SCARVTWI , M.D. TH0
+D :
+10/12/91
+Batch :
+9322
+Report :
+H2385G4
+T :
+10/14/91
+Dicatated By :
+DALBEET B. GLOTZ , JR , M.D. VE96

@@ -1,0 +1,109 @@
+Admission Date :
+2013-04-25
+Discharge Date :
+2013-05-11
+Date of Birth :
+1963-05-10
+Sex :
+M
+Service :
+CMED CSRU
+CHIEF COMPLAINT :
+Cardiac arrest .
+HISTORY OF PRESENT ILLNESS :
+The patient is a 49 year old man who was admitted to the Medical Intensive Care Unit status post cardiac arrest .
+History was obtained per the Emergency Department report as well as from the patient 's family .
+Information was very limited regarding the circumstances of his cardiac arrest .
+Reportedly , the patient was at a local restaurant where he was noted to be unresponsive .
+EMS was called and reported to arrive on scene within three minutes .
+The patient was asystolic but regained a perfusing rhythm after 2 mg of Epinephrine and 2 mg of Atropine .
+He was intubated in the field and brought to the Emergency Department .
+He remained unresponsive despite the administration of Narcan .
+CT examinations of the head , chest , abdomen and pelvis were all unremarkable .
+Initial chest x-ray showed a left retrocardiac opacity and prominent interstitium though his lung volumes were low .
+Subsequent chest x-ray showed right main stem intubation with left lung collapse which had corrected with withdrawal of the endotracheal tube .
+The patient was then transferred to the Medical Intensive Care Unit for induced hypothermia given his hemodynamic stability , ongoing unresponsiveness and recent out of hospital cardiac arrest .
+PAST MEDICAL HISTORY :
+1) Hypertension .
+2) Chronic low back pain , s/p lumbar discectomy x 2 .
+3) Cirrhosis .
+4) h/o stab wound complicated by pneumothorax .
+5) h/o lower extremity cellulitis .
+6) s/p cholecystectomy .
+7) Peripheral neuropathy .
+ALLERGIES :
+No known drug allergies .
+MEDICATIONS ON ADMISSION :
+According to his pharmacy , he was on :
+1. OxyContin 40 mg p.o. q 12hours .
+2. Percocet .
+3. Nortriptyline .
+4. Neurontin 1800 mg four times a day
+SOCIAL HISTORY :
+The patient is divorced .
+His son is a policeman working in Ludlow .
+He drinks greater than one case of beer per day .
+He has a history of abuse of Percocet according to his brother .
+James is currently homeless .
+He was recently arrested for altering a prescription according to his pharmacy .
+He had recently filled a prescription for 560 tablets of Percocet as well as 60 tablets of OxyContin early last month .
+FAMILY HISTORY :
+Negative for any history of sudden death or coronary artery disease .
+PHYSICAL EXAMINATION :
+On admission , temperature was 96.2 , blood pressure 150/80 , heart rate 92 , respiratory rate 16 .
+In general , he was unarousible , intubated , not on any sedation .
+Head , eyes , ears , nose and throat - His pupils were equal and three millimeters .
+They were minimally reactive .
+His sclerae were anicteric .
+The cardiac examination was unremarkable without murmurs .
+The lungs were clear to auscultation bilaterally .
+His abdomen had normal bowel sounds , soft and nontender .
+Extremities had multiple bilateral lower extremity excoriations .
+Neurologic examination - he was unarousible and without sedation .
+He had no spontaneous movements .
+Flaccid .
+Extremities - Babinski reflex was equivocal bilaterally .
+LABORATORY DATA :
+At the time of admission , laboratories were remarkable for a partial thromboplastin time of 31.7 , INR 1.4 , potassium 3.2 , glucose 182 , lactate was initially 6.6 .
+Urine toxicology screen was negative .
+Serum toxicology screen was positive for TCA s.
+Tylenol level was 15 .
+Alcohol level was 199 .
+Initial blood gas was 7.31/46/500/77 .
+HOSPITAL COURSE :
+Cardiac arrest - His arrest was of unknown etiology at the time of admission .
+No further history was ever gained about his cardiac arrest throughout his hospitalization .
+CT angiogram had been negative for pulmonary embolism .
+The patient had an echocardiogram on 2013-04-26 , which showed a normal ejection fraction and trivial mitral regurgitation ; otherwise no obvious abnormalities were seen .
+Given the patient had an out of hospital arrest , remained unresponsive despite hemodynamic stability , he was treated with induced hypothermia and with cold packs and a cooling blanket were placed with goals of reducing his core body temperature to 32 degrees Celsius for a period of twelve hours at which point he would be rewarmed over the subsequent six hours .
+This was done , however , as in problem number two below , we were not successful in any neurologic recovery .
+Neurology - The patient remained unresponsive after the induced hypothermia , the patient was noticed to develop myoclonic jerks and occasional fluttering of his eyelids .
+Electroencephalogram revealed the patient was experiencing persistent seizure activity .
+Neurology was consulted and the patient was treated very aggressively , loaded with multiple drugs , including Ativan and Propofol drips .
+The patient continued to demonstrate seizure activity despite this .
+He was loaded with Dilantin and ultimately was treated with a Pentobarb coma .
+After multiple attempts of weaning the Pentobarb , the patient was continually reverting to status epilepticus which was never able to be suppressed .
+Infectious disease - Over the course of his hospital stay , the patient 's white blood cell count rose to a peak of 17 .
+Multiple cultures were done and the patient was ultimately found to have methicillin resistant Staphylococcus aureus bacteremia , pneumonia , and urinary tract infection .
+For all these infections , the patient was treated with Vancomycin and he was also on Levofloxacin and Flagyl for presumed aspiration pneumonia at the time of his admission .
+Blood cultures cleared by 2013-05-03 .
+Sputum culture as late as 2013-05-10 , however was still positive for coagulase positive Staphylococcus which was methicillin resistant Staphylococcus aureus .
+The patient remained gravely ill throughout his hospital stay and had multiple meetings were held with his family with his son being his next of kin .
+Ultimately it was decided that the patient 's wishes would be to not be maintained in a vegetative state and given his poor prognosis ultimately the decision was made to pursue comfort measures only .
+With these goals of care , the patient expired on 2013-05-11 .
+The family did consent to a postmortem examination .
+DISCHARGE DIAGNOSES :
+Cardiac arrest .
+Anoxic brain injury
+Status epilepticus
+Methicillin resistant Staphylococcus aureus pneumonia .
+MRSA urinary tract infection .
+MRSA Bacteremia .
+Steven Welch , Montana 61528
+Dictated By : Julie DD George , M.D.
+MEDQUIST36
+D : 2013-12-24 13:55:05
+T : 2013-12-24 20:47:07
+Job #: 52892
+Signed electronically by : DR. Patricia Henley on : Maxine 2014-01-02 10:45 AM
+( End of Report )

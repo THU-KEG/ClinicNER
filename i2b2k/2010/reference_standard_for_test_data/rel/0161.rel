@@ -1,0 +1,55 @@
+c="iv tpa thrombolytics" 94:2 94:4||r="TrAP"||c="symptom onset" 94:11 94:12
+c="warfarin" 99:27 99:27||r="TrAP"||c="future strokes" 99:31 99:32
+c="warfarin" 99:27 99:27||r="TrAP"||c="the severe akinesis of the left ventricle" 99:13 99:19
+c="previous stroke" 113:8 113:9||r="PIP"||c="right side facial droop" 113:3 113:6
+c="resting regional wall motion abnormalities" 83:0 83:4||r="PIP"||c="apical dyskinesis" 83:6 83:7
+c="resting regional wall motion abnormalities" 83:0 83:4||r="PIP"||c="distal inferior and inferolateral wall akinesis" 83:16 83:21
+c="tte" 96:11 96:11||r="TeCP"||c="embolic etiology" 96:3 96:4
+c="embolic etiology" 96:3 96:4||r="PIP"||c="infarct" 96:6 96:6
+c="multiple vascular risk factors" 19:7 19:10||r="PIP"||c="2 previous strokes" 19:13 19:15
+c="multiple vascular risk factors" 19:7 19:10||r="PIP"||c="two myocardial infarctions" 19:17 19:19
+c="multiple vascular risk factors" 19:7 19:10||r="PIP"||c="hypertension" 19:21 19:21
+c="multiple vascular risk factors" 19:7 19:10||r="PIP"||c="hypercholesterolemia" 19:23 19:23
+c="touch" 55:5 55:5||r="TeRP"||c="dense loss" 55:2 55:3
+c="his home hypertensive medications" 109:0 109:3||r="TrNAP"||c="further ischemia" 109:17 109:18
+c="his previous strokes" 112:11 112:13||r="PIP"||c="his gait difficulties" 112:7 112:9
+c="limited" 59:7 59:7||r="PIP"||c="weakness" 59:12 59:12
+c="tpa" 92:36 92:36||r="TrNAP"||c="symptoms" 92:20 92:20
+c="word finding difficulties" 113:18 113:20||r="PIP"||c="anterior aphasia" 113:15 113:16
+c="mri" 93:0 93:0||r="TeRP"||c="diffusion abnormalities" 93:5 93:6
+c="mri" 93:0 93:0||r="TeRP"||c="hyperintensity" 93:9 93:9
+c="aspirin" 99:7 99:7||r="TrWP"||c="the stroke" 99:2 99:3
+c="left mca stroke" 28:2 28:4||r="PIP"||c="right facial droop" 28:8 28:10
+c="plavix" 99:9 99:9||r="TrWP"||c="the stroke" 99:2 99:3
+c="echo" 98:0 98:0||r="TeRP"||c="emboli" 98:7 98:7
+c="echo" 98:0 98:0||r="TeRP"||c="striking left ventricle akinesis" 98:11 98:14
+c="echo" 98:0 98:0||r="TeRP"||c="hypokinesis" 98:16 98:16
+c="acute left mca infarct" 90:18 90:21||r="PIP"||c="dysarthria" 90:13 90:13
+c="acute left mca infarct" 90:18 90:21||r="PIP"||c="acute onset right-sided hemiparesis" 90:8 90:11
+c="acute left mca infarct" 90:18 90:21||r="PIP"||c="aphasia" 90:15 90:15
+c="acute left mca infarct" 90:18 90:21||r="PIP"||c="multiple vascular risk factors" 90:2 90:5
+c="head ct" 91:11 91:12||r="TeRP"||c="bleed" 91:17 91:17
+c="head ct" 91:11 91:12||r="TeRP"||c="symptom onset" 91:8 91:9
+c="anticoagulation" 99:25 99:25||r="TrAP"||c="future strokes" 99:31 99:32
+c="anticoagulation" 99:25 99:25||r="TrAP"||c="the severe akinesis of the left ventricle" 99:13 99:19
+c="carotid doppler" 96:8 96:9||r="TeCP"||c="embolic etiology" 96:3 96:4
+c="a1c" 107:14 107:14||r="TeRP"||c="slightly elevated" 107:16 107:17
+c="a1c" 107:14 107:14||r="TeRP"||c="diabetes" 107:5 107:5
+c="his depakote" 102:0 102:1||r="TrAP"||c="his bipolar disorder" 102:5 102:7
+c="mi" 29:3 29:3||r="PIP"||c="cad" 29:1 29:1
+c="t2 / flair imaging" 93:11 93:14||r="TeRP"||c="hyperintensity" 93:9 93:9
+c="past mi" 98:20 98:21||r="PIP"||c="hypokinesis" 98:16 98:16
+c="past mi" 98:20 98:21||r="PIP"||c="striking left ventricle akinesis" 98:11 98:14
+c="drugs" 12:8 12:8||r="TrCP"||c="known allergies" 12:5 12:6
+c="cabg" 29:6 29:6||r="TrAP"||c="cad" 29:1 29:1
+c="fasting glucose" 107:8 107:9||r="TeCP"||c="diabetes" 107:5 107:5
+c="evaluation" 138:15 138:15||r="TeCP"||c="problems with speech" 138:1 138:3
+c="evaluation" 138:15 138:15||r="TeCP"||c="weakness" 138:5 138:5
+c="acute infarct" 67:16 67:17||r="PIP"||c="restricted diffusion in left frontotemporal region" 67:0 67:5
+c="doppler" 97:0 97:0||r="TeRP"||c="hemodynamically significant lesions bilaterally" 97:3 97:6
+c="finger to nose" 59:3 59:5||r="TeRP"||c="limited" 59:7 59:7
+c="outpatient pt" 112:2 112:3||r="TrAP"||c="his gait difficulties" 112:7 112:9
+c="residual deficits" 113:0 113:1||r="PIP"||c="right side facial droop" 113:3 113:6
+c="residual deficits" 113:0 113:1||r="PIP"||c="moderately severe dysarthria" 113:11 113:13
+c="residual deficits" 113:0 113:1||r="PIP"||c="anterior aphasia" 113:15 113:16
+c="residual deficits" 113:0 113:1||r="PIP"||c="word finding difficulties" 113:18 113:20

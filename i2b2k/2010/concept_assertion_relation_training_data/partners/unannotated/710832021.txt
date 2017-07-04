@@ -1,0 +1,79 @@
+710832021
+PUOMC
+9066323
+61664
+619530
+8/29/1997 12:00:00 AM
+HEART FAILURE .
+PULMONARY HYPERTENSION .
+MITRAL
+Unsigned
+DIS
+Report Status :
+Unsigned
+DISCHARGE SUMMARY
+NAME :
+ZISK , MAPI T
+UNIT NUMBER :
+093-80-10
+ADMISSION DATE :
+08/29/97
+DISCHARGE DATE :
+09/06/97
+PRINCIPAL DIAGNOSIS :
+Heart failure .
+Pulmonary hypertension .
+Mitral stenosis .
+Staphylococcus aureus .
+Bacteremia .
+Heparin induced thrombocytopenia .
+PRINCIPAL PROCEDURE :
+Echocardiogram which showed a mitral valve area 1.1cm2 , a mean gradient of 6 , mild mitral regurgitation , normal left ventricular function , moderate to severe tricuspid regurgitation , pulmonary hypertension , right ventricular systolic pressure of 60 , and right ventricular diffusely hypokinetic .
+HISTORY OF PRESENT ILLNESS :
+The patient is 57 years old with a history of a rheumatic heart , mitral stenosis , pulmonary hypertension who was transferred to Ph University Of Medical Center from E Health for evaluation of possible mitral valve prolapseplasty .
+HOSPITAL COURSE AND TREATMENT :
+Issues on admission :
+1. She has severe heart failure which improved with Lasix .
+On 8/29 her weight was 148lb and on 9/1 her weight improved to 143lb and her symptoms improved also .
+The patient was also on Flolan .
+2. The patient had atrial fibrillation on admission which improved with Verapamil .
+3. The patient on admission had thrombocytopenia which was due to Heparin and also maculopapular rash due to Heparin .
+Hematology was consult and the thrombocytopenia was likely due to Heparin .
+The Heparin was stopped and Coumadin was started .
+Her platelet count went up from 52 on admission to 88 on 9/5/97 .
+4. Staploccocus aureus bacteremia .
+The patient was treated with Vancomycin for 5-6 weeks until 9/29/97 before an valvuloplasty can be done .
+The patient also had right upper quadrant pain during hospitalization at Ph University Of Medical Center .
+The patient had a Hiter scan which was negative and it was thought that the right upper quadrant pain was due to liver congestion .
+Also the patient developed some wheezes due to beta-blockers and the patient was continued on Verapamil and inhalers were given .
+The condition of the patient improved clinically and on discharge on Labor Day the patient was stable .
+PHYSICAL EXAMINATION :
+On physical exam the patient was alert and oriented x 3 .
+JVD elevated 72mm of H20 .
+She had bilateral crackles on lung exam .
+Her heart exam revealed an irregular rhythm with a II over VI diastolic murmur at the apex .
+Her abdomen was positive for an ascitic wave and her extremities showed 2+ edema .
+The patient had dysorthopnia .
+LABORATORY DATA :
+BUN 28 , creatinine 1.5 , hematocrit 32.9 , platelets 52 .
+Her x-ray showed cardiomegaly with haziness at the left base and a left pleural effusion .
+He EKG showed atrial fibrillation with nonspecific changes .
+Right ventricular hypertrophy and right axis deviation .
+DOCTOR &apos;S DISCHARGE ORDERS :
+Continue with Vancomycin until 9/29/97 , presently on hold until the level are rechecked .
+Continue with Coumadin , presently on hold because her INR is 5.6 .
+Continue with Flolan .
+Continue with Lasix 100mg. Continue with Dyuril .
+Continue with inhalers , Albuterol .
+Synthroid .
+Senokot .
+Colace .
+DUMP , M.D. DICTATING FOR RENLAN FYFEZEIS , M.D.
+TR :
+ng
+DD :
+09/06/97
+TD :
+09/06/97 12:39 P
+cc :
+RENLAN N FYFEZEIS , M.D. DR. DUMP , PUOMC STAT

@@ -1,0 +1,29 @@
+070203832 DH
+8446543
+678338
+6804475
+4/2/2003 12:00:00 AM
+ED Discharge Summary
+Unsigned
+DIS
+Report Status :
+Unsigned
+ED DISCHARGE NOTIFICATION
+GUYNLUDZ , STASIERDI
+MRN :
+8446543
+Age :
+56y
+REGISTRATION DATE :
+04/02/2003 07:18 AM
+PRELIMINARY REPORT
+This is to notify you that your patient , GUYNLUDZ , STASIERDI arrived in the Emergency Department at Daughtersvillshamen&apos;s Hospital on 04/02/2003 07:18 AM .
+The patient presented with a chief complaint of ABD PAIN .
+Following evaluation and treatment , the patient &apos;s disposition at the end of the visit was ADMITTED TO OBSERVATION AT DAUGHTERSVILLSHAMEN&apos;S HOSPITAL .
+The patient &apos;s preliminary admitting physician is SHUFFCURB , PERMA H and the preliminary diagnosis is CHEST PAIN .
+Please note this information may have been updated on the inpatient unit .
+If you need additional information please call 613-870-0699 .
+PCP Name :
+FYFE , PRERICK A
+Provider Number :
+06880

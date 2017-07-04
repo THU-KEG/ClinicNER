@@ -1,0 +1,92 @@
+c="trilobar pneumonia" 160:7 160:8||r="PIP"||c="adult respiratory distress syndrome" 160:16 160:19
+c="trilobar pneumonia" 160:7 160:8||r="PIP"||c="the multi-organ system failure syndrome" 160:21 160:25
+c="maximal supports" 159:1 159:2||r="TrWP"||c="hypotensive" 159:8 159:8
+c="his profound liver failure" 158:4 158:7||r="PIP"||c="rising ammonias" 158:9 158:10
+c="his profound liver failure" 158:4 158:7||r="PIP"||c="hepatic encephalopathy" 158:12 158:13
+c="ceftriaxone" 157:8 157:8||r="TrAP"||c="meningitis" 157:10 157:10
+c="ceftriaxone" 157:8 157:8||r="TrAP"||c="sinusitis" 157:12 157:12
+c="valium" 37:18 37:18||r="TrAP"||c="a seizure" 37:5 37:6
+c="the electrocardiogram" 92:0 92:1||r="TeRP"||c="a prolonged qt" 92:9 92:11
+c="the head , eyes , ears , nose , throat exam" 56:0 56:10||r="TeRP"||c="trauma" 56:15 56:15
+c="the head , eyes , ears , nose , throat exam" 56:0 56:10||r="TeRP"||c="minimally reactive" 56:26 56:27
+c="the head , eyes , ears , nose , throat exam" 56:0 56:10||r="TeRP"||c="erythema" 56:36 56:36
+c="the head , eyes , ears , nose , throat exam" 56:0 56:10||r="TeRP"||c="anicteric" 56:39 56:39
+c="the femoral lines" 149:8 149:10||r="TrCP"||c="his profound hypertension" 149:15 149:17
+c="the femoral lines" 149:8 149:10||r="TrCP"||c="coagulase negative staphylococcus" 149:4 149:6
+c="a grade ii / vi systolic murmur" 63:27 63:33||r="PIP"||c="a flow murmur" 63:47 63:49
+c="radiation" 63:43 63:43||r="PIP"||c="a grade ii / vi systolic murmur" 63:27 63:33
+c="a 3 liter bolus" 61:5 61:8||r="TrAP"||c="hypotension" 61:10 61:10
+c="a 3 liter bolus" 61:5 61:8||r="TrAP"||c="scattered wheezes" 61:2 61:3
+c="the cardiac exam" 63:0 63:2||r="TeRP"||c="s3" 63:23 63:23
+c="the cardiac exam" 63:0 63:2||r="TeRP"||c="s4" 63:25 63:25
+c="the cardiac exam" 63:0 63:2||r="TeRP"||c="a grade ii / vi systolic murmur" 63:27 63:33
+c="the cardiac exam" 63:0 63:2||r="TeRP"||c="radiation" 63:43 63:43
+c="a ct scan" 155:0 155:2||r="TeRP"||c="sphenoid sinusitis" 155:14 155:15
+c="a ct scan" 155:0 155:2||r="TeRP"||c="hemorrhage" 155:9 155:9
+c="nafcillin" 157:6 157:6||r="TrAP"||c="meningitis" 157:10 157:10
+c="nafcillin" 157:6 157:6||r="TrAP"||c="sinusitis" 157:12 157:12
+c="modest palpation in all four quadrants" 68:20 68:25||r="TeRP"||c="tenderness" 68:18 68:18
+c="the musculoskeletal exam" 74:0 74:2||r="TeRP"||c="fasciculations" 74:12 74:12
+c="the musculoskeletal exam" 74:0 74:2||r="TeRP"||c="joint erythema" 74:15 74:16
+c="the musculoskeletal exam" 74:0 74:2||r="TeRP"||c="effusions" 74:19 74:19
+c="the white blood count" 84:34 84:37||r="TeRP"||c="toxic granulations" 84:51 84:52
+c="the vascular exam" 67:0 67:2||r="TeRP"||c="bruits" 67:8 67:8
+c="marked voluntary guarding" 70:2 70:4||r="PIP"||c="rigidity" 70:6 70:6
+c="the urinalysis" 88:0 88:1||r="TeRP"||c="positive occult blood" 88:16 88:18
+c="the urinalysis" 88:0 88:1||r="TeRP"||c="4+ albumin" 88:13 88:14
+c="the urinalysis" 88:0 88:1||r="TeRP"||c="0-5 granular casts" 88:21 88:23
+c="the urinalysis" 88:0 88:1||r="TeRP"||c="5-10 rbcs" 88:25 88:26
+c="the urinalysis" 88:0 88:1||r="TeRP"||c="3-5 wbcs" 88:28 88:29
+c="the sensory exam" 79:0 79:2||r="TeRP"||c="focal deficits" 79:5 79:6
+c="the serum toxicology" 91:0 91:2||r="TeRP"||c="positive" 91:4 91:4
+c="gentamicin" 142:12 142:12||r="TrAP"||c="acinetobacter calcoaceticus subspecies anitratus" 142:3 142:6
+c="ciprofloxacin" 142:10 142:10||r="TrAP"||c="acinetobacter calcoaceticus subspecies anitratus" 142:3 142:6
+c="the genitourinary exam" 71:0 71:2||r="TeRP"||c="nontender" 71:11 71:11
+c="the abdominal ct" 94:0 94:2||r="TeRP"||c="mesenteric adenopathy" 94:4 94:5
+c="the abdominal ct" 94:0 94:2||r="TeRP"||c="hepatosplenomegaly" 94:10 94:10
+c="the abdominal ct" 94:0 94:2||r="TeRP"||c="fatty liver" 94:14 94:15
+c="an i-head ct" 93:0 93:2||r="TeRP"||c="left maxillary sinusitis" 93:7 93:9
+c="an i-head ct" 93:0 93:2||r="TeRP"||c="mild cerebral edema" 93:11 93:13
+c="an i-head ct" 93:0 93:2||r="TeRP"||c="focal hemorrhages" 93:16 93:17
+c="chest x-ray" 95:0 95:1||r="TeRP"||c="early interstitial edema" 95:3 95:5
+c="a heart rate" 26:20 26:22||r="TeRP"||c="tachycardic" 26:18 26:18
+c="a blood pressure" 26:12 26:14||r="TeRP"||c="hypotensive" 26:10 26:10
+c="his diffuse pain" 109:2 109:4||r="PIP"||c="this massive rhabdomyolysis" 109:11 109:13
+c="hypocalcemia" 104:5 104:5||r="PIP"||c="mild electrocardiographic abnormalities" 104:9 104:11
+c="reflexes" 80:0 80:0||r="TeRP"||c="absent in the knees" 80:8 80:11
+c="neuro exam-the" 75:0 75:1||r="TeRP"||c="intermittently responsive" 75:8 75:9
+c="the urinalysis" 112:0 112:1||r="TeRP"||c="marked occult blood" 112:6 112:8
+c="the urinalysis" 112:0 112:1||r="TeRP"||c="4+ albumin" 112:3 112:4
+c="mental status exam" 75:2 75:4||r="TeRP"||c="intermittently responsive" 75:8 75:9
+c="total life support" 162:15 162:17||r="TrWP"||c="refractory hypoxemia" 162:4 162:5
+c="total life support" 162:15 162:17||r="TrWP"||c="hypotension" 162:7 162:7
+c="limited exam" 79:8 79:9||r="TeRP"||c="focal deficits" 79:5 79:6
+c="a liver transplantation" 135:32 135:34||r="TrNAP"||c="his multiple other medical problems" 135:1 135:5
+c="his serum toxicology screens" 138:6 138:9||r="TeRP"||c="positive" 138:11 138:11
+c="multiple lines" 125:13 125:14||r="TrCP"||c="infection" 125:5 125:5
+c="his dic" 120:0 120:1||r="PIP"||c="hepatic failure" 120:6 120:7
+c="his dic" 120:0 120:1||r="PIP"||c="poor endogenous production of clotting factors" 120:11 120:16
+c="his dic" 120:0 120:1||r="PIP"||c="fresh frozen plasma dependent" 120:20 120:23
+c="hepatic failure" 120:6 120:7||r="PIP"||c="poor endogenous production of clotting factors" 120:11 120:16
+c="fresh frozen plasma dependent" 120:20 120:23||r="PIP"||c="poor endogenous production of clotting factors" 120:11 120:16
+c="two separate organisms" 141:6 141:8||r="PIP"||c="two pneumonias" 141:3 141:4
+c="vancomycin" 143:11 143:11||r="TrAP"||c="a staphylococcus aureus pneumonia" 143:3 143:6
+c="transfusion" 168:9 168:9||r="TrAP"||c="neck hematoma" 168:0 168:1
+c="hemodynamic monitoring" 124:0 124:1||r="TeRP"||c="high cardiac output" 124:8 124:10
+c="hemodynamic monitoring" 124:0 124:1||r="TeRP"||c="low systemic vascular resistance" 124:3 124:6
+c="serum cocaine" 137:0 137:1||r="TeRP"||c="positive" 137:3 137:3
+c="a dilated left ventricle" 128:5 128:8||r="PIP"||c="diffusely mildly hypokinetic" 128:11 128:13
+c="blanching papules over the knees bilaterally" 53:22 53:27||r="PIP"||c="central necrosis" 53:29 53:30
+c="a temperature" 26:31 26:32||r="TeRP"||c="hyperthermic" 26:28 26:28
+c="an echocardiogram" 128:0 128:1||r="TeRP"||c="diffusely mildly hypokinetic" 128:11 128:13
+c="an echocardiogram" 128:0 128:1||r="TeRP"||c="vegetations" 128:16 128:16
+c="an echocardiogram" 128:0 128:1||r="TeRP"||c="a dilated left ventricle" 128:5 128:8
+c="pulmonary artery line placement" 168:4 168:7||r="TrCP"||c="neck hematoma" 168:0 168:1
+c="commands" 75:14 75:14||r="TeRP"||c="unable" 75:11 75:11
+c="falling albumin" 133:16 133:17||r="PIP"||c="dependence on transfusion" 133:19 133:21
+c="dopamine" 28:4 28:4||r="TrAP"||c="hypertension" 28:6 28:6
+c="complete loss of synthetic and conjugation function" 133:2 133:8||r="PIP"||c="rising bilirubin" 133:13 133:14
+c="complete loss of synthetic and conjugation function" 133:2 133:8||r="PIP"||c="falling albumin" 133:16 133:17
+c="complete loss of synthetic and conjugation function" 133:2 133:8||r="PIP"||c="dependence on transfusion" 133:19 133:21
+c="profound thrombocytopenia" 118:5 118:6||r="PIP"||c="hemorrhage" 118:9 118:9
+c="inderal" 28:8 28:8||r="TrAP"||c="tachycardia" 28:10 28:10

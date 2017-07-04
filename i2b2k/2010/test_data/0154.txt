@@ -1,0 +1,57 @@
+196768414 YC
+36611261
+5472577
+5/7/2003 12:00:00 AM
+SAVD
+DIS
+Admission Date :
+05/07/2003
+Report Status :
+Discharge Date :
+05/09/2003
+****** DISCHARGE ORDERS ******
+BOORMKAYSSCAJE , PA A. 967-94-23-8 R21
+Room :
+FISHIP HOSPITAL
+Service :
+OBS
+DISCHARGE PATIENT ON :
+05/09/03 AT 10:00 AM
+CONTINGENT UPON
+Not Applicable
+WILL D / C ORDER BE USED AS THE D / C SUMMARY :
+YES
+Attending :
+DOUETLEPSGISS , VALETO , M.D.
+DISPOSITION :
+Home
+DISCHARGE MEDICATIONS :
+DIET :
+No Restrictions
+ACTIVITY :
+Resume regular exercise
+FOLLOW UP APPOINTMENT ( S ) :
+dr. kote 6 weeks , No Known Allergies
+ADMIT DIAGNOSIS :
+Spontaneous vaginal delivery Laceration 2 degrees
+PRINCIPAL DISCHARGE DIAGNOSIS ;
+Responsible After Study for Causing Admission ) SAVD
+OTHER DIAGNOSIS ;
+Conditions , Infections , Complications , affecting Treatment / Stay
+SAVD
+OPERATIONS AND PROCEDURES :
+OTHER TREATMENTS / PROCEDURES ( NOT IN O.R. )
+none
+BRIEF RESUME OF HOSPITAL COURSE :
+G3 T2 P0 A0 L2 Estimated
+EDC :
+Maternal transfer :
+No
+ADDITIONAL COMMENTS :
+DISCHARGE CONDITION :
+Stable
+TO DO / PLAN :
+No dictated summary
+ENTERED BY :
+DOUETLEPSGISS , VALETO , M.D. ( MC71 ) 05/07/03 03:46 PM
+****** END OF DISCHARGE ORDERS ******

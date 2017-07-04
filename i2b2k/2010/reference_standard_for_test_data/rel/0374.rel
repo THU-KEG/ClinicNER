@@ -1,0 +1,4 @@
+c="resistive test" 40:3 40:4||r="TeRP"||c="mild pain" 40:0 40:1
+c="perioperative antibiotics" 47:13 47:14||r="TrAP"||c="his wound" 47:0 47:1
+c="percocet" 54:0 54:0||r="TrAP"||c="pain" 54:7 54:7
+c="inability to sleep" 25:17 25:19||r="PIP"||c="persistent pain" 25:3 25:4

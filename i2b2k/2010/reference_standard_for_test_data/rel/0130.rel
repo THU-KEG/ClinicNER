@@ -1,0 +1,20 @@
+c="some edema" 32:17 32:18||r="PIP"||c="venous stasis changes on her legs" 32:9 32:14
+c="pertinent examination" 31:0 31:1||r="TeRP"||c="mild elevation" 31:3 31:4
+c="pertinent examination" 31:0 31:1||r="TeRP"||c="prominent v-waves" 31:12 31:13
+c="pertinent examination" 31:0 31:1||r="TeRP"||c="systolic and diastolic murmurs" 31:16 31:19
+c="severe pulmonary hypertension" 24:14 24:16||r="PIP"||c="worsening mitral stenosis" 24:10 24:12
+c="prior cardiac catheterization" 25:8 25:10||r="TeRP"||c="severe mitral stenosis" 25:14 25:16
+c="prior cardiac catheterization" 25:8 25:10||r="TeRP"||c="secondary tricuspid valve regurgitation" 25:18 25:21
+c="prior cardiac catheterization" 25:8 25:10||r="TeRP"||c="pulmonary hypertension" 25:24 25:25
+c="pulmonary hypertension" 25:24 25:25||r="PIP"||c="secondary tricuspid valve regurgitation" 25:18 25:21
+c="an evaluation" 24:7 24:8||r="TeRP"||c="worsening mitral stenosis" 24:10 24:12
+c="an evaluation" 24:7 24:8||r="TeRP"||c="severe pulmonary hypertension" 24:14 24:16
+c="progressive heart failure" 24:3 24:5||r="PIP"||c="worsening mitral stenosis" 24:10 24:12
+c="progressive heart failure" 24:3 24:5||r="PIP"||c="severe pulmonary hypertension" 24:14 24:16
+c="her jugular venous pulse" 31:6 31:9||r="TeRP"||c="mild elevation" 31:3 31:4
+c="a previous nasal arterial embolization" 28:3 28:7||r="TrAP"||c="recurrent epistaxis" 28:11 28:12
+c="treatment" 28:9 28:9||r="TrAP"||c="recurrent epistaxis" 28:11 28:12
+c="an intensive care unit psychosis" 40:20 40:24||r="PIP"||c="confused" 40:15 40:15
+c="an intensive care unit psychosis" 40:20 40:24||r="PIP"||c="initially slightly agitated" 40:11 40:13
+c="transfusions" 43:11 43:11||r="TrAP"||c="somewhat anemic" 43:6 43:7
+c="a slow ventricular response" 42:6 42:9||r="PIP"||c="atrial fibrillation" 42:11 42:12

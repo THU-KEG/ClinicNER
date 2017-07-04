@@ -1,0 +1,14 @@
+c="a coronary artery bypass graft" 16:12 16:16||r="TrCP"||c="a large anterior septal myocardial infarction" 16:20 16:25
+c="cardiac catheterization" 25:0 25:1||r="TeRP"||c="severe triple vessel coronary artery disease" 25:3 25:8
+c="cardiac catheterization" 25:0 25:1||r="TeRP"||c="rca 100% occluded" 25:10 25:12
+c="cardiac catheterization" 25:0 25:1||r="TeRP"||c="severely diseased lad" 25:29 25:31
+c="cardiac catheterization" 25:0 25:1||r="TeRP"||c="100% occluded" 25:21 25:22
+c="heparin" 52:14 52:14||r="TrCP"||c="allergic" 52:12 52:12
+c="hirudin" 51:14 51:14||r="TrAP"||c="deep venous thrombosis" 51:16 51:18
+c="ekg" 42:10 42:10||r="TeRP"||c="ischemia" 42:8 42:8
+c="the patient &apos;s heparin induced thrombocytopenia" 52:0 52:5||r="PIP"||c="allergic" 52:12 52:12
+c="subsequent exercise treadmill test" 42:0 42:3||r="TeRP"||c="ischemia" 42:8 42:8
+c="a vvi pacer placement" 24:25 24:28||r="TrAP"||c="sick sinus syndrome" 24:19 24:21
+c="a pacer implantation" 17:8 17:10||r="TrAP"||c="sick sinus syndrome" 17:12 17:14
+c="coronary artery bypass graft" 24:8 24:11||r="TrAP"||c="coronary artery disease" 24:2 24:4
+c="om1 graft" 25:18 25:19||r="TrWP"||c="100% occluded" 25:21 25:22

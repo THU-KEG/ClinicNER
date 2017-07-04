@@ -1,0 +1,43 @@
+260257442 DH
+0145802
+292408
+9739205
+2/11/2003 12:00:00 AM
+ED Discharge Summary
+Unsigned
+DIS
+Report Status :
+Unsigned
+ED DISCHARGE NOTIFICATION / SUMMARY
+DUHETLAND , RIE
+MRN :
+0145802
+Age :
+29y
+REGISTRATION DATE :
+02/11/2003 02:42 PM
+Provider :
+AMINE GUAYTREFTSCOST
+PRELIMINARY REPORT
+PCP notified by MD :
+Yes - Direct contact with PCP
+Discharge Date / Time :
+02/11/2003 16:52
+Discharge Status :
+Discharged
+Condition on Discharge :
+Stable
+Patient States Complaint :
+BACK PAIN
+Standardized Discharge Instructions :
+The patient was given printed instructions for back pain ( English ) .
+Diagnosis :
+Back pain
+Disposition , Follow up and Instructions to Patient :
+Call your doctor in the morning for an appointment with the pain clinic .
+If you have any bladder incontinence , bowel incontinence , worse numbness , any weakness , or any other concerns , call your doctor or return to the emergency department immediately .
+PCP Name :
+PULESHUFF , SACA G
+Provider Number :
+79863
+This report was created by GUAYTREFTSCOST , AMINE 02/11/2003 04:53 PM

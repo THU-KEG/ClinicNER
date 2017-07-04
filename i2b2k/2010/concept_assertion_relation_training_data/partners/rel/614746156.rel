@@ -1,0 +1,6 @@
+c="abdominal ct" 45:0 45:1||r="TeRP"||c="primary colorectal adenocarcinoma" 45:9 45:11
+c="abdominal ct" 45:0 45:1||r="TeRP"||c="multiple liver metastases" 45:13 45:15
+c="primary colorectal adenocarcinoma" 45:9 45:11||r="PIP"||c="multiple liver metastases" 45:13 45:15
+c="a 23 pound weight loss" 18:3 18:7||r="PIP"||c="an increased appetite" 18:15 18:17
+c="personality changes" 20:3 20:4||r="PIP"||c="increased irritability" 20:6 20:7
+c="allergic" 35:3 35:3||r="PIP"||c="hives" 35:10 35:10

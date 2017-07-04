@@ -1,0 +1,68 @@
+421179499
+BH
+0940729
+770923
+3/30/1997 12:00:00 AM
+ASPIRATION PNEUMONIA .
+Unsigned
+DIS
+Report Status :
+Unsigned
+DISCHARGE SUMMARY NAME :
+STRAPEFREIRE , VATALY C
+UNIT NUMBER :
+972-02-46
+ADMISSION DATE :
+03/30/97
+DISCHARGE DATE :
+04/01/97
+PRINCIPAL DIAGNOSIS :
+Aspiration pneumonia .
+ASSOCIATED DIAGNOSIS :
+Dementia ; congestive heart failure .
+HISTORY OF PRESENT ILLNESS AND REASON FOR HOSPITALIZATION :
+The patient was a 108-year-old nursing home resident , who was admitted with a two-day history of increased respiratory secretions and a 24-hour history of elevated fever .
+Despite Augmentin , the patient &apos;s delirium worsened in the 24 hours prior to admission , and her temperature was up to 102 .
+She was refusing to take p.o.&apos;s .
+PAST MEDICAL HISTORY :
+Recurrent urinary tract infections , most recently on 2/23/97 ; recurrent aspiration pneumonias , most recently on 2/21/97 ; multi-infarct dementia with associated dysphasia ; mitral regurgitation ; history of congestive heart failure ; pernicious anemia ; chronic venous stasis ; status post left femoral neck fracture .
+MEDICATIONS ON ADMISSION :
+Augmentin 500 mg t.i.d.
+Senokot one q.h.s.
+Sertraline 75 mg q.day .
+Aspirin 81 mg q.day .
+Vitamin B12 100 mcg IM q.month .
+Urecholine 25 mg t.i.d. Colace .
+SOCIAL HISTORY :
+The patient resides in the Pcaer,ter Medical Center , is nonambulatory , and her code status is do not resuscitate / do not intubate .
+PHYSICAL EXAMINATION :
+The patient was nonverbal , but was able to open her eyes and nod .
+No respiratory distress .
+Her temperature was 102.2 ; blood pressure 135/64 ; pulse rate 108 ; respirations 24 ; oxygen saturations on room air 94% .
+The head , eyes , ears , nose and throat examination revealed no ocular abnormalities .
+Neck - no lymphadenopathy ; no carotid bruits ; jugular venous pressure not elevated ; no goiter .
+Chest - reduced breath sounds at the bases with faint inspiratory rhonchi anteriorly .
+Cardiac - regular rate and rhythm with frequent premature beats and a 2/6 systolic ejection murmur at the apex .
+The abdomen was non-tender , nondistended , no hepatomegaly , normal bowel sounds .
+Extremities - 1+ edema ; 2+ pulses .
+Skin - intact with diaper .
+LABORATORY DATA :
+The sodium was 142 ; potassium 4.5 ; chloride 105 ; bicarbonate 27 ; BUN and creatinine 31 and 1.3 ; glucose 107 ; total protein 7.7 ; albumin 3.2 ; globulin 4.5 ; uric acid 4.2 ; alkaline phosphatase 114 ; serum glutamic oxaloacetic transaminase 46 ; lactic acid dehydrogenase 370 ; white blood count 11,000 with 83 polymorphonuclear leukocytes ; hematocrit 42 ; platelet count 227,000 .
+A chest x-ray showed consolidation bilateral lyin the lower lobes .
+HOSPITAL COURSE AND TREATMENT :
+The patient was admitted for treatment of a presumed aspiration pneumonia and for rehydration .
+She was started on Clindamycin and Ofloxacin at renal dose to cover the aspiration pneumonia and positive urine culture , which subsequently came back .
+She had some wheezing , which responded well to Albuterol nebulizers .
+She was generally doing well with resolution of her temperature until 4/1/97 at 9:20 P.M. , when she was noted to be unresponsive with fixed dilated pupils .
+She was certified dead at 9:20 P.M.
+MI CUCHSLI , M.D.
+TR :
+vgo
+DD :
+05/11/97
+TD :
+05/15/97 8:26
+Acc :
+MI CUCHSLI , M.D.
+cc :
+Nursing Director Pcaer,ter Medical Center Sco , Ohio

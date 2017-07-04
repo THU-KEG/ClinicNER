@@ -1,0 +1,19 @@
+c="heme positive stools" 58:6 58:8||r="PIP"||c="grossly bloody streaks" 58:10 58:12
+c="heme positive stools" 58:6 58:8||r="PIP"||c="mucus" 58:14 58:14
+c="heme positive stools" 58:6 58:8||r="PIP"||c="protein allergy" 58:18 58:19
+c="mucus" 58:14 58:14||r="PIP"||c="protein allergy" 58:18 58:19
+c="cesarean delivery" 20:35 20:36||r="TrAP"||c="chorioamnionitis" 20:28 20:28
+c="monitoring" 20:6 20:6||r="TeRP"||c="uterine tenderness" 20:14 20:15
+c="monitoring" 20:6 20:6||r="TeRP"||c="mildly increased fetal heart rates" 20:17 20:21
+c="monitoring" 20:6 20:6||r="TeRP"||c="increased preterm contractions" 20:10 20:12
+c="bedrest" 16:15 16:15||r="TrAP"||c="preterm contractions" 16:6 16:7
+c="preterm contractions" 16:6 16:7||r="PIP"||c="cervical change" 16:9 16:10
+c="intermittent maternal hypertension" 18:0 18:2||r="PIP"||c="proteinuria" 18:6 18:6
+c="a hip ultrasound" 105:0 105:2||r="TeCP"||c="breech" 105:5 105:5
+c="a hip ultrasound" 105:0 105:2||r="TeCP"||c="breech presentation of twins" 105:7 105:10
+c="respiratory distress" 99:1 99:2||r="PIP"||c="left pneumothorax" 99:4 99:5
+c="antibiotics" 98:5 98:5||r="TrAP"||c="sepsis" 98:3 98:3
+c="chest x-ray" 49:0 49:1||r="TeRP"||c="a left pneumothorax" 49:3 49:5
+c="prematurity" 101:6 101:6||r="PIP"||c="mild apnea and bradycardia" 101:1 101:4
+c="immunization" 95:15 95:15||r="TrAP"||c="influenza" 95:17 95:17
+c="intervention" 49:12 49:12||r="TrAP"||c="a left pneumothorax" 49:3 49:5

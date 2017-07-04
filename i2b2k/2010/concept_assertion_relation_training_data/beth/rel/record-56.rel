@@ -1,0 +1,15 @@
+c="ultrasound" 91:0 91:0||r="TeRP"||c="severe portal hypertension" 91:6 91:8
+c="ultrasound" 91:0 91:0||r="TeRP"||c="massive peri splenic varices" 91:10 91:13
+c="massive peri splenic varices" 91:10 91:13||r="PIP"||c="severe portal hypertension" 91:6 91:8
+c="splenorenal shunt" 91:15 91:16||r="TrAP"||c="severe portal hypertension" 91:6 91:8
+c="splenorenal shunt" 91:15 91:16||r="TrAP"||c="massive peri splenic varices" 91:10 91:13
+c="egd" 35:0 35:0||r="TeRP"||c="5 cores of varices" 35:4 35:7
+c="worsening confusion" 14:21 14:22||r="PIP"||c="lethargy" 14:24 14:24
+c="positive esophageal varices" 14:15 14:17||r="PIP"||c="hepatitis c cirrhosis" 14:8 14:10
+c="the symptoms" 21:15 21:16||r="PIP"||c="lethargy" 21:9 21:9
+c="the symptoms" 21:15 21:16||r="PIP"||c="confusion" 21:11 21:11
+c="confusion" 20:15 20:15||r="PIP"||c="increased lethargy" 20:12 20:13
+c="encephalopathy" 14:13 14:13||r="PIP"||c="hepatitis c cirrhosis" 14:8 14:10
+c="a decreased and sluggish flow within the right and left hepatic veins" 113:4 113:15||r="PIP"||c="loss of normal respiratory variations , wave forms and the intrahepatic portion" 113:17 113:28
+c="short-term ultrasounds" 116:20 116:21||r="TeCP"||c="caval narrowing" 116:0 116:1
+c="the ct" 116:17 116:18||r="TeCP"||c="caval narrowing" 116:0 116:1

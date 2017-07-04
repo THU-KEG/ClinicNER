@@ -1,0 +1,54 @@
+c="the pathology" 37:9 37:10||r="TeRP"||c="adenocarcinoma" 37:16 37:16
+c="an elective termination" 105:3 105:5||r="TrAP"||c="her pregnancy" 105:7 105:8
+c="ahead ct scan" 110:0 110:2||r="TeRP"||c="a metastatic lesion" 110:4 110:6
+c="ahead ct scan" 110:0 110:2||r="TeRP"||c="intracranial abnormalities" 110:16 110:17
+c="a fine needle aspirate" 27:0 27:3||r="TeCP"||c="this mass" 27:5 27:6
+c="a fine needle aspirate" 27:0 27:3||r="TeRP"||c="giant cell tumor" 27:9 27:11
+c="giant cell tumor" 27:9 27:11||r="PIP"||c="this mass" 27:5 27:6
+c="the patient &apos;s low serum albumin" 126:0 126:5||r="PIP"||c="her extensive edema" 126:10 126:12
+c="the abdominal and pelvic ct scans" 112:0 112:5||r="TeRP"||c="pancreatic mass" 112:13 112:14
+c="the abdominal and pelvic ct scans" 112:0 112:5||r="TeRP"||c="suspicious gi masses" 112:8 112:10
+c="the abdominal and pelvic ct scans" 112:0 112:5||r="TeRP"||c="a 2 cm ovarian cyst" 112:16 112:20
+c="the pathology" 31:0 31:1||r="TeRP"||c="an aggressive adenocarcinoma" 31:6 31:8
+c="the pathology" 113:3 113:4||r="TeRP"||c="a high grade adenocarcinoma" 113:9 113:12
+c="the mri scan on admission" 132:0 132:4||r="TeRP"||c="an impending cord compression" 132:6 132:9
+c="ct scan" 124:8 124:9||r="TeRP"||c="obstruction of the intrahepatic ivc" 124:12 124:16
+c="cardiac exam" 77:0 77:1||r="TeRP"||c="tachycardic" 77:3 77:3
+c="bilateral pleural effusions" 129:11 129:13||r="PIP"||c="increased work of respiration" 129:16 129:19
+c="bilateral pleural effusions" 129:11 129:13||r="PIP"||c="shortness of breath" 129:24 129:26
+c="percocet" 46:3 46:3||r="TrAP"||c="pain" 46:5 46:5
+c="a limited chest ct" 33:4 33:7||r="TeRP"||c="internal mammary lymphadenopathy" 33:29 33:31
+c="a limited chest ct" 33:4 33:7||r="TeRP"||c="diffuse bilateral pulmonary metastases" 33:13 33:16
+c="a limited chest ct" 33:4 33:7||r="TeRP"||c="metastases to the sternum , rib , multiple spinal levels" 33:18 33:27
+c="distention of the azygous system" 108:29 108:33||r="PIP"||c="ivc obstruction" 108:36 108:37
+c="ivc obstruction" 108:36 108:37||r="PIP"||c="liver metastases" 108:39 108:40
+c="fine needle aspiration" 37:5 37:7||r="TeRP"||c="adenocarcinoma" 37:16 37:16
+c="a mammogram" 111:13 111:14||r="TeRP"||c="dominant masses" 111:22 111:23
+c="a mammogram" 111:13 111:14||r="TeCP"||c="the primary tumor" 111:5 111:7
+c="a mammogram" 111:13 111:14||r="TeRP"||c="suspicious microcalcifications" 111:18 111:19
+c="termination" 38:14 38:14||r="TrAP"||c="her cancer" 38:11 38:12
+c="termination" 38:14 38:14||r="TrAP"||c="the pregnancy" 38:16 38:17
+c="work-up" 111:0 111:0||r="TeCP"||c="the primary tumor" 111:5 111:7
+c="the management" 134:19 134:20||r="TrAP"||c="her malignancy" 134:22 134:23
+c="management" 38:9 38:9||r="TrAP"||c="her cancer" 38:11 38:12
+c="the patient &apos;s extensive pulmonary metastases" 129:4 129:9||r="PIP"||c="increased work of respiration" 129:16 129:19
+c="the patient &apos;s extensive pulmonary metastases" 129:4 129:9||r="PIP"||c="shortness of breath" 129:24 129:26
+c="skin exam" 64:0 64:1||r="TeRP"||c="a right posterior parietal scalp nodle" 64:3 64:8
+c="the work-up" 106:0 106:1||r="TeCP"||c="the patient &apos;s disease" 106:6 106:9
+c="an abdominal ct scan" 34:21 34:24||r="TeRP"||c="diffuse metastatic lesions of the liverspine , ribs and most of the lymph nodes" 34:29 34:42
+c="marked bilateral lower extremity and presacral edema" 125:4 125:10||r="PIP"||c="ascites" 125:12 125:12
+c="a bone scan" 109:0 109:2||r="TeRP"||c="increased uptake in the left and right lateral skull" 109:20 109:28
+c="a bone scan" 109:0 109:2||r="TeRP"||c="increased uptake in the left chest wall , left anterior ribs four to six" 109:4 109:17
+c="an abdominal and pelvic ct scan with iv contrast" 108:0 108:8||r="TeRP"||c="extensive liver metastases" 108:18 108:20
+c="an abdominal and pelvic ct scan with iv contrast" 108:0 108:8||r="TeRP"||c="ascites" 108:42 108:42
+c="an abdominal and pelvic ct scan with iv contrast" 108:0 108:8||r="TeRP"||c="multiple bony metastases" 108:44 108:46
+c="an abdominal and pelvic ct scan with iv contrast" 108:0 108:8||r="TeRP"||c="an isolated splenic metastases" 108:49 108:52
+c="an abdominal and pelvic ct scan with iv contrast" 108:0 108:8||r="TeRP"||c="bilateral pulmonary nodules" 108:10 108:12
+c="an abdominal and pelvic ct scan with iv contrast" 108:0 108:8||r="TeRP"||c="narrowing of the intra hepatic ivc" 108:22 108:27
+c="an abdominal and pelvic ct scan with iv contrast" 108:0 108:8||r="TeRP"||c="distention of the azygous system" 108:29 108:33
+c="an abdominal and pelvic ct scan with iv contrast" 108:0 108:8||r="TeRP"||c="ivc obstruction" 108:36 108:37
+c="an abdominal and pelvic ct scan with iv contrast" 108:0 108:8||r="TeRP"||c="bilateral pleural effusions" 108:14 108:16
+c="mri scan of the cervical and thoracic spine" 106:11 106:18||r="TeRP"||c="a t3 lesion" 106:29 106:31
+c="mri scan of the cervical and thoracic spine" 106:11 106:18||r="TeRP"||c="foraminal obstruction" 106:43 106:44
+c="mri scan of the cervical and thoracic spine" 106:11 106:18||r="TeRP"||c="multiple metastatic lesions in the vertebral bodies" 106:21 106:27
+c="mri scan of the cervical and thoracic spine" 106:11 106:18||r="TeCP"||c="the patient &apos;s disease" 106:6 106:9

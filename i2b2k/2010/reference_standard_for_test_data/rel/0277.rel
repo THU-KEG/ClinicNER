@@ -1,0 +1,51 @@
+c="egd" 82:2 82:2||r="TeCP"||c="his poor nutritional status" 82:6 82:9
+c="surgery" 101:19 101:19||r="TrNAP"||c="malnourished" 101:16 101:16
+c="surgery" 101:19 101:19||r="TrNAP"||c="medically sick" 101:13 101:14
+c="olanzapine" 145:1 145:1||r="TrAP"||c="confusion" 145:20 145:20
+c="the tubefeed" 94:6 94:7||r="TrCP"||c="30 lb" 94:3 94:4
+c="effusions" 47:6 47:6||r="PIP"||c="chf" 47:9 47:9
+c="mri head" 75:0 75:1||r="TeCP"||c="patient 's apparent cognitive decline" 75:7 75:11
+c="sputum cultures" 48:8 48:9||r="TeRP"||c="mrsa" 48:13 48:13
+c="a chest x-ray" 47:0 47:2||r="TeRP"||c="effusions" 47:6 47:6
+c="a chest x-ray" 47:0 47:2||r="TeRP"||c="overlying pnumonia" 47:12 47:13
+c="recent right bka" 20:8 20:10||r="TrAP"||c="terrible vasculopathy" 20:5 20:6
+c="recent right bka" 20:8 20:10||r="TrAP"||c="dry gangrene of the distal stump" 20:12 20:17
+c="his mental status change" 99:4 99:7||r="PIP"||c="acute infection" 99:12 99:13
+c="his mental status change" 99:4 99:7||r="PIP"||c="toxic-metabolic" 99:10 99:10
+c="a repeat swallow evaluation" 88:3 88:6||r="TeRP"||c="discoordinated swallow" 88:9 88:10
+c="mri" 76:0 76:0||r="TeRP"||c="enlarged ventricles" 76:5 76:6
+c="mri" 76:0 76:0||r="TeRP"||c="prominent sulci" 76:2 76:3
+c="flagyl" 90:18 90:18||r="TrAP"||c="c diff positive" 90:7 90:9
+c="levo" 110:17 110:17||r="TrAP"||c="his recent mrsa pneumonia" 110:1 110:4
+c="flagyl" 110:19 110:19||r="TrAP"||c="his recent mrsa pneumonia" 110:1 110:4
+c="cxr" 107:22 107:22||r="TeRP"||c="interstital markings" 107:16 107:17
+c="vanc" 110:15 110:15||r="TrAP"||c="his recent mrsa pneumonia" 110:1 110:4
+c="many gpc" 109:3 109:4||r="PIP"||c="staph aureus" 109:8 109:9
+c="an ekg" 68:0 68:1||r="TeRP"||c="st segment depression" 68:3 68:5
+c="his sputum" 109:0 109:1||r="TeRP"||c="many gpc" 109:3 109:4
+c="his sputum" 109:0 109:1||r="TeRP"||c="staph aureus" 109:8 109:9
+c="an emesis" 107:5 107:6||r="PIP"||c="aspiration pneumonia" 107:12 107:13
+c="aspiration pneumonia" 107:12 107:13||r="PIP"||c="interstital markings" 107:16 107:17
+c="aspiration pneumonia" 107:12 107:13||r="PIP"||c="fever" 107:24 107:24
+c="aspiration pneumonia" 107:12 107:13||r="PIP"||c="leukocytosis" 107:26 107:26
+c="drugs" 12:8 12:8||r="TrCP"||c="known allergies" 12:5 12:6
+c="slow diffusion" 40:7 40:8||r="PIP"||c="acute infarct" 40:11 40:12
+c="multiple failed femoral distal bypass" 26:2 26:6||r="PIP"||c="pvd" 26:0 26:0
+c="gastric biopsy" 44:0 44:1||r="TeRP"||c="h. pylori" 44:5 44:6
+c="urine cultures" 63:3 63:4||r="TeRP"||c="vre" 63:7 63:7
+c="his j-tube" 112:3 112:4||r="TrCP"||c="obstructed" 112:9 112:9
+c="specific interventions" 61:28 61:29||r="TrAP"||c="a small hydro-pneumothorax on the left lower lobe" 61:7 61:14
+c="a chest x-ray" 61:2 61:4||r="TeRP"||c="a small hydro-pneumothorax on the left lower lobe" 61:7 61:14
+c="tubefeed" 113:0 113:0||r="TrCP"||c="any difficulty" 113:4 113:5
+c="urine cultures" 48:0 48:1||r="TeRP"||c="klebsiella uti" 48:5 48:6
+c="cabg" 28:2 28:2||r="TrAP"||c="cad" 28:0 28:0
+c="troponins" 69:6 69:6||r="TeRP"||c="mild elevation" 69:3 69:4
+c="serial enzymes" 69:0 69:1||r="TeRP"||c="mild elevation" 69:3 69:4
+c="the patient 's cognitive symptoms" 78:3 78:7||r="PIP"||c="metabolic encephalopathy" 78:11 78:12
+c="metabolic encephalopathy" 78:11 78:12||r="PIP"||c="his multiple medical problems" 78:15 78:18
+c="high dose ppi" 83:10 83:12||r="TrAP"||c="a large gastric ulcer" 83:5 83:8
+c="the gastric biopsy" 84:0 84:2||r="TeRP"||c="h. pylori" 84:10 84:11
+c="the serology" 84:4 84:5||r="TeRP"||c="h. pylori" 84:10 84:11
+c="right aka stump" 36:0 36:2||r="PIP"||c="dry gangrene" 36:4 36:5
+c="foley placement" 105:6 105:7||r="TrAP"||c="urinary retention" 105:3 105:4
+c="the oxycontin" 103:9 103:10||r="TrIP"||c="his pain" 103:2 103:3

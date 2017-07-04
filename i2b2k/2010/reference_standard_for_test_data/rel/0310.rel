@@ -1,0 +1,14 @@
+c="the cancer" 22:8 22:9||r="PIP"||c="bilateral ureteral obstruction" 22:3 22:5
+c="the bun" 33:21 33:22||r="TeRP"||c="high bun and creatinine" 33:10 33:13
+c="senility" 44:43 44:43||r="PIP"||c="her cerebral atrophy" 44:38 44:40
+c="bilateral salpingo-oophorectomy" 30:12 30:13||r="TrAP"||c="her cancer" 30:1 30:2
+c="radiation therapy" 42:8 42:9||r="TrAP"||c="further obstruction" 42:18 42:19
+c="creatinine" 33:24 33:24||r="TeRP"||c="high bun and creatinine" 33:10 33:13
+c="cervical carcinoma" 22:0 22:1||r="PIP"||c="bilateral ureteral obstruction" 22:3 22:5
+c="cervical carcinoma" 22:0 22:1||r="PIP"||c="the cancer" 22:8 22:9
+c="the mental instability" 44:30 44:32||r="PIP"||c="her cerebral atrophy" 44:38 44:40
+c="the mental instability" 44:30 44:32||r="PIP"||c="senility" 44:43 44:43
+c="pelvic lymphadenectomy" 30:15 30:16||r="TrAP"||c="her cancer" 30:1 30:2
+c="ultrasound of the kidney" 34:14 34:17||r="TeRP"||c="bilateral hydronephrosis" 34:20 34:21
+c="stage iiib carcinoma of the cervix" 28:4 28:9||r="PIP"||c="known periaortic and splenic metastases" 28:13 28:17
+c="total abdominal hysterectomy" 30:8 30:10||r="TrAP"||c="her cancer" 30:1 30:2

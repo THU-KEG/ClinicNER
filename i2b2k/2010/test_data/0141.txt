@@ -1,0 +1,96 @@
+Admission Date :
+2010-02-05
+Discharge Date :
+2010-02-06
+Date of Birth :
+1986-06-14
+Sex :
+F
+Service :
+TRAUMA
+HISTORY OF PRESENT ILLNESS :
+The patient is a 23 year old female , status post fall from standing position after slipping on ice .
+She had no loss of consciousness .
+She recalled the entire event .
+She was found by family and friends to be somewhat confused and was therefore taken to Newton-Wellesley Hospital thereafter .
+Workup at the outside hospital included a CT scan of the head revealing a possible parietal subdural bleed on the right side .
+The patient 's GCS was 15 .
+She was hemodynamically stable .
+She was thereafter transferred to Beverly Hospital for further evaluation and management .
+PAST MEDICAL HISTORY :
+Significant for depression .
+MEDICATIONS ON ADMISSION :
+1. Prozac .
+2. Tetracycline for acne .
+ALLERGIES :
+She has no known drug allergies .
+PHYSICAL EXAMINATION :
+On presentation , her temperature was 98.8 with a heart rate of 100 , blood pressure 110/65 , respiratory rate 18 , and she was saturating at 100% in room air .
+In general , she is well appearing in no acute distress .
+Head , eyes , ears , nose and throat examination - The pupils are equal , round , and reactive to light and accommodation .
+Extraocular movements are intact .
+The oropharynx is negative .
+Face is stable .
+No obvious evidence of trauma .
+She is normocephalic otherwise .
+Trachea was midline .
+The heart was regular .
+The lungs were clear to auscultation bilaterally .
+No crepitus .
+The abdomen was soft , nontender , nondistended .
+Extremities with no evidence of step-off , palpable pulses peripherally .
+She had brisk capillary refill .
+Rectal examination was heme negative with normal tone .
+Neurologic examination was nonfocal .
+Neurosensory was intact and she had normal motor examination with 5/5 strength throughout all her upper and lower extremities .
+LABORATORY DATA :
+Admission laboratories were notable for a white count of 13.1 , hematocrit 34.0 , platelet count 280,000 .
+Chemistries were notable for a sodium of 143 , potassium 3.2 , chloride and bicarbonate of 104 and 24 , respectively , with blood urea nitrogen and creatinine of 7 and 0.4 , respectively .
+Blood glucose was 116 .
+Her admission coagulation studies were notable for a prothrombin time INR of 11.8 and 0.9 , respectively with a partial thromboplastin time of 25.2 .
+Admission lactate was 0.8 .
+Amylase was 87 .
+Fibrinogen was 346 .
+HCG was negative .
+Serum toxicology and urine toxicology were negative .
+Urinalysis obtained on admission was additionally negative .
+She had three views of the cervical spine that were negative .
+Chest x-ray was negative .
+Pelvis film was negative .
+Head CT from the outside hospital just revealed a small right parietal subdural blood .
+She was evaluated .
+Her cervical spine was cleared .
+She was off TLS precautions .
+She was sent to the Intensive Care Unit for monitoring overnight for neural checks and neurosurgical consultation was obtained .
+Neurosurgical evaluation just recommended serial neurologic checks and a repeat CAT scan on the second day of admission to see if there was any evidence of progression of the bleeding .
+On 2010-02-05 , the patient had a repeat CAT scan of the head revealing no change in the subdural bleed .
+Her neurologic examination remained nonfocal .
+She was kept in the hospital for an additional 24 hours for further evaluation .
+By 2010-02-06 , which would correlate with hospital day number two , the patient had no complaints except for some small frontal pressure in the region of where the bleed had been localized on the right side .
+She remained afebrile and hemodynamically .
+She was tolerating diet and able to ambulate without difficulty .
+She had no other complaints by examination .
+Her neurologic examination remained completely nonfocal and otherwise normal .
+She was seen by the trauma attending with Dr. Walters and she was cleared for discharge to home .
+MEDICATIONS ON DISCHARGE :
+1. Tylenol #3 one to two tablets p.o. q 4-6 hours p.r.n.
+2. Motrin as needed .
+3. Prozac 20 mg p.o. once daily .
+4. Tetracycline which she was taking for her acne .
+FOLLOW-UP :
+She will follow-up with Dr. Langley in approximately one month .
+Her trauma clinic follow-up is strictly p.r.n.
+DISCHARGE DIAGNOSES :
+1. Right parietal subdural bleed , status post fall from standing position with no loss of consciousness and no neurologic deficits or progression .
+2. Depression .
+3. Acne .
+DISCHARGE STATUS :
+The patient was discharged to home in stable condition .
+Charles I. . Sanders , M.D. 76-364
+Dictated By : Hayden Y. Ferguson , M.D.
+MEDQUIST36
+D : 2010-02-06 08:59
+T : 2010-02-06 09:10
+JOB #: 73118
+Signed electronically by : DR. Theresa MOORMAN on : FRI 2010-02-26 3:21 PM
+( End of Report )

@@ -1,0 +1,13 @@
+c="a chest ct" 22:19 22:21||r="TeRP"||c="left upper lobe nodules" 22:23 22:26
+c="vasovagal activity" 32:20 32:21||r="PIP"||c="potential seizure activity" 32:3 32:5
+c="right lower extremity swelling" 29:4 29:7||r="PIP"||c="a femoral deep venous thrombosis" 29:16 29:20
+c="the physical examination" 42:0 42:2||r="TeRP"||c="acute distress" 42:12 42:13
+c="the extremity exam" 53:0 53:2||r="TeRP"||c="2+ pitting edema in the right lower extremity" 53:6 53:13
+c="anticoagulation" 61:7 61:7||r="TrNAP"||c="metastatic melanoma" 61:13 61:14
+c="anticoagulation" 61:7 61:7||r="TrNAP"||c="cns metastases" 61:19 61:20
+c="a witnessed episode" 30:4 30:6||r="PIP"||c="some seizure activity" 30:24 30:26
+c="a t11 metastasis" 24:5 24:7||r="PIP"||c="cord compression" 24:9 24:10
+c="an mri scan of the spine" 23:8 23:13||r="TeRP"||c="l5 metastasis" 23:16 23:17
+c="an mri scan of the spine" 23:8 23:13||r="TeRP"||c="a fracture" 23:19 23:20
+c="his melanoma" 22:0 22:1||r="PIP"||c="lesions in the liver and spleen" 22:11 22:16
+c="lower extremity noninvasives" 29:9 29:11||r="TeRP"||c="a femoral deep venous thrombosis" 29:16 29:20

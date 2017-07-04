@@ -1,0 +1,7 @@
+c="a neuro-interventional radiology procedure" 28:5 28:8||r="TrAP"||c="epistaxis" 28:14 28:14
+c="coumadin" 21:2 21:2||r="TrCP"||c="epistaxis" 21:0 21:0
+c="coumadin" 28:16 28:16||r="TrCP"||c="epistaxis" 28:14 28:14
+c="ekg" 36:0 36:0||r="TeRP"||c="atrial fibrillation" 36:2 36:3
+c="ekg" 36:0 36:0||r="TeRP"||c="moderate ventricular response" 36:5 36:7
+c="ekg" 36:0 36:0||r="TeRP"||c="right ventricular hypertrophy" 36:9 36:11
+c="ekg" 36:0 36:0||r="TeRP"||c="right axis deviation" 36:13 36:15

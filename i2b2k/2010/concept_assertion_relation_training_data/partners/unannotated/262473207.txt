@@ -1,0 +1,97 @@
+262473207
+CTMC
+47101689
+019789
+1/13/1990 12:00:00 AM
+Discharge Summary
+Unsigned
+DIS
+Admission Date :
+01/13/1990
+Report Status :
+Unsigned
+Discharge Date :
+01/21/1990
+HISTORY OF PRESENT ILLNESS :
+The patient is a 57-year-old man who had a myocardial infarction in 1973 and a CVA in 1972 and chronic obstructive pulmonary disease who has been experiencing substernal chest pain with dyspnea on exertion since 09/89 .
+The patient had a cardiac catheterization prior to admission which showed 80% stenosis of the LAD and 80% stenosis of the RCA .
+He had an ejection fraction of 50% .
+He was admitted for elective coronary artery bypass graft .
+PAST MEDICAL HISTORY :
+Seizure disorder .
+Hypertension .
+Chronic venous insufficiency .
+Emphysema .
+CVA .
+Myocardial infarction .
+ALLERGIES :
+MORPHINE .
+MEDICATIONS :
+On admission included Dilantin , 100 mg po t.i.d. ; Cardizem , 120 mg po t.i.d. ; Procardia , 20 mg po t.i.d. ; Beclomethasone , two puffs po q day ; aspirin , 325 mg po q day ; nitropaste , 1.5 inches q six hours .
+PHYSICAL EXAMINATION :
+On admission revealed a 57-year-old white man in no acute distress .
+Temperature was 98 .
+Heart rate was 87 .
+Blood pressure was 130/60 .
+Neck was without jugular venous distention or carotid bruits .
+Lungs were clear to auscultation bilaterally .
+Pulses were 2+ bilaterally .
+He did have a left carotid bruit .
+Cardiac exam revealed a regular rate and rhythm with normal S1 and S2 .
+There was no gallop or murmur .
+Abdomen was benign .
+Neurological exam revealed the patient to be alert and oriented times three .
+Cranial nerves were intact .
+Rectal exam was guaiac negative .
+Extremities were without cyanosis or edema .
+He did have venous stasis changes anteriorly on the right lower extremity .
+He had varicose veins on the right leg as well .
+He had venous stasis changes of the left leg .
+LABORATORY DATA :
+On admission included normal electrolytes .
+BUN 14 .
+Creatinine 1.3 .
+Hematocrit was 42.4 .
+EKG showed normal sinus rhythm with T wave inversions in V6 .
+Chest x-ray was clear .
+HOSPITAL COURSE :
+The patient was taken to the Operating Room on 1/13/90 .
+He underwent coronary artery bypass graft times three .
+He had a left internal mammory artery graft to the LAD and saphenous vein grafts to OM1 and PDA .
+Postoperatively , the patient did well and was extubated on postoperative day number one .
+The patient was continued on his Dilantin for seizure prophylaxis .
+On postoperative day number two , however , the patient had a cardiac arrest after an episode of rapid ventricular tachycardia and ventricular fibrillation .
+The patient was returned to normal sinus rhythm with a good blood pressure after cardioversion with 300 millivolts .
+It was not clear on what the precipitating factor was for this event .
+His potassium was 4.0 at the time .
+His oxygen saturation was 93% and p02 was 62 .
+He was returned to the Cardiac Surgery Intensive Care Unit at that time and he ruled out for a myocardial infarction .
+The patient was stabilized in the Intensive Care Unit and was returned to the Step-Down Unit on postoperative day number three .
+He did well after that .
+He was ambulating well .
+His sternum was healing well and was stable .
+Leg wounds were also healing well .
+He was eating a regular diet .
+He had no further arrhythmias .
+He had all his wires and staples removed on postoperative day number six .
+He was in sinus rhythm .
+He had a Holter monitor which showed no evidence of malignant rhythms prior to discharge .
+The patient was discharged to home on 1/21/90 .
+DISCHARGE DIAGNOSIS :
+CORONARY ARTERY DISEASE STATUS POST CORONARY ARTERY BYPASS GRAFT AND VENTRICULAR FIBRILLATION ARREST .
+DISPOSITION :
+MEDICATIONS :
+On discharge included Percocet , one to two po q three to four hours p.r.n. ; ASA , 225 mg po q day ; captopril , 18.75 mg po t.i.d. ; Dilantin , 100 mg po t.i.d. ; Pepcid , 20 mg po b.i.d. ; Vanceril inhaler , two puffs q four hours ; digoxin , 0.25 mg po q day .
+The patient will follow-up with Dr. Number in six weeks and with the patient &apos;s own cardiologist in one week .
+The patient was discharged in stable condition .
+________________________________ GI983/5388 ER NUMBER , M.D. FZ5
+D :
+02/27/90
+Batch :
+0233
+Report :
+Z7813X58
+T :
+02/28/90
+Dicatated By :
+LENNI E. PLAIN , M.D. BZ29

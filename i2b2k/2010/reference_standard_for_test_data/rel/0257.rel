@@ -1,0 +1,47 @@
+c="cycle 1 chemotherapy" 24:27 24:29||r="TrAP"||c="metastatic endometrial cancer" 24:20 24:22
+c="cycle 1 chemotherapy" 24:27 24:29||r="TrAP"||c="stage iii-c ovarian cancer" 24:15 24:18
+c="cycle 1 chemotherapy" 24:27 24:29||r="TrAP"||c="stage iv endometrial cancer" 24:10 24:13
+c="a repeat straight cath" 72:0 72:3||r="TeRP"||c="rbc 's" 72:7 72:8
+c="aspirin" 45:5 45:5||r="TrCP"||c="hives" 45:3 45:3
+c="amoxicillin" 43:14 43:14||r="TrAP"||c="a sore throat" 43:23 43:25
+c="ativan" 43:27 43:27||r="TrAP"||c="nausea" 43:32 43:32
+c="ativan" 43:27 43:27||r="TrAP"||c="anxiety" 43:34 43:34
+c="heparin therapy" 35:21 35:22||r="TrAP"||c="left leg dvt" 35:15 35:17
+c="her vp-16" 76:3 76:4||r="TrCP"||c="complication" 76:6 76:6
+c="grade ii-iii papillary adenocarcinoma of the endometrium" 29:2 29:8||r="PIP"||c="squamous differentiation" 29:10 29:11
+c="squamous differentiation" 29:10 29:11||r="PIP"||c="focally invasive" 29:14 29:15
+c="the patient 's urinalysis" 70:0 70:3||r="TeRP"||c="red blood cells" 70:9 70:11
+c="pathology" 29:0 29:0||r="TeRP"||c="grade ii-iii papillary adenocarcinoma of the endometrium" 29:2 29:8
+c="pathology" 29:0 29:0||r="TeRP"||c="squamous differentiation" 29:10 29:11
+c="pathology" 29:0 29:0||r="TeRP"||c="superficial myometrium" 29:17 29:18
+c="pathology" 29:0 29:0||r="TeRP"||c="focally invasive" 29:14 29:15
+c="ifex" 59:21 59:21||r="TrAP"||c="stage iv endometrial" 59:4 59:6
+c="ifex" 59:21 59:21||r="TrAP"||c="stage iii-c ovarian" 59:8 59:10
+c="ifex" 59:21 59:21||r="TrAP"||c="metastatic endometrial for line ii" 59:12 59:16
+c="grade ii-iii adenocarcinoma" 26:4 26:6||r="PIP"||c="squamous differentiation" 26:8 26:9
+c="tumor" 28:4 28:4||r="PIP"||c="studding on the right diaphragm" 28:9 28:13
+c="tumor" 28:4 28:4||r="PIP"||c="gross tumor in the omentum and large bowel" 28:15 28:22
+c="tumor" 28:4 28:4||r="PIP"||c="tumor through the uterine serosa" 28:24 28:28
+c="d and c" 26:0 26:2||r="TeRP"||c="grade ii-iii adenocarcinoma" 26:4 26:6
+c="d and c" 26:0 26:2||r="TeRP"||c="squamous differentiation" 26:8 26:9
+c="ecg" 64:3 64:3||r="TeRP"||c="anterior mi" 64:12 64:13
+c="coumadin" 61:8 61:8||r="TrAP"||c="dvt" 61:4 61:4
+c="vp-16" 59:25 59:25||r="TrAP"||c="stage iv endometrial" 59:4 59:6
+c="vp-16" 59:25 59:25||r="TrAP"||c="metastatic endometrial for line ii" 59:12 59:16
+c="vp-16" 59:25 59:25||r="TrAP"||c="stage iii-c ovarian" 59:8 59:10
+c="mesna" 59:23 59:23||r="TrAP"||c="stage iv endometrial" 59:4 59:6
+c="mesna" 59:23 59:23||r="TrAP"||c="stage iii-c ovarian" 59:8 59:10
+c="mesna" 59:23 59:23||r="TrAP"||c="metastatic endometrial for line ii" 59:12 59:16
+c="her initial evaluation" 62:21 62:23||r="TeRP"||c="tachycardiac" 62:3 62:3
+c="her initial evaluation" 62:21 62:23||r="TeRP"||c="dehydrated" 62:12 62:12
+c="her initial evaluation" 62:21 62:23||r="TeRP"||c="anxious" 62:16 62:16
+c="tachycardiac" 62:3 62:3||r="PIP"||c="anxious" 62:16 62:16
+c="tachycardiac" 62:3 62:3||r="PIP"||c="dehydrated" 62:12 62:12
+c="ekg" 63:0 63:0||r="TeRP"||c="sinus tachycardia" 63:2 63:3
+c="ekg" 63:0 63:0||r="TeRP"||c="incomplete right bundle branch block" 63:5 63:9
+c="papillary serous adeno" 30:3 30:5||r="PIP"||c="omental involvement" 30:7 30:8
+c="papillary serous adeno" 30:3 30:5||r="PIP"||c="an endometroid adenocarcinoma" 30:11 30:13
+c="her coags" 61:11 61:12||r="TeCP"||c="dvt" 61:4 61:4
+c="cycle i chemotherapy" 59:18 59:20||r="TrAP"||c="metastatic endometrial for line ii" 59:12 59:16
+c="cycle i chemotherapy" 59:18 59:20||r="TrAP"||c="stage iii-c ovarian" 59:8 59:10
+c="cycle i chemotherapy" 59:18 59:20||r="TrAP"||c="stage iv endometrial" 59:4 59:6

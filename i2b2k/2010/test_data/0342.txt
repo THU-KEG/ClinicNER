@@ -1,0 +1,68 @@
+551969782 
+HLGMC 
+2743471 
+05215/8895 
+3/26/1993 12:00:00 AM 
+POST-INFARCTION UNSTABLE ANGINA PECTORIS . 
+Unsigned 
+DIS 
+Report Status : 
+Unsigned 
+ADMISSION DATE : 
+3-26-93 
+DISCHARGE DATE : 
+4-3-93 
+PRINCIPAL DIAGNOSIS : 
+Post-infarction unstable angina pectoris . 
+ASSOCIATED DIAGNOSIS : 
+Inferior wall myocardial infarction , ventricular fibrillation arrest , congestive heart failure , paroxysmal atrial tachycardia , coronary artery disease , psychosis . 
+SPECIAL PROCEDURES AND OPERATIONS : 
+3-27-93 , cardiac catheterization and coronary and left ventricular angiography ; 4-2-93 , exercise tolerance test with Thallium . 
+MEDICATIONS ON DISCHARGE : 
+Vasotec 5 mg PO b.i.d. , Isordil 10 mg PO q.i.d. , Ticlopidine 50 mg PO b.i.d. , Metoprolol 50 mg PO b.i.d. , Ciprofloxacin 500 mg PO q12h x seven days , nitroglycerin 0.3 mg sublingually prn chest pain . 
+HISTORY OF PRESENT ILLNESS : 
+The patient is a 73 year old female who was transferred for cardiac catheterization after ventricular fibrillation arrest in the setting of an acute inferior myocardial infarction and a urinary tract infection . 
+The patient was admitted on 3-16-93 to Diy Hospital for an E. coli urinary tract infection . 
+The patient was readmitted on 3-20-93 because of fever , chills and a sudden onset of ventricular fibrillation arrest , successfully cardioverted back to rapid atrial fibrillation and finally to sinus rhythm , where an electrocardiogram then showed ST elevation in inferior leads . 
+Peak CPK was 2494 with 18% MB 's . 
+She required intubation for mild to moderate congestive heart failure , treated with diuretics , intravenous nitroglycerin and heparin . 
+She had post-infarction angina , was transferred here for angiography and possible percutaneous transluminal coronary angioplasty . 
+PHYSICAL EXAMINATION : 
+On physical examination , blood pressure is 130/80 , pulse 74 and regular , respirations 14 . 
+Her chest demonstrated bibasilar crackles . 
+Cardiovascular exam : 
+the jugular venous pressure was seven centimeters , carotid upstroke normal . 
+The heart exam revealed a normal Sl and S2 was normally split . 
+There was an S4 , no S3 , grade II/VI apical murmur in systole , no rubs . 
+The abdomen was benign , unremarkable . 
+Extremities : 
+no calf tenderness or peripheral edema . 
+Peripheral pulses were 2+ and symmetrical bilaterally . 
+HOSPITAL COURSE : 
+On 3-27-93 , patient underwent cardiac catheterization , coronary and left ventricular angiography without complications . 
+Review of these angiograms demonstrated a dominant right coronary artery with a focal 50% stenosis in the mid-portion . 
+The left main coronary artery was clear . 
+The left anterior descending had moderate plaques with a 50% proximal stenosis of the right anterior oblique caudal view . 
+The proximal diagonal D1 had a 50% stenosis . 
+The circumflex had a long 30% stenosis proximally and an 80% stenosis at the origin of the second major marginal artery . 
+The left ventricular angiogram showed akinesis of the posterobasal walls , severe hypokinesis of the diaphragmatic wall and trace mitral regurgitation . 
+The patient was maintained on heparin anticoagulation . 
+An exercise tolerance test with Thallium was to be performed in order to assess myocardial viability in the infarct zone . 
+The right coronary artery lesion was complex and there was severe stenosis in the obtuse marginal 1 . 
+The patient had no further angina . 
+On 4-2-93 , she underwent a Persantine Thallium study . 
+This showed no diagnostic electrocardiogram changes for ischemia and no angina pectoris . 
+The thallium images showed a large region of persistently reduced blood flow involving the apex and inferoposterior segments of the left ventricular wall . 
+This was consistent with scar . 
+There was no definite perfusion abnormality in the circumflex zone . 
+In view of these findings , it was elected to discharge her on her present medical program . 
+The patient is to return to the follow up care of Dr. Ko Kollciem at the Diy Hospital . 
+CHPO E. JESCOBEA , M.D. 
+TR : 
+sq / bmot 
+DD : 
+06-13-93 
+TD : 
+06/15/93 
+CC : 
+Dr. Ko Kollciem , Retchard Healthcare to Dr. Wall 

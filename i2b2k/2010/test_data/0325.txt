@@ -1,0 +1,119 @@
+Admission Date :
+2012-03-01
+Discharge Date :
+2012-03-13
+Date of Birth :
+1985-11-02
+Sex :
+F
+Service :
+CMED CCU
+HISTORY OF PRESENT ILLNESS :
+Patient is a 26 - year-old female with a past medical history significant for nonischemic dilated cardiomyopathy with an ejection fraction of 15-20% , who presents with a one-week history of progressive shortness of breath .
+She reports orthopnea with an increasing pillow requirement of 2-4 with paroxysmal nocturnal dyspnea .
+Patient also reports a 6-pound weight gain over the last four days with associated lower extremity edema .
+She also reports positional chest pain , which is worse with lying down and relieved with sitting up .
+She denies any pain with activity .
+She also reports a cough productive of green sputum for approximately one week .
+She does report chills , but no fevers .
+In the Emergency Department , she was started on a nesiritide drip and responded well with 2000 cc urine output .
+PAST MEDICAL HISTORY :
+1. Nonischemic dilated cardiomyopathy with an ejection fraction of 15-20% .
+2. Status post cardiac catheterization in 2011-11-19 which showed normal coronaries .
+MEDICATIONS ON ADMISSION :
+1. Toprol .
+2. Lasix .
+3. Digoxin .
+4. Coumadin .
+5. Flovent .
+6. Albuterol .
+7. Lisinopril .
+ALLERGIES :
+She has no known drug allergies .
+SOCIAL HISTORY :
+She is a positive tobacco user .
+She smoked a half pack a day for eight years and quit in 2011-11-19 .
+She denies any alcohol or drug use .
+She has a 5-year-old son .
+FAMILY HISTORY :
+There is no family history of coronary artery disease .
+VITALS ON ADMISSION :
+She had a temperature of 98.1 , blood pressure of 130/99 , pulse of 111 , respiratory rate of 16 .
+She was saturating 100% on room air .
+PHYSICAL EXAM :
+General :
+She is in no apparent distress .
+She is obese .
+She is slightly tachypneic .
+HEENT :
+Pupils are equal , round , and reactive to light .
+Her oropharynx is clear .
+Mucous membranes are moist .
+Neck :
+She has JVD to angle of the jaw , no bruits .
+Chest :
+She has got bilateral basilar crackles , no wheezing .
+Cardiac examination :
+She had a normal S1 , S2 with a 2/6 systolic ejection murmur at the left upper sternal border .
+She had a positive S4 .
+Her abdomen was obese , soft , nontender .
+Extremities :
+2+ edema to the knees .
+LABORATORIES ON ADMISSION :
+She had a white count of 9.3 , hematocrit of 37.7 , platelets of 293 .
+She had a CK of 212 and MB of 21 , and a troponin of 0.56 .
+She had a Chem-7 which was normal .
+She had an INR of 1.5 on her Coumadin .
+Chest x-ray showed right patchy opacity with a right effusion .
+EKG showed sinus tachycardia , borderline left axis , normal intervals , LVH , left atrial enlargement , no Q waves , no P-R depressions , no ST segment elevations or depression .
+HOSPITAL COURSE :
+1. Congestive heart failure :
+Patient was diuresed effectively with nesiritide and Lasix .
+Patient 's weight on admission was 250 pounds , and on the day of discharge was 244 pounds which was back to her dry weight .
+She had lost the 6 pounds that she reported gaining in the four days prior to her hospitalization .
+Patient was continued on her Toprol , her lisinopril , and her digoxin .
+Patient 's Coumadin was held for right heart catheterization and biopsy , and then EP study with ICD placement .
+Patient did have Woodrow Betty , SPEP , and anticardiolipin antibody sent for further workup of the etiology of her cardiomyopathy .
+The Courtney , SPEP , and anticardiolipin antibody were all negative .
+Her CKs did trend down over the course of her hospital stay , and in the setting of her known clean coronaries on cardiac catheterization in 2011-11-19 , it was believed that a myocarditis might be the cause of her elevated cardiac enzymes and also could have exacerbated her congestive heart failure .
+Patient did receive a right heart catheterization , which showed elevated wedge pressures and biopsy specimens were obtained of the right ventricle .
+The results of these biopsies are still pending in pathology .
+Post right heart catheterization and right ventricular biopsy , the patient was sent to the CCU for a Swan - guided therapy in the setting of her elevated wedge pressures and low cardiac output .
+In the CCU , she was put on milrinone with good results .
+Patient was also seen by the Pulmonary service here and had pulmonary function tests done as part of a pretransplant workup .
+There is no pulmonary process to exclude her from the transplant list as noted by the Pulmonary service .
+Patient did receive an ICD during this hospital admission without complication .
+Patient was in bigeminy during the course of her hospital stay , and did have frequent runs of ectopy as noted on telemetry .
+2. Her right lower lobe infiltrate :
+Patient did report a cough productive of green sputum on admission .
+She received a full course of azithromycin for this with resolution of her cough and sputum production .
+On discharge , the patient was restarted on her Coumadin , which was held for her right heart catheterization , and her biopsy , and her ICD placement .
+She was also continued on all her heart failure medications including her Toprol , her lisinopril , her digoxin , and her Lasix .
+CONDITION ON DISCHARGE :
+Good .
+DISCHARGE STATUS :
+To home .
+DISCHARGE DIAGNOSIS :
+Nonischemic dilated cardiomyopathy .
+MEDICATIONS ON DISCHARGE :
+1. Digoxin 375 mcg and 250 mcg alternating doses each day .
+2. Lisinopril 40 mg p.o. q.d.
+3. Toprol XL 75 mg p.o. q.d.
+4. Flovent 110 mcg two puffs b.i.d.
+5. Albuterol 1-2 puffs q.6h. prn .
+6. Coumadin 10 mg p.o. q.h.s.
+7. Lasix 40 mg p.o. q.d.
+8. Keflex 500 mg x6 doses .
+FOLLOW-UP INSTRUCTIONS :
+The patient will follow up in EP Clinic on 2012-03-19 .
+She will also be seen in the Heart Failure Clinic on 2012-03-28 .
+Patient will also followup with her primary care provider , Dr. Sandra Lamar for check of her INR in one week 's time .
+Felix Weiss , M.D.
+95-771
+Dictated By : Randy EB Brooks , M.D.
+MEDQUIST36
+D : 2012-03-13 12:25
+T : 2012-03-13 14:00
+JOB #: 15824
+Signed electronically by : DR. Felix Willis on : FRI 2012-06-22 12:49 PM
+( End of Report )

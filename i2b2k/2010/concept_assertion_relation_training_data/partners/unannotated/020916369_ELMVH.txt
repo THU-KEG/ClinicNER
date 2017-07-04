@@ -1,0 +1,75 @@
+020916369 ELMVH
+07813686
+4888155
+06/21/2004 12:00:00 AM
+s / p laparotomy TAHBSO resection uterine mass
+DIS
+Admission Date :
+06/21/2004
+Report Status :
+Discharge Date :
+06/26/2004
+****** DISCHARGE ORDERS ******
+SMUTHPIERNACKRHALT , IECIFA S.
+668-10-81-1 E00
+Room :
+46D-880
+Service :
+OSS
+DISCHARGE PATIENT ON :
+06/26/04 AT 10:00 AM
+CONTINGENT UPON
+Not Applicable
+WILL D / C ORDER BE USED AS THE D / C SUMMARY :
+YES
+Attending :
+CHOL , TA GERRENO , M.D.
+DISPOSITION :
+Home
+DISCHARGE MEDICATIONS :
+COLACE ( DOCUSATE SODIUM ) 100 MG PO BID MOTRIN ( IBUPROFEN ) 600 MG PO Q8H
+Food / Drug Interaction Instruction
+Take with food DILAUDID ( HYDROMORPHONE HCL ) 6 MG PO Q3H PRN Pain
+DIET :
+House / Low chol / low sat. fat
+ACTIVITY :
+Walking as tolerated
+Lift restrictions :
+Do not lift greater then 5 pounds
+FOLLOW UP APPOINTMENT ( S ) :
+Dr. Chol 150-512-4256 1-2 weeks ,
+ALLERGY :
+NKA ADMIT DIAGNOSIS :
+s / p Laparotomy , TAH , BSO , resection uterine mass
+PRINCIPAL DISCHARGE DIAGNOSIS ;
+Responsible After Study for Causing Admission ) s / p laparotomy TAHBSO resection uterine mass
+OTHER DIAGNOSIS ;
+Conditions , Infections , Complications , affecting Treatment / Stay
+none
+OPERATIONS AND PROCEDURES :
+06/21/04 CHOL , TA GERRENO , M.D. RESECTION ABD .
+TUMOR SUPRACERVICAL HYSTERECTOMY , BSO
+OTHER TREATMENTS / PROCEDURES ( NOT IN O.R. )
+none
+BRIEF RESUME OF HOSPITAL COURSE :
+Pt is a 42-year-old woman who was diagnosed with an intraabdominal mass .
+Pelvic ultrasound suggested that she actually had two separate masses possibly of uterine origin .
+An image-guided biopsy confirmed that this was a smooth muscle neoplasm .
+Pt underwent procedure without complication .
+Post-operatively , pain was well controlled with epidural , pt ambulated with minimal assistance , and tolerated clear liquids by POD1 .
+Pt passed flatus POD3 and was started on oral analgesia , full diet , and foley was removed without difficulty .
+Pt initially had difficulty transitioning to oral analgesia but achieved better pain control once regimen was optimized .
+Pt was voiding , ambulating and eating without difficulty therefore on POD5 she was discharged home in stable condition with plans to follow up with Dr. Chol in 1-2 weeks .
+ADDITIONAL COMMENTS :
+If fevers , chills , nausea , vomiting , diarrhea , inreasing abdomina l pain / distention , vaginal bleeding , mass in vagina , increasing redness / swelling/discharge from incision , please call Dr. Chol &apos;s office or proceed to ER for evaluation .
+Please do not drink alcohol or drive while taking narcotics .
+OK to shower but do not scrub the incision or submerge in water until after follow up appointment .
+No heavy lifting or strenuous exercise until after follow up .
+DISCHARGE CONDITION :
+Stable
+TO DO / PLAN :
+Follow uo Dr. Chol in 1-2 weeks
+No dictated summary
+ENTERED BY :
+DUHEMEED , RISRICK YOUSTI ( SY29 ) 06/26/04 09:59 AM
+****** END OF DISCHARGE ORDERS ******

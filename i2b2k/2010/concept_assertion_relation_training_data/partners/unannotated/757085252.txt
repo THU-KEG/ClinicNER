@@ -1,0 +1,88 @@
+757085252
+HLGMC
+1228824
+18705/6o5b
+3/25/1993 12:00:00 AM
+CONGESTIVE HEART FAILURE .
+Unsigned
+DIS
+Report Status :
+Unsigned
+ADMISSION DATE :
+3/25/93
+DISCHARGE DATE :
+4/4/93
+PRINCIPAL DIAGNOSIS :
+congestive heart failure .
+ASSOCIATED DIAGNOSIS :
+aortic stenosis ; coronary artery disease , status post multi vessel coronary artery bypass graft surgery , severe left ventricular dysfunction , chronic renal insufficiency .
+ALLERGIES :
+Sulfonamides .
+PRINCIPAL PROCEDURE :
+cardiac catheterization - 4/1/93 - two dimensional echocardiogram 3/27/93 .
+DOCTORS DISCHARGE ORDERS :
+Lasix 40 mg qd ; Digoxin 0.25 mg qd ; aspirin 325 mg qd ; Isordil 10 mg tid .
+HISTORY OF PRESENT ILLNESS :
+Mr. Breun underwent a six vessel coronary artery bypass grafting procedure in March , 1990 , following a complicated inferior posterior myocardial infarction .
+He had a very stormy course , dominated by post infarction angina pectoris , high grade atrial ventricular block , gastrointestinal bleeding , pneumonia , and no noliguric renal failure .
+An intra-aortic balloon pump was required for stabilization .
+He also had moderately severe aortic stenosis at that time with a peak aortic valve gradient of 30 , and a calculated valve area of 1.2 cm squared .
+Despite the magnitude of these problems , he made a remarkable recovery over the course of several months , and was able to return to work on a part-time basis , after joining a program of cardiac rehabilitation .
+Postoperatively , we measured a left ventricle ejection fraction of 40% , by gated cardiac blood pool scanning .
+Over these past 3 years , he has remained stable , on a very simple program of aspirin , and Atenolol .
+He returned for routine office evaluation on 3/25/93 , complaining of 2 months of progressive exertional dyspnea , with occasional chest discomfort , and , more recently , orthopnea , cough , peripheral edema , and weight gain .
+PHYSICAL EXAMINATION :
+Weight 197 lbs , up 6 lbs , blood pressure 128/88 , heart rate 70 and regular .
+The venous pressure was markedly elevated to 15 cm .
+The carotids were of low volume , and sluggish bilaterally , with transmission of a basal heart murmur .
+There was dullness at both bases , with rales 1/3 way upon the right , and at the base on the left .
+The right ventricle , and left ventricle impulses were diffuse .
+There was a Grade I-II murmur of aortic stenosis , with additional murmurs of tricuspid , and mitral regurgitation , and an obvious S3 .
+The liver was enlarged 2 finger breadths below the right costal margin , and there was 1-2+ peripheral edema .
+His chest X-ray demonstrated cardiomegaly , with bilateral pleural effusions , right greater than left , and pulmonary vascular re-distribution .
+The electrocardiogram showed a normal sinus rhythm with first degree AV block , an old inferior myocardial infarction , and old anteroseptal myocardial infarction , and non-specific ST-T wave abnormalities , that were unchanged compared to June , 1992 .
+Later , an echocardiogram on 3/27/93 , demonstrated mild mitral regurgitation with calcification of the annulus , and incomplete closure of the valve , consistent with papillary muscle dysfunction .
+The left atrium was dilated to 52 mm .
+The aortic valve was thickened , with restrictive motion , and there were indistinct mobile echo densities on the leaflets .
+There was evidence of trace aortic regurgitation , however , due to technical difficulties , accurate gradients could not be estimated .
+The left ventricle was dilated , with concentric hypertrophy , and multi segmental wall motion abnormalities , with a reduced ejection fraction of 24% .
+There was also Doppler evidence of tricuspid regurgitation and pulmonary insufficiency .
+A Persantine Thallium scan on 3/31/93 , showed increased lung uptake , cavity dilatation and a large inferior , apical scar , without evidence of active ischemia .
+LABORATORY DATA :
+potassium 4.4 , BUN and creatinine 33/1.7 , albumen 3.6 , total bilirubin 1.8 , direct bilirubin 0.5 , CK 162 , with 11.1 MB for a relative index of 6.9% .
+This was of uncertain significance .
+The hematocrit 43.2 , whiteblood count 9.2 , prothrombin time 10.4 , partial thromboplastin time 34.2 , urinalysis had 1+ albumen and 0-2 white blood cells , per high power field , with a culture that demonstrated rare Enterococcus .
+HOSPITAL COURSE :
+The patient was admitted to the Medical Service , and placed at bed rest , and given intravenous Furosemide .
+Over the course of the next few days , we succeeded in having his weight decrease from its value of 189 lbs , to as low as 177 1/2 lbs .
+Coincident with this , his clinical condition improved markedly , and he became fully ambulatory .
+Given the difficulties in trying to assess the exact mechanism by which his heart failure had occurred , we proceeded to cardiac catheterization on 4/1/93 .
+At the time of this study , the right atrial pressure was 1 , the PA pressure 32/10 , and the mean pulmonary capillary wedge pressure was 10 .
+There was a 40-50 mm peak to peak gradient across the aortic valve , a mean gradient of 40 , and a calculated valve area of 0.5 cm squared , using a cardiac output of 3.4 liters per minute .
+Left ventriculography demonstrated marked left ventricle dilatation .
+There was mild mitral regurgitation , a posterior basil aneurysm , and akinesis of the apex , septum , and inferior walls .
+The anterior lateral wall was severely hypokinetic , and the posterior lateral wall moderately kinetic .
+The aortic valve was calcified with reduced excursion consistent with his aortic stenosis .
+A dominant right coronary artery had an 80% proximal stenosis , and was then occluded at the acute margin .
+A large right ventricular marginal branch did fill the saphenous vein graft in a retrograde fashion .
+The posterior descending artery had an 80% stenosis proximal to the insertion of the graft .
+The left anterior descending was proximally occluded , and the left circumflex had a 90% stenosis in the first marginal branch , and 90% stenosis distally in other branches .
+The saphenous vein graft to the right ventricular acute marginal and posterior descending artery was patent with good runoff .
+The saphenous vein graft to the left anterior descending had a minor plaque at the distal anastomosis .
+The saphenous vein graft to three distal marginal branches was patent with good flow .
+Certainly , the cardiac catheterization was consistent with severe aortic stenosis in the presence of profound left ventricular systolic dysfunction .
+These findings were reviewed with Dr. Patella and together we decided that conservative therapy would be the appropriate first choice in Mr. Breun &apos;s management .
+His advanced age , prior cardiac surgery and advanced left ventricular dysfunction , together with his chronic renal insufficiency , would certainly complicate to an enormous degree any undertaking as risky as redo surgery for aortic valve replacement .
+Percutaneous aortic valvuloplasty , on the other hand , would only be a temporary procedure and did not seem necessary even for transient symptomatic relief given his marked improvement following a rather conventional course of intravenous diuretics .
+It is very unlikely that we will offer Mr. Breun aortic valve replacement surgery in the future .
+He seems to agree with this particular approach as the quality of life has become very important and appropriate issue for him .
+He is looking forward to returning home and going back to work on a part time basis at the local pharmacy .
+We will see how far we can get with medical therapy although Mr. Wierst and his family clearly understand the long term implications of his aortic stenosis .
+ETHELAN KOTEFYFECHIRD , M.D.
+TR :
+go / bmot
+DD :
+4/4/93
+TD :
+04/06/93
+CC :

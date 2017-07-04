@@ -1,0 +1,212 @@
+Admission Date :
+2017-02-04
+Discharge Date :
+2017-03-04
+Date of Birth :
+1958-07-29
+Sex :
+M
+Service :
+MEDICINE
+Allergies :
+Betalactams / Levofloxacin
+Attending : Cayla R Turner , M.D.
+Chief Complaint : respiratory distress
+Major Surgical or Invasive Procedure : s/p intracranial pressure bolt placement
+History of Present Illness :
+The patient is a 58 - year-old man with history of IDDM , PVD , status post toe amputations , diabetic neuropathy , and retinopathy recently admitted to McLean Hospital from 2017-01-13 , through 2017-01-18 , with a diagnosis of right heel diabetic ulcer with MSSA osteomyelitis of the calcaneus , MSSA bacteremia , acute interstitial nephritis secondary to oxacillin , and RLL pna .
+He was sent home with a PICC line and IV antibiotics .
+He returned to the Wing Memorial & Medical Center intubated from an outside hospital on 2017-02-04 , for respiratory failure and was sent to CMED CSRU .
+Prior to his re-admission , his sister had noted that he was having some shaking chills and heavy breathing .
+When he came back to Faulkner Hospital Hospital for confusion and diaphoresis , his initial oxygen sat was only 80% with a fingerstick of 29 .
+He was given D50 , but continued to have progressive respiratory failure , was therefore intubated and transferred to the Austen Riggs Center where he was noted to have multifocal pneumonia and bacteremia with enterobacter and MSSA .
+Past Medical History : diabetes type 1 since age 24 after pancreatic trauma
+diabetic retinopathy
+direct neuropathy
+PVD
+status post multiple toe amputations
+recent right heel osteomyelitis
+recent MSSA bacteremia
+multifocal pneumonia
+acute interstitial nephritis
+cataract surgery .
+Social History : divorced truck driver
+tobacco : 16 pack year hx ; quit 24 years ago
+ETOH : occasional beer
+Family History :
+NC
+Physical Exam :
+On transfer to the floor from the CMED CSRU on 2017-02-15 temp :
+97.4 HR :
+78 BP :
+141/64 RR :
+20 O2sat :
+94-95% on 3L NC
+Gen : somnolent but arousable to voice
+HEENT :
+MM moist , PERRLA
+CV :
+RRR , no m/r/g
+Lungs : crackles bibasilar
+Abd : soft , slightly distended , nontender , +BS
+Ext :
+2+ pitting edema B LE to knee , nonpitting edema in B hands and arms .
+1+ DP pulses bilaterally .
+Missing R 1st toe and L 2nd toe .
+Wound vac in place on R foot .
+Access :
+L PICC (  2017-02-14 ) .
+Neuro : arousable .
+States he is at home , name is " Henry " and year is 1992 .
+Not answering other questions .
+Not following commands but moves UE 's to try to pull out NG tube .
+Pertinent Results :
+CT chest 2017-02-06
+IMPRESSION :
+1. Extensive bilateral diffuse ground glass and more confluent areas of consolidation in both lungs consistent with the recent chest x-ray .
+This non - specific pattern could represent diffuse pneumonia complicated by ARDS .
+This would likely less represent asymmetric pulmonary edema .
+2. Small bilateral pleural effusions .
+Echo 2018-02-06
+Conclusions :
+1. No spontaneous echo contrast or thrombus is seen in the body of the left atrium or left atrial appendage .
+No atrial septal defect is seen by 2D or color Doppler .
+2. Left ventricular wall thickness , cavity size , and systolic function are normal ( LVEF > 55% ) .
+3. Right ventricular chamber size and free wall motion are normal .
+4. The ascending , transverse and descending thoracic aorta are normal in diameter and free of atherosclerotic plaque .
+5. The aortic valve leaflets ( 3 ) appear structurally normal with good leaflet excursion .
+No masses or vegetations are seen on the aortic valve .
+Trace aortic regurgitation is seen .
+6. The mitral valve appears structurally normal with trivial mitral regurgitation .
+No mass or vegetation is seen on the mitral valve .
+7. No vegetation / mass is seen on the pulmonic valve .
+8. There is a trivial / physiologic pericardial effusion .
+Head CT 2017-02-08
+FINDINGS :
+No intracranial hemorrhage is identified .
+There is no mass effect or shift of the normally midline structures .
+No major vascular territorial infarction is identified .
+The ventricles and sulci are normal in size and symmetrical .
+No osseous lesions are seen .
+IMPRESSION :
+No intracranial hemorrhage or CT evidence of acute infarction .
+EEG 2017-02-10
+IMPRESSION :
+This is an abnormal EEG due to the presence of a low voltage and slow background consistent with a severe encephalopathy of toxic , metabolic , or anoxic etiology .
+Note that with the documented movements of the patient 's head and mouth , no change on the EEG was seen .
+No evidence of ongoing seizures was seen .
+Cultures :
+Urine :
+2017-02-04 and 2017-02-07 and 2017-02-11 : yeast
+Sputum 2017-02-04
+ENTEROBACTER CLOACAE
+IV catheter tip 2017-02-05:
+STAPHYLOCOCCUS , COAGULASE NEGATIVE sensitive to vanc
+Blood :
+2017-02-04
+ENTEROBACTER CLOACAE
+ENTEROCOCCUS FAECIUM .
+STAPHYLOCOCCUS , COAGULASE NEGATIVE .
+ISOLATED FROM ONE SET ONLY .
+Stool 2017-02-07 : c. diff negative
+Brief Hospital Course :
+1) Respiratory failure :
+On admission , this was felt to be likely 03-15 worsening PNA .
+Pt remained intubated until 2017-02-14 .
+He had difficulty weaning from the vent due to difficulties with neurological status ( he remained drowsy and unresponsive for many days ) but eventually awoke enough and was extubated without difficulty and remained stable on 3L NC .
+He was transferred to the floor but a few days later began to show signs of respiratory distress and was transferred back to the CMED CSRU for reintubation for likely aspiration event leading to worsening pneumonia as well as some component of pulm edema .
+He was extubated a few days later and transferred back to the floor where his pulm status improved dramatically with lasix and continued nebulizer treatments .
+The patient was prepared for discharge on 05-29 , when he was sat ' ing in the high 90 's on room air .
+However , on 2017-03-01 at 6 am the pt was found with labored respirations ( rr = 24 ) and SaO2 89% , which improved to only SaO290 - 91% on 100% NRB .
+ABG ( 7.42 / 38 / 88 ) was performed , 80 mg lasix was given and the patietn had foley placed and had good urine output and good mentation .
+He was also given nebulizers without improvement .
+His chest radiograph had fluffy bilateral infiltrates .
+Although the pt was w/o fever , he had chills .
+He was readmitted tot he CMED CSRU for respiratory distress likely secondary to a recurrent aspiration event .
+He was continued on meropenem , started on BiPAP and aggressively suctioned in an attempt to avoid intubation .
+On 03-02 at 10 am , the patient had an acutechange in mental status with bradycardia , hypertension , pinpoint pupils , decerebrate posturing and increased tone in bilateral upper extremities and unresponsiveness .
+The patient was brought to CT immediately for stat scan and was found to have a massive occipital spontaneous hemorrhage into the L ventricle requiring ventricular drainage .
+Neurosurgery was immediately called for an EVD and anesthesia was called STAT to the bedside for intubation at 10:45 am in order to assist in hyperventilation .
+After endotracheal intubation , MAPs were maintained between 70 and 90 , dilantin was dose to maintain an appropriate level .
+L frontal ICP bolt was placed by neurosurgery under sterile conditions on antibiotics .
+Mannitol 75 mg iv x 1 then 50 gm iv tid was begun to maintain serum osm > 320 and Na > 147 .
+The patient was hyperventilated to goal PCO2 30-35 with ICP improvement .
+Serial head CT studies and neurologic exams were performed but the patient was unchaged , unresponsive with posturing and no spontaneous movement despite ICP being maintained in good range ( < 20 ).
+On 2017-03-03 , a family meeting resulted in the patient 's code being changed to comfort measures only .
+The patient was terminally extubated on a morphine drip and ativan titrated for agonal breathing and discomfort ; scopolamine was used as an adjunct to control secretions and appeared comfortable when he died at 12:27 pm on 2017-03-04 .
+The family refused autopsy or post-mortem examination to deduce secondary causes of death .
+2. ID - Bacteremia and PNA :
+Pt 's triple lumen catheter was found to be growing coag neg staph . and PICC tip and sputum growing enterobacter cloacae .
+The PICC was d/c 'ed and pt was continued on vancomycin ( for course of 6 weeks ) and meropenem was added on 02-09 ( for 3 week course ).
+TEE was negative .
+Pt finished the 3 week course of meropenem while in house and was discharged to rehab on day 34/42 of the vancomycin .
+3) AIN :
+Pt received oxacillin during his prior hospitalization and had AIN from this medication .
+On this admission he was continued on prednisone taper .
+Fluoroquinolones and other renal toxins were avoided .
+Renal function gradually improved and Cr trended down from peak of 7.6 to 1.4 .
+Before the patient acutely decompensated as above , the plan was for steroid taper :
+60 mg x 10 days ( already completed ) , 40 mg x 14 d ( already completed ) , 20 mg x 14 d ( now day 11-24 ) , 10 mg x 10 d , 5 mg x 10 d .
+4) Foot ulcer : The pt was followed by podiatry and had several further debridement of his R heel wound .
+on abx , podiatry following , changed vac q3 days .
+5) Encephalopathy : It was unclear why the pt 's mental status initially did not improve more quickly after all sedatives were removed and he was extubated .
+His MS waxed and waned for many days and uremia vs. failure to clear sedatives were considered ( although pt was making urine and LFT 's are wnl ).
+The pt had an EEG and 2 head CT 's which did not show anoxic brain injury or bleeding .
+He gradually improved and was A&Ox3 and near baseline before Amesbury Hospital transferred to the CMED CSRU in respiratory distress .
+6) DM :
+Pt was maintained on SSI with small amount of standing insulin while he was NPO and then his dose was gradually increased as he received tube feeds .
+7) FEN :
+The pt had an NG tube placed and received tube feeds for the majority of his hospitalization .
+Upon extubation and transfer to the floor he pulled out the NG tube time several times and required restraints .
+Albumin was very low and pt had significant edema likely 03-15 this .
+A few days before decompensating , his mental status improved to the degree that he was able to eat normal food without aspirating .
+8) CV :
+Pump / HTN : pt had episodes of both hypertension and hypotension during his stay .
+He was managed with Metoprolol , Hydralazine , and Amlodipine .
+Near discharge his BP was controlled with Metoprolol only .
+9) Hypernatremia - While in the CMED CSRU the pt developed hypernatremia .
+This was felt to be likely 03-15 intravascular volume depletion since the pt 's albumin was so low and he was third spacing all of his fluid .
+He was volume resuscitated and managed with D5W and lasix as well as receving FW boluses with his NG tube feeds .
+The hypernatremia fully resolved when he resumed eating on his own and had access to free water .
+10) Anemia :
+Pt 's Hct trended down slowly throughout his hospitalization .
+Labs were consistent with anemia of chronic disease .
+He was transfused 3 units pRBC 's near the end of his hospitalization and had an appropriate bump .
+11) CMED CCU :
+When the pt 's MS improved to near baseline before again decompensating , he became extremely tearful and expressed feelings of depression after being in the hospital for so long .
+He expressed interest in taking an anti-depressant for a short time while he was recovering and was started on Celexa .
+Medications on Admission : vancomycin 1g IV q48
+MVI
+Neurontin 300 qd
+RISS
+Prednisone taper 60 qd
+Prilosec 20 qd
+Metoprolol 25 bid
+Lantus 480 qd
+Calcium Carbonate tid with meals
+Discharge Medications : n/a
+Discharge Disposition :
+Extended Care
+Discharge Diagnosis : subarachnoid hemorrhage
+Diabetes Mellitis ( Pancreatic Trauma )
+Acute Interstitial Nephritis ( Oxacillin )
+Peripheral Neuropathy
+Peripheral Vascular Disease
+Digital Necrosis
+Multiple Toe Amputations
+Diabetic Nephropathy
+Hypertension
+MSSA Bacteremia
+Enterococcal Bacteremia
+Enterbactor Cloacae Bacteremia
+Multifocal Pneumonia
+Respiratory Failure
+MSSA osteomyelitis of Calcaneous
+Toxic / Metabolic Encephalopathy
+Hypernatremia
+Discharge Condition :
+Deceased
+Sims Kenneth Jason MD 95-149
+Completed by : Michael Sulzer ROSENTHAL MD 58-540 2017-05-24 @ 2309
+Signed electronically by : DR. Cheryl James on : Larry 2017-05-25 2:28 PM
+( End of Report )

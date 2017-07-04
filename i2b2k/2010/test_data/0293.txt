@@ -1,0 +1,122 @@
+Admission Date :
+2016-02-14
+Discharge Date :
+Date of Birth :
+1952-03-27
+Sex :
+M
+Service :
+ADMISSION DIAGNOSIS :
+Coronary artery disease .
+DISCHARGE DIAGNOSES :
+1. Coronary artery disease .
+2. Status post off pump coronary artery bypass graft times three .
+HISTORY OF PRESENT ILLNESS :
+The patient is a 63 year old gentleman who had initially presented with exertional chest pressure several weeks prior to this admission that would resolve with rest .
+Stress echocardiogram demonstrated an ejection fraction of 40% , hypokinesis of distal anterior wall , akinesis of distal inferior wall and apex .
+The patient had a cardiac catheterization which revealed three vessel disease and the patient now presents for elective coronary artery bypass grafting .
+PAST MEDICAL HISTORY :
+1. Hypertension .
+2. Hypercholesterolemia .
+3. Diabetes mellitus .
+4. End stage renal disease .
+5. Status post cadaveric kidney transplant in 2012-09-21 .
+6. Chronic allograft nephropathy .
+7. Chronic anemia .
+8. History of upper gastrointestinal bleed .
+9. Depression .
+10. Gout .
+11. Question of transient ischemic attack .
+12. Status post left AV fistula .
+ALLERGIES :
+No known drug allergies .
+MEDICATIONS ON ADMISSION :
+1. Aspirin 325 mg p.o. once daily .
+2. Neoral 25 mg three times a day .
+3. Diltiazem 240 mg once daily .
+4. Allopurinol 100 mg p.o. once daily .
+5. Hydralazine 100 mg twice a day .
+6. Enalapril 10 mg p.o. twice a day .
+7. Avandia 4 mg once daily .
+8. Lipitor 10 mg once daily .
+9. Bactrim double strength once daily .
+10. Hydrochlorothiazide 25 mg once daily .
+11. Toprol XL 25 mg once daily .
+12. Prednisone 5 mg once daily .
+LABORATORY DATA :
+Preoperative laboratory values showed white blood cell count 6.8 , hematocrit 33.3 , platelet count
+283,000 .
+INR 1.1 .
+Chem7 showed sodium 138 , potassium 4.1 , chloride 107 , bicarbonate 20 , blood urea nitrogen 49 , creatinine 2.5 , glucose 156 .
+Calcium 9.2 , magnesium 1.8 , and phosphorus 4.2 .
+PHYSICAL EXAMINATION :
+On admission , in general , the patient was in no acute distress , comfortable .
+Vital signs showed temperature 96.3 , pulse 64 , blood pressure 170/70 , respiratory rate 20 , oxygen saturation 98% in room air .
+Head , eyes , ears , nose and throat examination is normocephalic and atraumatic .
+Extraocular movements are intact .
+The pupils are equal , round , and reactive to light and accommodation .
+Anicteric .
+Throat is clear .
+The chest is clear to auscultation bilaterally .
+Neck was supple with no lymphadenopathy .
+Cardiovascular shows grade II/VI systolic ejection murmur , regular rate and rhythm .
+The abdomen is soft , nontender , nondistended , with a small umbilical hernia .
+Extremities are warm , noncyanotic and nonedematous times four .
+There is no peripheral edema .
+HOSPITAL COURSE :
+The patient was initially admitted to the medical service for optimization prior to his coronary artery bypass graft .
+The patient was given stress dose steroids on the day prior to his surgery .
+He was closely followed from his admission through to his discharge by the renal service for his transplant issues .
+On 2016-02-15 , the patient was taken to the operating room and had an off pump coronary artery bypass graft performed with the left internal mammary artery to the left anterior descending , saphenous vein graft to obtuse marginal and posterior descending artery .
+For details of this operation , please see the previously dictated operative note .
+Postoperatively , the patient was transferred to the CSRU for close monitoring .
+On the evening of postoperative day number zero , the patient had decreased urine output and was placed on a Lasix drip for diuresis .
+The patient tolerated this well .
+The renal service continued to follow close management of his immunosuppression .
+On postoperative day number one , the patient was extubated and awakened from sedation .
+He did well on this and his Levophed drip was weaned to off as tolerated .
+Over the course of his Intensive Care Unit stay , the patient received six units of packed red blood cells for a low hematocrit .
+He otherwise had a fairly uncomplicated postoperative course .
+On postoperative day number three , the patient was transferred to the floor .
+On postoperative day number four , the patient was noted to have a low platelet level of 43,000 .
+Heparin induced thrombocytopenia antibody panel was sent .
+Other than this , the patient did very well .
+Chest tubes were removed when output was low .
+Pacing wires were removed .
+Physical therapy saw the patient and cleared the patient for discharge .
+Ultimately , the patient was discharged on postoperative day number six tolerating a regular diet , adequate pain control on p.o. pain medications , and ambulating well with clearance of physical therapy .
+DISPOSITION :
+To home .
+DIET :
+Cardiac and diabetic diet .
+CONDITION ON DISCHARGE :
+Stable .
+PHYSICAL EXAMINATION ON DISCHARGE :
+The chest is clear to auscultation bilaterally without sternal click or discharge .
+Cardiovascular is regular rate and rhythm .
+The abdomen is soft , nontender , nondistended .
+Extremities are warm , noncyanotic , minimal peripheral edema .
+MEDICATIONS ON DISCHARGE :
+1. Percocet 5/325 one to two q4hours p.r.n.
+2. Plavix 75 mg once daily .
+3. Aspirin 325 mg once daily .
+4. Bactrim double strength one tablet once daily .
+5. Prednisone 5 mg once daily .
+6. Lipitor 10 mg once daily .
+7. Lopressor 25 mg twice a day .
+8. Hydralazine 75 mg q6hours .
+9. Cyclosporin 75 mg twice a day .
+10. Rosiglitazone 4 mg once daily .
+DISCHARGE INSTRUCTIONS :
+The patient is to follow-up with Dr. Herrick in four weeks time .
+He should follow-up with his cardiologist in one to two weeks for optimization of his medications .
+The patient should return or contact the office if he has a fever , sternal discharge or other significant chest pain .
+Ellen Z Neher , M.D.
+65-969
+Dictated By : Ann C Vinson , M.D.
+MEDQUIST36
+D : 2016-02-21 11:42
+T : 2016-02-21 13:33
+JOB #: 94475
+Signed electronically by : DR. Georgia K. Dover on : FRI 2016-03-18 3:35 PM
+( End of Report )

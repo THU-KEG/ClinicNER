@@ -1,0 +1,12 @@
+c="albuterol nebulizers" 55:9 55:10||r="TrIP"||c="some wheezing" 55:2 55:3
+c="jugular venous pressure" 43:9 43:11||r="TeRP"||c="elevated" 43:13 43:13
+c="the head , eyes , ears , nose and throat examination" 42:0 42:10||r="TeRP"||c="ocular abnormalities" 42:13 42:14
+c="reduced breath sounds at the bases" 44:2 44:7||r="PIP"||c="faint inspiratory rhonchi anteriorly" 44:9 44:12
+c="treatment" 53:5 53:5||r="TrAP"||c="aspiration pneumonia" 53:9 53:10
+c="associated dysphasia" 28:22 28:23||r="PIP"||c="multi-infarct dementia" 28:19 28:20
+c="augmentin" 25:1 25:1||r="TrWP"||c="the patient &apos;s delirium" 25:3 25:6
+c="clindamycin" 54:4 54:4||r="TrAP"||c="the aspiration pneumonia" 54:12 54:14
+c="clindamycin" 54:4 54:4||r="TrAP"||c="positive urine culture" 54:16 54:18
+c="a chest x-ray" 51:0 51:2||r="TeRP"||c="consolidation bilateral lyin the lower lobes" 51:4 51:9
+c="ofloxacin" 54:6 54:6||r="TrAP"||c="the aspiration pneumonia" 54:12 54:14
+c="ofloxacin" 54:6 54:6||r="TrAP"||c="positive urine culture" 54:16 54:18

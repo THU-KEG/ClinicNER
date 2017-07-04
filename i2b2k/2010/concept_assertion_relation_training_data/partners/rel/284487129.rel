@@ -1,0 +1,25 @@
+c="acute shortness of breath" 21:32 21:35||r="PIP"||c="pulmonary edema" 21:37 21:38
+c="lasix" 79:11 79:11||r="TrAP"||c="his high right-sided filling pressure" 79:1 79:5
+c="pressors" 24:6 24:6||r="TrAP"||c="multiple complications" 24:3 24:4
+c="chest x-ray" 31:14 31:15||r="TeRP"||c="pulmonary edema" 31:11 31:12
+c="coumadin" 81:4 81:4||r="TrAP"||c="his low ejection fraction" 81:6 81:9
+c="auscultation" 56:2 56:2||r="TeCP"||c="wheezes" 56:5 56:5
+c="auscultation" 56:2 56:2||r="TeCP"||c="rales" 56:7 56:7
+c="a cardiac catheterization" 25:2 25:4||r="TeRP"||c="a three vessel coronary artery disease" 25:8 25:13
+c="a cardiac catheterization" 25:2 25:4||r="TeRP"||c="an occluded rca" 25:15 25:17
+c="a cardiac catheterization" 25:2 25:4||r="TeRP"||c="a high grade left circumflex lesion after the om" 25:24 25:32
+c="a cardiac catheterization" 25:2 25:4||r="TeRP"||c="distal left circumflex occlusion" 25:34 25:37
+c="a cardiac catheterization" 25:2 25:4||r="TeRP"||c="70%-80% proximal lad" 25:19 25:21
+c="his captopril" 79:15 79:16||r="TrAP"||c="his high right-sided filling pressure" 79:1 79:5
+c="his ecg" 33:0 33:1||r="TeRP"||c="ischemic changes" 33:4 33:5
+c="greater afterload reduction" 79:20 79:22||r="TrAP"||c="his high right-sided filling pressure" 79:1 79:5
+c="cardiac catheterization" 73:18 73:19||r="TeCP"||c="his coronary artery disease" 73:11 73:14
+c="previous ecg" 70:14 70:15||r="TeRP"||c="flat t waves in i and avl" 70:2 70:8
+c="diuresis" 79:13 79:13||r="TrAP"||c="his high right-sided filling pressure" 79:1 79:5
+c="his most recent echocardiogram" 27:0 27:3||r="TeRP"||c="a thin fibrotic septum" 27:15 27:18
+c="his most recent echocardiogram" 27:0 27:3||r="TeRP"||c="akinesis" 27:20 27:20
+c="his most recent echocardiogram" 27:0 27:3||r="TeRP"||c="moderately severe hypokinesis in all other regions" 27:22 27:28
+c="chest x-ray" 67:0 67:1||r="TeRP"||c="infiltrates" 67:4 67:4
+c="chest x-ray" 67:0 67:1||r="TeRP"||c="pulmonary edema" 67:7 67:8
+c="an orchiopexy" 38:5 38:6||r="TrAP"||c="undescended testicle" 38:8 38:9
+c="further management" 72:5 72:6||r="TrAP"||c="his pulmonary edema" 72:8 72:10

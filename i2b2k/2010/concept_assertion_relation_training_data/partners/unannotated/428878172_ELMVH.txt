@@ -1,0 +1,73 @@
+428878172 ELMVH
+77066399
+833854
+7/24/2002 12:00:00 AM
+s / p vaginal birth
+DIS
+Admission Date :
+07/24/2002
+Report Status :
+Discharge Date :
+07/27/2002
+****** DISCHARGE ORDERS ******
+LIEPKOLL , ZOMARG
+132-12-52-3 V52
+Room :
+DRAIN GENERAL HOSPITAL
+Service :
+OBS
+DISCHARGE PATIENT ON :
+07/26/02 AT 10:00 AM
+CONTINGENT UPON
+Not Applicable
+WILL D / C ORDER BE USED AS THE D / C SUMMARY :
+YES
+Attending :
+BELBBREUTZ , LILIQUE A. , M.D.
+DISPOSITION :
+Home
+DISCHARGE MEDICATIONS :
+DOCUSATE SODIUM 100 MG PO BID PRN IBUPROFEN 200-600 MG PO Q4-6H PRN PAIN PERCOCET 1-2 TAB PO Q3-4H
+PRN PAIN
+DIET :
+No Restrictions
+Activity - As tolerated
+FOLLOW UP APPOINTMENT ( S ) :
+Dr. Belbbreutz 6 weeks ,
+ALLERGY :
+Gantrison , floxin
+ADMIT DIAGNOSIS :
+iup at term , prodromal labor .
+Spontaneous vaginal delivery Episiotomy
+PRINCIPAL DISCHARGE DIAGNOSIS ;
+Responsible After Study for Causing Admission ) s / p vaginal birth
+OTHER DIAGNOSIS ;
+Conditions , Infections , Complications , affecting Treatment / Stay
+s / p vaginal birth
+OPERATIONS AND PROCEDURES :
+Primary Anesthesia :
+Epidural Vaginal delivery :
+Spontaneous Episiotomy :
+Median Placenta :
+Delivery :
+Spontaneous Condition :
+Normal Staff Obstetrician ( supervising ) :
+BELBBREUTZ , LILIQUE A. , M.D. Delivery
+OTHER TREATMENTS / PROCEDURES ( NOT IN O.R. )
+none
+BRIEF RESUME OF HOSPITAL COURSE :
+G4 T2 P0 A0 L2
+Estimated EDC :
+07/24/02
+Maternal transfer :
+No
+Initial newborn exam :
+No observed abnormalities
+ADDITIONAL COMMENTS :
+DISCHARGE CONDITION :
+Stable
+TO DO / PLAN :
+No dictated summary
+ENTERED BY :
+BELBBREUTZ , LILIQUE A. , M.D. ( XA67 ) 07/25/02 06:33 PM
+****** END OF DISCHARGE ORDERS ******

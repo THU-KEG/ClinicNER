@@ -1,0 +1,21 @@
+c="his recent bone marrow harvest" 58:1 58:5||r="TrCP"||c="nausea" 58:11 58:11
+c="his recent bone marrow harvest" 58:1 58:5||r="TrCP"||c="vomiting" 58:13 58:13
+c="lorazepam" 108:50 108:50||r="TrAP"||c="vomiting" 108:59 108:59
+c="lorazepam" 108:50 108:50||r="TrAP"||c="nausea" 108:57 108:57
+c="acyclovir topical" 108:16 108:17||r="TrAP"||c="lesion on corner of mouth" 108:23 108:27
+c="recent ct scan" 32:0 32:2||r="TeRP"||c="significant lymphadenopathy" 32:5 32:6
+c="this therapy" 27:1 27:2||r="TrIP"||c="a protocol eligible minimal disease state" 27:5 27:10
+c="a routine physical" 23:8 23:10||r="TeRP"||c="swelling in his neck and groin" 23:29 23:34
+c="a routine physical" 23:8 23:10||r="TeRP"||c="weight loss" 23:25 23:26
+c="pain" 96:6 96:6||r="PIP"||c="mucositis" 96:8 96:8
+c="phenothiazides" 97:14 97:14||r="TrNAP"||c="jitteryness" 97:17 97:17
+c="phenothiazides" 97:14 97:14||r="TrNAP"||c="restless legs" 97:19 97:20
+c="intermittent transfusions" 102:3 102:4||r="TrAP"||c="pancytopenia" 102:6 102:6
+c="this therapy" 28:8 28:9||r="TrCP"||c="relative pancytopenia" 28:5 28:6
+c="miracle cream" 108:61 108:62||r="TrAP"||c="perianal irritation" 108:66 108:67
+c="his most recent bone marrow biopsy" 31:0 31:5||r="TeRP"||c="less than 5% of intratrabecular space involvement" 31:7 31:13
+c="tylenol" 108:0 108:0||r="TrAP"||c="headache" 108:7 108:7
+c="tylenol" 108:0 108:0||r="TrAP"||c="pain" 108:9 108:9
+c="autologous bone marrow transplant" 22:16 22:19||r="TrAP"||c="advanced stage chronic lymphocytic leukemia" 22:7 22:11
+c="treatment with three cycles of fludarabine" 25:1 25:6||r="TrWP"||c="90% involvement of his intratrabecular space" 25:9 25:14
+c="restoril" 108:78 108:78||r="TrAP"||c="insomnia" 108:85 108:85

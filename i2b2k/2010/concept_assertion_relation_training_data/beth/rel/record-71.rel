@@ -1,0 +1,6 @@
+c="ampicillin" 48:5 48:5||r="TrAP"||c="sepsis risk factor" 48:14 48:16
+c="gentamycin" 48:7 48:7||r="TrAP"||c="sepsis risk factor" 48:14 48:16
+c="influenza immunization" 73:1 73:2||r="TrAP"||c="chronic lung disease" 73:14 73:16
+c="cesarean section" 12:14 12:15||r="TrAP"||c="progressive preterm labor" 12:25 12:27
+c="cesarean section" 12:14 12:15||r="TrAP"||c="rupture of membranes" 12:17 12:19
+c="immunization" 74:14 74:14||r="TrAP"||c="influenza" 74:16 74:16

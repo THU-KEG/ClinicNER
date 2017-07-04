@@ -1,0 +1,54 @@
+020501989 DH
+9116536
+094008
+798127
+5/7/2002 12:00:00 AM
+ED Discharge Summary
+Revised
+DIS
+Report Status :
+Revised
+ED DISCHARGE NOTIFICATION / SUMMARY
+SAWTHORE , DIRI
+MRN :
+9116536
+Age :
+47y
+REGISTRATION DATE :
+05/07/2002 10:00 PM
+Provider :
+BOKT SALT
+PRELIMINARY REPORT
+Revised with Addendum :
+5/8/02 6:39:03 AM
+Benefits Assigned :
+Y
+Discharge Date / Time :
+05/08/2002 06:35
+Discharge Status :
+Discharged
+Condition on Discharge :
+Stable
+Patient States Complaint :
+ABD PAIN Standardized
+Discharge Instructions :
+The patient was given printed instructions for abdominal pain ( English ) .
+Diagnosis :
+abdominal pain
+Treatment Rendered :
+observation , ultrasound ( no cyst ) , CT ( no kidney stone ) , examination , laboratory studies ( all normal except liver enzymes )
+Discharge Medications :
+tylenol # 3 as needed for pain
+Follow up Service :
+your primary care physician
+Disposition , Follow up and Instructions to Patient :
+return to ED for fever , chills , worsening abdominal pain , inability to eat and drink , severe nausea and vomiting , blood in your stools .
+Otherwise , see your PCP to discuss workup for your problem .
+PCP Name :
+GURNESCARVKEANE , NICEIEMA
+Provider Number :
+31240
+This report was created by SALT , BOKT 05/08/2002 06:38 AM
+Addendum Section Progress Note :
+You and your PCP should consider further investigation of your liver enzymes , as they both were slightly elevated today , rather than the single one seen before .
+- SALT - 5/8/02 6:39:03 AM

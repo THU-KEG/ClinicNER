@@ -1,0 +1,19 @@
+c="coronary artery bypass graft" 115:4 115:7||r="TrAP"||c="coronary artery disease" 115:0 115:2
+c="a amiodarone gtt" 75:11 75:13||r="TrAP"||c="burst of atrial fibrillation" 75:3 75:6
+c="antibiotics" 80:15 80:15||r="TrAP"||c="left arm phlebitis" 80:8 80:10
+c="creams" 124:1 124:1||r="TrNAP"||c="incisions" 124:10 124:10
+c="cath" 19:14 19:14||r="TeCP"||c="abnormal ett" 19:9 19:10
+c="powders" 124:5 124:5||r="TrNAP"||c="incisions" 124:10 124:10
+c="lotions" 124:3 124:3||r="TrNAP"||c="incisions" 124:10 124:10
+c="ointments" 124:8 124:8||r="TrNAP"||c="incisions" 124:10 124:10
+c="oxycodone - acetaminophen" 92:1 92:3||r="TrAP"||c="pain" 92:21 92:21
+c="drugs" 12:8 12:8||r="TrCP"||c="known allergies" 12:5 12:6
+c="cath" 20:0 20:0||r="TeRP"||c="severe 3 vessel disease" 20:2 20:5
+c="cxr" 56:0 56:0||r="TeRP"||c="left lower lobe atelectasis" 56:3 56:6
+c="cabg" 28:8 28:8||r="TrAP"||c="mi" 28:2 28:2
+c="po amiodarone" 79:9 79:10||r="TrIP"||c="further episodes of afib" 79:3 79:6
+c="overall left ventricular systolic function" 44:0 44:4||r="TeRP"||c="mildly depressed" 44:6 44:7
+c="wounds" 121:1 121:1||r="PIP"||c="infection" 121:3 121:3
+c="wounds" 121:1 121:1||r="PIP"||c="redness" 121:5 121:5
+c="wounds" 121:1 121:1||r="PIP"||c="drainage" 121:7 121:7
+c="wounds" 121:1 121:1||r="PIP"||c="increased pain" 121:10 121:11

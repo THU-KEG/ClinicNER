@@ -1,0 +1,7 @@
+c="physically decompensated" 20:9 20:10||t="problem"||a="present"
+c="the patient 's chronic obstructive pulmonary disease" 17:3 17:9||t="problem"||a="present"
+c="cough" 18:8 18:8||t="problem"||a="absent"
+c="shortness of breath" 18:4 18:6||t="problem"||a="absent"
+c="stage 1 sacral decubitus on her buttocks" 14:3 14:9||t="problem"||a="present"
+c="the decubitus ulcer" 16:10 16:12||t="problem"||a="present"
+c="discomfort" 16:27 16:27||t="problem"||a="present"

@@ -1,0 +1,43 @@
+649953363_c
+FIH
+8723483
+824333
+005999
+5/12/2000 12:00:00 AM
+Discharge Summary
+Signed
+DIS
+Report Status :
+Signed
+DISCHARGE SUMMARY NAME :
+UPH , JIM
+UNIT NUMBER :
+089-44-01
+ADMISSION DATE :
+05/12/2000
+DISCHARGE DATE :
+05/20/2000
+REASON FOR ADMISSION :
+Small cell lung cancer .
+Chemotherapy .
+HISTORY OF PRESENT ILLNESS :
+Provided in the house staff note from the admission date .
+Briefly this is a Hispanic patient with history of advanced lung cancer , small cell in histology .
+The patient presented with almost a stridor and a large mediastinal mass with shortness of breath .
+He was transferred to the Oncology Service after discussions about the utility of chemotherapy .
+HOSPITAL COURSE :
+In the Oncology Floor he received Carboplatin and Etoposide to which he reacted well .
+There were no major issues and he was discharged home on 5/20/00 .
+________________________
+MAREN TLANDFLENT , M.D.
+Electronically Signed
+MAREN STEA TLANDFLENT , M.D.
+07/15/2000 21:36
+TR :
+se
+DD :
+07/06/2000
+TD :
+07/11/2000 12:44 P
+cc :
+MAREN STEA TLANDFLENT , M.D.

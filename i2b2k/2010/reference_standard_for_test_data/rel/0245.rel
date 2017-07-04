@@ -1,0 +1,14 @@
+c="drugs" 12:8 12:8||r="TrCP"||c="known allergies" 12:5 12:6
+c="gastric bypass" 19:4 19:5||r="TrCP"||c="complications" 19:8 19:8
+c="small bowel obstruction" 48:8 48:10||r="PIP"||c="ischemic small bowel" 48:12 48:14
+c="wound infection" 67:5 67:6||r="PIP"||c="sudden fever" 67:10 67:11
+c="wound infection" 67:5 67:6||r="PIP"||c="increased pain" 67:13 67:14
+c="wound infection" 67:5 67:6||r="PIP"||c="nausea" 67:16 67:16
+c="wound infection" 67:5 67:6||r="PIP"||c="vomiting" 67:18 67:18
+c="wound infection" 67:5 67:6||r="PIP"||c="purulent discharge" 67:20 67:21
+c="this small bowel obstruction" 42:0 42:3||r="PIP"||c="closed loop obstruction" 42:8 42:10
+c="an abnormal loop" 40:5 40:7||r="PIP"||c="slightly dilated small bowel" 40:9 40:12
+c="ct pelvis" 40:0 40:1||r="TeRP"||c="an abnormal loop" 40:5 40:7
+c="ct pelvis" 40:0 40:1||r="TeRP"||c="fecalization" 40:14 40:14
+c="ct pelvis" 40:0 40:1||r="TeRP"||c="bowel wall thickening" 40:17 40:19
+c="ct pelvis" 40:0 40:1||r="TeRP"||c="slightly dilated small bowel" 40:9 40:12

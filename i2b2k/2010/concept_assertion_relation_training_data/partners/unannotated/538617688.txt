@@ -1,0 +1,29 @@
+538617688
+PUOMC
+7271129
+234750
+118602
+4/26/2000 12:00:00 AM
+ED Discharge Summary
+Unsigned
+DIS
+Report Status :
+Unsigned
+ED DISCHARGE NOTIFICATION
+JEDL , SHONDLONDNAALE
+MRN :
+7271129
+Age :
+83y
+REGISTRATION DATE :
+04/26/2000 03:19 PM
+PRELIMINARY REPORT
+This is to notify you that your patient , JEDL , SHONDLONDNAALE arrived in the Emergency Department at Ph University Of Medical Center on 04/26/2000 03:19 PM .
+The patient presented with a chief complaint of ABDOMINAL PAIN ; WEAK .
+Following evaluation and treatment , the patient &apos;s disposition at the end of the visit was ADMITTED AS AN INPATIENT TO PH UNIVERSITY OF MEDICAL CENTER .
+Your patient was admitted under the care of SHUFFFYFE , LIE with a preliminary diagnosis of DELTA MS MRSA .
+If you need additional information please call 639-873-2993 .
+PCP Name :
+UNKNOWN , PHYSICIAN
+Provider Number :
+17744

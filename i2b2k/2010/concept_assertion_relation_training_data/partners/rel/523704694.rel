@@ -1,0 +1,36 @@
+c="positive tremor reflex on the left" 61:11 61:16||r="PIP"||c="absent on the right" 61:18 61:21
+c="ace inhibitors" 38:9 38:10||r="TrCP"||c="allergic" 38:3 38:3
+c="codeine" 38:7 38:7||r="TrCP"||c="allergic" 38:3 38:3
+c="urinalysis" 76:0 76:0||r="TeRP"||c="citrobacter" 76:8 76:8
+c="biopsy" 20:12 20:12||r="TeRP"||c="abnormal vasculature" 20:14 20:15
+c="biopsy" 20:12 20:12||r="TeRP"||c="hemosiderin deposit" 20:17 20:18
+c="biopsy" 20:12 20:12||r="TeRP"||c="a dural arteriovenous malformation" 20:27 20:30
+c="valium" 88:5 88:5||r="TrAP"||c="muscle spasm" 88:11 88:12
+c="adequate analgesia" 94:24 94:25||r="TrAP"||c="spasticity" 94:18 94:18
+c="increasing left sided weakness" 18:34 18:37||r="PIP"||c="spasticity" 18:41 18:41
+c="increasing left sided weakness" 18:34 18:37||r="PIP"||c="difficulty swallowing" 18:44 18:45
+c="increasing left sided weakness" 18:34 18:37||r="PIP"||c="pain" 18:39 18:39
+c="increasing left sided weakness" 18:34 18:37||r="PIP"||c="abdominal pain" 18:47 18:48
+c="valium" 36:87 36:87||r="TrAP"||c="muscle spasm" 36:93 36:94
+c="valium" 94:22 94:22||r="TrAP"||c="spasticity" 94:18 94:18
+c="physical therapy" 94:3 94:4||r="TrAP"||c="functional capacity" 94:10 94:11
+c="pharmacological regimen" 94:15 94:16||r="TrAP"||c="spasticity" 94:18 94:18
+c="baclofen" 94:20 94:20||r="TrAP"||c="spasticity" 94:18 94:18
+c="demerol" 89:4 89:4||r="TrAP"||c="left arm and leg pain" 89:12 89:16
+c="recurrence" 81:11 81:11||r="PIP"||c="her former vascular malformation" 81:13 81:16
+c="pinprick sensation" 67:21 67:22||r="TeRP"||c="a high cervical spinal sensory level" 67:32 67:37
+c="percocet" 38:14 38:14||r="TrCP"||c="allergic" 38:3 38:3
+c="left sided weakness" 19:21 19:23||r="PIP"||c="spasticity" 19:25 19:25
+c="light touch" 67:18 67:19||r="TeRP"||c="a high cervical spinal sensory level" 67:32 67:37
+c="rectal examination" 44:0 44:1||r="TeRP"||c="nontender" 44:3 44:3
+c="contrast" 83:37 83:37||r="TeRP"||c="enhancing lesions of the spinal cord" 83:30 83:35
+c="occupational therapy" 94:6 94:7||r="TrAP"||c="functional capacity" 94:10 94:11
+c="a flexor contracture" 53:3 53:5||r="PIP"||c="markedly increased tone" 53:7 53:9
+c="angiography" 84:0 84:0||r="TeRP"||c="normal vascular distribution of the head and neck" 84:9 84:16
+c="angiography" 84:0 84:0||r="TeRP"||c="recurrence of arteriovenous malformation" 84:19 84:22
+c="hydralazine" 38:5 38:5||r="TrCP"||c="allergic" 38:3 38:3
+c="electrocardiogram" 77:0 77:0||r="TeRP"||c="p-waves" 77:3 77:3
+c="baclofen" 85:9 85:9||r="TrAP"||c="spasticity" 85:15 85:15
+c="a ct scan of the head" 80:3 80:8||r="TeRP"||c="a missing posterior arch at c-1" 80:17 80:22
+c="nifedipine" 38:12 38:12||r="TrCP"||c="allergic" 38:3 38:3
+c="ct" 83:18 83:18||r="TeRP"||c="extrinsic compressive lesions" 83:21 83:23

@@ -1,0 +1,22 @@
+c="the electrocardiogram" 57:0 57:1||r="TeRP"||c="a short pr interval" 57:3 57:6
+c="the electrocardiogram" 57:0 57:1||r="TeRP"||c="delta wave" 57:9 57:10
+c="the electrocardiogram" 57:0 57:1||r="TeRP"||c="clockwise rotation present" 57:12 57:14
+c="chronic steroids" 64:11 64:12||r="TrCP"||c="mild cataracts" 64:5 64:6
+c="optic neuritis" 64:30 64:31||r="PIP"||c="a subtle temporal disc pallor od" 64:17 64:22
+c="tetracycline" 29:5 29:5||r="TrCP"||c="gastrointestinal intolerance" 29:2 29:3
+c="erythromycin" 29:7 29:7||r="TrCP"||c="gastrointestinal intolerance" 29:2 29:3
+c="morphine" 29:31 29:31||r="TrCP"||c="itching" 29:34 29:34
+c="morphine" 29:31 29:31||r="TrCP"||c="gastrointestinal symptoms" 29:36 29:37
+c="declomycin" 29:9 29:9||r="TrCP"||c="edema" 29:12 29:12
+c="declomycin" 29:9 29:9||r="TrCP"||c="rash" 29:14 29:14
+c="the sphenoid" 66:24 66:25||r="PIP"||c="the patient &apos;s discomfort" 66:31 66:34
+c="dilantin" 29:24 29:24||r="TrCP"||c="rash" 29:27 29:27
+c="dilantin" 29:24 29:24||r="TrCP"||c="edema" 29:29 29:29
+c="progressive shortness of breath" 21:26 21:29||r="PIP"||c="chronic obstructive pulmonary disease" 21:13 21:16
+c="progressive shortness of breath" 21:26 21:29||r="PIP"||c="severe lobular emphysema" 21:20 21:22
+c="steroid complications" 19:0 19:1||r="PIP"||c="cataract" 19:4 19:4
+c="steroid complications" 19:0 19:1||r="PIP"||c="diffuse fibrocystic breast disease" 19:8 19:11
+c="steroid complications" 19:0 19:1||r="PIP"||c="osteoporosis" 19:6 19:6
+c="steroid complications" 19:0 19:1||r="PIP"||c="trigeminal neuralgia" 19:13 19:14
+c="talwin" 29:16 29:16||r="TrCP"||c="disorientation" 29:19 29:19
+c="talwin" 29:16 29:16||r="TrCP"||c="gastrointestinal symptoms" 29:21 29:22

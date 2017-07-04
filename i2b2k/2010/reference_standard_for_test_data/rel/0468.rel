@@ -1,0 +1,13 @@
+c="ekg" 67:0 67:0||r="TeRP"||c="lbbb" 67:1 67:1
+c="exam" 65:0 65:0||r="TeRP"||c="ii / vi systolic murmur" 65:4 65:8
+c="w / u" 63:15 63:17||r="TeRP"||c="htn urgency" 63:19 63:20
+c="bp" 58:5 58:5||r="TeRP"||c="htn" 58:2 58:2
+c="eval" 63:8 63:8||r="TeCP"||c="demand ischemia" 63:11 63:12
+c="mso4" 72:0 72:0||r="TrAP"||c="cp" 72:2 72:2
+c="mra" 73:2 73:2||r="TeCP"||c="dissection" 73:7 73:7
+c="nitropaste" 71:2 71:2||r="TrAP"||c="pressure" 71:5 71:5
+c="captopril" 71:0 71:0||r="TrAP"||c="pressure" 71:5 71:5
+c="mso4" 61:6 61:6||r="TrIP"||c="pain" 61:0 61:0
+c="tpn" 79:15 79:15||r="TeRP"||c="mi" 79:6 79:6
+c="cpk" 79:8 79:8||r="TeRP"||c="mi" 79:6 79:6
+c="chest pressure" 42:0 42:1||r="PIP"||c="mi" 42:6 42:6

@@ -1,0 +1,117 @@
+Admission Date :
+2009-06-23
+Discharge Date :
+2009-07-12
+Date of Birth :
+1926-02-07
+Sex :
+M
+Service :
+CMI ; then to Medcine ; then transferred to CCU
+CHIEF COMPLAINT :
+Renal failure .
+HISTORY OF PRESENT ILLNESS :
+The patient is an 83-year-old male with a history of diabetes mellitus , steroid-treated polymyalgia rheumatica , hypertension , benign prostatic hypertrophy , and high cholesterol who presented for a lower extremity peripheral angiography for bilateral foot ulcers , and he was found to an evaluated blood urea nitrogen , and creatinine , and potassium .
+The patient notes he developed worsening foot pain and ulcers four months ago .
+Due to his worsening blood glucose , he was started on insulin .
+His foot ulcers continued to develop , and the patient complained of pain in his feet ; primarily at night .
+The patient was referred to for Vascular consultation because of the ulcerations and pain and scheduled for a lower
+extremity angiography on the day of admission , but due to his renal failure the procedure was cancelled .
+The patient showed peaked T waves on electrocardiogram , and he was transferred to Medicine .
+The patient denied any oliguria , hematuria , dysuria , foamy urine , flank pain , abdominal pain , or urinary hesitancy .
+He has complained of fatigue , anorexia , and a 10-pound weight loss in the last four months .
+He gets short of breath with one flight of stairs .
+He denies any fevers , chills , recent infections , chest pain , orthopnea , nausea , vomiting , diarrhea , hematemesis , melena , or hematochezia .
+The patient also notes he has had hoarseness for the last two to three weeks .
+PAST MEDICAL HISTORY :
+1. Diabetes mellitus times four years ; recently started insulin and metformin due to his concurrent steroid use .
+Last hemoglobin A1c was 11.4 .
+2. Polymyalgia rheumatica diagnosed four years ago ; on steroids .
+3. Benign prostatic hypertrophy , status post transurethral resection of prostate .
+4. Hypertension .
+5. High cholesterol .
+6. Lower extremity edema .
+MEDICATIONS ON ADMISSION :
+Methylprednisolone 4 mg q. a.m. and 2 mg p.o. q.h.s. , spironolactone 50 mg p.o. q.d. , metformin 1500 mg p.o. q.h.s. , Pravastatin 10 mg p.o. q.h.s. , lisinopril 20 mg p.o. q. a.m. , Lasix 80 mg p.o. q. a.m. , Tylenol as needed , insulin regular 22 units in the morning and 12 units at night ( lispro regular ).
+ALLERGIES :
+No known drug allergies .
+FAMILY HISTORY :
+Type 1 diabetes in twin brother , type 2 diabetes in mother and brother .
+SOCIAL HISTORY :
+The patient is a former smoker ; he quit 50 years ago .
+He drinks one glass of wine per night .
+He is married and lives with his wife .
+John was in the Army during World War II .
+PHYSICAL EXAMINATION ON PRESENTATION :
+On admission , temperature was 98.1 , blood pressure was 140/70 , pulse was 95 , respiratory rate was 18 , oxygen saturation was 98% on room air .
+In general , the patient was a thin white male , lying in bed , in no acute distress , with a hoarse voice .
+Head , eyes , ears , nose , and throat revealed pupils were equally round and reactive to light and accommodation .
+Extraocular movements were intact .
+Sclerae were anicteric .
+Mucous membranes were moist .
+Neck revealed no lymphadenopathy .
+No thyromegaly .
+No jugular venous distention .
+Cardiovascular examination revealed a regular rate and rhythm .
+Normal first heart sound and second heart sound .
+A 2/6 systolic murmur at the upper sternal border .
+Lungs were clear to auscultation bilaterally with faint lower lobe crackles on the left .
+Back revealed no costovertebral angle tenderness .
+The abdomen was soft and nontender .
+No rebound or guarding .
+No hepatosplenomegaly .
+Extremities revealed 2+ femoral pulses bilaterally , 1+ dorsalis pedis pulses bilaterally .
+No lower extremity edema .
+Left foot with a dry crusted ulcer over the medial aspect of the first metatarsal head and the lateral posterior heel .
+On the right foot dry crusted ulcer over the medial aspect of the first metatarsal head and medial posterior heel .
+Neurologic examination was grossly intact .
+PERTINENT LABORATORY DATA ON PRESENTATION :
+On admission , white blood cell count was 11 , hematocrit was 30 , platelets were 269 .
+Sodium was 139 , potassium was 6.1 , chloride was 102 , bicarbonate was 18 , blood urea nitrogen was 100 , creatinine was 2.3 , and blood glucose was 189 .
+FENa was 0.37 .
+RADIOLOGY / IMAGING :
+Renal ultrasound was normal .
+HOSPITAL COURSE :
+The patient is an 83 - year-old male with a history of diabetes , steroid-treated polymyalgia rheumatica , hypertension , benign prostatic hypertrophy , and high cholesterol without presented to the hospital for lower extremity angiograph ; however , that was deferred due to new onset renal failure .
+1. RENAL FAILURE :
+The patient was initially thought to be prerenal , and his renal status improved after hydration and increased oral intake .
+He did have a magnetic resonance angiography of his kidneys which showed mild right-sided renal artery stenosis .
+His renal function fluctuated throughout his hospital stay , and when he was in the Medical Intensive Care Unit he did have decreased urine output in the setting of cardiogenic shock .
+2. CARDIOVASCULAR :
+The patient with severe peripheral vascular disease .
+During his hospital stay , he developed some nonsustained ventricular tachycardia .
+He also became hypotensive on 07-02 in the setting of infection .
+The patient had a central line placed and went into sustained ventricular tachycardia that was treated with lidocaine .
+After being treated with lidocaine , the patient became apneic requiring intubation and transfer to the Coronary Care Unit .
+His nonsustained ventricular tachycardia was treated with a lidocaine drip .
+It was found that he had elevated troponins and likely an ischemic event on the 07-02 .
+A repeat echocardiogram showed a decreased ejection fraction from prior .
+He had a cardiac catheterization which revealed 3-vessel disease .
+Cardiothoracic Surgery was consulted , and due to the patient 's acute illness , they wanted to re-evaluate after the patient was extubated .
+The patient continued to have intermittent episodes of ventricular tachycardia .
+He was continued on lidocaine and eventually changed over to amiodarone .
+He was noted to be cardiogenic shock requiring pressors .
+Of note , he likely suffered a second ischemic event during his Coronary Care Unit stay .
+The patient did have a Swan-Ganz catheter in place and had a low cardiac output .
+The patient 's family eventually decided to withdraw care , and the patient was extubated and passed away on 2009-07-12 .
+2. INFECTIOUS DISEASE :
+The patient was initially treated with levofloxacin for a left lower lobe infiltrate and a urinary tract infection .
+He then developed positive blood cultures with Staphylococcus aureus sensitive to levofloxacin , and that was continued .
+When the patient became hypotensive and required intubation and pressors , his antibiotics were broadened , and he was put on stress-dose steroids .
+He was found to have bilateral Staphylococcus pneumonia .
+3. PULMONARY :
+The patient required intubation in the setting of hypotension and ventricular tachycardia .
+He was actually extubated on 07-09 , but then reintubated one hour later due to hypoxia .
+He was also found to have a bilateral Staphylococcus pneumonia .
+DISCHARGE DISPOSITION :
+On 07-12 , after and extensive family meeting , the family decided to extubate the patient and make him comfortable , and he passed away at 5:20 on 2009-07-12 .
+Hattie L Breaux , M.D.
+33-679
+Dictated By : Larry W. Nagy , M.D.
+MEDQUIST36
+D : 2009-12-03 09:18
+T : 2009-12-08 10:47
+JOB #:
+32151
+Signed electronically by : DR. Stephanie Francis on : TUE 2009-12-08 4:59 PM
+( End of Report )

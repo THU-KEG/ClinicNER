@@ -1,0 +1,29 @@
+190510002
+TGCHO
+3067319
+364639
+3/16/2003 12:00:00 AM
+ED Discharge Summary
+Unsigned
+DIS
+Report Status :
+Unsigned
+ED DISCHARGE NOTIFICATION
+KOTE , LYFRANKLAPALM
+MRN :
+3067319
+Age :
+56y
+REGISTRATION DATE :
+03/16/2003 05:16 PM
+PRELIMINARY REPORT
+This is to notify you that your patient , KOTE , LYFRANKLAPALM arrived in the Emergency Department at Tecal Galecounxopt Community Hospital on 03/16/2003 05:16 PM .
+The patient presented with a chief complaint of INCREASED LETHARGY .
+Following evaluation and treatment , the patient &apos;s disposition at the end of the visit was ADMITTED AS AN INPATIENT TO TECAL GALENCOUNXOPT COMMUNITY HOSPITAL .
+The patient &apos;s preliminary admitting physician is SCIMEWHILDAJESC , LA R and the preliminary diagnosis is DEHYDRATION ..
+Please note this information may have been updated on the inpatient unit .
+If you need additional information please call 418-196-2156 .
+PCP Name :
+NONE , PHYSICIAN
+Provider Number :
+75055

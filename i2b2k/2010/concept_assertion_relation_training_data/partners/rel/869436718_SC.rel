@@ -1,0 +1,4 @@
+c="tylenol ( acetaminophen )" 30:0 30:3||r="TrAP"||c="pain" 30:9 30:9
+c="milk of magnesia ( magnesium hydroxide )" 39:3 39:9||r="TrAP"||c="constipation" 39:15 39:15
+c="ibuprofen" 37:9 37:9||r="TrAP"||c="pain" 37:15 37:15
+c="percocet" 39:16 39:16||r="TrAP"||c="pain" 39:22 39:22

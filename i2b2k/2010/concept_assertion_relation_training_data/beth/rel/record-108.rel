@@ -1,0 +1,30 @@
+c="two transurethral resection of the prostate" 20:14 20:19||r="TrAP"||c="chronic prostatitis" 20:10 20:11
+c="a recent catheterization" 21:19 21:21||r="TeCP"||c="coronary artery disease" 21:15 21:17
+c="an over the counter stool softener" 104:2 104:7||r="TrAP"||c="constipation" 104:23 104:23
+c="simethicone" 83:1 83:1||r="TrAP"||c="indigestion/gas pain" 83:24 83:25
+c="tilt table testing" 28:5 28:7||r="TeCP"||c="orthostasis" 28:3 28:3
+c="a beta blocker" 26:5 26:7||r="TrAP"||c="supraventricular tachycardia" 26:1 26:2
+c="stents to lad and 3rd om" 25:6 25:11||r="TrAP"||c="coronary artery disease" 25:1 25:3
+c="aluminum-magnesium hydroxide" 84:1 84:2||r="TrAP"||c="indigestion" 84:22 84:22
+c="+distension" 49:4 49:4||r="PIP"||c="tympany" 49:6 49:6
+c="narcotics" 103:0 103:0||r="TrCP"||c="constipation" 103:3 103:3
+c="your wound" 97:5 97:6||r="PIP"||c="warm" 97:12 97:12
+c="your wound" 97:5 97:6||r="PIP"||c="swollen" 97:10 97:10
+c="your wound" 97:5 97:6||r="PIP"||c="red" 97:8 97:8
+c="your wound" 97:5 97:6||r="PIP"||c="pus" 97:16 97:16
+c="symptoms" 96:8 96:8||r="PIP"||c="vomiting" 96:22 96:22
+c="symptoms" 96:8 96:8||r="PIP"||c="fevers" 96:24 96:24
+c="symptoms" 96:8 96:8||r="PIP"||c="shortness of breath" 96:33 96:35
+c="symptoms" 96:8 96:8||r="PIP"||c="chills" 96:30 96:30
+c="symptoms" 96:8 96:8||r="PIP"||c="new and continuing nausea" 96:17 96:20
+c="symptoms" 22:3 22:3||r="PIP"||c="dribbling" 22:5 22:5
+c="symptoms" 22:3 22:3||r="PIP"||c="stress incontinence" 22:7 22:8
+c="symptoms" 22:3 22:3||r="PIP"||c="hematuria" 22:10 22:10
+c="symptoms" 22:3 22:3||r="PIP"||c="dysuria" 22:15 22:15
+c="a gentle laxative" 104:12 104:14||r="TrAP"||c="constipation" 104:23 104:23
+c="colace" 104:10 104:10||r="TrAP"||c="constipation" 104:23 104:23
+c="your dressings" 106:9 106:10||r="TrAP"||c="your wounds" 106:15 106:16
+c="milk of magnesia" 104:17 104:19||r="TrAP"||c="constipation" 104:23 104:23
+c="a clean dressing" 100:12 100:14||r="TrAP"||c="your wounds" 100:6 100:7
+c="a clean dressing" 100:12 100:14||r="TrAP"||c="clear drainage" 100:3 100:4
+c="your wounds" 100:6 100:7||r="PIP"||c="clear drainage" 100:3 100:4

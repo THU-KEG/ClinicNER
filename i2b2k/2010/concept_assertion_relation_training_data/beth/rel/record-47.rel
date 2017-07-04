@@ -1,0 +1,5 @@
+c="hypotensive" 21:3 21:3||r="PIP"||c="any symptoms" 21:9 21:10
+c="intravenous lasix" 19:16 19:17||r="TrAP"||c="hypotension" 19:0 19:0
+c="the patient 's hematocrit" 17:2 17:5||r="TeRP"||c="anemia" 17:0 17:0
+c="her prednisone taper" 27:3 27:5||r="TrAP"||c="her asthma" 27:7 27:8
+c="recent chest x-ray" 26:0 26:2||r="TeRP"||c="resolving right lower lobe pneumonia" 26:4 26:8

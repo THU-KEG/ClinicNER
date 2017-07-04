@@ -1,0 +1,96 @@
+458711317
+PRGH
+76952131
+599126
+11/25/1998 12:00:00 AM
+CORONARY ARTERY DISEASE
+Unsigned
+DIS
+Admission Date :
+11/25/1998
+Report Status :
+Unsigned
+Discharge Date :
+12/04/1998
+PRINCIPAL DIAGNOSIS :
+1. CORONARY ARTERY DISEASE .
+2. CONGESTIVE HEART FAILURE .
+SIGNIFICANT PROBLEMS :
+1. Recent upper GI bleed thought to be gastritis .
+2. Post operative bleeding requiring a return visit to the Operating Room for control of bleeding .
+In addition , it was thought that the patient probably exhibited tamponade physiology and a chest tube was left in place following that for several days .
+3. The patient exhibited an episode of severe leukopenia thought secondary to Diuril .
+The patient will be instructed no longer to ever take Diuril or any Thiazide diuretics .
+4. The patient does have a history of diabetes .
+5. The patient does have a history of carotid endarterectomies .
+HISTORY OF PRESENT ILLNESS :
+Mr. Sterpspardkotebaune is a 75 year old gentleman transferred from Shore Medical Center with three vessel coronary disease after having been admitted there on 11/17/98 for CHF and unstable angina .
+The patient required intubation and aggressive diuresis .
+The patient reports that he does feel much better .
+He did rule in for a myocardial infarction by enzymes and was treated with TPA .
+He was transferred for CABG .
+He had a recent carotid ultrasound which revealed no significant disease .
+PAST MEDICAL HISTORY :
+Significant for coronary artery disease , CHF , recent upper GI bleed thought to be gastritis , diabetes , peripheral vascular disease , cerebrovascular disease , glaucoma .
+He is status post bilateral carotid endarterectomies .
+MEDICATIONS ON TRANSFER :
+Digoxin 0.125 once a day , enteric coated aspirin once a day , Lopressor 25 mg b.i.d. , Nitroglycerin paste q. six hours , Lasix 40 mg b.i.d. , Prilosec 20 mg b.i.d. , insulin sliding scale and intravenous Heparin .
+ALLERGIES :
+On admission he reported no known allergies .
+PHYSICAL EXAMINATION :
+On admission revealed that his heart was regular rate and rhythm and he had distant heart sounds .
+His lungs exhibited crackles throughout .
+His abdomen was soft with positive bowel sounds and benign .
+His rectal exam did reveal guaiac positive stools most likely secondary to his recent upper GI bleed .
+His extremities were unremarkable .
+Neurologic exam was nonfocal .
+LABORATORY DATA :
+On admission revealed a BUN and creatinine of 39 and 2.0 .
+White blood cell count of 5.7 , hematocrit of 30 and platelet count of 215 .
+EKG on admission revealed sinus rhythm at 94 .
+His catheterization done at the outside hospital revealed a 50% left main lesion , a 50% and 90% LAD lesion , a 90% circumflex lesion , 100% right coronary lesion and an ejection fraction of 25% .
+The operation included the following :
+1. On 11/26/98 the patient was taken to the Operating Room and had a three vessel coronary bypass done and a right coronary artery endarterectomy .
+In addition , he had a repair to the left subclavian vein .
+The patient tolerated the procedure well .
+The patient did require insertion of intra-aortic balloon pump , however , after surgery .
+On post operative day # 1 the patient was noted to have significant amounts of chest tube drainage of approximately 2.5 liters and was thought to exhibit some tamponade physiology .
+He did have a left hemothorax .
+He was taken back to the Operating Room for drainage of this and a chest tube was left in place following that for several days .
+2. The second operation was a reoperation for bleeding at which time he had a mediastinal exploration and evacuation of hematoma .
+The patient tolerated that procedure well and was brought to the Intensive Care Unit in stable condition .
+The patient had the intra-aortic balloon weaned off on 11/28/98 .
+On 11/29/98 it was noted the patient had an acute drop in his white blood cell count .
+The lowest white blood cell count was 1.25 .
+Hematology was consulted on this and they thought this was most likely secondary to administration of Diuril .
+The patient was taken off the medication and his white blood cell count gradually began to rise .
+On post operative day # 7 the patient had the one remaining chest tube removed .
+COMPLICATIONS :
+1. Post operative bleeding requiring return to the Operating Room for mediastinal exploration and evacuation of hematoma .
+2. Profound leukopenia thought secondary to Diuril administration .
+DISCHARGE MEDICATIONS :
+Atenolol 25 mg p.o. q.d. , Lasix 40 mg p.o. q.d. , Digoxin 0.125 mg p.o. q.d. , Plavix 75 mg p.o. b.i.d. , enteric coated aspirin 325 mg p.o. q.d. ( The Plavix is for the coronary endarterectomy . )
+Prilosec 20 mg p.o. b.i.d. , Colace 100 mg p.o. b.i.d. , Tylenol p.r.n. , Albuterol and Atrovent nebulizers q. four hours p.r.n.
+DISPOSITION :
+The patient is being transferred to rehabilitation facility .
+The follow-up care will be with Dr. Lupevickette Ca in Fayu Ale Eebile , the patient &apos;s cardiologist , and with Dr. Kolo Titchetland at Verg Medical Center in four to six weeks .
+LABORATORY DATA :
+On the day of discharge the glucose obtained at 7:00 in the morning was 105 , the BUN and creatinine were 66 and 1.9 .
+Sodium 141 , potassium 3.9 .
+The white blood cell count on day of discharge was 7.5 , hematocrit 40 and his platelet count is 210 .
+Chest x-ray on the day of discharge reveals small bilateral effusions and some scattered areas of atelectasis .
+Dictated By :
+MELVEAN SMITREKIELT , P.A. PH69
+Attending :
+KOLO L. TITCHETLAND , M.D. EA4 JE755/1087
+Batch :
+0420
+Index No. K8OTY70CSZ
+D :
+12/04/98
+T :
+12/04/98
+CC :
+1. KOLO L. TITCHETLAND , M.D. JH4
+2. LUPEVICKETTE CA , M.D.
+3. TRANGCA CHIRDSTEN , M.D.* CN

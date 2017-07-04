@@ -1,0 +1,37 @@
+c="cxr" 28:0 28:0||r="TeRP"||c="cardiomegaly" 28:4 28:4
+c="cxr" 28:0 28:0||r="TeRP"||c="pulm edema" 28:6 28:7
+c="a tee" 86:3 86:4||r="TeCP"||c="an abnormality of the aortic valve" 86:11 86:16
+c="acute hypertensive nephropathy" 97:9 97:11||r="PIP"||c="long-standing hypertensive disease" 97:14 97:16
+c="renal failure" 97:0 97:1||r="PIP"||c="acute hypertensive nephropathy" 97:9 97:11
+c="strain pattern" 65:15 65:16||r="PIP"||c="lvh" 65:13 65:13
+c="ekg" 65:0 65:0||r="TeRP"||c="ischemic changes" 65:19 65:20
+c="ekg" 65:0 65:0||r="TeRP"||c="lvh" 65:13 65:13
+c="ekg" 65:0 65:0||r="TeRP"||c="strain pattern" 65:15 65:16
+c="creatinine" 97:3 97:3||r="TeRP"||c="acute hypertensive nephropathy" 97:9 97:11
+c="creatinine" 97:3 97:3||r="TeRP"||c="long-standing hypertensive disease" 97:14 97:16
+c="diastolic bp" 30:10 30:11||r="TeRP"||c="elevated" 30:13 30:13
+c="diuresis" 94:6 94:6||r="TrIP"||c="his lower extremity edema" 94:0 94:3
+c="end-organ damage" 91:3 91:4||r="PIP"||c="elevated creatinine" 91:9 91:10
+c="elevated creatinine" 91:9 91:10||r="PIP"||c="a chronic problem" 91:16 91:18
+c="nitroprusside gtt" 30:20 30:21||r="TrAP"||c="elevated" 30:13 30:13
+c="moderate to severe enlargement of the cardiac silhouette" 67:0 67:7||r="PIP"||c="pulmonary vascular congestion" 67:16 67:18
+c="moderate to severe enlargement of the cardiac silhouette" 67:0 67:7||r="PIP"||c="mild pulmonary edema" 67:20 67:22
+c="severe free wall hypokinesis" 73:8 73:11||r="PIP"||c="mildly dilated" 73:5 73:6
+c="tissue doppler imaging" 72:0 72:2||r="TeRP"||c="an increased left ventricular filling pressure" 72:4 72:9
+c="moderate symmetric left ventricular hypertrophy" 70:2 70:6||r="PIP"||c="mild cavity dilation" 70:8 70:10
+c="moderate symmetric left ventricular hypertrophy" 70:2 70:6||r="PIP"||c="severe global hypokinesis" 70:12 70:14
+c="le edema" 88:8 88:9||r="PIP"||c="doe" 88:11 88:11
+c="le edema" 88:8 88:9||r="PIP"||c="diastolic heart failure" 88:14 88:16
+c="le edema" 88:8 88:9||r="PIP"||c="hypertensive urgency" 88:25 88:26
+c="doe" 88:11 88:11||r="PIP"||c="diastolic heart failure" 88:14 88:16
+c="doe" 88:11 88:11||r="PIP"||c="hypertensive urgency" 88:25 88:26
+c="ecg" 81:30 81:30||r="TeRP"||c="lvh" 81:28 81:28
+c="moderate symmetric eft ventricular hypertrophy" 81:2 81:6||r="PIP"||c="severe global biventricular hypokinesis" 81:8 81:11
+c="moderate symmetric eft ventricular hypertrophy" 81:2 81:6||r="PIP"||c="diffuse process" 81:13 81:14
+c="diffuse process" 81:13 81:14||r="PIP"||c="severe global biventricular hypokinesis" 81:8 81:11
+c="dyspnea" 21:6 21:6||r="PIP"||c="2-pillow orthopnea" 21:15 21:16
+c="dyspnea" 21:6 21:6||r="PIP"||c="pnd" 21:18 21:18
+c="abnormality on the aortic valve" 85:1 85:5||r="PIP"||c="aortic regurgitation" 85:10 85:11
+c="heart failure" 67:25 67:26||r="PIP"||c="moderate to severe enlargement of the cardiac silhouette" 67:0 67:7
+c="heart failure" 67:25 67:26||r="PIP"||c="pulmonary vascular congestion" 67:16 67:18
+c="heart failure" 67:25 67:26||r="PIP"||c="mild pulmonary edema" 67:20 67:22

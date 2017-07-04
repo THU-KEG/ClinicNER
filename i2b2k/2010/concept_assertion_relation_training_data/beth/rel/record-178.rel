@@ -1,0 +1,32 @@
+c="review of systems" 36:0 36:2||r="TeRP"||c="progressive abdominal discomfort" 36:6 36:8
+c="review of systems" 36:0 36:2||r="TeRP"||c="decreased oral intake" 36:10 36:12
+c="review of systems" 36:0 36:2||r="TeRP"||c="weakness" 36:15 36:15
+c="treatment" 66:9 66:9||r="TrAP"||c="pneumonia" 66:11 66:11
+c="removal" 77:5 77:5||r="TrAP"||c="fluid" 77:10 77:10
+c="removal" 78:5 78:5||r="TrAP"||c="fluid" 78:10 78:10
+c="cardiovascular examination" 43:0 43:1||r="TeRP"||c="tachycardic first heart sound and second heart sound" 43:3 43:10
+c="recently diagnosed abdominal carcinomatosis" 50:8 50:11||r="PIP"||c="increased abdominal pain" 50:14 50:16
+c="treatment" 67:6 67:6||r="TrAP"||c="the pulmonary emboli" 67:8 67:10
+c="extremity examination" 48:0 48:1||r="TeRP"||c="edema" 48:9 48:9
+c="extremity examination" 48:0 48:1||r="TeRP"||c="cyanosis" 48:6 48:6
+c="extremity examination" 48:0 48:1||r="TeRP"||c="clubbing" 48:4 48:4
+c="abdominal pain" 13:4 13:5||r="PIP"||c="bloating" 13:7 13:7
+c="difficulty catching his breath" 58:10 58:13||r="PIP"||c="increased shortness of breath" 58:4 58:7
+c="flagyl" 66:5 66:5||r="TrAP"||c="pneumonia" 66:11 66:11
+c="biopsy" 14:0 14:0||r="TeRP"||c="adenocarcinoma" 14:2 14:2
+c="an angiogram" 65:0 65:1||r="TeRP"||c="subsegmental pulmonary emboli of the upper lobes" 65:7 65:13
+c="an angiogram" 65:0 65:1||r="TeRP"||c="infiltrates" 65:17 65:17
+c="an angiogram" 65:0 65:1||r="TeRP"||c="aspiration pneumonia" 65:20 65:21
+c="infiltrates" 65:17 65:17||r="PIP"||c="aspiration pneumonia" 65:20 65:21
+c="percussion" 45:8 45:8||r="TeRP"||c="dullness" 45:6 45:6
+c="a chest x-ray" 61:0 61:2||r="TeRP"||c="a left pleural effusion" 61:4 61:7
+c="endoscopies" 16:0 16:0||r="TeRP"||c="an extrinsic mass present on the stomach" 16:5 16:11
+c="intravenous heparin" 62:5 62:6||r="TrAP"||c="pulmonary embolism" 62:11 62:12
+c="paracentesis" 69:9 69:9||r="TrAP"||c="fluid" 69:15 69:15
+c="levaquin" 66:7 66:7||r="TrAP"||c="pneumonia" 66:11 66:11
+c="heparin" 67:4 67:4||r="TrAP"||c="the pulmonary emboli" 67:8 67:10
+c="octreotide" 74:0 74:0||r="TrAP"||c="the gastric secretions" 74:8 74:10
+c="an nasogastric tube" 72:6 72:8||r="TrAP"||c="persistent gastric secretions" 72:2 72:4
+c="decompression" 72:12 72:12||r="TrAP"||c="persistent gastric secretions" 72:2 72:4
+c="a thoracentesis" 77:0 77:1||r="TrAP"||c="fluid" 77:10 77:10
+c="a paracentesis" 78:0 78:1||r="TrAP"||c="fluid" 78:10 78:10

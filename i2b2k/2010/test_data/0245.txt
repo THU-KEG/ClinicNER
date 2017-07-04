@@ -1,0 +1,76 @@
+Admission Date :
+2012-07-17
+Discharge Date :
+2012-07-22
+Date of Birth :
+1953-12-04
+Sex :
+F
+Service :
+SURGERY
+Allergies :
+Patient recorded as having No Known Allergies to Drugs
+Attending : Steve M. Estes , M.D.
+Chief Complaint :
+ABDOMENAL PAIN AND NAUSEA
+Major Surgical or Invasive Procedure :
+SMALL BOWEL RESECTION
+History of Present Illness :
+58 YEAR-OLD FEMALE S/P GASTRIC BYPASS 03-01 WITHOUT COMPLICATIONS POST-OPERATIVELY , NOW PRESENTS WITH ABOMENAL AND AND ASCOCIATED NAUSEA SINCE THE NIGHT BEFORE ADMISSION .
+PAIN IS DIFFUSED , 06-05 OUT OF 10 IN INTENSITY , AND HAS NOT IMPROVED OVERNIGHT .
+NO FLATUS X 1 DAY .
+Past Medical History :
+OBESITY
+HYPERTENSION
+GERD
+HYPERLIPIDEMIA
+APPENDECTOMY
+OVARIAN CYST
+Physical Exam :
+AFEBRILE , PULSE 70-80 'S , VITAL STABLE AND WITHIN NORMAL LIMITS
+GENERAL :
+ALERT , ANICTERUS , OROPHARYNX CLEAR
+NO LYMPHANOPATHY
+LUNGS CLEAR TO ASCULTATION
+HEART REGULAR RATE RHYTHM
+ABDOMEN SOFT , NON-DISTENDED , DIFFUSE TENDERNESS , NO PERITOMEAL
+SIGNS
+EXTREMITIES NO EDEMA
+Pertinent Results :
+CT PELVIS ( 07-17 ) An abnormal loop of slightly dilated small bowel with fecalization and possible bowel wall thickening .
+A clear transit point is not visualized .
+This small bowel obstruction is likely secondary to closed loop obstruction .
+This could be due to internal hernia or could be stricture related .
+Other differential includes ischemia .
+Infectious etiology is less likely due to the focal nature of the involvement .
+Brief Hospital Course :
+UPON PRESENTATION TO THE HOSPITAL AND INTIAL WORK-UP , THE PATIENT WAS IMMEDIATELY TAKEN TO THE OPERATING ROOM FOR AN EXPLORATORY LAPORATOMY .
+INTRAOPERATIVELY , THE PATIENT WAS FOUND TO HAVE SMALL BOWEL OBSTRUCTION WITH ISCHEMIC SMALL BOWEL .
+PORTIONS OF THE SMALL BOWEL WERE RESECTED .
+SHE TOLERATED THE PROCEDURE AND WAS ADMITTED TO THE INTENSIVE CARE UNIT .
+SHE DID WELL IN THE ICU AND WAS SUBSEQUENTLY TRANSFERED TO THE FLOOR .
+SHE HAS BEEN AFEBRILE POST-OPERATIVELY , MAKING GOOD URINE , AMBULATING , EATING A REGULAR DIET WITHOUT ANY COMPLICATIONS .
+SHE WILL BE DISCHARGED IN GOOD CONDITION .
+Discharge Medications :
+1. Oxycodone-Acetaminophen 5-325 mg Tablet Sig : 1-2 Tablets PO Q4-6H ( every 4 to 6 hours ) as needed .
+Disp :* 40 Tablet ( s )* Refills :* 0 *
+2. Metoprolol Tartrate 25 mg Tablet Sig : 0.5 Tablet PO BID ( 2 times a day ) .
+Discharge Disposition :
+Home
+Discharge Diagnosis :
+SMALL BOWEL OBSTRUCTION
+ISCHEMIC SMALL BOWEL
+Discharge Condition :
+GOOD
+Discharge Instructions :
+PLEASE TAKE MEDICATIONS AS PRESCRIBED AND READ WARNING LABELS CAREFULLY .
+IF SIGNS AND SYMPTOMS OF WOUND INFECTION , SUCH AS SUDDEN FEVER , INCREASED PAIN , NAUSEA / VOMITING , PURULENT DISCHARGE , PLEASE GO TO THE EMERGENCY ROOM OR CALL .
+MAY SHOWER , NO BATHS .
+PAD DRY -- DO NOT SCRUB WOUND .
+Followup Instructions :
+PLEASE CALL DR. Barnett OFFICE ( ( 443 ) 316 6447 FOR A FOLLOW-UP APPOINTMENT IN 1-2 WEEKS .
+Ruby John MD 54-596
+Completed by :
+Thomas Louis MD 12-223 2012-07-22 @ 1423
+Signed electronically by : DR. Edgar SCHNEIDER on : SUN 2012-07-22 2:47 PM
+( End of Report )

@@ -1,0 +1,25 @@
+c="ceftazidime" 16:16 16:16||r="TrAP"||c="recurrent pseudomonas infections" 16:11 16:13
+c="multiple blood transfusions" 56:3 56:5||r="TrAP"||c="a low hematocrit" 56:7 56:9
+c="aids" 16:8 16:8||r="PIP"||c="recurrent pseudomonas infections" 16:11 16:13
+c="aids" 16:8 16:8||r="PIP"||c="mai" 16:21 16:21
+c="aztrenam" 16:18 16:18||r="TrAP"||c="recurrent pseudomonas infections" 16:11 16:13
+c="positive blood cultures" 50:18 50:20||r="PIP"||c="candida" 50:22 50:22
+c="the passport site" 24:11 24:13||r="TrCP"||c="exudate" 24:9 24:9
+c="the passport site" 24:11 24:13||r="TrCP"||c="warmth" 24:7 24:7
+c="the passport site" 24:11 24:13||r="TrCP"||c="erythema" 24:5 24:5
+c="the passport site" 24:11 24:13||r="TrCP"||c="tenderness" 24:3 24:3
+c="amphotericine" 50:5 50:5||r="TrAP"||c="candida" 50:22 50:22
+c="amphotericine" 50:5 50:5||r="TrAP"||c="positive blood cultures" 50:18 50:20
+c="iv antibiotics" 19:15 19:16||r="TrAP"||c="pseudomonal pneumonia" 19:9 19:10
+c="mai" 17:7 17:7||r="PIP"||c="multiple aids illnesses" 17:3 17:5
+c="concurrent blood cultures" 21:0 21:2||r="TeRP"||c="candida species" 21:5 21:6
+c="an old chest x-ray" 46:5 46:8||r="TeRP"||c="a resolving left lower lobe and lingular infiltrate" 46:12 46:19
+c="an old chest x-ray" 46:5 46:8||r="TeRP"||c="the right mid lung infiltrate" 46:23 46:27
+c="his antibiotics" 52:5 52:6||r="TrAP"||c="pseudomonas pneumonia" 52:8 52:9
+c="cardiovascular exam" 33:0 33:1||r="TeRP"||c="murmurs" 33:9 33:9
+c="chest x-ray" 46:0 46:1||r="TeRP"||c="a resolving left lower lobe and lingular infiltrate" 46:12 46:19
+c="chest x-ray" 46:0 46:1||r="TeRP"||c="the right mid lung infiltrate" 46:23 46:27
+c="sputum gram stain" 44:0 44:2||r="TeRP"||c="polys" 44:5 44:5
+c="sputum gram stain" 44:0 44:2||r="TeRP"||c="bacteria" 44:8 44:8
+c="blood cultures" 16:30 16:31||r="TeRP"||c="candida species" 16:34 16:35
+c="iv ceftazidime" 19:5 19:6||r="TrAP"||c="pseudomonal pneumonia" 19:9 19:10

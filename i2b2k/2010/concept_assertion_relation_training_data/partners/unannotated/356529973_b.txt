@@ -1,0 +1,93 @@
+356529973_b
+FIH
+2102647
+73383/3545
+791416
+1/19/1993 12:00:00 AM
+PERSISTENT PRIMARY HYPERPARATHYROIDISM .
+Unsigned
+DIS
+Report Status :
+Unsigned
+ADMISSION DATE :
+1-19-93
+DISCHARGE DATE :
+1-25-93
+PRINCIPAL DIAGNOSIS :
+persistent primary hyperparathyroidism .
+ASSOCIATED DIAGNOSIS :
+1. hypercalcemia ,
+2. status post previous parathyroidectomy ,
+3. history of depression ,
+4. hypertension ,
+5. cholelithiasis ,
+6. thyroid papillary carcinoma ,
+7. status post total thyroidectomy ,
+8. status post radio-iodine therapy ,
+9. history of pancreatitis ,
+10. status post tube thoracostomy for empyema ,
+11. history of cigarette smoking ,
+12. history of lymphosarcoma , treated with radiation therapy ,
+13. abnormal Papanicolaou smear ,
+14. status post colonic polypectomy ,
+15. nephrolithiasis ,
+16. status post extracorporeal shockwave lithotripsy ,
+17. history of urinary tract infections , recurrent ,
+18. status post appendectomy ,
+19. hiatus hernia ,
+20. migraine headaches ,
+21. right ovarian enlargement .
+SPECIAL PROCEDURES AND OPERATIONS :
+1-19-93 bilateral neck re-exploration with right parathyroidectomy and right modified radical neck dissection .
+HISTORY OF PRESENT ILLNESS :
+The patient is a 52 year old married female with nephrolithiasis , history of depression , bone pain , anorexia , insomnia , headache , nausea , fatigue , malaise , hypercalcemia , elevated PTH and history of pancreatitis .
+Recent biochemical investigation revealed calcium of 10.4 , phosphorus of 2.6 and elevated PTH of 84 ( normal less than 60 ) .
+An ultrasound examination of the neck was unrewarding .
+Previous computerized tomography scan , magnetic resonance imaging study and Thallium scan showed a right paratracheal mass , consistent with persistent parathyroid tumor .
+She has undergone previous parathyroidectomy and thyroidectomy for papillary carcinoma .
+The patient is admitted at this time for further treatment of persistent primary hyperparathyroidism .
+PHYSICAL EXAMINATION :
+On physical examination , the patient is an anxious , middle aged female with a normal voice .
+Her vital signs included a temperature of 96.9 , blood pressure 150/90 , respirations of 18 and heart rate 92 .
+Neck examination reveals a thyroidectomy scar with no palpable thyroid bed masses or lymphadenopathy .
+Her lungs were clear to auscultation and percussion .
+She has a right lower neck surgical clip visible on chest X-ray but nothing palpable in this region .
+Breast examination reveals no lumps , skin changes or axillary lymphadenopathy .
+Cardiovascular exam :
+regular rate and rhythm , with a grade II / VI systolic ejection murmur at the left sternal border .
+The abdomen was soft , nontender , nondistended , well healed incisions but no hepatosplenomegaly or masses .
+LABORATORY DATA :
+significant for a calcium of 10.4 , phosphorus 2.9 , alkaline phosphatase 76 , magnesium 1.7 , BUN and creatinine 10 and 0.7 , CA-125 11.1 ( normal less than 35 ) , sodium 143 , potassium 3.8 and chloride 107 , bicarbonate 25.3 , glucose 99 , direct bilirubin 0.1 , total bilirubin 0.5 , SGOT 15 , prothrombin time 9.8/10.0 , partial thromboplastin time 29.2 , platelet count 216,000 , white blood count 18.4 , hematocrit 41.1 , hemoglobin 14.2 , platelet count already mentioned .
+The urinalysis , chest X-ray and electrocardiogram were within normal limits .
+HOSPITAL COURSE :
+The patient was admitted and on 1-19-93 , she underwent bilateral neck exploration with excision of a right paratracheal parathyroid adenoma , measuring 23 x 13 x 9 millimeters in size .
+A limited right neck dissection was performed , removing multiple small cervical lymph nodes .
+The left thyroid bed was examined , but no residual thyroid was identified .
+A normal appearing left upper parathyroid gland was seen and preserved .
+About 75 mg of the right sided parathyroid adenoma was cryopreserved should transplantation be necessary .
+She underwent dilation and curettage under the same anesthesia .
+Her calcium fell postoperatively , to 6.8 mg % and she developed paresthesias , requiring intravenous calcium .
+Subsequently , the calcium stabilized with oral medication , 2 grams a day .
+The calcium was fluctuating between 8.3 and 8.7 at the time of discharge .
+During her hospitalization , she underwent gynecologic and neurological evaluation .
+She appears to have a right sided ovarian enlargement with previous abnormal Papanicolaou smear requiring further investigation .
+An ultrasound disclosed enlargement of the right ovary .
+Papanicolaou smear previously documented psammoma body .
+Repeat Papanicolaou smear studies are pending at the time of this dictation .
+The curettage of the endometrium was nondiagnostic .
+A computerized tomography scan and neurologic evaluation was consistent with migraine headaches and no other focal problems .
+The patient had no hoarseness or airway problems .
+Her sutures were removed on the third postoperative day .
+The patient was discharged home in stable condition .
+DOCTORS DISCHARGE ORDERS :
+Synthroid 0.125 mg PO q.day , Os-Cal 500 mg PO q.i.d.
+She will remove the neck suture line steri-strips in one week and will follow up with Dr. Bone in his office in two weeks .
+ERTCA D. BONE , M.D.
+TR :
+iz / bmot
+DD :
+1-25-93
+TD :
+01/26/93
+CC :
+3 copies to Dr. Bone Dr. Drabelk Kote at Box Memorial Hospital Nursing Home Dr. Naabel Scgach Dr. Bone

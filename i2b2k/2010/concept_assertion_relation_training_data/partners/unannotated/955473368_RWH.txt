@@ -1,0 +1,86 @@
+955473368 RWH
+6338463
+307931
+091607
+9/18/2000 12:00:00 AM
+Discharge Summary
+Signed
+DIS
+Report Status :
+Signed
+DISCHARGE SUMMARY
+NAME :
+LOAN , LYKEY
+UNIT NUMBER :
+074-08-97
+ADMISSION DATE :
+09/18/2000
+DISCHARGE DATE :
+09/19/2000
+PRINCIPAL DIAGNOSIS :
+Infected abdominal wall prosthesis .
+ASSOCIATED DIAGNOSES : : 1 .
+Diabetes mellitus .
+PRINCIPAL PROCEDURE : :
+Removal of infected Gore-Tex patch and repair of recurrent ventral hernia on 9-18-00 .
+HISTORY OF PRESENT ILLNESS :
+REASON FOR HOSPITALIZATION :
+The patient is a 44 year old man who had initial umbilical hernia repair , which had recurred .
+He had a second ventral hernia repair which was performed with Gore-Tex patch .
+Patient subsequently had an area of suture protruding through the abdomen with inflammation around it .
+The suture was removed , patient subsequently developed some cellulitis which was treated with antibiotics .
+Patient then developed another open area with some drainage .
+He now presents for removal of the prosthesis and primary repair of the hernia .
+Patient denies any fevers , chills .
+PAST MEDICAL HISTORY :
+Diabetes mellitus .
+PAST SURGICAL HISTORY : :
+1. As above .
+2. Pancreatic pseudocyst , status post resection x 2 in 1997 .
+MEDICATIONS ON ADMISSION :
+1. Insulin NPH , 75 Units at 11 AM and 35 Units at 11 PM .
+ALLERGIES :
+no known drug allergies .
+FAMILY HISTORY : :
+SOCIAL HISTORY :
+Patient does not smoke or drink .
+PHYSICAL EXAMINATION : :
+Patient is an obese male in no acute distress .
+Lungs :
+clear .
+Heart :
+regular .
+Abdomen :
+obese .
+There is a well-healed transverse midline incision superior to the umbilicus .
+there is a small open area with some drainage .
+There is no real evidence of cellulitis .
+Extremities are without edema .
+HOSPITAL COURSE AND TREATMENT :
+; 44 year old gentleman with infected Gore-Tex patch , now coming in for removal of the patch and primary repair of his hernia .
+The patient was admitted on the day of surgery and underwent removal of his infected Gore-Tex mesh and primary repair of the defect .
+Patient was covered preoperatively and postoperatively with Ancef .
+He was taken to the post-anesthesia care unit and then transferred to the floor in good condition .
+Postoperative course was unremarkable , and was discharged on postoperative day .
+On this day , he was without complaints .
+He was afebrile .
+He was taking PO &apos;s and voiding .
+Abdominal exam revealed a dressing which was dry and intact .
+He was discharged home .
+CONDITION ON DISCHARGE : : Good .
+MEDICATIONS ON DISCHARGE : :
+1. Resume prehospitalization medications .
+2. Percocet , 1-2 tabs PO q4h. PRN pain .
+3. Keflex , 500 mg. PO QID x 7 days .
+DOCTORS DISCHARGE ORDERS / INSTRCTIONS :
+Patient should follow up with Dr. Sweet .
+________________ RIALE TABLES , M.D.
+Electronically Signed VITA THOSTERWEN LINKEKOTEMONES , M.D. 10/13/2000 12:57
+TR :
+kax
+DD :
+09/19/2000
+TD :
+09/20/2000 2:08 P
+cc :
+RIALE NAHAM TABLES , M.D.

@@ -1,0 +1,37 @@
+c="repeat cholangiogram" 113:26 113:27||r="TeCP"||c="stone" 113:33 113:33
+c="the removal" 64:6 64:7||r="TrAP"||c="the stone" 64:9 64:10
+c="cxr" 67:0 67:0||r="TeRP"||c="pulmonary edema" 67:2 67:3
+c="a large filling defect" 62:0 62:3||r="PIP"||c="a stone" 62:11 62:12
+c="ercp" 111:14 111:14||r="TeRP"||c="stone" 111:18 111:18
+c="ercp" 111:14 111:14||r="TeRP"||c="acute cholangitis" 111:1 111:2
+c="subsequent biliary stent" 64:0 64:2||r="TrAP"||c="the stone" 64:9 64:10
+c="tricuspid regurgitation" 76:14 76:15||r="PIP"||c="more depressed" 76:8 76:9
+c="ruq u/s" 23:0 23:1||r="TeRP"||c="sludges" 23:7 23:7
+c="ruq u/s" 23:0 23:1||r="TeRP"||c="pericholecystic fluid" 23:11 23:12
+c="ruq u/s" 23:0 23:1||r="TeRP"||c="significant dilatation of the gallbladder" 23:14 23:18
+c="ruq u/s" 23:0 23:1||r="TeRP"||c="multiple small gallstones" 23:3 23:5
+c="multiple small gallstones" 23:3 23:5||r="PIP"||c="sludges" 23:7 23:7
+c="pt 's inr" 27:0 27:2||r="TeRP"||c="eleveted" 27:4 27:4
+c="a biliary stent" 30:0 30:2||r="TrAP"||c="the stone" 30:9 30:10
+c="intervention" 110:25 110:25||r="TrAP"||c="cholangitis" 110:27 110:27
+c="the removal" 30:6 30:7||r="TrAP"||c="the stone" 30:9 30:10
+c="ercp" 29:2 29:2||r="TeRP"||c="a stone" 29:13 29:14
+c="ercp" 29:2 29:2||r="TeRP"||c="cbd dilatation" 29:16 29:17
+c="ercp" 29:2 29:2||r="TeRP"||c="a large filling defect in the distal duct" 29:4 29:11
+c="a stone" 29:13 29:14||r="PIP"||c="cbd dilatation" 29:16 29:17
+c="a large filling defect in the distal duct" 29:4 29:11||r="PIP"||c="cbd dilatation" 29:16 29:17
+c="a large filling defect in the distal duct" 29:4 29:11||r="PIP"||c="a stone" 29:13 29:14
+c="home coumadin" 27:9 27:10||r="TrCP"||c="eleveted" 27:4 27:4
+c="removal" 113:29 113:29||r="TrAP"||c="stone" 113:33 113:33
+c="a fib" 132:19 132:20||r="PIP"||c="rapid ventricular reponse" 132:15 132:17
+c="intrinsic right ventricular systolic function" 76:1 76:5||r="TeRP"||c="more depressed" 76:8 76:9
+c="iv fluids" 128:8 128:9||r="TrCP"||c="volume overload" 128:0 128:1
+c="drugs" 12:8 12:8||r="TrCP"||c="known allergies" 12:5 12:6
+c="e. coli bacteremia" 130:1 130:3||r="PIP"||c="acute cholangitis" 130:9 130:10
+c="e. coli bacteremia" 130:1 130:3||r="PIP"||c="sepsis" 130:5 130:5
+c="pulmonary edema" 126:18 126:19||r="PIP"||c="oxygen dependent" 126:5 126:6
+c="cxr" 126:14 126:14||r="TeRP"||c="pulmonary edema" 126:18 126:19
+c="oxygen" 132:32 132:32||r="TrAP"||c="pulmonary edema" 132:36 132:37
+c="cholangitis" 24:6 24:6||r="PIP"||c="sepsis" 24:9 24:9
+c="ef" 36:2 36:2||r="TeRP"||c="chf" 36:1 36:1
+c="warfarin" 122:8 122:8||r="TrAP"||c="atrial fibrillation" 122:1 122:2

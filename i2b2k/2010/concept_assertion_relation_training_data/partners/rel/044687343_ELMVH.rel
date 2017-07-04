@@ -1,0 +1,22 @@
+c="bipap" 71:13 71:13||r="TrAP"||c="copd" 71:8 71:8
+c="fatigue" 71:22 71:22||r="PIP"||c="generalized weakness" 71:19 71:20
+c="ekg" 81:1 81:1||r="TeCP"||c="st changes" 81:6 81:7
+c="duoneb ( albuterol and ipratropium nebulizer )" 35:49 35:55||r="TrAP"||c="shortness of breath" 35:66 35:68
+c="duoneb ( albuterol and ipratropium nebulizer )" 35:49 35:55||r="TrAP"||c="wheezing" 35:70 35:70
+c="stress incontinence" 92:3 92:4||r="PIP"||c="symptoms" 92:6 92:6
+c="stress incontinence" 92:3 92:4||r="PIP"||c="increased cough" 92:8 92:9
+c="asa" 88:3 88:3||r="TrAP"||c="ischemia" 88:2 88:2
+c="iron" 94:8 94:8||r="TrAP"||c="chronic fe deficiency anemia" 94:2 94:5
+c="cxr" 82:1 82:1||r="TeCP"||c="focal consolidation" 82:3 82:4
+c="cxr" 82:1 82:1||r="TeRP"||c="edema" 82:6 82:6
+c="exam" 84:11 84:11||r="TeRP"||c="diffusely wheezy" 84:8 84:9
+c="copd" 86:9 86:9||r="PIP"||c="frequent exacerbations" 86:13 86:14
+c="copd" 86:9 86:9||r="PIP"||c="typical flare symptoms" 86:18 86:20
+c="copd flare" 72:7 72:8||r="PIP"||c="these symptoms" 72:2 72:3
+c="albuterol nebulizer" 32:6 32:7||r="TrAP"||c="shortness of breath" 32:18 32:20
+c="steroids" 90:2 90:2||r="TrAP"||c="flare" 90:0 90:0
+c="2l nc" 71:10 71:11||r="TrAP"||c="copd" 71:8 71:8
+c="azithromycin" 90:22 90:22||r="TrAP"||c="atypical bronchitis" 90:24 90:25
+c="azithromycin" 96:9 96:9||r="TrAP"||c="copd flare" 96:11 96:12
+c="insulin" 95:4 95:4||r="TrAP"||c="dm" 95:2 95:2
+c="steroids" 95:6 95:6||r="TrAP"||c="dm" 95:2 95:2

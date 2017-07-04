@@ -1,0 +1,15 @@
+c="ct scan" 16:4 16:5||r="TeRP"||c="right hydronephrosis" 16:1 16:2
+c="abdominal ct" 37:0 37:1||r="TeRP"||c="right hydronephrosis" 37:6 37:7
+c="abdominal ct" 37:0 37:1||r="TeRP"||c="mild right hydroureter" 37:9 37:11
+c="mild right hydroureter" 37:9 37:11||r="PIP"||c="right hydronephrosis" 37:6 37:7
+c="flexion and extension views of the lumbosacral spine" 47:7 47:14||r="TeRP"||c="fracture" 47:21 47:21
+c="flexion and extension views of the lumbosacral spine" 47:7 47:14||r="TeRP"||c="instability" 47:23 47:23
+c="tylenol" 52:0 52:0||r="TrAP"||c="pain" 52:7 52:7
+c="the patient &apos;s paraplegia" 41:12 41:15||r="PIP"||c="a cord concussion" 41:19 41:21
+c="treatment with intravenous steroids" 41:25 41:28||r="TrAP"||c="the patient &apos;s paraplegia" 41:12 41:15
+c="treatment with intravenous steroids" 41:25 41:28||r="TrAP"||c="a cord concussion" 41:19 41:21
+c="initial exam" 31:1 31:2||r="TeRP"||c="tender" 31:8 31:8
+c="initial exam" 31:1 31:2||r="TeRP"||c="decreased range of motion" 31:16 31:19
+c="palpation" 31:10 31:10||r="TeRP"||c="tender" 31:8 31:8
+c="apparently paraplegic below the umbilicus" 20:20 20:24||r="PIP"||c="absence of movement and sensation below the umbilicus" 20:26 20:33
+c="laparotomy" 24:2 24:2||r="TrAP"||c="an ovarian cyst" 24:4 24:6

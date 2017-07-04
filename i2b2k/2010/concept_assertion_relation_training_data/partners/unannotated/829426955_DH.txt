@@ -1,0 +1,54 @@
+829426955 DH
+9088460
+115102
+6418988
+11/18/2002 12:00:00 AM
+ED Discharge Summary
+Unsigned
+DIS
+Report Status :
+Unsigned
+ED DISCHARGE NOTIFICATION / SUMMARY
+WIERSTKERTH , RI
+MRN :
+9088460
+Age :
+59y
+REGISTRATION DATE :
+11/18/2002 08:31 PM
+Provider :
+Biri Weertluc
+PRELIMINARY REPORT PCP
+notified by MD :
+No - Other explanation
+Benefits Assigned :
+N
+Discharge Date / Time :
+11/19/2002 00:11
+Discharge Status :
+Discharged
+Condition on Discharge :
+Stable
+Patient States Complaint :
+CP Standardized
+Discharge Instructions :
+The patient was given printed instructions for abdominal pain ( English ) .
+Diagnosis :
+Epigastric discomfort
+Treatment Rendered :
+Medical evaluation .
+Your SGPT is 64 , SGOT is 96 .
+You x-ray , ekg , and other laboratories are normal .
+Discharge Medications :
+None
+Disposition , Follow up and Instructions to Patient :
+Followup with your primary care physician in Monday for repeat liver function testing .
+You may need an abdominal ultrasound as an outpatient .
+Return immediately for increasing abdominal pain , chest pain , shortness of breath , or otherwise feeling worse .
+Accepting / DH Admitting Physician :
+MAO THO
+PCP Name :
+SWANKEMANDESSKIAIS , SANTCINET E
+Provider Number :
+42283
+This report was created by Weertluc , Biri 11/19/2002 12:13 AM

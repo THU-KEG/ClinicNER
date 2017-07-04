@@ -1,0 +1,73 @@
+533289709 YC
+20543098
+466847
+12/29/2002 12:00:00 AM
+asthma exacerbation
+DIS
+Admission Date :
+12/29/2002
+Report Status :
+Discharge Date :
+New Years Eve
+****** DISCHARGE ORDERS ******
+JESCWIERST , MA 502-78-21-3 O85
+Room :
+74R-484
+Service :
+MED
+DISCHARGE PATIENT ON :
+12/31/02 AT 03:00 PM
+CONTINGENT UPON
+Not Applicable
+WILL D / C ORDER BE USED AS THE D / C SUMMARY :
+YES
+Attending :
+MEEDSLEMA , YUHAN , M.D. , PH.D.
+DISPOSITION :
+Home
+DISCHARGE MEDICATIONS :
+PREDNISONE Taper PO QD Give 60 mg QD X 2 day ( s ) ( 12/31/02 - 01/01/03 ) , then ---done Give 50 mg QD X 1 day ( s ) ( 10/01/&apos;06 - 01/02/03 ) , then ---done Give 40 mg QD X 1 day ( s ) ( 01/03/03 - 01/03/03 ) , then ---done Give 30 mg QD X 1 day ( s ) ( 01/04/03 - 01/04/03 ) , then ---done Give 20 mg QD X 1 day ( s ) ( 01/05/03 - 01/05/03 ) , then ---done Give 10 mg QD X 1 day ( s ) ( 01/06/03 - 01/06/03 ) , then ---done Starting Today ( 12/31 )
+Instructions :
+To begin after the 2 doses of 60mg q12 hours .
+AZITHROMYCIN 250 MG PO QD
+Food / Drug Interaction Instruction
+Take with food
+DIET :
+No Restrictions
+RETURN TO WORK :
+Not Applicable
+FOLLOW UP APPOINTMENT ( S ) :
+Dr Floor , No Known Allergies
+ADMIT DIAGNOSIS :
+asthma exacerbation
+PRINCIPAL DISCHARGE DIAGNOSIS ;
+Responsible After Study for Causing Admission ) asthma exacerbation
+OTHER DIAGNOSIS ;
+Conditions , Infections , Complications , affecting Treatment / Stay Asthma ( no steroids , no home O2 , no intubations , managed with PRN albuterol )
+OPERATIONS AND PROCEDURES :
+none
+OTHER TREATMENTS / PROCEDURES ( NOT IN O.R. )
+none
+BRIEF RESUME OF HOSPITAL COURSE :
+40 yo F , long standing mild asthma , multiple recent hospital admissions , no home steroids / O2 , no ICU admissions , with 2 day hx of URI / bronchitis sx , cough productive of clear sputum , increasing use of Albuterol to 10 p / day ( typically uses 1-2x / wk ) , progressive SOB .
+Baseline peak flow 350 , on admission 220 .
+Tobacco use of 1 pack / wk .
+No prior PFT &apos;s .
+Admit to GMS 4 for asthma exacerbation .
+Over hospital course , pt remained afebrile , with O2 sats &gt; 94% on RA .
+Pt started on Prednisone 60 mg po qd , albuterol nebulizers q4 hrs , atrovent nebulizers qid , and an Azithromycin Z pack for treatment of bronchitis .
+Over 48hrs , pt exhibited stable improvement , with improvement in peak flow , SOB , and improved pulmonary exam .
+At discharge , pt afebrile for 48 hrs , ambulating , poing well , peak flow at 275 .
+Pt to follow up with primary care physician , Dr Floor as outpt .
+Consider outpatient PFT&apos;s and Flovent for further tx .
+Smoking cessation discussed with pt .
+Pt d / c to home with prescription for prednisone taper and Azithromycin 250 mg po qd x 3 days .
+ADDITIONAL COMMENTS :
+DISCHARGE CONDITION :
+Stable
+TO DO / PLAN :
+Prednisone taper - 60 mg x 2 days , 50 x 1 day , 40 x 1 day , 30 x day , 20 x 1 day , 10 x 1 day Azithromycin 250 mg po qd x 3 days No dictated summary
+ENTERED BY :
+ALB , MAA A. , M.D. ( EK243 )
+New Years Eve 03:46 PM
+****** END OF DISCHARGE ORDERS ******

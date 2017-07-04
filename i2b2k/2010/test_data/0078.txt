@@ -1,0 +1,126 @@
+125667950
+PRGH
+10805085
+360731
+10/22/2000 12:00:00 AM
+CHRONIC LYMPHOCYTIC LEUKEMIA
+Signed
+DIS
+Admission Date :
+10/22/2000
+Report Status :
+Signed
+Discharge Date :
+11/17/2000
+PRINCIPAL DIAGNOSIS :
+CHRONIC LYMPHOCYTIC LEUKEMIA .
+OTHER PROBLEMS :
+1. FREQUENT HEADACHES .
+2. CHOLECYSTITIS .
+3. SPASTIC COLON .
+HISTORY OF PRESENT ILLNESS :
+The patient is a 47-year-old man with advanced stage chronic lymphocytic leukemia who was admitted for autologous bone marrow transplant as per protocol 94-055 of the Santusli Hospital .
+The patient was originally diagnosed in 06/98 during a routine physical when he was noted to have a white blood cell count of 20,000 , weight loss , and swelling in his neck and groin .
+He was watched after his initial diagnosis , but six months later he developed rapidly increasing leukocytosis and he became more symptomatic .
+After treatment with three cycles of fludarabine he had 90% involvement of his intratrabecular space .
+He was therefore treated with three cycles of fludarabine in combination with cytoxan .
+After this therapy he achieved a protocol eligible minimal disease state .
+However , he did have relative pancytopenia following this therapy .
+He was taken to bone marrow harvest in 08/22 at which time insufficient cells were obtained to proceed .
+He was returned previous to this admission for repeat bone marrow harvest and at that time he was given Neupogen prior to his harvest , and sufficient cells were not obtained to proceed with autologous bone marrow transplantation .
+His most recent bone marrow biopsy revealed less than 5% of intratrabecular space involvement .
+Recent CT scan showed no significant lymphadenopathy .
+The spleen was within normal limits .
+PAST MEDICAL HISTORY :
+1. Episode of pneumonia in 1996 .
+2. At the age of 40 he had problems with frequent headaches .
+3. Episodes of cholecystitis and spastic colon .
+MEDICATIONS ON ADMISSION :
+No medications upon admission .
+ALLERGIES :
+No known drug allergies .
+SOCIAL HISTORY :
+He works as an airline pilot for Vent
+He is currently flying on Hwy routes .
+He was married for many years .
+He has three children .
+He is separated and has a very supportive new partner .
+FAMILY HISTORY :
+His father had prostate cancer .
+Mother had breast cancer .
+Has a cousin with a brain tumor .
+No family history of leukemia or lymphoma .
+He has one sister and one brother who are alive and well .
+They are not HLA matched .
+REVIEW OF SYSTEMS :
+On admission he had no upper respiratory tract symptoms , recent infections , chest pain , shortness of breath , nausea or vomiting , change in bowel habits or abdomen pain .
+He did complain of frequent headaches .
+Following his recent bone marrow harvest he had protracted episodes of nausea and vomiting .
+All other systems were negative .
+PHYSICAL EXAMINATION :
+On admission .
+GENERAL :
+He was well-appearing and in no apparent distress .
+Performance status was 0 .
+VITAL SIGNS :
+Weight 70.4 kilograms , temperature 96.5 , respiratory rate 20 , blood pressure 105/60 , pulse 76 .
+SKIN :
+Unremarkable without rashes or lesions .
+HEENT :
+Sclerae anicteric .
+Pupils equal , round and reactive to light .
+Oropharynx , lips , teeth and gums were without lesions and without evidence of mucositis .
+NECK :
+Supple with a normal thyroid gland .
+No cervical , supraclavicular or axillary adenopathy .
+CHEST :
+Clear .
+HEART :
+Heart sounds normal .
+ABDOMEN :
+Soft , nontender , without any masses and without any hepatosplenomegaly .
+GU :
+Normal testes and penis .
+EXTREMITIES :
+Without clubbing , cyanosis or edema .
+NEURO :
+Normal with intact cranial nerves , deep tendon reflexes and normal motor / sensory exam .
+LABORATORY DATA :
+Electrolytes were within normal limits .
+Liver function tests were within normal limits .
+White blood cell count 10.4 , hemoglobin 11.9 , platelets 124 , PT and PTT were within normal limits .
+HOSPITAL COURSE :
+1 ) Oncology :
+The patient was admitted on 10/22/00 and received cytoxan and total body irradiation per protocol .
+Autologous bone marrow infusion occurred on 10/29/00 and was uneventful .
+His post-transplant course was complicated by pain from mucositis and recalcitrant nausea and vomiting .
+The patient did not tolerate antiemetics well and it was subsequently decided to avoid phenothiazides secondary to jitteryness and restless legs .
+2 ) Infectious Disease :
+The patient remained afebrile until day +11 when he spiked and was started on ceftazidime .
+Blood cultures and urine cultures were all negative .
+3 ) Heme :
+The patient acquired intermittent transfusions for pancytopenia .
+4 ) FEN :
+The patient was unable to tolerate adequate p.o.&apos;s in the last several days .
+He was well nourished so TPN was not started .
+I &apos;s and O &apos;s were balanced and maintained with IV fluids .
+DISCHARGE MEDICATIONS :
+Tylenol 650 mg p.o. q. 4-6h p.r.n. headache or pain ; acyclovir 400 mg p.o. t.i.d.; acyclovir topical t.i.d. to be applied to lesion on corner of mouth ; Peridex 15 ml p.o. b.i.d.; Mycelex 1 troche p.o. t.i.d.; g-csf 404 mcg subcu q.d.; folic acid 1 mg p.o. q.d.; lorazepam 1-2 mg p.o. q. 4-6h p.r.n. nausea and vomiting ; Miracle Cream topical q.d. p.r.n. perianal irritation ; Eucerin Cream topical b.i.d.; Zantac 150 mg p.o. b.i.d.; Restoril 15-30 mg p.o. q. h.s. p.r.n. insomnia ; multivitamin 1 tablet p.o. q.d.; viscous lidocaine 15 ml p.o. q. 3h can be applied to corner of mouth or lips p.r.n. pain control .
+CONDITION UPON DISCHARGE :
+Stable .
+FOLLOWUP :
+Follow up appointment with Die Anoort and Tomedankell Care on 11/18/00 at 9:30 a.m. ( one day after discharge ) .
+The patient knows to go to Sper Medical Center every day for line care , blood draws , and monitoring .
+Dictated By :
+CONRELLIE KOTERUDES , M.D. VJ31
+Attending :
+SUOT CARE , M.D. OB89 RL958/5760
+Batch :
+24769
+Index No. GFNC2Z5N8Q
+D :
+11/22/00
+T :
+11/22/00
+CC :
+1. TOMEDANKELL CARE , M.D. RE04

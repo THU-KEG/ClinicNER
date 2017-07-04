@@ -1,0 +1,93 @@
+119093641
+CTMC
+92026282
+480478
+10/29/1990 12:00:00 AM
+Discharge Summary
+Unsigned
+DIS
+Admission Date :
+10/29/1990
+Report Status :
+Unsigned
+Discharge Date :
+11/09/1990
+DISCHARGE DIAGNOSES :
+1) STATUS POST ANTERIOR MYOCARDIAL INFARCTION LEADING TO CARDIAC ARREST .
+2) BILATERAL LUNG CARCINOMA .
+3) CONGESTIVE HEART FAILURE .
+HISTORY OF PRESENT ILLNESS :
+Mr. Noun was a 71-year-old white gentleman with non-small lung CA of both upper lobes .
+No metastatic disease , status post one course of chemotherapy with MVP ( Mitomycin-C , Vinblastin , and Platinum ) at the Petersly Hospital And Medical Center .
+He was admitted on 10-29-90 because of pulmonary edema and ST wave changes .
+In 07-90 he was shown to have bilateral upper lobe mass .
+Chest CT showed right upper lobe mass infiltrating anterior chest wall .
+No lymphadenopathy .
+In 08-90 bronchoscopy showed non-small cell CA , poorly differentiated with extensive necrosis .
+He received chemotherapy in 09-90 which he tolerated well .
+Chemotherapy consisted of Mitomycin-C , Vinblastin , Platinum .
+Since then persistent right chest wall pain .
+Denies orthopnea , PND .
+Had increased chest pain last week with dyspnea on exertion .
+He was seen in Petersly Hospital And Medical Center on 10-29-90 and EKG changes with ST elevations in V2 through V4 and flipped T waves in leads 3 and aVF was noted .
+He was sent to the Retelk County Medical Center Emergency Room and was found to have shortness of breath with diaphoresis and left anterior chest pain .
+His O2 saturation on admission showed 90% on 100% face mask .
+The patient was electively intubated and treated with morphine , Lasix , nitroglycerin , Nitro Paste , and sublingual Nifedipine .
+PAST MEDICAL HISTORY :
+Notable for bilateral apical lung cancer , history of urinary retention with a prostate specific antigen of 21.7 and a right prostate nodule .
+MEDICATIONS :
+MS Contin 60 mg po bid and Senekot .
+ALLERGIES :
+None .
+SOCIAL HISTORY :
+Nicotine abuse , quit in the 80s , and rare alcohol .
+PHYSICAL EXAMINATION :
+In general the patient was intubated , elderly gentleman on respirator .
+HEENT exam showed pupils 1 mm bilateral with arcus lipoides .
+Chest with bibasilar crackles , otherwise clear to auscultation .
+Heart exam S4 , S1 , S2 .
+Carotids 2+ without bruits .
+Abdominal exam decreased bowel sounds , otherwise normal .
+The rest of the physical exam was unremarkable .
+LABORATORY DATA :
+Notable for CK 111 with MB 0 .
+The rest of the laboratory data wwas unremarkable .
+His CK increased up to 1080 with an MB 63 .
+EKG showed ST elevations in leads V3 through V4 with flipped T waves in V2 through V4 .
+Chest x-ray showed diffuse interstitial and alveolar abnormalities predominantly in the perihilar and basilar regions most consistent with CHF and large left perihilar mass and no pneumothorax .
+HOSPITAL COURSE :
+1) CHF and myocardial infarction - An IJ line was placed without complications on 10-30-90 .
+The pressures were consistent with right heart and left heart failure .
+He was treated with IV Lasix and IV Dopamine , nitroglycerin with good improvement .
+His CK peaked at 1080 .
+The patient improved significantly over the next days post admission and was able to be extubated on 11-1-90 without complications .
+The patient was put on Captopril 12.5 mg po tid .
+He was moved off the Intensive Care Unit onto a regular floor .
+An echocardiogram on 11-4-90 showed akinesis of the anterior septum , LV dilatation with severe wall motion abnormalities and severe reduction in global systolic function , tricuspid regurgitation , mild mitral regurgitation , mild aortic insufficiency .
+No aneurysm , no clot .
+ETT performed on 11-6-90 showed 4 minutes 39 seconds on modified Bruce , stopped because of fatigue , no chest pain .
+Impression was non-diagnostic for ischemia in predischarge protocol .
+The patient was ready for discharge , however , on 11-7-90 he was found to be in ventricular tachycardia , pulseless , unresponsive .
+Cardiopulmonary resuscitation was initiated .
+He received 200 joules , 300 , and 360 joules electric shocks and he converted to sinus tachycardia .
+I received Lidocaine IV bolus , then Lidocaine constant effusion , and was transferred to the Intensive Care Unit .
+He was again intubated and intermittently needed to be on a respirator which was then quickly weaned off .
+The patient had a CK leak up to 870 with an MB of 13 .
+He was on IV Lidocaine drip and Dopamine and required ultra Dopamine drip .
+Medical team had an extensive talk with the patient on 11-8-90 concerning his code status .
+The patient electively decided not to be intubated nor resuscitated in case of another cardiac or respiratory arrest .
+On 11-9-90 the patient again had ventricular tachycardia / ventricular fibrillation arrest .
+Since the patient had decided to be do not resuscitate no resuscitation efforts were undertaken and patient was pronounced dead on 11-9-90 at 5:10 a.m.
+Autopsy was performed .
+2) Hospitalization was also complicated by urinary tract infection and this was treated with Bactrim .
+SF640/2034 KAMA SCPRA , M.D. EN5
+D :
+05/15/91
+Batch :
+6797
+Report :
+Q5498T3
+T :
+05/19/91
+Dicatated By :
+LEENROMO PRYDETITCHE , M.D.

@@ -1,0 +1,59 @@
+478865872
+PUOMC
+9005769
+82331
+408058
+2/6/1997 12:00:00 AM
+Discharge Summary
+Unsigned
+DIS
+Report Status :
+Unsigned
+DISCHARGE SUMMARY
+NAME :
+SHUFF , RONHUM
+UNIT NUMBER :
+054-44-58
+ADMISSION DATE :
+02/06/97
+DISCHARGE DATE :
+02/11/97
+CHIEF COMPLAINT :
+Lump in anterior abdominal / groin area .
+HISTORY OF PRESENT ILLNESS :
+The patient is a 76-year-old female who has undergone a previous right axillary femoral bypass graft for left foot ischemia .
+This was initially in 1993 , followed shortly thereafter by repair of a thoracoabdominal aneurysm with an aortobifemoral bypass graft .
+The previous axillary femoral bypass graft was at that point ligated .
+She reports approximately 48 hours prior to this developing pain in the right lower abdomen and groin and noticed a new onset of a lump .
+She denies fever , chills or other abdominal pain .
+PAST MEDICAL HISTORY :
+The past medical history and past surgical history is significant for upper gastrointestinal bleed , chronic obstructive pulmonary disease , history of hypertension , atrial fibrillation .
+MEDICATIONS ON ADMISSION :
+Prilosec , Lanoxin , Lescol .
+PHYSICAL EXAMINATION :
+The physical examination reveals a thin woman in no acute distress .
+The head , eyes , ears , nose and throat examination is unremarkable .
+Chest clear to auscultation .
+Abdomen :
+soft with a palpable , nonpulsatile mass in the right lower abdomen which measures approximately 3 centimeters x 3 centimeters .
+The previous axillary femoral bypass graft is readily apparent in the subcutaneous tissue along the right .
+HOSPITAL COURSE AND TREATMENT :
+An abdominal pelvic computerized tomography scan was obtained which showed no evidence of communication , pseudoaneurysm with a previous ongoing graft .
+The patient does have a known large ascending aortic aneurysm and while she was admitted , this was studied with a chest computerized tomography scan .
+The patient was brought to the operating room and under inhalation anesthetic , the old graft from the upper abdomen to the groin was removed .
+The wounds were closed primarily .
+The patient tolerated the procedure well .
+She will follow up with Dr. Ray in approximately one week &apos;s time , as well as follow up with thoracic surgeon for consideration of repair of the ascending aortic aneurysm .
+MEDICATIONS ON DISCHARGE :
+Include the addition of Bactrim DS one tablet PO b.i.d. x five days , Percocet 1-2 PO q4h prn .
+TA JESC , M.D.
+DICTATING FOR :
+___________________________ RIODE R. RAY , M.D.
+TR :
+zbb
+DD :
+02/11/97
+TD :
+02/15/97 11:04 A
+cc :
+RIODE REYAZA RAY , M.D.

@@ -1,0 +1,10 @@
+c="radioactive iodine ablation" 26:5 26:7||r="TrAP"||c="hyperthyroidism" 26:1 26:1
+c="diaphoresis" 20:13 20:13||r="PIP"||c="chest pressure" 20:4 20:5
+c="a heparin drip" 67:5 67:7||r="TrAP"||c="atrial fibrillation" 67:9 67:10
+c="emergent cardiac catheterization" 65:0 65:2||r="TeRP"||c="occlusive single vessel disease of the lad" 65:16 65:22
+c="emergent cardiac catheterization" 65:0 65:2||r="TeRP"||c="right dominant coronary artery system" 65:10 65:14
+c="multiple wires" 66:0 66:1||r="TrWP"||c="the total occlusion" 66:8 66:10
+c="hyperthyroidism" 19:21 19:21||r="PIP"||c="atrial fibrillation" 19:17 19:18
+c="p.o. pain medications" 86:21 86:23||r="TrIP"||c="anginal symptoms" 86:27 86:28
+c="hyperthyroidism" 24:5 24:5||r="PIP"||c="atrial fibrillation" 24:1 24:2
+c="diltiazem" 84:13 84:13||r="TrAP"||c="atrial fibrillation" 84:10 84:11

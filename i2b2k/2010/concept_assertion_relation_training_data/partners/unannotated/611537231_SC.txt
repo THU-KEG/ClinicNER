@@ -1,0 +1,112 @@
+611537231 SC
+12880473
+1105111
+4/28/2005 12:00:00 AM
+exertional dyspnea
+DIS
+Admission Date :
+04/28/2005
+Report Status :
+Discharge Date :
+04/30/2005
+****** DISCHARGE ORDERS ******
+SUCH , NORLI 963-97-89-7 G74
+Room :
+2U-289
+Service :
+MED
+DISCHARGE PATIENT ON :
+04/30/05 AT 05:00 PM
+CONTINGENT UPON
+Not Applicable
+WILL D / C ORDER BE USED AS THE D / C SUMMARY :
+YES
+Attending :
+NEDERIFT , NY EUNRI , M.D.
+CODE STATUS :
+Full code
+DISPOSITION :
+Home
+DISCHARGE MEDICATIONS :
+ACETYLSALICYLIC ACID 81 MG PO QD Starting Today ( 04/30 ) NITROGLYCERIN 1/150 ( 0.4 MG ) 1 TAB SL Q5MIN X 3 doses PRN Chest Pain VENTOLIN ( ALBUTEROL INHALER ) 1-2 PUFF INH QID PRN Shortness of Breath
+DIET :
+House / Low chol / low sat. fat
+ACTIVITY :
+Resume regular exercise
+FOLLOW UP APPOINTMENT ( S ) :
+Dr. Such next week ,
+ALLERGY :
+NKA
+ADMIT DIAGNOSIS :
+chest tightness , dyspnea on exertion
+PRINCIPAL DISCHARGE DIAGNOSIS ; Responsible After Study for Causing Admission ) exertional dyspnea
+OTHER DIAGNOSIS ; Conditions , Infections , Complications , affecting Treatment / Stay dypsnea on exertion chest tightness
+OPERATIONS AND PROCEDURES :
+OTHER TREATMENTS / PROCEDURES ( NOT IN O.R. )
+Adenosine MIBI
+BRIEF RESUME OF HOSPITAL COURSE :
+47 yo male with PmHx hyperlipidemia and former smoker here for evaluation of exertional chest tightness and dyspnea for the past two weeks .
+Symptoms have been steady with no relationship to eating or position change .
+He denies cough , hemoptysis , frank chest pain .
+ED eval included negative troponin X 2 , normal ECG and clear chest Xray .
+He had an ETT stopped at 8.5 minutes only due to chest tightness without ECG lead changes .
+PMHx :
+increased total cholesterol per patient .
+MEDS :
+daily multivitamin and Vitamin C
+ALL :
+NKDA
+Social Hx :
+married , one child , emigrated from Niarv Woodquegard 29 years ago ; civil engineer ; quit cigs 7 years ago after 15 pk / year history ; rare ETOH
+ROS :
+as in HPI
+PE :
+VSS
+HEENT :
+anicteric
+Neck :
+no JVD or Lymph node enlargement
+heart :
+RRR S1__S2__ , no M / G/R
+Lungs :
+CTA bilat
+ABD :
+benign
+EXT :
+no edema
+Troponin :
+negative X 2 ; normal CBC / Chemistries/LFT / coags
+ECG :
+NSR 80 , no ST-T or T wave abnormalities .
+CXR :
+clear without CHF or cardiomegaly .
+Adenosine MIBI :
+no ischemia , EF = 70%
+Assessment :
+47 yo male with hyperlipidemia , smoking hx and family hx who presented to SC for evaluation of chest tightness and dyspnea .
+Following ED eval , there has been no objective evidence by lab , ECG or nuclear scan to suggest underlying coronary artery disease or an acute cardiac event .
+Mr. Such was fairly stable throughout his hospital course with the exception of some transient nausea on 4/30/05 which was eventually relieved with IV fluid and Zofran .
+His nuclear imaging heart scan revealed _______ .
+Cardiology ( Dr. Yertrey Sumchirdkaysmavveindreps , fellow ) was involved peripherally and did not recommend further or more invasive studies at present .
+He is to be discharged to home with folow up as needed by his Primary care provider , Dr. Such .
+1) Chest tightness :
+as noted all tests negative for AMI , Ischemia or acute cardiac event .
+It is possible that he has an element of exercise-induced asthma which will need to be ascertained as an outpatient .
+Mr. Such should have outpatient fasting lipid evaluation to determine the need for a cholesterol-lowering medicine .
+He has been instructed to adopt a diet low in cholesterol , saturated fats and salt as well as maintain his exercise program without restrictions .
+He will continue on a daily 81mg aspirin and take nitroglycerin tablets sublingual as need for chest tightness or other anginal equivalent .
+Further management to be adressed by his PCP , Dr. Such .
+2) GI :
+Mr. Such complained of some dyspepsia in recent weeks .
+He has been directed to take OTC H2 blockers such as Zantac if this recurs .
+3) Disp :
+home today on pre-admit meds + ASA 81mg daily , Ventolin MDI for PRN dyspnea and PRN sublingual nitro tabs .
+ADDITIONAL COMMENTS :
+DISCHARGE CONDITION :
+Stable
+TO DO / PLAN :
+1) discharge home today with PCP follow up .
+No dictated summary
+ENTERED BY :
+MAULPLACKAGNELEEB , INACHELLE A. , M.D. ( JH08 ) 04/30/05 04:50 PM
+****** END OF DISCHARGE ORDERS ******

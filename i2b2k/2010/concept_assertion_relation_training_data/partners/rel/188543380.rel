@@ -1,0 +1,19 @@
+c="surgery" 36:11 36:11||r="TrNAP"||c="the severity of the bleed" 36:6 36:10
+c="antibiotics" 29:13 29:13||r="TrAP"||c="neutropenia" 29:8 29:8
+c="antibiotics" 29:13 29:13||r="TrAP"||c="fevers" 29:6 29:6
+c="antibiotics" 29:13 29:13||r="TrCP"||c="a diffuse erythroderm" 29:15 29:17
+c="antibiotics" 29:13 29:13||r="TrCP"||c="a drug reaction" 29:21 29:23
+c="a diffuse erythroderm" 29:15 29:17||r="PIP"||c="a drug reaction" 29:21 29:23
+c="intubated" 32:18 32:18||r="TrAP"||c="increased respiratory distress" 32:11 32:13
+c="intubated" 32:18 32:18||r="TrAP"||c="change in mental status" 32:6 32:9
+c="intubated" 32:18 32:18||r="TrAP"||c="agitation" 32:4 32:4
+c="a bronchoscopy" 31:0 31:1||r="TeRP"||c="blood" 31:7 31:7
+c="a bronchoscopy" 31:0 31:1||r="TeRP"||c="blood in alveoli" 31:17 31:19
+c="a bronchoscopy" 31:0 31:1||r="TeRP"||c="dah" 31:27 31:27
+c="medication" 33:21 33:21||r="TrCP"||c="respiratory distress" 33:12 33:13
+c="medication" 33:21 33:21||r="TrCP"||c="the changing mental status" 33:7 33:10
+c="the patient &apos;s pain and sedation meds" 34:1 34:7||r="TrWP"||c="agitated" 34:14 34:14
+c="a head ct" 35:6 35:8||r="TeRP"||c="this continued agitation" 35:2 35:4
+c="a head ct" 35:6 35:8||r="TeCP"||c="an intraparenchymal hemorrhage" 35:16 35:18
+c="worsening mucositis" 33:23 33:24||r="PIP"||c="the changing mental status" 33:7 33:10
+c="worsening mucositis" 33:23 33:24||r="PIP"||c="respiratory distress" 33:12 33:13

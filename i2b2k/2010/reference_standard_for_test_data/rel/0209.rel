@@ -1,0 +1,53 @@
+c="blood cultures" 87:0 87:1||r="TeRP"||c="gram - positive coagulase - negative staphylococcus" 87:8 87:14
+c="his cultures" 92:14 92:15||r="TeRP"||c="positive" 92:17 92:17
+c="neurologic checks" 54:0 54:1||r="TeCP"||c="change in neurologic examination" 54:16 54:19
+c="this cat scan" 56:0 56:2||r="TeRP"||c="epidural" 56:10 56:10
+c="this cat scan" 56:0 56:2||r="TeRP"||c="subdural bleed" 56:12 56:13
+c="cooling blankets" 95:15 95:16||r="TrAP"||c="a fever" 95:1 95:2
+c="morphine boluses" 53:14 53:15||r="TrAP"||c="pain" 53:17 53:17
+c="vancomycin" 94:0 94:0||r="TrAP"||c="the positive blood culture" 94:6 94:9
+c="a routine chest x-ray" 71:3 71:6||r="TeRP"||c="a mediastinum" 71:13 71:14
+c="sputum" 89:0 89:0||r="TeRP"||c="gram-negative rods" 89:4 89:5
+c="air in the orbit" 20:20 20:23||r="PIP"||c="communication with the ethmoid air cells" 20:11 20:16
+c="fractured" 20:9 20:9||r="PIP"||c="air in the orbit" 20:20 20:23
+c="fractured" 20:9 20:9||r="PIP"||c="communication with the ethmoid air cells" 20:11 20:16
+c="an inferior vena cava filter" 81:0 81:4||r="TrNAP"||c="too unstable" 81:19 81:20
+c="this catheter" 65:0 65:1||r="TrAP"||c="septic physiology" 65:10 65:11
+c="fans" 95:22 95:22||r="TrAP"||c="a fever" 95:1 95:2
+c="initial evaluation" 39:0 39:1||r="TeRP"||c="corticate posturing" 39:3 39:4
+c="vancomycin" 91:8 91:8||r="TrAP"||c="his gram-negative rods" 91:10 91:12
+c="his injuries" 19:0 19:1||r="PIP"||c="bilateral frontal contusions" 19:15 19:17
+c="his injuries" 19:0 19:1||r="PIP"||c="bilateral zygomal and orbital rim fractures" 19:3 19:8
+c="his injuries" 19:0 19:1||r="PIP"||c="subdural hematoma" 19:25 19:26
+c="his injuries" 19:0 19:1||r="PIP"||c="a right temporal fracture" 19:10 19:13
+c="his injuries" 19:0 19:1||r="PIP"||c="a right temporal epidural" 19:20 19:23
+c="the procedure" 81:23 81:24||r="TrNAP"||c="too unstable" 81:19 81:20
+c="alcohol swabs" 95:18 95:19||r="TrAP"||c="a fever" 95:1 95:2
+c="flagyl" 91:17 91:17||r="TrAP"||c="his gram-negative rods" 91:10 91:12
+c="fentanyl" 53:10 53:10||r="TrAP"||c="pain" 53:17 53:17
+c="his preliminary cultures" 88:0 88:2||r="TeRP"||c="escherichia coli" 88:8 88:9
+c="flagyl" 99:14 99:14||r="TrAP"||c="this pneumonia" 99:1 99:2
+c="imipenem" 99:9 99:9||r="TrAP"||c="this pneumonia" 99:1 99:2
+c="a pneumonia" 98:11 98:12||r="PIP"||c="gram-negative organisms" 98:15 98:16
+c="a pneumonia" 98:11 98:12||r="PIP"||c="escherichia coli" 98:22 98:23
+c="paralysis" 96:9 96:9||r="TrAP"||c="shivering" 96:20 96:20
+c="a bronchoalveolar lavage" 89:14 89:16||r="TeRP"||c="4+ polymorphonuclear lymphocytes" 89:22 89:24
+c="a bronchoalveolar lavage" 89:14 89:16||r="TeRP"||c="1+ gram-negative rods" 89:18 89:20
+c="asystole" 108:6 108:6||r="PIP"||c="attention pneumothorax" 108:17 108:18
+c="asystole" 108:6 108:6||r="PIP"||c="cardiac tamponade" 108:20 108:21
+c="asystole" 108:6 108:6||r="PIP"||c="pulmonary embolism" 108:24 108:25
+c="an acute episode" 104:11 104:13||r="PIP"||c="asystole" 104:28 104:28
+c="a routine chest x-ray" 102:5 102:8||r="TeRP"||c="a left-sided pneumothorax" 102:10 102:12
+c="imipenem" 91:14 91:14||r="TrAP"||c="his gram-negative rods" 91:10 91:12
+c="a ct angiogram" 101:3 101:5||r="TeRP"||c="pulmonary embolism" 101:11 101:12
+c="decompression" 110:8 110:8||r="TrAP"||c="attention pneumothorax" 110:5 110:6
+c="a needle aspiration" 111:4 111:6||r="TeRP"||c="bloody fluid" 111:18 111:19
+c="an acute rise in central venous pressure" 108:9 108:15||r="PIP"||c="attention pneumothorax" 108:17 108:18
+c="an acute rise in central venous pressure" 108:9 108:15||r="PIP"||c="cardiac tamponade" 108:20 108:21
+c="an acute rise in central venous pressure" 108:9 108:15||r="PIP"||c="pulmonary embolism" 108:24 108:25
+c="vancomycin" 99:11 99:11||r="TrAP"||c="this pneumonia" 99:1 99:2
+c="aggressive measures" 95:12 95:13||r="TrAP"||c="a fever" 95:1 95:2
+c="subcutaneous heparin" 80:6 80:7||r="TrNAP"||c="an intracranial hemorrhage" 80:13 80:15
+c="contusions of his face" 33:11 33:14||r="PIP"||c="severe swelling" 33:8 33:9
+c="contusions of his face" 33:11 33:14||r="PIP"||c="multiple abrasions" 33:4 33:5
+c="fevers" 85:12 85:12||r="PIP"||c="a spike in white blood cell count" 85:3 85:9

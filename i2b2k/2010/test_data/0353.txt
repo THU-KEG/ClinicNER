@@ -1,0 +1,175 @@
+Admission Date :
+2013-09-05
+Discharge Date :
+2013-09-12
+Date of Birth :
+1934-08-29
+Sex :
+M
+Service :
+MEDICINE
+Allergies :
+Patient recorded as having No Known Allergies to Drugs
+Attending : Mary N Major , M.D.
+Chief Complaint :
+change in mental status
+Major Surgical or Invasive Procedure :
+None
+History of Present Illness :
+HPI : This is a 79 y/o M with h/o of HTN , DM , recent CVA Theresa , chronic respiratory failure on vent , trached , ESRD on HD who was sent from rehab facility for worsening mental status .
+Per refferal notes , he went to hemodyalisis today in the morning .
+1 L was removed .
+At about 2:30 pm , he was found to have worsening mental status .
+In that setting he was hypotensive down to the 92/45 , and was given 1 L NS .
+Fs was also checked 179 .
+At that time , it seems that he had been on T peace since 4 am today .
+At 2:30 he was also found with sats in the 90% .
+ABG done 7.1 , 89/72 - he was placed on AC 600 / 0.4 and 6 PEEP - sats up to 94% .
+Given persistent lethargy , patient was sent to Falkener Amanda .
+Of note , after interview with HCP , at around 07-23 , patient started having episodes of dizziness , and had unstable gait .
+he was taken to Williams ICU until 08-09 when he was discharged to Waltham/Weston Hospital Rehab .
+he had a peg tube and tracheostomy prior to d/c .
+He had been chronicallyl vent dependent .
+His companion states that they have been trying to wean him down at rehab .
+his basline mental staus apparently responds with his head shaking , and also try to write sentences .
+In the Amanda : VS T 103 rectal BP90/44 HR : 84 RR 16 Sats : 98 + guiac stool .
+He received tylenol , levofloxacin 500 mg IV , Flagyl 500 mg and Vancomycin and I L NS .
+ROS : difficult to obtain 2x2 to patient mental status baselin
+Past Medical History :
+CVA Theresa / 2006
+HTN
+DM
+CRI on HD since Theresa ( Tu, Thurs, Sat )
+Neuropathy right leg
+s/p cCY
+Social History :
+Uset to be truck driver .
+Retired 15 years ago .
+He has 1 son , two grandson .
+smoking (-), alcohol -
+Family History :
+brother died cerebral aneurysm
+Brother Sabina cancer
+brother prostate cancer
+father Randall
+Physical Exam :
+Physical Exam :
+Vitals : T : 99 P : 84 BP : 145/62 AC : 600 , x 12 / 0.5 / 5 SaO2 : 100%
+General : Awake , alert , responding to voice .
+HEENT : PEERLA , no JVD . + tracheostomy
+Pulmonary : clear anteriorly .
+decrease breath sounds bases .
+Cardiac : RRR , nl . S1S2 , soft holosytolic murmur apex
+Abdomen : soft , NT/ND , normoactive bowel sounds , no masses or organomegaly noted .
++ g tube
+Extremities : Left arm AVF
+1+ trace edemalymphadenopathy noted .
+Skin : no rashes , small decubit in the back .
+Neurologic : alert , awake , partially interacting and responding to comands .
+decreased reflexes Lower extremities .
+bilaterally .
+spastic right
+upper extremity .
+Pertinent Results :
+141 103 53 167
+AGap = 14
+-------------> 
+5.7 30 3.6
+CK : 29 MB : Notdone Trop -* T *: 0.44
+Comments : Notified Glenn Shives 2013-09-05 6:50 p
+Ctropnt > 0.10 Ng / Ml Suggests Acute Mi
+Ca : 8.6 Mg : 2.4 P : 5.0
+Other Blood Chemistry :
+proBNP : 11065
+WBC 15.2 Plat 395
+HCT : 28.4
+N : 89.8 Band : 0 L : 5.8 M : 4.1 E : 0.3 Bas : 0.1 PT : 12.1 PTT : 37.5 INR : 1.0
+2013-09-05
+5:04 p
+Green Top
+K : 5.5 Lactate : 1.3
+Brief Hospital Course :
+Assessment and Plan :
+This is a 79 y/o M with h/o HTN , DM , recent CVA , chronic ventilatory failure , CRI on HD who presents with change in MS and febrile in the Amanda , admitted to CMED .
+# Altered mental status : Ct scan with no evidence of new intracraneal bleeding .
+Patient febrile in the Amanda .
+High WBC .
+It was thought that it could have been a combination of hypotension , hypercapnia and infection .
+He was initially started on broad spectrum antibiotics .
+Despite having a profund limitation communicating given his neurological status , his mental changes seemed to improved initially .
+However later on during his course , his mental status deteriorated , being even less responsive .
+# ID :
+Patient febrile and with a high WBC on admission .
+After starting broad spectrum antibiotics - cefepime - vancomycin and flagyl ( for initial concern of aspiration pneumonia ), he responded clinically .
+Urine cx from Rehab showed gram negative rods > 100 K enterobacter cloacae .
+Urine Cx in house grew Citrobacter Freundi and his sputum grew Acinetobacter Baummani .
+Since there was no more evidence of gram positive infections , vancomycin was discontinued and cefepime was kept .
+# Fevers : in the Amanda , high WBC , possible pneumonia .
+Also possible source sinus infections given findings on intial CT ( see summary in significant studies ). He did not spike any fevers after being transfer to the CMED from the Amanda .
+# Resp : Patient was intermitentely switched from AC to Pressure support trials .
+However , after Patient did well .
+Then trach mask trials were done .
+He tolerated this well , although he required PS overnight .
+# ESRD on hemodyalisis : Renal service was consulted and HD was continued .
+# CV :
+Rhythm : NSR , not tachycardic .
+Pump : With trace of lower extremity edema .
+X ray suggested some pulmonary edema on admission .
+Despite this findings , he was supported with 40% FIO2 most of the time .
+CAD : On admission Ck low normal , MB not done .
+Troponin 0.44. 
+It was more likely due to CRI .
+Second set 12 hours apart , showed no changes .
+s/p stroke : continue aspirin , statin , plavix
+# Hypotension : per referral form .
+Intially concern for sepsis in the setting of fevers and high blood count .
+His BP medications were held on admission .
+Patient did not require pressors .
+His blood pressure remained stable and BP meds were restarted .
+# FEN :
+Tube feedings were started thorugh peg tube .
+On 2013-09-08 , patient pulled out peg tube .
+Temporary foley was placed and on 2013-09-11 ,
+On 2013-09-12 after deterioration of his mental status and also of his blood pressure , goals of care were discussed with his HCP .
+It was decided to direct goals of care towards confort care .
+Patient passed away accompanied by his significant other .
+Medications on Admission :
+Novolin 16 U q 12h
+Aranesp 40 mcg sc
+Prozac liquid 20 mg q am
+Heparin 3000 U tu , thursday saturday
+Norvasc 10 mg daily GT
+Tylenol PRN
+Reglan 5 mg q 6h ,
+fergon 300 mg BID
+Plavix 75 mg GT
+nephrocaps 1 daily
+novolin Sliding scale
+heparin sc 5000 q 8h
+Protonix 40 mg daily GT
+Combivent 2 puff qid inh
+zocor 10 mg Tab / day GT
+aspirin 325 mg tab
+Ferrlecit Sodium ferric gluconate Mo-We Fr IV
+Discharge Medications :
+n/a
+Discharge Disposition :
+Extended Care
+Discharge Diagnosis :
+1. Change in Mental status
+2. Urinary tract Infection
+3. Chronic respiratory failure
+Secondary :
+1. Hypertension
+2. Diabetes Mellitus
+3. End stage renal disease on HD
+Discharge Condition :
+expired
+Discharge Instructions :
+n/a
+Followup Instructions :
+n/a
+Z. Mcbride WEISS MD 51-615
+Completed by : Martha Fairley MD 53-063 2013-11-12 @ 2057
+Signed electronically by : DR. V Osterman WEISS on : WED 2013-11-13 8:40 AM
+( End of Report )

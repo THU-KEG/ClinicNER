@@ -1,0 +1,72 @@
+839084838
+PUOMC
+7201663
+83199/260z
+335870
+3/23/1995 12:00:00 AM
+CHOLANGIOCARCINOMA , RECURRENT ; STATUS POST RADIATION
+Unsigned
+DIS
+Report Status :
+Unsigned
+ADMISSION DATE :
+3/23/95
+DISCHARGE DATE :
+04/04/95
+PRINCIPAL DIAGNOSIS :
+Cholangiocarcinoma , recurrent ; status post radiation therapy and chemotherapy .
+ASSOCIATED DIAGNOSES :
+1) Obstructive jaundice , secondary to recurrent tumor and / or stricture at the bile duct to jejunum anastomosis .
+2) Subhepatic fluid collection , drained .
+3) Clostridium difficile colitis with diarrhea .
+PRINCIPAL PROCEDURES :
+On 3/28/95 , replacement of permanent biliary stents and liver biopsy .
+OTHER PROCEDURES :
+On 3/24/95 , percutaneous transhepatic cholangiogram .
+On 3/27/95 , 3/28/95 , 3/30/95 , 3/31/95 , and 04/04/95 there were revisions and contrast injections to the biliary catheter drainage system .
+HISTORY OF PRESENT ILLNESS :
+The patient is a 55-year-old man who is status post resection of a Klatskin tumor , who returns with persistent jaundice and right upper quadrant pain .
+The present illness is marked by presentation with jaundice and pain in August of 1994 , and a computerized tomography scan that showed bile duct dilatation .
+In September 1994 , he had an endoscopic retrograde cholangiopancreatography that shoed obstruction at the confluence of the left and right hepatic ducts .
+In October 1994 , the Klatskin tumor was resected and it was shown to be moderately differentiated cholangiocarcinoma .
+The surgical margins were positive and he was treated postoperatively with radiation therapy and chemotherapy .
+He was admitted in January 1994 , for biliary drainage catheter placement and balloon dilatation of what was thought to be an anastomotic stricture .
+Biopsies and fine needle aspirates were suspicious for recurrent cholangiocarcinoma .
+Since that time he had been persistently jaundiced and fatigued , until three weeks prior to admission when the patient had a biliary tube check , which showed things to be patent despite his rising bilirubin .
+He presented now for evaluation of failed biliary drainage .
+PHYSICAL EXAMINATION :
+On physical examination , he had a normal temperature and blood pressure .
+His lungs were clear .
+His head and neck showed marked scleral icterus and a cardiac examination showed a systolic ejection murmur .
+The abdomen was soft and had well healed right upper quadrant scar .
+The extremities were unremarkable .
+Rectal examination was negative and his neurological examination was intact .
+LABORATORY DATA :
+His hematocrit was 25.8% , with a normal white blood cell count .
+His bilirubin was total 11.1 , with a direct bilirubin of 10.2 and his alkaline phosphatase was 2,188 .
+HOSPITAL COURSE :
+He was admitted and started on intravenous antibiotics and studied with an abdominal computerized tomography scan .
+The computerized tomography scan showed dilated left and right hepatic ducts and was consistent with some form of blockage of the drainage arrangement .
+What then ensued was multiple attempts to insure adequate biliary decompression by use of percutaneous transhepatic cholangiogram and placement of biliary catheters and stents .
+The procedures took place on several days throughout the hospital stay with the sentinel pro cedure taking place on 3/28/95 , and this was placement of the 10 mm diameter metal wallstents .
+Subsequent to that , he was found to have a subhepatic fluid collection , which was suspicious for a bile leak and therefore a drain was placed percutaneously into this collection .
+On 3/31/95 and 04/04/95 , very mild revisions were made of these and the feeling was that solution had been reached with good drainage .
+His bilirubin by the time of discharge had fallen from a peak of 28 down to a discharge value of 8 .
+He was feeling much better , taking good diet and denying pain or fever .
+During the course of the hospitalization , he was found to have diarrhea and stool was sent and found to be positive for Clostridium difficile toxin and this initiated treatment with Flagyl 500 mg PO t.i.d. for two weeks .
+He was covered prophylactically for the indwelling stents with ofloxacin 400 mg PO b.i.d.
+On 04/04/95 , it was deemed he was ready for discharge and Dr. Blinjesc discharged him to the care of his primary physician , Dr. Ma , in Taette .
+Dr. Ma will be working with Dr. Besti Kotebreun of Ph University Of Medical Center to manage the currently indwelling stents .
+The patient will continue his course of Flagyl until that is finished and he will stay on the po ofloxacin until the external draining stents are removed .
+MEDICATIONS AT THE TIME OF DISCHARGE :
+are Glyburide 5-15 mg po q a.m. and 0-10 mg po q p.m. , depending on amount of oral intake ; Celesone 1 1/2 tablets po q day , Tagamet 400 mg PO b.i.d. , ofloxacin 400 mg PO b.i.d. , CZI sliding scale which will not be continued on discharge , and Flagyl 500 mg PO t.i.d. for a total of fourteen days .
+DOATOLI GAMESSHUFF , M.D.
+DICTATING FOR :
+DR. OCK
+TR :
+pz / bmot
+DD :
+04/04/95
+TD :
+04/08/95
+CC :

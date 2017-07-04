@@ -1,0 +1,42 @@
+c="his catheterization" 61:0 61:1||r="TeRP"||c="90% stenosis of om2" 61:25 61:28
+c="his catheterization" 61:0 61:1||r="TeRP"||c="80% stenosis of the circumflex" 61:19 61:23
+c="his catheterization" 61:0 61:1||r="TeRP"||c="90% stenosis of the lad" 61:13 61:17
+c="his catheterization" 61:0 61:1||r="TeRP"||c="70% stenosis of the distal left main coronary artery" 61:3 61:11
+c="his catheterization" 61:0 61:1||r="TeRP"||c="a proximally occluded right coronary artery" 61:30 61:35
+c="the study" 87:0 87:1||r="TeRP"||c="aspiration" 87:16 87:16
+c="the procedure" 91:0 91:1||r="TrCP"||c="complication" 91:13 91:13
+c="the site" 145:11 145:12||r="PIP"||c="erythema" 145:7 145:7
+c="the site" 145:11 145:12||r="PIP"||c="necrosis" 145:5 145:5
+c="the site" 145:11 145:12||r="PIP"||c="exudate" 145:9 145:9
+c="myocardial infarction" 15:12 15:13||r="PIP"||c="nonspecific t wave changes" 15:6 15:9
+c="coronary artery bypass graft , four vessels" 103:7 103:13||r="TrAP"||c="coronary artery disease" 103:1 103:3
+c="n.p.o." 127:3 127:3||r="TrAP"||c="aspiration" 127:18 127:18
+c="coronary artery bypass grafting" 95:12 95:15||r="TrCP"||c="much edema" 95:4 95:5
+c="his cast" 96:0 96:1||r="TrNAP"||c="this edema" 96:11 96:12
+c="his cast" 96:0 96:1||r="TrNAP"||c="compartment syndrome" 96:16 96:17
+c="a temperature" 135:5 135:6||r="TeRP"||c="afebrile" 135:3 135:3
+c="a baseline creatinine" 32:5 32:7||r="TeRP"||c="chronic renal insufficiency" 32:1 32:3
+c="ekg changes" 22:1 22:2||r="PIP"||c="myocardial infarction" 22:5 22:6
+c="his wounds" 150:14 150:15||r="PIP"||c="any exudate" 150:11 150:12
+c="his wounds" 150:14 150:15||r="PIP"||c="increased warmth" 150:3 150:4
+c="an emergent surgical airway" 16:9 16:12||r="TrAP"||c="the hematoma formation" 16:0 16:2
+c="a repeat swallow evaluation" 127:7 127:10||r="TeCP"||c="aspiration" 127:18 127:18
+c="previous examinations" 149:6 149:7||r="TeRP"||c="this ecchymosis" 149:0 149:1
+c="the procedure" 69:3 69:4||r="TrCP"||c="complication" 69:7 69:7
+c="right cerebrovascular accident" 26:3 26:5||r="PIP"||c="residual left-sided weakness" 26:9 26:11
+c="left carotid endarterectomy" 25:6 25:8||r="TrAP"||c="cerebrovascular disease" 25:1 25:2
+c="percocet" 119:1 119:1||r="TrAP"||c="pain" 119:11 119:11
+c="a stable antihypertensive regimen" 75:9 75:12||r="TrAP"||c="a decreased ejection fraction" 75:17 75:20
+c="percutaneous endoscopic gastrostomy tube placement" 106:6 106:10||r="TrAP"||c="failed swallow study" 106:1 106:3
+c="treatment" 63:17 63:17||r="TrAP"||c="a klebsiella pneumonia" 63:25 63:27
+c="a cardiac catheterization" 60:8 60:10||r="TeCP"||c="chf" 60:5 60:5
+c="oral medication" 24:6 24:7||r="TrAP"||c="diabetes type 2" 24:1 24:3
+c="vancomycin" 107:19 107:19||r="TrAP"||c="coagulase - negative staphylococcus aureus" 107:6 107:10
+c="central line culture" 107:1 107:3||r="TeRP"||c="coagulase - negative staphylococcus aureus" 107:6 107:10
+c="ecchymosis" 148:5 148:5||r="PIP"||c="a saphenectomy site" 148:8 148:10
+c="the splint" 98:22 98:23||r="TrAP"||c="his injury" 98:16 98:17
+c="reassessment" 98:14 98:14||r="TeCP"||c="his injury" 98:16 98:17
+c="the line" 107:23 107:24||r="TrNAP"||c="coagulase - negative staphylococcus aureus" 107:6 107:10
+c="a right carotid endarterectomy" 14:9 14:12||r="TrAP"||c="95% stenosis of the carotid artery" 14:14 14:19
+c="another acute decompensation" 20:14 20:16||r="PIP"||c="chf exacerbation" 20:18 20:19
+c="a temperature" 45:4 45:5||r="TeRP"||c="afebrile" 45:2 45:2

@@ -1,0 +1,43 @@
+c="the abdominal cat scan" 122:0 122:3||r="TeRP"||c="hydronephrosis" 122:8 122:8
+c="the abdominal cat scan" 122:0 122:3||r="TeRP"||c="orrenal abscess" 122:9 122:10
+c="intravenous and p.o. flagyl" 47:15 47:18||r="TrAP"||c="c. difficile colitis" 47:1 47:3
+c="baseline creatinine" 62:5 62:6||r="TeCP"||c="chronic renal insufficiency" 62:1 62:3
+c="haldol" 125:4 125:4||r="TrAP"||c="this problem" 125:12 125:13
+c="gram negative rod sepsis" 31:7 31:10||r="PIP"||c="e. coli" 31:17 31:18
+c="gram negative rod sepsis" 31:7 31:10||r="PIP"||c="b. fragilis" 31:20 31:21
+c="sma percutaneous transluminal coronary angioplasty" 104:10 104:14||r="TrCP"||c="ischemic bowel" 104:6 104:7
+c="electrocardiogram" 67:10 67:10||r="TeRP"||c="left anterior hemiblock" 67:6 67:8
+c="electrocardiogram" 67:10 67:10||r="TeRP"||c="right bundle branch block" 67:1 67:4
+c="p.o. vancomycin" 56:5 56:6||r="TrAP"||c="c. difficile colitis" 56:9 56:11
+c="gram negative rod urosepsis" 104:19 104:22||r="PIP"||c="c. difficile colitis" 104:25 104:27
+c="thickened bowel wall" 114:5 114:7||r="PIP"||c="c. difficile colitis" 114:26 114:28
+c="thumb printing" 114:9 114:10||r="PIP"||c="c. difficile colitis" 114:26 114:28
+c="morphine sulfate" 68:8 68:9||r="TrCP"||c="allergies" 68:0 68:0
+c="codeine" 68:6 68:6||r="TrCP"||c="allergies" 68:0 68:0
+c="sulfa" 68:4 68:4||r="TrCP"||c="allergies" 68:0 68:0
+c="sma percutaneous transluminal coronary angioplasty" 63:5 63:9||r="TrCP"||c="ischemic bowel" 63:1 63:2
+c="white blood cell count" 51:0 51:3||r="TeRP"||c="left shift" 51:7 51:8
+c="thoracentesis" 54:3 54:3||r="TeRP"||c="empyema" 54:7 54:7
+c="blood cultures" 31:12 31:13||r="TeRP"||c="e. coli" 31:17 31:18
+c="blood cultures" 31:12 31:13||r="TeRP"||c="b. fragilis" 31:20 31:21
+c="blood cultures" 31:12 31:13||r="TeRP"||c="gram negative rod sepsis" 31:7 31:10
+c="an angioplasty" 30:3 30:4||r="TrIP"||c="his sma" 30:6 30:7
+c="workup" 29:0 29:0||r="TeRP"||c="celiac" 29:6 29:6
+c="workup" 29:0 29:0||r="TeRP"||c="ischemic bowel" 29:2 29:3
+c="workup" 29:0 29:0||r="TeRP"||c="sma stenoses" 29:8 29:9
+c="ischemic bowel" 29:2 29:3||r="PIP"||c="celiac" 29:6 29:6
+c="ischemic bowel" 29:2 29:3||r="PIP"||c="sma stenoses" 29:8 29:9
+c="ceftizoxime" 42:5 42:5||r="TrAP"||c="serratia urosepsis" 42:1 42:2
+c="renal ultrasound" 44:0 44:1||r="TeRP"||c="abscess orhydronephrosis" 44:5 44:6
+c="chronic renal insufficiency" 20:1 20:3||r="PIP"||c="azotemia" 20:5 20:5
+c="gentamicin" 107:6 107:6||r="TrAP"||c="sepsis" 107:12 107:12
+c="penicillin" 68:2 68:2||r="TrCP"||c="allergies" 68:0 68:0
+c="flagyl" 107:9 107:9||r="TrAP"||c="sepsis" 107:12 107:12
+c="an abdominal cat scan" 114:0 114:3||r="TeRP"||c="thickened bowel wall" 114:5 114:7
+c="an abdominal cat scan" 114:0 114:3||r="TeRP"||c="thumb printing" 114:9 114:10
+c="stool for c. difficile" 110:0 110:3||r="TeRP"||c="positive" 110:5 110:5
+c="baseline creatinine" 119:7 119:8||r="TeRP"||c="chronic renal insufficiency" 119:3 119:5
+c="exam" 113:26 113:26||r="TeRP"||c="abdominal distention" 113:23 113:24
+c="intravenous ceftizoxime" 107:3 107:4||r="TrAP"||c="sepsis" 107:12 107:12
+c="azotemia" 43:1 43:1||r="PIP"||c="sepsis" 43:5 43:5
+c="azotemia" 43:1 43:1||r="PIP"||c="dehydration" 43:7 43:7

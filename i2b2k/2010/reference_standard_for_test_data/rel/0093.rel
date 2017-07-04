@@ -1,0 +1,20 @@
+c="sternal rub" 90:6 90:7||r="TeRP"||c="unresponsive" 90:1 90:1
+c="verbal command" 90:3 90:4||r="TeRP"||c="unresponsive" 90:1 90:1
+c="a max respiratory rate" 75:14 75:17||r="TeRP"||c="tachypneic" 75:4 75:4
+c="respiratory rates" 75:9 75:10||r="TeRP"||c="tachypneic" 75:4 75:4
+c="alcohol and benzodiazepine withdrawal" 80:18 80:21||r="PIP"||c="seizure" 80:7 80:7
+c="dilantin" 84:12 84:12||r="TrAP"||c="seizure activity" 84:3 84:4
+c="patient 's blood pressures" 16:0 16:3||r="TeRP"||c="decrease systolics" 16:7 16:8
+c="eeg" 84:6 84:6||r="TeRP"||c="seizure activity" 84:3 84:4
+c="urinalysis" 55:0 55:0||r="TeRP"||c="large blood" 55:4 55:5
+c="her delirium" 85:0 85:1||r="PIP"||c="withdrawal" 85:7 85:7
+c="her delirium" 85:0 85:1||r="PIP"||c="toxic metabolic" 85:9 85:10
+c="treatment" 85:23 85:23||r="TrAP"||c="barbiturate withdrawal" 85:25 85:26
+c="eeg" 82:1 82:1||r="TeRP"||c="seizure activity" 82:7 82:8
+c="airway protection" 14:20 14:21||r="TrAP"||c="minimally responsive" 14:14 14:15
+c="urine tox" 58:0 58:1||r="TeRP"||c="positive for barbiturates , opiates , and methadone" 58:2 58:9
+c="insulin" 16:19 16:19||r="TrIP"||c="decrease systolics" 16:7 16:8
+c="patient 's hypoxia" 77:0 77:2||r="PIP"||c="pneumonia" 77:11 77:11
+c="atropine" 17:12 17:12||r="TrIP"||c="bradycardic" 17:4 17:4
+c="glucose drips" 16:21 16:22||r="TrIP"||c="decrease systolics" 16:7 16:8
+c="iv fluids" 16:16 16:17||r="TrIP"||c="decrease systolics" 16:7 16:8

@@ -1,0 +1,78 @@
+885374468
+PUOMC
+2082674
+09470/44ha
+718483
+3/22/1995 12:00:00 AM
+ESOPHAGEAL CARCINOMA-METASTATIC .
+Unsigned
+DIS
+Report Status :
+Unsigned
+ADMISSION DATE :
+3/22/95
+DISCHARGE DATE :
+3/30/95
+PRINCIPAL DIAGNOSIS :
+Esophageal carcinoma-metastatic .
+ASSOCIATED DIAGNOSIS :
+Lymphangetic pulmonary carcinomatosis , dyspnea .
+PRINCIPAL PROCEDURE :
+Bronchoscopy , 3/23/95 .
+HISTORY OF PRESENT ILLNESS :
+Mr. Po is a 53 year-old white male with a history of metastatic squamous cell carcinoma of the esophagus who is admitted with a 10-day history of progressive dyspnea on exertion .
+Briefly , Mr. Po presented in 1992 with dysphagia and a midesophageal mass that proved to be squamous cell carcinoma .
+He received two cycles of neoadjuvant Cisplatin and 5-FU , followed by esophagectomy , followed by two cycles of adjuvant platinum/5-FU .
+He was without evidence of disease until the May of 1994 , when he developed an inferior vena cava thrombosis and CT scan revealed celiac axis adenopathy .
+By October of 1994 , pulmonary disease , consistent with lymphangetic spread of tumor , was present .
+He began Ifosfamide chemotherapy but in the last few cycles has had progressive disease .
+Over the last 10 days , he has been bothered by progressive dyspnea on exertion .
+He has seen two local physicians , who have tried him first on Bactrim and subsequently Clarithromycin without improvement .
+He denies fevers , chills , hemoptysis , chest pain , nausea and vomiting , or diarrhea .
+PAST MEDICAL HISTORY :
+1) Remarkable for a history of ulcers .
+2) Inferior vena cava occlusion .
+3) Arthritis .
+MEDICATIONS ON ADMISSION :
+Atrovent , Proventil , Azmacort , Serevent inhalers .
+Coumadin , Tagamet , and Clarithromycin .
+PHYSICAL EXAMINATION :
+On admission , the patient is afebrile , tachypneic , and tachycardic .
+Skin is pale .
+The head , eyes , ears , nose , throat exam reveals mild proptosis .
+He has total alopecia .
+His neck is supple .
+There is no thyroid , cervical , or supraclavicular adenopathy .
+His lungs reveal diffuse wheezes , especially in the left chest .
+There is minimal air movement on the left lower lobe .
+The rest of his physical examination was unremarkable .
+LABORATORY DATA :
+Laboratory studies on admission included a BUN and creatinine of 14 and 1.4 , normal calcium , white count of 12,100 , hematocrit of 32 , platelet count of 319,000 .
+PT was 19.8 seconds .
+His three liter nasal prong blood gas revealed a PO2 of 63 , PCO2 of 47 , pH of 7.39 .
+A chest X-ray revealed diffuse air space disease , particularly on the left .
+HOSPITAL COURSE :
+The patient was admitted with a diagnostic impression of probable progressive carcinoma with a potential component of bronchospasm .
+However , there was the possibility that this represented an atypical pulmonary infection .
+Hence , he went to bronchoscopy by Dr. Jesclinke on 4/22/95 .
+Bronchoscopy revealed clear airways without evidence of significant secretions .
+BAL was sent for culture and was negative for pathogenic organisms .
+A few days after bronchoscopy , his intravenous Bactrim was discontinued and he was treated with oxygen , steroids , and inhalers .
+It was felt that there were no further chemotherapy options for this disease and he met with hospice therapy .
+In addition , he was hypoxic throughout his admission , often with oxygen saturations in the high 80s despite five liters of supplemental oxygen .
+This was accompanied with some anxiety , which was treated with intermittent morphine and Ativan .
+The patient was discharged on Mar 30 , 1995 with hospice care .
+His status is DNR .
+MEDICATIONS ON DISCHARGE :
+Tagamet , 800 mg. PO q.day ; five liters of supplemental oxygen ; Carafate , 1 gm. b.i.d. ; Ativan , 1 mg. SL q.4 p.r.n.
+His Coumadin was discontinued .
+In addition , he was sent home on Prednisone , 40 mg. q.day .
+CA N. SHUFF , M.D.
+TR :
+vr / bmot
+DD :
+3/30/95
+TD :
+04/02/95
+CC :
+Guabenfranda Po , M.D. Margmimaui Jesclinke , M.D.

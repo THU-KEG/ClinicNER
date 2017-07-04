@@ -1,0 +1,94 @@
+745943853 SC
+59881622
+2458882
+2/28/2005 12:00:00 AM
+R pontine stroke
+DIS
+Admission Date :
+02/28/2005
+Report Status :
+Discharge Date :
+03/03/2005
+****** DISCHARGE ORDERS ******
+STERPA , BURMCORDE 815-95-10-6 N47
+Room :
+2Q-796
+Service :
+NEU
+DISCHARGE PATIENT ON :
+03/03/05 AT 04:00 PM
+CONTINGENT UPON
+Not Applicable
+WILL D / C ORDER BE USED AS THE D / C SUMMARY :
+YES
+Attending :
+SCARV , STAJOH NETONE , M.D.
+CODE STATUS :
+Full code
+DISPOSITION :
+Home w/ services
+DISCHARGE MEDICATIONS :
+ECOTRIN ( ASPIRIN ENTERIC COATED ) 325 MG PO QD FESO4 ( FERROUS SULFATE ) 325 MG PO TID
+Food / Drug Interaction Instruction
+Avoid milk and antacid
+INSULIN NPH HUMAN 8 UNITS SC QAM INSULIN NPH HUMAN 8 UNITS SC QHS LISINOPRIL 10 MG PO QD PREDNISOLONE 1% 1 DROP OD QID COSOPT ( TIMOLOL / DORZOLAMIDE ) 1 DROP OU BID APHPAGAN-P 0.15% OPTHALMIC SOL 1 DROP TP BID
+Instructions :
+Instill one drop both eyes ( OU ) BID .
+ATROPINE SULFATE 1% OPTHAL. SOL 1 DROP TP BID
+Instructions :
+In still one drop to right eye only BID
+TRAVATAN 0.004% OPTHALMIC SOL 1 DROP TP QHS
+Instructions :
+Instill one drop both eyes at HS
+FOLTEX 1 TAB PO QD LIPITOR ( ATORVASTATIN ) 40 MG PO QD NOVOLOG ( INSULIN ASPART ) 4 UNITS SC BID WITH BREAKFAST AND SUPPER
+DIET :
+House / Low chol / low sat. fat
+DIET :
+House / ADA 2100 cals / dy
+ACTIVITY :
+Resume regular exercise
+FOLLOW UP APPOINTMENT ( S ) :
+Dr. Weight 2-4 weeks , Dr. Bright , ophthalmology March 12 , 2005 , 10:15am scheduled ,
+ALLERGY :
+NKA
+ADMIT DIAGNOSIS :
+Gait ataxia
+PRINCIPAL DISCHARGE DIAGNOSIS ; Responsible After Study for Causing Admission ) R pontine stroke
+OTHER DIAGNOSIS ; Conditions , Infections , Complications , affecting Treatment / Stay Hypertension Diabetes Glaucoma
+OPERATIONS AND PROCEDURES :
+none
+OTHER TREATMENTS / PROCEDURES ( NOT IN O.R. )
+MRI / MRA brain and neck
+BRIEF RESUME OF HOSPITAL COURSE :
+77 year old man with history of hypertension and diabetes who presented with &quot; walking like a drunk &quot; for 2 days .
+He was brought into the ED by his family .
+His neurologic exam was notable for right arm dysmetria on finger-nose-finger .
+He was unable to stand ( would retropulse ) without assistance and on gait testing tended to fall towards the right .
+He had a MRI / MRA of the brain and neck , which demonstrated a right pontine stroke that was bright on DWI and not dark on ADC , consistent with a subacute stroke .
+He was admitted to the hospital and underwent a workup for modifiable stroke risk factors .
+His stroke syndrome was lacunar .
+He ruled out for an MI .
+His EKG showed normal sinus rhythm .
+He had a Holter study , report of which is pending at this time .
+His lipids were checked and were found to be elevated , so his lipitor dose was increased from 20 milligrams to 40 milligrams .
+He was not on Aspirin at the time of the stroke , so he was started on 325 milligrams per day .
+He had a high normal homocysteine of 10.4 , and was started on Foltx ( Folate , B6 , B12 ) vitamins , one per day .
+His blood sugars were found to be high and he was evaluated by Diabetes Management Services , who adjusted his insulin regimen .
+He was seen by physical and occupational therapy and cleared for discharge home .
+He will follow up with his PCP and his opthalmologist .
+ADDITIONAL COMMENTS :
+You will likely qualify for a talking glucometer which will help you monitor your blood sugars at home .
+Please discuss this with your PCP .
+The Iner Plearow Clearfmesylvwauke Memorial Hospital may be able to provide you with one of this units .
+DISCHARGE CONDITION :
+Stable
+TO DO / PLAN :
+follow up with your PCP .
+continue monitoring your blood sugars closely .
+take your insulin as instructed .
+watch for signs of hypoglycemia ( sweating , confusion , fast heart rate , lightheadedness ) .
+If you experience these , inform a family member or physician immediately , and drink a sweet beverage or eat a candy to bring your bloos guar up .
+No dictated summary
+ENTERED BY :
+JESCGOOTZCHAFF , SHAE FADYK , M.D. ( PU61 ) 03/03/05 06:26 PM
+****** END OF DISCHARGE ORDERS ******

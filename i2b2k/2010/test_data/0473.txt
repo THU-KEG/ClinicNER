@@ -1,0 +1,59 @@
+963005114
+FIH
+1704696
+04773/k096
+064394
+5/3/1993 12:00:00 AM
+ADULT RESPIRATORY DISTRESS SYNDROME .
+Unsigned
+DIS
+Report Status :
+Unsigned
+ADMISSION DATE :
+5-3-93
+DISCHARGE DATE :
+5-12-93
+PRINCIPAL DIAGNOSIS :
+Adult respiratory distress syndrome .
+ASSOCIATED DIAGNOSIS :
+Urinary tract infection , tracheostomy status , diabetes mellitus .
+HISTORY OF PRESENT ILLNESS :
+Mr. Stain was transferred from the Oreiewlefell Merkane I Penaltbridgesgreat University Medical Center for progressive respiratory failure and adult respiratory distress syndrome superimposed on a history of chronic obstructive pulmonary disease , perhaps asthma , and ulcerative colitis .
+His only positive result was a sputum culture for Pseudomonas and this came after he had already been on antibiotics .
+PHYSICAL EXAMINATION :
+The physical examination on transfer showed an alert male with temperature 100 degrees , blood pressure 120/64 , heart rate 80 .
+He was intubated with pressor support of 25 , and PEEP of 12.5 with 70% FIO2 .
+Tracheostomy tube was in good position .
+There was an audible air leak .
+His chest showed bilateral rhonchi .
+The abdomen was distended with active bowel sounds .
+The rectal examination was unremarkable .
+Extremities showed trace pulmonary edema .
+LABORATORY DATA :
+A chest X-ray showed diffuse bilateral alveolar infiltrates , greater in the lower lung fields than in the upper .
+The EKG showed normal sinus rhythm at 83 , with an 11 degree axis , non-specific ST-T wave changes .
+The sputum Gram stain showed a few polys and no organisms .
+The blood gas showed a pO2 of 56 , pCO2 of 48 and pH of 7.47 .
+HOSPITAL COURSE :
+The patient was seen in consultation by Dr. Wire who felt that manipulation of the tracheal tube was the best approach to the air leak since it was a new trach and he was requiring such high ventilator support that it was risky to change it .
+He also felt that lung biopsy at this time was rather risky .
+The patient was therefore completely cultured again and begun on antibiotic coverage which would take care of the Pseudomonas he was known to have .
+The steroids were tapered .
+He was also begun on anti-Candida regimen for his urinary tract infection with yeast being seen .
+Because of the story of hemoptysis , he also underwent an exotic bleeding work up for such things as Wegner &apos;s and Goodpasture &apos;s .
+These results were all negative .
+He continued to require very high FIO2 .
+He was found to have a DVT by ultrasound .
+He underwent a trial of TPA followed by heparin .
+This produced substantially further hemoptysis and the need for transfusion .
+He stabilized from this , but on the fifth while continuing to have extremely ventilator requirement .
+In consultation with his family , it was decided that enough support had been done .
+At that time , therefore , ventilator support was withdrawn under the comfort measures of morphine .
+STAIN J. A , M.D.
+TR :
+sj / bmot
+DD :
+6-4-93
+TD :
+06/05/93
+CC :

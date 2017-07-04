@@ -1,0 +1,199 @@
+Admission Date :
+2015-04-16
+Discharge Date :
+2015-04-24
+Date of Birth :
+1937-04-06
+Sex :
+F
+Service :
+SURGERY
+Allergies :
+Patient recorded as having No Known Allergies to Drugs
+Attending : Mattie R. A. Hamilton , M.D.
+Chief Complaint :
+Altered mental status
+Diaphoresis
+Abdominal pain
+Major Surgical or Invasive Procedure :
+Lap converted to open cholecystectomy
+History of Present Illness :
+This 78 year old Mexican speaking female presented to the emergency department on 2015-04-16 .
+Her family memebers stated that she was found at home with altered mental status and diaphoresis .
+She is diabetic .
+Mental status improved after binasal cannula oxygen applied , at which time she localized right upper quadrant pain .
+She developed leukocytosis and transaminasemia .
+Past Medical History :
+DM on insulin
+HTN
+gerd
+pvd
+osteo-arthritis
+osteoporosis
+anemia
+cholelithiasis
+left humeral fracture
+b/l cataracts s/p surgery
+s/p uterine myomectomy
+Social History :
+distant tobacco
+drinks often - including vodka
+walks without cane
+trained engineer in Papua New Guinea
+Has brother , nephew and daughter in law near by .
+Family History :
+denies cad
+Physical Exam :
+T : 99.2 HR 97 BP 131/68 RR : 20 Spo2 100% on RA
+Constitutional : alert & oriented x 3 .
+Head / eyes : EOMI , PERRL
+Chest / respiratory : clear to auscultation bilaterally
+Cardiovascular : Regular rate & rhythm + S1/S2 .
+No Mumur / regurgiation / gallop
+GI / Abdomen : soft .
++ Haskell sign , right upper quadrant tenderness .
+Nondistended .
+No rebounding
+Musculoskeletal : 5/5 strength all extremities
+Skin : no C/C/E
+Neuro : CN II-XII intact , no dysdiadokinesis .
+decreased Babinski 's
+Pertinent Results :
+2015-04-16 07:10 PM BLOOD Albumin - 3.8 Calcium - 9.0 Phos - 2.6 *# Mg - 1.9
+2015-04-16 07:10 PM BLOOD ALT - 295 * AST - 56 * CK(CPK) - 60 AlkPhos - 208 * Amylase - 23 TotBili - 1.6 *
+2015-04-16 07:10 PM BLOOD Glucose - 280 * UreaN - 18 Creat - 1.0 Na - 135 K - 4.2 Cl - 98 HCO3 - 22 AnGap - 19
+2015-04-16 07:10 PM BLOOD WBC - 18.4 *# RBC - 4.27 Hgb - 11.9 * Hct - 34.8 * MCV - 82 MCH - 27.9 MCHC - 34.1 RDW - 15.0 Plt Ct - 317
+2015-04-24 06:35 AM BLOOD ALT - 82 * AST - 62 * AlkPhos - 145 * Amylase - 51 TotBili - 0.4
+2015-04-24 06:35 AM BLOOD Glucose - 134 * UreaN - 8 Creat - 0.6 Na - 144 K - 3.7 Cl - 106 HCO3 - 31 AnGap - 11
+2015-04-24 06:35 AM BLOOD WBC - 10.5 RBC - 3.49 * Hgb - 9.6 * Hct - 28.0 * MCV - 80 * MCH - 27.5 MCHC - 34.3 RDW - 15.8 * Plt Ct - 504 *
+GB US 2015-04-16
+IMPRESSION :
+1. Distended gallbladder with impacted 1.6 cm gallstone , focal wall thickening , and positive sonAllan Stephens sign - findings consistent with acute cholecystitis .
+2. Right renal cysts - lower pole cyst is unchanged from prior exam of 2010-10-25 and upper pole exophytic cyst was not previously seen sonStacy .
+ERCP report 2015-04-21
+IMPRESSION :
+1. Successful removal of CBD stone and placement of plastic biliary stent for confirmed cystic duct leak .
+Brief Hospital Course :
+Ms Malek was admitted on 2015-04-16 due to altered mental status and acute right upper quadrant abdominal pain .
+Gallbladder ultra sound revealed a distended 1.6 cm  non mobile stone in the neck .
+HD # 01-20 She was monitored closely in the CMED .
+On 2015-04-17 she was taken to the OR for lap converted to open cholecystectomy .
+She tolerated the procedure well , see op report for details .
+She was extubated and recovered well in PACU .
+She remained NPO with IV fluids , foley catheter and Dilaudid IV for pain control , Unasyn for antibiotic coverage .
+She returned to CMED for further monitoring .
+She was noted to have low urine output at times .
+She responded well to fluid bolusing .
+POD#1 she was transferred to CC6 for further recovery .
+She remained afebrile , she was given ice chips .
+Physical therapy was consulted for strength and mobility .
+POD#2 her pain was somewhat uncontrolled , she was placed on Dilaudid PCA with fair effect .
+Urine output remained adequate .
+She was monitored on telemetry for mild tachycardia and recieved IV beta blockers .
+She ambulated with assistance .
+POD#3 she was advanced to sips and clears , foley catheter was discontinued .
+POD#4 , bilious drainage was noted in her JP .
+She had worsening abdominal pain on exam .
+She was held NPO .
+She was taken to ERCP where sphincterotomy was performed and biliary stent was placed .
+She tolerated the procedure well and returned to CC6 post-procedure .
+JP remained intact with serosainguinous drainage .
+POD#5 she c/o difficulty voiding , pt was straight cathed after bladder scan was obtained and revealed > 600 ccs urine .
+POD# 05-25 she continued with intermittent complaints of urinary retention .
+However she was able to void .
+Renal function remained normal .
+She did not require further straight catheterization .
+She was advanced to clear liquids again without nausea or vomiting .
+Her pain was well controlled by Tylenol .
+Her home regimen of lantus was resumed for elevated blood glucose .
+POD#6 , her diet was advanced to regular .
+She required disimpaction and had hard stool in the rectum .
+She was initiated on a bowel regimen and had no further incidents of diarrhea or constipation .
+POD#7 she was discharged to rehab in stable condition .
+Appropriate follow up appointments are recommended as well as prescriptions .
+She should return in 6 weeks for removal of biliary stent .
+Medications on Admission :
+Tramadol 50 mg Tablet Sig : Two ( 2 ) Tablet PO TID ( 3 times a day) .
+2. Senna 8.6 mg Tablet Sig : One ( 1 ) Tablet PO BID ( 2 times a day ).
+3. Nortriptyline 25 mg Capsule Sig : One ( 1 ) Capsule PO BID ( 2 times a day ).
+4. Atenolol 25 mg Tablet Sig : One ( 1 ) Tablet PO DAILY ( Daily ).
+5. Buspirone 10 mg Tablet Sig : Two ( 2 ) Tablet PO BID ( 2 times a day ).
+6. Clonazepam 0.5 mg Tablet Sig : One ( 1 ) Tablet PO BID ( 2 times a day ).
+7. Cholecalciferol ( Vitamin D3 ) 400 unit Tablet Sig : One ( 1 ) Tablet PO DAILY ( Daily ).
+8. Pantoprazole 40 mg Tablet , Delayed Release ( E.C. ) Sig : One ( 1 ) Tablet , Delayed Release ( E.C. ) PO Q24H ( every 24 hours ).
+9. Docusate Sodium 50 mg / 5 mL Liquid Sig : Ten ( 10 ) mL PO BID ( 2 times a day ).
+10. Hexavitamin Tablet Sig : One ( 1 ) Cap PO DAILY ( Daily ).
+11. Dicyclomine 10 mg Capsule Sig : Two ( 2 ) Capsule PO BID ( 2 times a day ).
+12. Atorvastatin 10 mg Tablet Sig : One ( 1 ) Tablet PO DAILY ( Daily ).
+15. Bisacodyl 5 mg Tablet , Delayed Release ( E.C. ) Sig : Two ( 2 ) Tablet , Delayed Release ( E.C. ) PO BID ( 2 times a day ) as needed .
+16. Acetaminophen 325 mg Tablet Sig : 1-2 Tablets PO Q4-6H ( every 4 to 6 hours ) as needed for pain .
+17. Ibuprofen 600 mg Tablet Sig : One ( 1 ) Tablet PO Q8H ( every 8 hours ) as needed for pain .
+18. Insulin sliding scale Insulin SC Sliding Scale Q6H Regular Glucose Insulin Dose 0-60 mg / dL 01-20 amp D50 61-120 mg / dL 0 Units 121-140 mg / dL 3 Units 141-160 mg/dL 5 Units 161-180 mg/dL 7 
+Units 181-200 mg / dL 9 Units 201-220 mg / dL 11 Units 221-240 mg / dL 13 Units 241-260 mg / dL 15 Units 261-280 mg / dL 17 Units 281-300 mg / dL 19 Units 301-320 mg / dL 21 Units > 320 mg / dL Notify M.D.
+19. Lantus 30 units Lantus insulin with breakfast
+Discharge Medications :
+1. Tramadol 50 mg Tablet Sig : Two ( 2 ) Tablet PO TID ( 3 times a day ).
+2. Senna 8.6 mg Tablet Sig : One ( 1 ) Tablet PO BID ( 2 times a day ).
+3. Nortriptyline 25 mg Capsule Sig : One ( 1 ) Capsule PO BID ( 2 times a day ).
+4. Atenolol 25 mg Tablet Sig : One ( 1 ) Tablet PO DAILY ( Daily ).
+5. Buspirone 10 mg Tablet Sig : Two ( 2 ) Tablet PO BID ( 2 times a day ).
+6. Clonazepam 0.5 mg Tablet Sig : One ( 1 ) Tablet PO BID ( 2 times a day ).
+7. Cholecalciferol ( Vitamin D3 ) 400 unit Tablet Sig : One ( 1 ) Tablet PO DAILY ( Daily ).
+8. Pantoprazole 40 mg Tablet , Delayed Release ( E.C. ) Sig : One ( 1 ) Tablet , Delayed Release ( E.C. ) PO Q24H ( every 24 hours ).
+9. Docusate Sodium 50 mg / 5 mL Liquid Sig : Ten ( 10 ) mL PO BID ( 2 times a day ).
+10. Hexavitamin Tablet Sig : One ( 1 ) Cap PO DAILY ( Daily ).
+11. Dicyclomine 10 mg Capsule Sig : Two ( 2 ) Capsule PO BID ( 2 times a day ).
+12. Atorvastatin 10 mg Tablet Sig : One ( 1 ) Tablet PO DAILY ( Daily ).
+13. Amoxicillin-Pot Clavulanate 875-125 mg Tablet Sig : One ( 1 ) Tablet PO BID ( 2 times a day ) for 4 days .
+14. Heparin ( Porcine ) 5,000 unit / mL Solution Sig : One ( 1 ) injection Injection BID ( 2 times a day ).
+15. Bisacodyl 5 mg Tablet , Delayed Release ( E.C. ) Sig : Two ( 2 ) Tablet , Delayed Release ( E.C. ) PO BID ( 2 times a day ) as needed .
+16. Acetaminophen 325 mg Tablet Sig : 1-2 Tablets PO Q4-6H ( every 4 to 6 hours ) as needed for pain .
+17. Ibuprofen 600 mg Tablet Sig : One ( 1 ) Tablet PO Q8H ( every 8 hours ) as needed for pain .
+18. Insulin sliding scale
+Insulin SC Sliding Scale
+Q6H
+Regular
+Glucose Insulin Dose
+0-60 mg / dL 01-20 amp D50
+61-120 mg / dL 0 Units
+121-140 mg / dL 3 Units
+141-160 mg / dL 5 Units
+161-180 mg / dL 7 Units
+181-200 mg / dL 9 Units
+201-220 mg / dL 11 Units
+221-240 mg / dL 13 Units
+241-260 mg / dL 15 Units
+261-280 mg / dL 17 Units
+281-300 mg / dL 19 Units
+301-320 mg / dL 21 Units
+> 320 mg / dL Notify M.D.
+30 units Lantus insulin with breakfast
+Discharge Disposition :
+Extended Care
+Facility :
+New England Sinai Hospital & Rehab Center - Everett
+Discharge Diagnosis :
+Acute Cholecystitis
+Gangrenous cholecystitis with perforation
+Discharge Condition :
+good
+Discharge Instructions :
+Please call your surgeon if you develop chest pain , shortness of breath , fever greater than 101.5 , foul smelling or colorful drainage from your incisions , redness or swelling , severe abdominal pain or distention , persistent nausea or vomiting , inability to eat or drink , or any other symptoms which are concerning to you .
+No tub baths or swimming .
+You may shower .
+If there is clear drainage from your incisions , cover with a dry dressing .
+Leave white strips above your incisions in place , allow them to fall off on their own .
+Activity : No heavy lifting of items 11-02 pounds until the follow up appointment with your doctor .
+Medications : Resume your home medications .
+You should take a stool softener , Colace 100 mg twice daily as needed for constipation .
+You will be given pain medication which may make you drowsy .
+No driving while taking pain medicine .
+Followup Instructions :
+Provider : Gregory X Wingard , M.D. Phone :( 855 ) 651-4418
+Date / Time : 2015-06-03 9:30
+Please call ( 808 ) 246-1373 and schedule an appointment to see Dr. Lewis in 2 weeks .
+You will be contacted by the gastrointestinal doctors Pat Barrow the removal of your biliary stent in 6 weeks .
+Joe Kari MD 09-697
+Completed by : Carol Robert NP 80-CIY 2015-04-24 @ 1506
+Signed electronically by : DR. Marion SCHNEIDER on : FRI 2015-04-24 5:11 PM
+( End of Report )

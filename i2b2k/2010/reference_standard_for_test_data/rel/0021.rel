@@ -1,0 +1,11 @@
+c="chest x-ray" 39:0 39:1||r="TeRP"||c="a large left pleural effusion" 39:3 39:7
+c="steri-strips" 70:5 70:5||r="TrAP"||c="right lower extremity incision" 70:0 70:3
+c="a chest x-ray" 15:0 15:2||r="TeRP"||c="effusion" 15:12 15:12
+c="a chest x-ray" 15:0 15:2||r="TeRP"||c="a left-sided infiltrate" 15:8 15:10
+c="steri-strips" 67:2 67:2||r="TrAP"||c="incisions" 67:0 67:0
+c="coronary artery bypass grafting" 12:16 12:19||r="TrAP"||c="coronary artery disease" 12:9 12:11
+c="mitral valve replacement" 12:21 12:23||r="TrAP"||c="endocarditis" 12:13 12:13
+c="anticoagulated" 18:3 18:3||r="TrAP"||c="atrial fibrillation" 18:10 18:11
+c="cabg/mvr" 20:8 20:8||r="TrAP"||c="coronary artery disease" 20:3 20:5
+c="steri-strips" 45:4 45:4||r="TrAP"||c="chest incision" 45:0 45:1
+c="steri-strips" 48:4 48:4||r="TrAP"||c="right leg wound" 48:0 48:2

@@ -1,0 +1,29 @@
+649953363_a
+FIH
+8723483
+595482
+394015
+06/23/2000 12:00:00 AM
+ED Discharge Summary
+Unsigned
+DIS
+Report Status :
+Unsigned
+ED DISCHARGE NOTIFICATION
+UPH , JIM
+MRN :
+8723483
+Age :
+58y
+REGISTRATION DATE :
+06/23/2000 04:02 PM
+PRELIMINARY REPORT
+This is to notify you that your patient , UPH , JIM arrived in the Emergency Department at Fairm of Ijordcompmac Hospital on 06/23/2000 04:02 PM .
+The patient presented with a chief complaint of SOB / LUNG CA .
+Following evaluation and treatment , the patient &apos;s disposition at the end of the visit was ADMITTED AS AN INPATIENT TO FAIRM OF IJORDCOMPMAC HOSPITAL .
+Your patient was admitted under the care of TLANDFLENT , MAREN S with a preliminary diagnosis of ABD PAIN .
+If you need additional information please call 834-226-3369 .
+PCP Name :
+NONE , PHYSICIAN
+Provider Number :
+29951

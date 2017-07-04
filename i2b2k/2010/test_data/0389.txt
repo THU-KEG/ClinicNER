@@ -1,0 +1,74 @@
+Admission Date :
+2014-08-07
+Discharge Date :
+2014-08-09
+Date of Birth :
+1958-03-14
+Sex :
+M
+Service :
+NEUROSURG
+HISTORY OF PRESENT ILLNESS :
+This is a 56 - year-old man without any significant past medical history who presented to the emergency room after the sudden onset of headache while he was riding a bicycle .
+He characterized this headache as the worst headache of his life and had associated nausea and vomiting times one .
+He also complained of dizziness at the time of headache onset .
+He presented to the Edith Nourse Rogers Memorial VA Hospital emergency room , where an initial head CT scan was read as negative .
+However , a lumbar puncture was done , in which tube 1 showed 4800 red blood cells and tube 4 showed 4000 red blood cells .
+The patient was sent for an MRI of the head , which raised the question of a right posterior cerebral artery aneurysm .
+The CT scan was revealed and , on second analysis , it was thought that it was suspicious for a subarachnoid hemorrhage in the suprasellar cistern .
+The patient was then admitted for further evaluation .
+PAST MEDICAL HISTORY :
+The past medical history was significant for left shoulder surgery in 2014-03-06 for repair of a " minor rotator cuff tear " and removal of osteophytes .
+Otherwise , the past medical history was insignificant .
+MEDICATIONS ON ADMISSION :
+The patient was on no medications .
+ALLERGIES :
+There were no known drug allergies .
+FAMILY HISTORY :
+The father had leukemia and the mother had gastrointestinal cancer .
+There was no family history of aneurysms .
+SOCIAL HISTORY :
+The patient was a nonsmoker and used no ethanol .
+He was married , with children , and was a church minister .
+PHYSICAL EXAMINATION :
+On physical examination , the patient was resting comfortably when seen , slightly sleepy at first but readily arousable , awake , alert , oriented and conversant .
+Of note , the patient had been given 2 mg of Ativan before the examination .
+The face was symmetric .
+The tongue was midline .
+The neck was supple with full range of motion .
+There was no rigidity , but the neck was slightly painful at extreme flexion .
+The general examination was essentially unremarkable , as per previous notes .
+On examination of the extremities , the patient moved all extremities and had strength of 5/5 in all of the muscle
+groups tested in the upper and lower extremities .
+The sensory examination was intact to light touch .
+There was a very slight inward pronator drift of the left hand .
+Finger - nose - finger testing and heel - to - shin testing were normal .
+Rapid alternating movement was normal .
+The toes were downgoing bilaterally .
+Gait was reported to be normal , as per the emergency room staff .
+There was no ataxia noted .
+LABORATORY :
+Laboratory values were as per the History of Present Illness .
+RADIOLOGY :
+Neurological imaging data was as per the History of Present Illness .
+HOSPITAL COURSE :
+The patient was admitted to the surgical intensive care unit , where a continued cerebral angiogram was done that was essentially normal , without evidence of any obvious aneurysm .
+The patient was observed for two days with a repeat CT scan showing no changes from the previous examination .
+The headache stabilized after the patient was transferred to the floor .
+The patient continued to do well and the decision was made to discharge him .
+DISCHARGE INSTRUCTIONS :
+The patient was discharged with strict instructions to return to the emergency room , should there be an exacerbation of symptoms .
+CONDITION ON DISCHARGE :
+Stable .
+DISCHARGE DIAGNOSES :
+Ruled out subarachnoid hemorrhage .
+Michael Lawrence , M.D.
+41-707
+Dictated By : Lena D. Mannie , M.D.
+MEDQUIST36
+D : 2014-08-09 14:04
+T : 2014-08-09 15:27
+JOB #:
+45402
+Signed electronically by : DR. Michael Jackson on : FRI 2014-09-05 11:39 AM
+( End of Report )

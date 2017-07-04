@@ -1,0 +1,88 @@
+506243692_d
+FIH
+6305145
+159798
+9093157
+2/2/2002 12:00:00 AM
+Discharge Summary
+Signed
+DIS
+Report Status :
+Signed
+DISCHARGE SUMMARY NAME :
+NERTLAND , ELRO
+UNIT NUMBER :
+413-18-46
+ADMISSION DATE :
+02/02/2002
+DISCHARGE DATE :
+02/14/2002
+PRINCIPAL DIAGNOSIS :
+Dilated cardiomyopathy .
+ASSOCIATED DIAGNOSIS :
+Interstitial lung disease , mitral regurgitation , systolic hypertension , status post myocardial infarction , transurethral resection of prostate , inguinal hernia repair , shingles , cataracts , ulcer disease , gout , mediastinal mass , thymoma .
+PRINCIPAL PROCEDURE :
+Right heart catheterization .
+ADVERSE DRUG REACTIONS :
+None .
+CLINICAL INFECTIONS :
+None .
+HISTORY OF PRESENT ILLNESS :
+Mr. Nertland is an 84-year-old man who was admitted with decompensated heart failure .
+The patient has a long standing history of significant left ventricular systolic dysfunction with severe mitral regurgitation and moderate aortic stenosis .
+He was recently hospitalized at the Fairm of Ijordcompmac Hospital for repeat cardiac catheterization .
+After a comprehensive assessment , Drs. Sieh and Shufffyfe did not recommend operative repair of severe mitral regurgitation or aortic stenosis .
+He was thus discharged with plans for continued medical therapy of his coronary artery disease .
+Unfortunately , the patient continued to deteriorate and was readmitted for an attempt at hemodynamic tailoring and possible inotropic support .
+PAST MEDICAL HISTORY :
+Is notable for above .
+For long standing dilated cardiomyopathy , severe mitral regurgitation and moderate aortic stenosis with a calculated aortic valve area of 1.1 by previous catheterization .
+The patient had limited coronary artery disease with an occluded right coronary artery collateralized from the left system .
+PHYSICAL EXAMINATION :
+The patient was a well appearing pleasant man who was dyspneic on the examining table .
+Initial blood pressure was 95/65 , heart rate 80 and regular .
+Respiratory rate was 14 .
+Jugular venous pressure was 7 with modest hepatojugular reflex .
+The carotids were 2+ and the lungs were notable for diminished breath sounds with inspiratory rhonchi .
+The point of maximum impulse was displaced and the first and second heart sounds were unremarkable with a 2/6 murmur of mitral regurgitation .
+There was no S3 gallop .
+Abdomen was soft and non-tender and the rest of the examination was notable only for a slightly diminished pulses and poor perfusion .
+LABORATORY DATA :
+Notable for a sodium of 144 , potassium 3.7 , BUN 43 , creatinine 1.8 , albumin 3.0 , hematocrit 36 , white count 9.5 , platelet count 254 and a negative urinalysis .
+A chest x-ray revealed moderate cardiomegaly with modest edema and the electrocardiogram revealed a normal sinus rhythm with left axis deviation , previous inferior apical infarct and right bundle branch block .
+HOSPITAL COURSE AND TREATMENT :
+The patient was admitted to the hospital and underwent right heart catheterization which revealed a right atrial pressure of 11 , pulmonary artery pressure of 55/25 , pulmonary capillary wedge pressure of 26 and a cardiac output of 2.7 liters per minute .
+The PA line was kept in place while the patient was admitted to the Coronary Care Unit where he underwent an attempt at hemodynamic tailoring .
+Initially Nipride was begun with some augmentation of the cardiac index but eventually a fall of the cardiac index to 1.8 .
+The patient was then begun on Milrinone to a dose of .4 mcg. per kg. per minute with improvement in his cardiac index to approximately 2.0 and a corresponding fall in his filling pressures .
+Because of the increased ectopy that appeared to be temporally associated with this infusion , the patient was switched to Dobutamine and titrated to a dose of 250 mcg. per minute .
+On Dobutamine the cardiac index was 2.4-2.7 and at the end of his hemodynamic tailoring which included vigorous diuresis and the addition of Isordil and Captopril back to his chronic medical program , the patient &apos;s right atrial pressure was 6 , pulmonary capillary wedge pressure was 9 and the cardiac index was 2.7 .
+Systemic vascular resistance was 900 .
+The patient was then decannulated and sent to the floor with improvement in his central hemodynamics .
+Over the subsequent days of his hospitalization , the patient had adjustment of his diuretic program .
+At discharge his goal weight will be 120 pounds and he will be maintained on a chronic Dobutamine infusion at 250 mcg. per minute .
+Should he tachy phylax to this which is inevitable , he will be begun on a home Milrinone infusion per previous protocol .
+The patient on the dose of Dobutamine noted , had little in the way of resting symptoms and was without paroxysmal nocturnal dyspnea , and orthopnea and able to ambulate approximately 100-150 feet without dyspnea .
+MEDICATIONS ON DISCHARGE :
+Lasix 20 mg. q.day .
+Isordil 10 mg. t.i.d. Aldactone 25 mg. q.d. Digoxin .125 mg. q.d. Plavix 75 mg. q.d. Allopurinol 100 mg. q.d.
+Serevent and Flovent inhalers the patient b.i.d. Zoloft 25 mg. q.d. Nexium 40 mg. b.i.d. Captopril 25 mg. t.i.d. Zocor 20 mg. q.d. Seroquel 25 mg. q.d.
+The patient will be maintained with a goal weight of 120 pounds .
+Should his weight fall below 118 pounds , then he has been instructed to hold his Lasix .
+Should his weight increase above 122 pounds , then the patient will take 40 mg. of Lasix a day .
+FOLLOW UP :
+He will be followed closely by Dr. Sieh and Mizy Flomhemp of the Fairm of Ijordcompmac Hospital Heart Failure Program .
+In addition he will seen as necessary by Dr. Ri Tlandmaul of the Fairm of Ijordcompmac Hospital Psychiatry Service .
+CC :
+MIZY FLOMHEMP , M.D. , FAIRM OF IJORDCOMPMAC HOSPITAL PONTSONBARRESON HOSPITAL , STEMSTRICTALLE MEDICAL CENTER .
+FA KNOTTIPPSFYFE , M.D. , FAIRM OF IJORDCOMPMAC HOSPITAL PULMONARY ASSOCIATES AKA G SIEH , M.D.
+DICTATING FOR :
+Electronically Signed AKA G SIEH , M.D. 03/09/2002 07:51 _____________________________ AKA G SIEH , M.D.
+TR :
+erp
+DD :
+02/13/2002
+TD :
+02/13/2002 12:39 P 159798
+cc :
+AKA G SIEH , M.D. TOMEDANKELL DIEDREWAND FLOWAYLES , M.D. AMAN SCKOLLMINEVUILLE , M.D. WIN E SHUFFFYFE , M.D.

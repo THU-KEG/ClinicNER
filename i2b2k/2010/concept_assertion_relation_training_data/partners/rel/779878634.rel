@@ -1,0 +1,9 @@
+c="octreotide" 46:4 46:4||r="TrAP"||c="the bleeding" 46:10 46:11
+c="his blood pressure" 27:3 27:5||r="TeRP"||c="slightly decreased" 27:8 27:9
+c="endoscopy" 42:0 42:0||r="TeRP"||c="multiple angio ectasias throughout the stomach" 42:2 42:7
+c="a change in mental status" 50:5 50:9||r="PIP"||c="no longer responsive" 50:12 50:14
+c="his known metastatic pancreatic cancer" 53:16 53:20||r="PIP"||c="gi bleeding" 53:8 53:9
+c="his known metastatic pancreatic cancer" 53:16 53:20||r="PIP"||c="death" 53:3 53:3
+c="the assessment" 40:0 40:1||r="TeRP"||c="a gi bleed" 40:6 40:8
+c="an angiogram with gel foam" 48:3 48:7||r="TrAP"||c="his gi bleed" 48:12 48:14
+c="being pale" 29:4 29:5||r="PIP"||c="evidence of anemia" 29:0 29:2

@@ -1,0 +1,7 @@
+c="examination" 18:1 18:1||r="TeRP"||c="apparent distress" 18:7 18:8
+c="her kidney transplantation" 21:15 21:17||r="TrCP"||c="a well healed left lower quadrant incision" 21:7 21:13
+c="cadaveric pancreas transplantation" 24:2 24:4||r="TrCP"||c="complication" 24:6 24:6
+c="kidney transplantation" 42:8 42:9||r="TrAP"||c="end stage renal disease" 42:1 42:4
+c="her diabetes mellitus" 15:0 15:2||r="PIP"||c="retinopathy" 15:7 15:7
+c="her diabetes mellitus" 15:0 15:2||r="PIP"||c="nephropathy" 15:9 15:9
+c="her diabetes mellitus" 15:0 15:2||r="PIP"||c="peripheral neuropathy" 15:13 15:14

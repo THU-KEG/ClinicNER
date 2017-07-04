@@ -1,0 +1,7 @@
+c="scars" 34:4 34:4||t="problem"||a="absent"
+c="superficial invasion" 41:11 41:12||t="problem"||a="present"
+c="endometrial cancer" 16:0 16:1||t="problem"||a="present"
+c="grade i adenocarcinoma" 20:24 20:26||t="problem"||a="present"
+c="edema" 36:3 36:3||t="problem"||a="absent"
+c="abdomen obese" 34:0 34:1||t="problem"||a="present"
+c="postmenopausal spotting" 20:7 20:8||t="problem"||a="present"

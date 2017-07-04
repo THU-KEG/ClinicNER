@@ -1,0 +1,131 @@
+948986258 YC
+28079279
+1027681
+04/06/2005 12:00:00 AM
+abdominal fluid collection
+DIS
+Admission Date :
+04/06/2005
+Report Status :
+Discharge Date :
+04/12/2005
+****** FINAL DISCHARGE ORDERS ******
+LILEY , PEANTSALL 885-17-29-8 M12
+Room :
+5Y-704
+Service :
+GGI
+DISCHARGE PATIENT ON :
+04/12/05 AT 01:00 PM
+CONTINGENT UPON
+HO evaluation
+WILL D / C ORDER BE USED AS THE D / C SUMMARY :
+YES
+Attending :
+LILEY , BER , M.D.
+DISPOSITION :
+Home w/ services
+DISCHARGE MEDICATIONS :
+MOTRIN ( IBUPROFEN ) 600 MG PO Q6H PRN Pain , Headache , Temperature greater than :
+100
+Food / Drug Interaction Instruction
+Take with food FLAGYL ( METRONIDAZOLE ) 500 MG PO Q8H X 10 Days Starting Today ( 04/12 )
+Instructions :
+Take for 10 days or until drains come out ; whichever is of longer duration .
+Food / Drug Interaction Instruction
+Take with food OXYCODONE 10 MG PO Q4H PRN Pain LEVOFLOXACIN 500 MG PO QD X 10 Days Starting Today ( 04/12 )
+Instructions :
+Take for 10 days or until drains come out ; whichever is of longer duration .
+Food / Drug Interaction Instruction
+Administer iron products a minimum of 2 hours before or after a levofloxacin or ciprofloxacin dose dose If on tube feeds , please cycle ( hold 1 hr before to 2 hr after )
+Take 2 hours before or 2 hours after dairy products .
+MAALOX-TABLETS QUICK DISSOLVE / CHEWABLE 2 TAB PO Q6H PROTONIX ( PANTOPRAZOLE ) 40 MG PO QD
+DIET :
+House / Low Residue &lt; FDI &gt;
+ACTIVITY :
+Walking as tolerated
+FOLLOW UP APPOINTMENT ( S ) :
+Dr. Liley , call ASAP to schedule 1-2 weeks , Your primary care physician 1-2 weeks , Interventional Radiology , call 329-125-0028 to schedule an appointment when drain outputs are less than 10cc / day . ,
+ALLERGY :
+NKA
+ADMIT DIAGNOSIS :
+abdominal fluid collection
+PRINCIPAL DISCHARGE DIAGNOSIS ;
+Responsible After Study for Causing Admission ) abdominal fluid collection
+OTHER DIAGNOSIS ;
+Conditions , Infections , Complications , affecting Treatment / Stay liver hemangioma , bph , gout , meningioma , gerd , episodic vertigo , s / p r colectomy , subtotal colectomy
+OPERATIONS AND PROCEDURES :
+NONE
+OTHER TREATMENTS / PROCEDURES ( NOT IN O.R. )
+IR drainage X2
+BRIEF RESUME OF HOSPITAL COURSE :
+HPI This is a 60 yo gentleman who previously had an ileocolic resection for a right colon cancer , and was found to have recurrent disease on colonoscopy .
+He was also found to have a malignant lesion in his descending colon .
+He had a subtotal colectomy on 03/22/05 which was uncomplicated .
+Postop he has had numerous visits to the ED for co fevers , sweats , and SOB .
+CTS chest was negative for PE , however it did reveal pulmonary nodules in his RML which need fu imaging in 3 months .
+He also had bl atelectasis on cxr .
+CT of the abdomen showed a collection in the RLQ which appears to be amenable to IR drainage .
+He also has had urine and blood cultures sent from the ED on 04/05 and was empirically started on avalox last pm .
+PMH GERD , HTN , Gout , Meningioma , liver hemangioma , episodic vertigo , colon cancer .
+MEDS
+Protonix 40 qd , Colchicine 6 mg bid , Meclizine 25 mg qid prn , glucosamine and oxycodone prn , tessalon prn .
+ALL NKDA SH No smoking PE
+GEN - NAD
+HEENT -- perrla , eomi , mmm , tongue midline , op clear , no masses
+NECK -- no jvd / lad/ ; trachea midline CARD - RRR , S1/S2 , no m / r/g
+PULM - CTAB no w / r / r ABD -nt / nd ; incision c / d / I ; discrete 3x3 cm slightly firm protuberant mass to the R of umbilicus ; no rebound , no guarding .
+BACK - no flank tenderness
+RECTAL -- deferred
+EXT - WWP ; no edema
+On 04/06/05 Mr. Liley was admitted to Dr. Liley &apos;s service .
+At that time he was made NPO with IVF , placed on Ampicillin / Levofloxacin / Flagyl and underwent IR placement of a drainage catheter for his abdominopelvic fluid collection .
+Overnight he spiked a fever to 103 and his WBC climbed from 11 to 13 .
+As a result , IR reviewed the patient &apos;s post-procedure imaging and felt that the catheter was not adequately draining the patient &apos;s fluid collection .
+On 04/07 they took the patient back to the IR suite and placed a second catheter .
+The location of the second catheter was confirmed that evening by a follow-up scan which revealed good placement .
+The following day the patient defervesced .
+Neurologic :
+The patient &apos;s pain from his catheters was controlled with Oxycodone and Motrin .
+CV :
+No active issues .
+R :
+The patient received chest PT and was encouraged to ambulate frequently .
+GI :
+After catheter placement , the patient was started on sips .
+He tolerated this well .
+He was advanced to clears which he tolerated and was restarted on a low residue diet .
+His bowel function resumed and in fact he had loose stool .
+He had 3 specimens sent for C. difficile which were negative .
+GU :
+The patient &apos;s electrolytes and fluids were monitored closely during his admission .
+Heme :
+The patient &apos;s WBC trended down to 10.7 at discharge from a peak of 13 on 04/07 .
+His hematocrit remained stable .
+He received DVT prophylaxis with SC Heparin .
+ID :
+Blood cultures 04/05 revealed Bacteroides fragilis ; 04/06 Fluid collection drainage from IR revealed
+1) 4+ alpha hemolytic Strep ,
+2) 2+ E. coli sensitive to Ampicillin and Levofloxacin ,
+3) 3+ Enterococci sensitive to Ampicillin and Levofloxacin ,
+4) Bacteroides fragilis and Clostridium perfringens .
+Blood cultures from 04/07 showed NGTD .
+Cdiff from 04/08 , 04/09 , 04/10 were negative .
+Mr. Liley was discharged in stable condition , ambulating and voiding independently , and with adequate pain control .
+LDAMC services were set-up for care of his IR drains .
+He was given explicit instructions to follow-up in clinic with Dr. Liley in 1-2 weeks .
+ADDENDUM :
+An abscessogram was performed on 04/12/05 and revealed no fistula .
+ADDITIONAL COMMENTS :
+- Seek medical attention for fevers ( temp &gt; 101.5 ) , worsening pain , drainage or excessive bleeding from incision , chest pain , shortness of breath , or any other symptoms of concern .
+- Follow up with your surgeon in 1-2 weeks for wound check .
+- Please do not drive or consume alcohol while taking pain medications .
+- Resume home medications .
+DISCHARGE CONDITION :
+Stable
+TO DO / PLAN :
+No dictated summary
+ENTERED BY :
+ALIKES , NATO T. , M.D. ( FG980 )
+04/12/05 11:30 AM
+****** END OF DISCHARGE ORDERS ******

@@ -1,0 +1,24 @@
+c="papanicolaou smear" 19:0 19:1||r="TeRP"||c="somomabodies" 19:4 19:4
+c="a papanicolaou smear" 25:9 25:11||r="TeRP"||c="somomabodies" 25:14 25:14
+c="radiation therapy" 33:14 33:15||r="TrAP"||c="a left axillary recurrence" 33:6 33:9
+c="radiation therapy" 26:10 26:11||r="TrCP"||c="vaginal bleeding" 26:4 26:5
+c="adhesions" 77:13 77:13||r="PIP"||c="benign paratubal cysts" 77:9 77:11
+c="radioactive iodine ablation" 40:9 40:11||r="TrAP"||c="papillary thyroid cancer" 40:2 40:4
+c="final pathology" 77:0 77:1||r="TeRP"||c="benign paratubal cysts" 77:9 77:11
+c="final pathology" 77:0 77:1||r="TeRP"||c="adhesions" 77:13 77:13
+c="the removal" 39:9 39:10||r="TrAP"||c="a thyroid nodule" 39:12 39:14
+c="the chest x-ray" 75:16 75:18||r="TeRP"||c="atelectasis" 75:27 75:27
+c="the chest x-ray" 75:16 75:18||r="TeRP"||c="the patient &apos;s coarse breath sounds" 75:7 75:12
+c="an exploratory laparotomy" 41:21 41:23||r="TeCP"||c="pain" 41:25 41:25
+c="an exploratory laparotomy" 41:21 41:23||r="TeCP"||c="chronic pancreatitis" 41:27 41:28
+c="papillary thyroid cancer" 34:10 34:12||r="PIP"||c="hyperparathyroidism" 34:7 34:7
+c="a parathyroidectomy" 27:8 27:9||r="TrAP"||c="hypercalcemia" 27:5 27:5
+c="a chest x-ray" 75:0 75:2||r="TeCP"||c="the patient &apos;s coarse breath sounds" 75:7 75:12
+c="a chest x-ray" 75:0 75:2||r="TeCP"||c="atelectasis" 75:27 75:27
+c="the procedure" 61:5 61:6||r="TrCP"||c="complications" 61:3 61:3
+c="the pelvic examination" 53:0 53:2||r="TeRP"||c="a full right ovary" 53:10 53:13
+c="septra" 46:5 46:5||r="TrCP"||c="the patient &apos;s allergies" 46:0 46:3
+c="ultrasound" 23:24 23:24||r="TeRP"||c="enlarged ovary" 23:21 23:22
+c="enlarged ovary" 23:21 23:22||r="PIP"||c="abdominal pain" 23:18 23:19
+c="lysis" 21:7 21:7||r="TrAP"||c="adhesions" 21:9 21:9
+c="lysis" 59:13 59:13||r="TrAP"||c="adhesions" 59:15 59:15

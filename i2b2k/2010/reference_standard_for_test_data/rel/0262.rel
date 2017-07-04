@@ -1,0 +1,27 @@
+c="cancer" 19:11 19:11||r="PIP"||c="stage d prostate" 19:7 19:9
+c="fluid rehydration" 24:19 24:20||r="TrAP"||c="urinary retention" 24:9 24:10
+c="fluid rehydration" 24:19 24:20||r="TrAP"||c="acute renal failure" 24:12 24:14
+c="acute renal failure" 24:12 24:14||r="PIP"||c="urinary retention" 24:9 24:10
+c="foley catheter placement" 24:22 24:24||r="TrAP"||c="urinary retention" 24:9 24:10
+c="foley catheter placement" 24:22 24:24||r="TrAP"||c="acute renal failure" 24:12 24:14
+c="tumor invasion into the bladder" 22:21 22:25||r="PIP"||c="an irregular large prostate" 22:16 22:19
+c="bed ridden" 26:6 26:7||r="PIP"||c="lethargic" 26:4 26:4
+c="subsequent prostatic biopsy" 22:0 22:2||r="TeRP"||c="a gleason 's iv , plus v tumor" 22:4 22:11
+c="the ct" 22:13 22:14||r="TeRP"||c="bilateral retroperitoneal lymph node spread" 22:29 22:33
+c="the ct" 22:13 22:14||r="TeRP"||c="an irregular large prostate" 22:16 22:19
+c="the ct" 22:13 22:14||r="TeRP"||c="tumor invasion into the bladder" 22:21 22:25
+c="fluid rehydration" 52:12 52:13||r="TrAP"||c="prostate ca" 52:8 52:9
+c="2+ bacteria" 50:15 50:16||r="PIP"||c="30-50 white blood cells" 50:2 50:5
+c="urinalysis" 50:0 50:0||r="TeRP"||c="2+ bacteria" 50:15 50:16
+c="urinalysis" 50:0 50:0||r="TeRP"||c="30-50 white blood cells" 50:2 50:5
+c="urinalysis" 50:0 50:0||r="TeRP"||c="red blood cells" 50:7 50:9
+c="1+ bacteria" 55:23 55:24||r="PIP"||c="20-30 white blood cells" 55:18 55:21
+c="repeat urinalysis" 55:15 55:16||r="TeRP"||c="1+ bacteria" 55:23 55:24
+c="repeat urinalysis" 55:15 55:16||r="TeRP"||c="20-30 white blood cells" 55:18 55:21
+c="bactrim" 53:7 53:7||r="TrAP"||c="urinary tract infection" 53:10 53:12
+c="periodic urinalysis" 71:0 71:1||r="TeCP"||c="urinary tract infection" 71:11 71:13
+c="an abdominal ultrasound" 72:13 72:15||r="TeRP"||c="a grossly enlarged liver" 72:20 72:23
+c="an abdominal ultrasound" 72:13 72:15||r="TeRP"||c="multiple foci of cancer" 72:25 72:28
+c="multiple foci of cancer" 72:25 72:28||r="PIP"||c="a grossly enlarged liver" 72:20 72:23
+c="respirations" 38:0 38:0||r="TeRP"||c="unlabored" 38:2 38:2
+c="a weight loss" 25:24 25:26||r="PIP"||c="a marked decrease in p.o. intake" 25:15 25:20

@@ -1,0 +1,21 @@
+c="regional ankle block" 53:12 53:14||r="TrAP"||c="chronic ulcer" 53:16 53:17
+c="regional ankle block" 53:12 53:14||r="TrAP"||c="osteomyelitis of the left great toe" 53:19 53:24
+c="osteomyelitis of the left great toe" 53:19 53:24||r="PIP"||c="chronic ulcer" 53:16 53:17
+c="an electrocardiogram" 43:3 43:4||r="TeRP"||c="acute ischemic change" 43:8 43:10
+c="the physical examination" 32:0 32:2||r="TeRP"||c="acute distress" 32:18 32:19
+c="buttontoe amputation of the left foot" 59:3 59:8||r="TrCP"||c="further complications" 59:14 59:15
+c="buttontoe amputation of the left foot" 59:3 59:8||r="TrCP"||c="the incision" 59:0 59:1
+c="left foot film" 49:2 49:4||r="TeRP"||c="osteomyelitis involving the first digit" 49:11 49:15
+c="the chest x-ray" 50:0 50:2||r="TeRP"||c="acute disease" 50:7 50:8
+c="his chest x-ray" 44:0 44:2||r="TeRP"||c="acute cardiopulmonary process" 44:5 44:7
+c="the procedure" 55:5 55:6||r="TrCP"||c="complications" 55:3 55:3
+c="lower extremity arterial non-invasive study" 51:3 51:7||r="TeRP"||c="diabetic small vessel disease" 51:30 51:33
+c="lower extremity arterial non-invasive study" 51:3 51:7||r="TeRP"||c="spasm of his digits" 51:35 51:38
+c="spasm of his digits" 51:35 51:38||r="PIP"||c="diabetic small vessel disease" 51:30 51:33
+c="left foot changes" 45:0 45:2||r="PIP"||c="osteomyelitis of the left great toe" 45:5 45:10
+c="review of systems" 30:1 30:3||r="TeRP"||c="fevers" 30:6 30:6
+c="review of systems" 30:1 30:3||r="TeRP"||c="pain in the left foot" 30:9 30:13
+c="review of systems" 30:1 30:3||r="TeRP"||c="shortness of breath" 30:16 30:18
+c="review of systems" 30:1 30:3||r="TeRP"||c="chest pain" 30:20 30:21
+c="a left great toe buttontoe amputation" 53:5 53:10||r="TrAP"||c="chronic ulcer" 53:16 53:17
+c="a left great toe buttontoe amputation" 53:5 53:10||r="TrAP"||c="osteomyelitis of the left great toe" 53:19 53:24

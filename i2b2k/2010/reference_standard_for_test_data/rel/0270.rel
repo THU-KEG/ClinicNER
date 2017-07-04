@@ -1,0 +1,130 @@
+c="sarna cream" 42:190 42:191||r="TrAP"||c="pruritus" 42:194 42:194
+c="prednisone" 39:11 39:11||r="TrAP"||c="graft versus host disease" 39:0 39:3
+c="benadryl" 42:181 42:181||r="TrAP"||c="pruritus" 42:188 42:188
+c="a new right-sided ptosis" 82:19 82:22||r="PIP"||c="a left homonymous hemianopsia" 82:26 82:29
+c="maximal antimicrobial therapy" 88:56 88:58||r="TrWP"||c="skin , sinus and neurological acanthamoeba infection" 88:48 88:54
+c="a chest x-ray" 86:24 86:26||r="TeRP"||c="developing pneumonia" 86:32 86:33
+c="bone marrow biopsy" 21:3 21:5||r="TeCP"||c="persistent pancytopenia" 21:12 21:13
+c="bone marrow biopsy" 21:3 21:5||r="TeCP"||c="mild hypercelluarity" 21:16 21:17
+c="bone marrow biopsy" 21:3 21:5||r="TeCP"||c="80% leukemic cells" 21:19 21:21
+c="mild hypercelluarity" 21:16 21:17||r="PIP"||c="80% leukemic cells" 21:19 21:21
+c="head ct" 23:36 23:37||r="TeRP"||c="neurologic infection" 23:30 23:31
+c="acute renal failure" 29:2 29:4||r="PIP"||c="medication toxicity" 29:21 29:22
+c="acute renal failure" 29:2 29:4||r="PIP"||c="chronic renal insufficiency" 29:6 29:8
+c="cyclosporine" 83:3 83:3||r="TrCP"||c="cerebritis" 83:9 83:9
+c="cyclosporine" 83:3 83:3||r="TrCP"||c="idiosyncratic reaction" 83:0 83:1
+c="idiosyncratic reaction" 83:0 83:1||r="PIP"||c="cerebritis" 83:9 83:9
+c="re-ct of sinuses" 26:16 26:18||r="TeRP"||c="disease burden" 26:27 26:28
+c="voriconazole" 80:11 80:11||r="TrAP"||c="acanthamoeba infection" 80:25 80:26
+c="hemodialysis" 29:37 29:37||r="TrAP"||c="acute renal failure" 29:2 29:4
+c="hemodialysis" 29:37 29:37||r="TrAP"||c="chronic renal insufficiency" 29:6 29:8
+c="fludarabine" 18:28 18:28||r="TrAP"||c="progressive disease" 18:30 18:31
+c="treatment" 80:23 80:23||r="TrAP"||c="acanthamoeba infection" 80:25 80:26
+c="skin biopsy" 23:13 23:14||r="TeRP"||c="acanthamoeba infection of skin" 23:19 23:22
+c="acanthamoeba infection of skin" 23:19 23:22||r="PIP"||c="neurologic infection" 23:30 23:31
+c="head mri" 82:38 82:39||r="TeCP"||c="fleeting confusion" 82:32 82:33
+c="head mri" 82:38 82:39||r="TeCP"||c="hemorrhage" 82:57 82:57
+c="head mri" 82:38 82:39||r="TeCP"||c="edema" 82:59 82:59
+c="head mri" 82:38 82:39||r="TeCP"||c="dural and , likely , leptomeningeal enhancement" 82:62 82:68
+c="head mri" 82:38 82:39||r="TeCP"||c="small foci in the right cerebellum" 82:72 82:77
+c="fleeting confusion" 82:32 82:33||r="PIP"||c="febrile" 82:35 82:35
+c="edema" 82:59 82:59||r="PIP"||c="hemorrhage" 82:57 82:57
+c="a repeat cmv hypercapture" 77:0 77:3||r="TeRP"||c="cmv" 77:9 77:9
+c="campath therapy" 27:10 27:11||r="TrCP"||c="recurrent cmb infection" 27:3 27:5
+c="examination" 32:25 32:25||r="TeRP"||c="increasing hepatomegaly" 32:20 32:21
+c="iv pentamidine" 37:30 37:31||r="TrAP"||c="acanthamoeba infection of skin and sinuses" 37:20 37:25
+c="creatinine" 37:53 37:53||r="TeRP"||c="recent ars" 37:42 37:43
+c="recent ars" 37:42 37:43||r="PIP"||c="cri" 37:45 37:45
+c="progressive skin involvement" 79:28 79:30||r="PIP"||c="acanthamoeba" 79:32 79:32
+c="p.o. voriconazole" 37:33 37:34||r="TrAP"||c="acanthamoeba infection of skin and sinuses" 37:20 37:25
+c="erythematous nodules over both arms" 79:13 79:17||r="PIP"||c="acanthamoeba infection" 79:24 79:25
+c="erythematous nodules over both arms" 79:13 79:17||r="PIP"||c="progressive skin involvement" 79:28 79:30
+c="erythematous nodules over both arms" 79:13 79:17||r="PIP"||c="acanthamoeba" 79:32 79:32
+c="bone marrow involvement" 37:3 37:5||r="PIP"||c="refractory cll" 37:0 37:1
+c="medication toxicity" 37:50 37:51||r="PIP"||c="recent ars" 37:42 37:43
+c="all above measures" 87:9 87:11||r="TrWP"||c="persistent fevers" 87:6 87:7
+c="cellcept" 31:0 31:0||r="TrNAP"||c="infection" 31:7 31:7
+c="cyclosporine" 39:7 39:7||r="TrAP"||c="graft versus host disease" 39:0 39:3
+c="ganciclovir" 45:6 45:6||r="TrCP"||c="rash" 45:8 45:8
+c="a repeat cat scan of the sinuses" 78:0 78:6||r="TeRP"||c="progressive thickening of the left maxillary sinus" 78:10 78:16
+c="progressive thickening of the left maxillary sinus" 78:10 78:16||r="PIP"||c="progressive infection of acanthamoeba" 78:32 78:35
+c="progressive thickening of the left maxillary sinus" 78:10 78:16||r="PIP"||c="superinfection" 78:39 78:39
+c="progressive thickening of the left maxillary sinus" 78:10 78:16||r="PIP"||c="bacterial sinusitis" 78:41 78:42
+c="progressive infection of acanthamoeba" 78:32 78:35||r="PIP"||c="bacterial sinusitis" 78:41 78:42
+c="superinfection" 78:39 78:39||r="PIP"||c="bacterial sinusitis" 78:41 78:42
+c="haldol" 43:16 43:16||r="TrAP"||c="agitation" 43:23 43:23
+c="new neurologic involvement" 84:12 84:14||r="PIP"||c="progressive infection" 84:7 84:8
+c="new neurologic involvement" 84:12 84:14||r="PIP"||c="acanthamoeba" 84:10 84:10
+c="acanthamoeba" 84:10 84:10||r="PIP"||c="progressive infection" 84:7 84:8
+c="fluconazole 2% cream" 42:104 42:106||r="TrAP"||c="erythematous skin lesions" 42:109 42:111
+c="vancomycin" 86:15 86:15||r="TrAP"||c="coagulase negative staphylococcus" 86:6 86:8
+c="ars" 17:43 17:43||r="PIP"||c="medication toxicity" 17:46 17:47
+c="workup on admission" 75:0 75:2||r="TeRP"||c="pneumonia" 75:9 75:9
+c="workup on admission" 75:0 75:2||r="TeRP"||c="focal lesion" 75:19 75:20
+c="workup on admission" 75:0 75:2||r="TeRP"||c="abscess" 75:26 75:26
+c="workup on admission" 75:0 75:2||r="TeRP"||c="focal lesion" 75:28 75:29
+c="sulfadiazine" 25:28 25:28||r="TrWP"||c="increasing ars" 25:32 25:33
+c="bactrim" 45:0 45:0||r="TrCP"||c="severe rash" 45:2 45:3
+c="voriconazole" 25:19 25:19||r="TrAP"||c="continued neutropenia" 25:22 25:23
+c="mud , mini-allo stem cell transplant" 37:9 37:14||r="TrAP"||c="bone marrow involvement" 37:3 37:5
+c="a chest x-ray" 75:4 75:6||r="TeRP"||c="pneumonia" 75:9 75:9
+c="prednisone" 93:7 93:7||r="TrAP"||c="inflammation" 93:12 93:12
+c="prednisone" 93:7 93:7||r="TrAP"||c="adrenal insufficiency" 93:17 93:18
+c="iv foscarnet therapy" 27:14 27:16||r="TrAP"||c="recurrent cmb infection" 27:3 27:5
+c="campath" 22:5 22:5||r="TrCP"||c="recurrent fever" 22:8 22:9
+c="recurrent fever" 22:8 22:9||r="PIP"||c="sinus symptoms" 22:13 22:14
+c="valganciclovir maintenance suppression" 27:24 27:26||r="TrWP"||c="increasing ars" 27:30 27:31
+c="nasal sprays" 92:28 92:29||r="TrAP"||c="congestion" 92:21 92:21
+c="tylenol" 93:0 93:0||r="TrAP"||c="fevers" 93:5 93:5
+c="trial of 5-fc" 25:5 25:7||r="TrWP"||c="increasing neutropenia" 25:10 25:11
+c="itraconazole" 80:13 80:13||r="TrAP"||c="acanthamoeba infection" 80:25 80:26
+c="mri" 23:39 23:39||r="TeRP"||c="neurologic infection" 23:30 23:31
+c="phoslo" 29:27 29:27||r="TrAP"||c="acute renal failure" 29:2 29:4
+c="phoslo" 29:27 29:27||r="TrAP"||c="chronic renal insufficiency" 29:6 29:8
+c="bilateral effusion" 87:33 87:34||r="PIP"||c="fluid surge spacing" 87:40 87:42
+c="kayexalate" 29:25 29:25||r="TrAP"||c="acute renal failure" 29:2 29:4
+c="kayexalate" 29:25 29:25||r="TrAP"||c="chronic renal insufficiency" 29:6 29:8
+c="cyclosporine" 83:12 83:12||r="TrNAP"||c="cerebritis" 83:9 83:9
+c="cyclosporine" 83:12 83:12||r="TrNAP"||c="idiosyncratic reaction" 83:0 83:1
+c="morphine" 92:6 92:6||r="TrAP"||c="air hunger" 92:11 92:12
+c="morphine" 92:6 92:6||r="TrAP"||c="pain" 92:8 92:8
+c="sinus suctioning" 92:15 92:16||r="TrAP"||c="congestion" 92:21 92:21
+c="extensive skin involvement" 30:6 30:8||r="PIP"||c="gvhd" 30:3 30:3
+c="treatment" 86:50 86:50||r="TrAP"||c="any bacterial superinfection" 86:52 86:54
+c="treatment" 86:50 86:50||r="TrAP"||c="acanthamoeba sinusitis" 86:56 86:57
+c="acanthamoeba sinusitis" 86:56 86:57||r="PIP"||c="any bacterial superinfection" 86:52 86:54
+c="sinus washings" 23:16 23:17||r="TeRP"||c="acanthamoeba infection of skin" 23:19 23:22
+c="ct scan" 22:17 22:18||r="TeRP"||c="left maxillary sinusitis" 22:20 22:22
+c="left maxillary sinusitis" 22:20 22:22||r="PIP"||c="new skin nodules on right elbow and buttocks" 22:26 22:33
+c="decreasing oxygen saturation" 87:26 87:28||r="PIP"||c="bilateral effusion" 87:33 87:34
+c="decreasing oxygen saturation" 87:26 87:28||r="PIP"||c="fluid surge spacing" 87:40 87:42
+c="non-myeloblative stem cell transplant" 17:12 17:15||r="TrAP"||c="refractory cll" 17:7 17:8
+c="a single blood culture" 86:0 86:3||r="TeRP"||c="coagulase negative staphylococcus" 86:6 86:8
+c="levofloxacin" 86:40 86:40||r="TrAP"||c="pneumonia" 86:45 86:45
+c="levofloxacin" 86:40 86:40||r="TrAP"||c="any bacterial superinfection" 86:52 86:54
+c="levofloxacin" 86:40 86:40||r="TrAP"||c="developing pneumonia" 86:32 86:33
+c="levofloxacin" 86:40 86:40||r="TrAP"||c="acanthamoeba sinusitis" 86:56 86:57
+c="an mri of the liver" 75:11 75:15||r="TeCP"||c="focal lesion" 75:19 75:20
+c="an mri of the liver" 75:11 75:15||r="TeCP"||c="focal lesion" 75:28 75:29
+c="an mri of the liver" 75:11 75:15||r="TeCP"||c="abscess" 75:26 75:26
+c="mace" 18:12 18:12||r="TrIP"||c="cervical lymphadenopathy" 18:6 18:7
+c="cytabom" 18:14 18:14||r="TrIP"||c="cervical lymphadenopathy" 18:6 18:7
+c="cvp" 19:14 19:14||r="TrAP"||c="leukemic phase" 19:8 19:9
+c="early lesions" 82:83 82:84||r="PIP"||c="small foci in the right cerebellum" 82:72 82:77
+c="campath" 20:1 20:1||r="TrCP"||c="lymphopenia" 20:9 20:9
+c="campath" 20:1 20:1||r="TrCP"||c="neutropenia" 20:11 20:11
+c="campath" 20:1 20:1||r="TrCP"||c="cmv infection" 20:13 20:14
+c="rituxan" 19:12 19:12||r="TrAP"||c="leukemic phase" 19:8 19:9
+c="blood and urine cultures" 76:0 76:3||r="TeRP"||c="coagulase negative staphylococcus" 76:22 76:24
+c="maximal antimicrobial therapy" 82:8 82:10||r="TrWP"||c="skin and sinus infection" 82:3 82:6
+c="fevers" 85:4 85:4||r="PIP"||c="progressive acanthamoeba infection" 85:9 85:11
+c="itraconazole" 24:12 24:12||r="TrWP"||c="skin infection" 24:20 24:21
+c="treatment" 74:6 74:6||r="TrAP"||c="new fever" 74:8 74:9
+c="azithromycin" 24:10 24:10||r="TrWP"||c="skin infection" 24:20 24:21
+c="previous baseline creatinine" 29:11 29:13||r="TeRP"||c="chronic renal insufficiency" 29:6 29:8
+c="pentamidine" 24:15 24:15||r="TrWP"||c="skin infection" 24:20 24:21
+c="maximal antimicrobial therapy" 85:15 85:17||r="TrWP"||c="progressive acanthamoeba infection" 85:9 85:11
+c="azithromycin" 25:3 25:3||r="TrWP"||c="increasing neutropenia" 25:10 25:11
+c="a blood culture" 76:8 76:10||r="TeRP"||c="coagulase negative staphylococcus" 76:22 76:24
+c="itraconazole" 25:17 25:17||r="TrNAP"||c="continued neutropenia" 25:22 25:23
+c="fluid surge spacing" 17:68 17:70||r="PIP"||c="hyponatremia" 17:76 17:76

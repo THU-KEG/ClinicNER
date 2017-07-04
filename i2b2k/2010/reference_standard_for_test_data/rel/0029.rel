@@ -1,0 +1,13 @@
+c="retained fetal lung fluid" 31:15 31:18||r="PIP"||c="streaky lung fields" 31:3 31:5
+c="retained fetal lung fluid" 31:15 31:18||r="PIP"||c="consolidation" 31:11 31:11
+c="chest x-ray" 31:0 31:1||r="TeRP"||c="streaky lung fields" 31:3 31:5
+c="chest x-ray" 31:0 31:1||r="TeRP"||c="consolidation" 31:11 31:11
+c="nasal cannula" 38:6 38:7||r="TrAP"||c="mild oxygen desaturation" 38:9 38:11
+c="nasal cannula" 36:5 36:6||r="TrIP"||c="respiratory distress" 36:11 36:12
+c="exam" 42:3 42:3||r="TeRP"||c="murmur" 42:1 42:1
+c="blood culture" 54:0 54:1||r="TeRP"||c="growth" 54:5 54:5
+c="his initial cbc" 53:0 53:2||r="TeRP"||c="left shift" 53:5 53:6
+c="chest x-ray" 35:0 35:1||r="TeRP"||c="mild streakiness of the lung fields" 35:3 35:8
+c="antibiotics" 52:6 52:6||r="TrNAP"||c="sepsis risk factors" 52:11 52:13
+c="exam" 21:0 21:0||r="TeRP"||c="mild retractions" 21:21 21:22
+c="exam" 21:0 21:0||r="TeRP"||c="murmurs" 21:29 21:29

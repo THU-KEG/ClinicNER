@@ -1,0 +1,76 @@
+c="ct" 16:14 16:14||r="TeRP"||c="ground glass opacities" 16:10 16:12
+c="nonrebreather" 53:37 53:37||r="TrAP"||c="tachypneic" 53:27 53:27
+c="the systolic" 22:11 22:12||r="TeRP"||c="hypertensive" 22:9 22:9
+c="nonrebreather" 25:34 25:34||r="TrAP"||c="tachypneic" 25:27 25:27
+c="nonrebreather" 25:34 25:34||r="TrAP"||c="hypoxic" 25:11 25:11
+c="her bactrim" 19:14 19:15||r="TrIP"||c="the shortness of breath" 19:9 19:12
+c="clindamycin" 80:7 80:7||r="TrAP"||c="gram negative infection" 80:10 80:12
+c="clindamycin" 80:7 80:7||r="TrAP"||c="post obstructive picture" 80:17 80:19
+c="breast cancer left side" 29:1 29:4||r="PIP"||c="positive lymph nodes" 29:17 29:19
+c="examination" 53:1 53:1||r="TeRP"||c="tachycardic" 53:20 53:20
+c="examination" 53:1 53:1||r="TeRP"||c="hypotensive" 53:24 53:24
+c="examination" 53:1 53:1||r="TeRP"||c="tachypneic" 53:27 53:27
+c="examination" 53:1 53:1||r="TeRP"||c="febrile" 53:11 53:11
+c="examination" 53:1 53:1||r="TeRP"||c="a low grade temperature" 53:13 53:16
+c="febrile" 53:11 53:11||r="PIP"||c="a low grade temperature" 53:13 53:16
+c="her pulmonary examination" 56:0 56:2||r="TeRP"||c="dry crackles at the bases" 56:10 56:14
+c="ceftazidine" 80:5 80:5||r="TrAP"||c="gram negative infection" 80:10 80:12
+c="ceftazidine" 80:5 80:5||r="TrAP"||c="post obstructive picture" 80:17 80:19
+c="sterids" 12:36 12:36||r="TrCP"||c="myopathy" 12:32 12:32
+c="sterids" 12:36 12:36||r="TrCP"||c="her brain mets" 12:43 12:45
+c="an abdominal ct" 112:3 112:5||r="TeRP"||c="an intraabdominal pathology" 112:19 112:21
+c="respiratory failure" 124:1 124:2||r="PIP"||c="pneumonia" 124:10 124:10
+c="respiratory failure" 124:1 124:2||r="PIP"||c="lymphangitic spread" 124:13 124:14
+c="septic source" 104:15 104:16||r="PIP"||c="hypotension" 104:5 104:5
+c="septic source" 104:15 104:16||r="PIP"||c="febrile" 104:7 104:7
+c="septic source" 104:15 104:16||r="PIP"||c="respiratory distress" 104:10 104:11
+c="difficulty in speaking words" 54:8 54:11||r="PIP"||c="extremely tachypneic" 54:5 54:6
+c="taxol" 31:8 31:8||r="TrAP"||c="mediastinal lymphadenopathy" 31:4 31:5
+c="saturations" 25:13 25:13||r="TeRP"||c="hypoxic" 25:11 25:11
+c="a ct" 64:2 64:3||r="TeRP"||c="marked increased consolidations at the left lung base" 64:13 64:20
+c="a ct" 64:2 64:3||r="TeRP"||c="new left sided pleural effusion" 64:24 64:28
+c="blood pressures" 22:7 22:8||r="TeRP"||c="hypertensive" 22:9 22:9
+c="lymphangitic spread" 14:22 14:23||r="PIP"||c="her cancer" 14:25 14:26
+c="cta" 16:2 16:2||r="TeRP"||c="pe" 16:5 16:5
+c="levaquin" 14:4 14:4||r="TrAP"||c="infections" 14:17 14:17
+c="levaquin" 14:4 14:4||r="TrAP"||c="pneumonia" 14:19 14:19
+c="anticoagulation" 101:12 101:12||r="TrNAP"||c="brain metastasis" 101:6 101:7
+c="anticoagulation" 101:12 101:12||r="TrNAP"||c="hemorrhage" 101:22 101:22
+c="anticoagulation" 101:12 101:12||r="TrNAP"||c="these tumors" 101:24 101:25
+c="steroids" 12:26 12:26||r="TrAP"||c="breast cancer" 12:11 12:12
+c="steroids" 12:26 12:26||r="TrAP"||c="known brain mets" 12:14 12:16
+c="breast cancer" 12:11 12:12||r="PIP"||c="known brain mets" 12:14 12:16
+c="her echocardiogram" 95:0 95:1||r="TeRP"||c="any gross wall motion abnormalities" 95:15 95:19
+c="her echocardiogram" 95:0 95:1||r="TeRP"||c="valvular pathology" 95:21 95:22
+c="her symptoms" 15:7 15:8||r="PIP"||c="fevers" 15:18 15:18
+c="her symptoms" 15:7 15:8||r="PIP"||c="continued dyspnea" 15:15 15:16
+c="recent radiation therapy" 12:22 12:24||r="TrAP"||c="breast cancer" 12:11 12:12
+c="recent radiation therapy" 12:22 12:24||r="TrAP"||c="known brain mets" 12:14 12:16
+c="her chest x-ray" 67:23 67:25||r="TeRP"||c="a new infiltrate" 67:19 67:21
+c="aspirin" 33:10 33:10||r="TrAP"||c="pulmonary embolism" 33:3 33:4
+c="decadron" 32:23 32:23||r="TrAP"||c="brain mets" 32:3 32:4
+c="bipap" 73:6 73:6||r="TrWP"||c="increasingly dyspneic" 73:12 73:13
+c="bipap" 73:6 73:6||r="TrWP"||c="increased respiratory stress" 73:15 73:17
+c="two antibiotics" 72:1 72:2||r="TrAP"||c="pcp" 72:17 72:17
+c="broad spectrum antibiotics" 71:12 71:14||r="TrAP"||c="shortness of breath" 71:4 71:6
+c="broad spectrum antibiotics" 71:12 71:14||r="TrAP"||c="her fevers" 71:1 71:2
+c="bronchoscopy" 74:9 74:9||r="TeRP"||c="multiple bacterial pathogens" 74:17 74:19
+c="mastectomy" 29:11 29:11||r="TrAP"||c="breast cancer left side" 29:1 29:4
+c="radiation therapy" 32:20 32:21||r="TrAP"||c="brain mets" 32:3 32:4
+c="clindamycin" 71:24 71:24||r="TrAP"||c="shortness of breath" 71:4 71:6
+c="clindamycin" 71:24 71:24||r="TrAP"||c="her fevers" 71:1 71:2
+c="levaquin" 71:20 71:20||r="TrAP"||c="shortness of breath" 71:4 71:6
+c="levaquin" 71:20 71:20||r="TrAP"||c="her fevers" 71:1 71:2
+c="ceptaz" 71:18 71:18||r="TrAP"||c="shortness of breath" 71:4 71:6
+c="ceptaz" 71:18 71:18||r="TrAP"||c="her fevers" 71:1 71:2
+c="chemotherapy" 32:18 32:18||r="TrAP"||c="brain mets" 32:3 32:4
+c="navelbine" 31:12 31:12||r="TrAP"||c="mediastinal lymphadenopathy" 31:4 31:5
+c="intravenous fluids" 91:15 91:16||r="TrNAP"||c="somewhat overloaded" 91:12 91:13
+c="pulmonary embolisms" 100:13 100:14||r="PIP"||c="the patient 's respiratory decompensation" 100:20 100:24
+c="intravenous fluids" 21:13 21:14||r="TrAP"||c="hypotension" 21:7 21:7
+c="chest x-ray" 23:0 23:1||r="TeRP"||c="left lung opacity" 23:6 23:8
+c="oxygen" 25:22 25:22||r="TrIP"||c="hypoxic" 25:11 25:11
+c="oxygen" 25:22 25:22||r="TrIP"||c="tachypneic" 25:27 25:27
+c="bactrim" 19:3 19:3||r="TrIP"||c="the shortness of breath" 19:9 19:12
+c="lymphangitic spread" 70:14 70:15||r="PIP"||c="her breast ca" 70:17 70:19
+c="bactrim" 19:28 19:28||r="TrIP"||c="the shortness of breath" 19:9 19:12

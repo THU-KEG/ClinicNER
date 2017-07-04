@@ -1,0 +1,25 @@
+c="light-headedness" 21:3 21:3||r="PIP"||c="nausea" 21:15 21:15
+c="light-headedness" 21:3 21:3||r="PIP"||c="diaphoresis" 21:12 21:12
+c="light-headedness" 21:3 21:3||r="PIP"||c="shortness of breath" 21:8 21:10
+c="exertional angina" 20:6 20:7||r="PIP"||c="chest pain" 20:9 20:10
+c="exertional angina" 20:6 20:7||r="PIP"||c="light-headedness" 20:13 20:13
+c="ekg" 42:0 42:0||r="TeRP"||c="left ventricular hyper-trophy" 42:12 42:14
+c="ekg" 42:0 42:0||r="TeRP"||c="poor anterior progression of r-waves" 42:16 42:20
+c="aortic valve replace-ment" 19:31 19:33||r="TrAP"||c="aortic stenosis" 19:21 19:22
+c="aortic stenosis" 19:21 19:22||r="PIP"||c="chest pain" 19:24 19:25
+c="carotid angiography" 45:0 45:1||r="TeRP"||c="left internal carotid stenosis of 90%" 45:3 45:8
+c="carotid angiography" 45:0 45:1||r="TeRP"||c="right internal carotid artery &quot; critical stenosis &quot;" 45:10 45:17
+c="angiography" 56:2 56:2||r="TeRP"||c="significant stenosis of the left carotid artery" 56:20 56:26
+c="a left carotid endarterectomy" 56:39 56:42||r="TrAP"||c="significant stenosis of the left carotid artery" 56:20 56:26
+c="the residual deficit" 57:41 57:43||r="PIP"||c="some left upper extremity weakness" 57:48 57:52
+c="total abdominal hysterectomy" 26:11 26:13||r="TrAP"||c="uterine fibroids" 26:6 26:7
+c="heent examination" 32:0 32:1||r="TeRP"||c="bilateral arcussenilis" 32:4 32:5
+c="cardiac examination" 35:0 35:1||r="TeRP"||c="systolic murmur at the right upper sternal border" 35:16 35:23
+c="echocardiogram" 25:16 25:16||r="TeRP"||c="left ventricular hypertrophy" 25:32 25:34
+c="echocardiogram" 25:16 25:16||r="TeRP"||c="right heart wall motion abnormali-ties" 25:42 25:46
+c="confusion" 64:44 64:44||r="PIP"||c="agitation" 64:41 64:41
+c="cardiac catheterization" 44:13 44:14||r="TeRP"||c="70% stenosis of her left circumflex artery" 44:18 44:24
+c="cardiac catheterization" 44:13 44:14||r="TeRP"||c="50% stenosis of the left anterior descending" 44:26 44:32
+c="cardiac catheterization" 44:13 44:14||r="TeRP"||c="10% stenosis of the right coronary artery" 44:34 44:40
+c="haldol" 64:29 64:29||r="TrAP"||c="agitation" 64:41 64:41
+c="haldol" 64:29 64:29||r="TrAP"||c="confusion" 64:44 64:44

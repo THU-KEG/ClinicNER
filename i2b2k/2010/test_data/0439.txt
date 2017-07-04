@@ -1,0 +1,92 @@
+﻿Admission Date :
+2016-03-18
+Discharge Date :
+2016-04-01
+Date of Birth :
+1929-07-27
+Sex :
+M
+Service : 
+SURGERY
+Allergies :
+Tetracycline
+Attending : Samuel A. Brown , M.D.
+Chief Complaint :
+Transfer from Lewis to Hallmark Health System CMED CSRU
+Major Surgical or Invasive Procedure :
+s/p I&D ( 03-17 )
+s/p Debridement ( 03-18 )
+History of Present Illness :
+Mr. Morton is a 86 yo male transferred from Kindred Park View Specialty Hospital of Springfield-Sample .
+He developed right foot pain the Sunday prior to admission and was seen by his Podiatrist , who diagnosed him with gout .
+He was given colchicine and prednisone .
+Mr. Morton then developed more pain and warmth to his right foot later in the week and presented to the Youville Hospital - Woody Monica .
+At this hospital he underwent an I&D ( 03-17 ) of a right foot infection and subsequently underwent 
+re-exploration ( 03-18 ) for developing necrotizing fascitis .
+He was transferred to Hallmark Health System for further care .
+Past Medical History :
+PMH : Prostate Ca , Glaucoma
+PSH : RIH repair , s/p TURP , s/p thyroid excision
+Social History :
+EtOH
+Physical Exam :
+98.9 , 93 , 137/78 , 16 , 98%
+GEN : NAD
+HEENT : EOMI , anicteric, OP pink
+NECK : no masses , supple
+CV : RRR , no m/r
+RESP : clear
+GI : soft/NT/ND
+EXT : R foot with erythema / swelling ; muscle and tendons exposed , with necrotic edges , some fibrinous exudate
+NEURO : AxOx3
+Pertinent Results :
+MRI RLE 03-21
+" 1. 7 cm linear fluid collection running between the anterior and lateral muscle compartments , extending from a large area of soft tissue loss seen in the distal lateral foreleg to roughly the mid tibia / fibula , 18 cm distal to the knee joint line .
+The collection is largest at its most proximal extent , measuring 1.4 x 0.7 cm in the transverse dimension .
+2. Non-specific myositis involving multiple muscle groups in the foreleg , most severe in the anterior , lateral , and posterior deep compartments .
+3. Tendinosis of the posterior tibialis and peroneus brevis tendons .
+No tendon tear .
+4. No evidence of abnormal bone marrow signal intensity or intraosseous abscess ."
+RLE Angio 03-21
+" 1. Mild but multifocal atherosclerotic disease involving the infrarenal aorta and iliac arteries , with no significant pressure gradient associated .
+2. Significant segmental stenosis ( approx. 5-6 cm long ) in the mid right superficial femoral artery .
+3. High bifurcation of the popliteal artery at the knee level .
+4. In the proximal calf , severe stenosis or occlusion of the two terminal branches arising from this popliteal bifurcation ( likely the anterior tibial and the peroneal arteries ).
+Two significant focal stenoses of the distal right anterior tibial artery .
+Right posterior tibial artery completely occluded .
+5. Patent medial and lateral plantar arteries , filled through collaterals arising mostly from the peroneal artery .
+Dorsalis pedis artery not seen ."
+Brief Hospital Course :
+Mr. Morton was admitted to the TSICU .
+He was placed on Penicillin G , Clindamycin , for empiric coverage of his wound , with Group A strep growth from the New England Baptist Hospital-Bryce cultures .
+He was transferred to the floor on HD#2 .
+He continued to undergo BID dressing changes .
+Plastic surgery was asked to evaluate the patient .
+Per their recommendations , silvadine was applied to the tendons to prevent dessication .
+Vascular surgery was also asked to evaluate the patient 's right lower extremity blood flow .
+An angiogram on HD#4 showed severe tibial disease and moderate SFA disease , no DP artery was seen .
+The vascular team recommended a femoral-peroneal bypass for revascularization and performed this operation on HD#5 .
+He tolerated the procedure well , please see Dr. Allgood Operative Note for detail .
+On POD#1 , Mr. Morton received 2 units of pRBCs for post-op anemia ( Hct 25 ).
+Mr. Morton continued to be followed by Infectious Disease , whose recommendations were to complete a 01-28 week course of Penicillin G and Clindamycin after the foot was completely debrided and the skin flaps completed .
+His wound continued to heal well and by POD #6 a VAC dressing was placed .
+He received a PICC on POD#7 for his long-term antibiotic therapy .
+At the time of discharge , Mr. Morton had good pain control , was tolerating a regular diet , had a well-healing wound treated with a VAC dressing , and was to continue his IV PCN G and Clindamycin .
+He was discharged to a rehab facility in fair condition .
+Medications on Admission :
+Timolol .5%
+Discharge Disposition :
+Extended Care
+Discharge Diagnosis :
+Right lower extremity necrosing fascitis history of prostate cancer s/p TURP glaucoma
+Discharge Condition :
+Fair
+Discharge Instructions :
+If you have any fevers/chills , nausea/vomiting , chest pain , foot pain , please seek medical attention .
+Followup Instructions :
+Please follow up with Dr. Mallard in one week , call 421-3721 for an appointment .
+Follow up with Dr. Adner in 2 weeks , call 763-9180 for an appointment .
+Mark William MD 19-081
+Completed by : Shane Gabrielle MD 73-971 2016-04-01 @ 0836
+Signed electronically by : DR. Robert Howell on: WED 2016-05-18 5:18 PM
+( End of Report )

@@ -1,0 +1,4 @@
+c="right total hip replacement" 42:7 42:10||r="TrAP"||c="degenerative joint disease" 42:3 42:5
+c="right total hip replacement" 42:7 42:10||r="TrAP"||c="right hip pain" 42:0 42:2
+c="degenerative joint disease" 42:3 42:5||r="PIP"||c="right hip pain" 42:0 42:2
+c="infection" 55:8 55:8||r="PIP"||c="his wound" 55:0 55:1

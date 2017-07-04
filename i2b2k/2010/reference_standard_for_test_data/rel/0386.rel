@@ -1,0 +1,13 @@
+c="repeat ct" 78:0 78:1||r="TeRP"||c="fascitis" 78:7 78:7
+c="repeat ct" 78:0 78:1||r="TeRP"||c="abcess" 78:5 78:5
+c="percocet" 72:0 72:0||r="TrAP"||c="pain" 72:5 72:5
+c="morphine sulfate" 72:2 72:3||r="TrAP"||c="pain" 72:5 72:5
+c="duracef" 53:9 53:9||r="TrAP"||c="cyst" 53:0 53:0
+c="minimal palpation" 63:10 63:11||r="TeRP"||c="tenderness" 63:8 63:8
+c="her meds" 54:15 54:16||r="TrCP"||c="not compliant" 54:12 54:13
+c="exam" 63:0 63:0||r="TeRP"||c="erthyema" 63:3 63:3
+c="exam" 63:0 63:0||r="TeRP"||c="tenderness" 63:8 63:8
+c="neck ct" 65:0 65:1||r="TeRP"||c="abcess" 65:4 65:4
+c="cd4 ct" 52:12 52:13||r="TeCP"||c="hiv" 52:10 52:10
+c="viral load" 58:2 58:3||r="TeCP"||c="hiv" 58:0 58:0
+c="infected" 52:27 52:27||r="PIP"||c="sebaceous cyst" 52:23 52:24

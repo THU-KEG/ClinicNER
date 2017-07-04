@@ -1,0 +1,119 @@
+506243692_a
+FIH
+6305145
+457846
+597698
+9/11/2002 12:00:00 AM
+Discharge Summary
+Signed
+DIS
+Report Status :
+Signed
+DISCHARGE SUMMARY NAME :
+NERTLAND , ELRO
+UNIT NUMBER :
+413-18-46
+ADMISSION DATE :
+09/11/2002
+DISCHARGE DATE :
+09/15/2002
+PRINCIPAL DIAGNOSIS :
+Congestive heart failure .
+ASSOCIATED DIAGNOSES :
+1. Coronary artery disease .
+2. Interstitial lung disease
+3. Mitral regurgitation .
+4. Aortic stenosis .
+5. Systolic hypertension .
+6. Status post myocardial infarction .
+7. Transurethral resection of prostate .
+8. Inguinal hernia repair .
+9. Thoracic shingles .
+10. Cataracts .
+11. History of peptic ulcer disease .
+12. History of gout .
+13. Mediastinal mass on previous CT scans .
+PRINCIPAL PROCEDURE :
+1. Cardiac catheterization .
+2. Echocardiogram .
+3. Sleep study .
+4. Chest CT scan .
+ADVERSE DRUG REACTIONS :
+None .
+CLINICAL INFECTIONS :
+None .
+HISTORY OF PRESENT ILLNESS :
+Mr. Warm is an 83 year old man with chronic congestive heart failure , mitral regurgitation and aortic stenosis who was admitted for diagnostic cardiac catheterization .
+Over the last four to five months , Mr. Warm has noted a marked decline in functional capacity with nearly daily PND and orthopnea .
+He has not experienced recent syncope but did have a syncopal episode in 1 resulting in implantation of a defibrillator .
+Although in the past , he has been somewhat ambivalent with respect to cardiac surgery , given the decline in his functional capacity , he agreed to undergo repeat cardiac catheterization with a view towards defining his candidacy for cardiac surgery .
+The patient lives independently with his wife in Connecticut and continues to be less and less active unfortunately .
+He has nearly curtailed his trips to a gymnasium for cardiopulmonary exercising .
+He does not drink alcohol and does not smoke cigarettes .
+PHYSICAL EXAMINATION ON ADMISSION :
+On examination , the patient was an extraordinarily pleasant man who appeared his stated age .
+His blood pressure was 110/70 .
+Heart was 82 and regular .
+Respiratory rate was 16 .
+His jugular venous pressure was not elevated and his carotids were 2+ .
+Lungs were notable for adequate air movement with no rales .
+The first and second heart sounds were physiologically split and the cardiac impulse was rather diffuse and inferiorly displaced .
+There was an S3 gallop at the apex and a 2/6 murmur of mitral regurgitation at the apex which radiated to the axilla .
+The abdomen was soft and nontender .
+There was no organomegaly but modest hepatojugular reflex .
+The extremities were without edema and were warm and well perfused .
+The posterior tibialis pulses were intact .
+LABORATORY DATA :
+Sodium 140 , potassium 5.0 , BUN 45 , creatinine 1.9 , glucose 90 .
+Albumin 3.6 , hematocrit 41 , white count 8.6 , platelets 388 and PT 12.6 seconds .
+The chest X-ray revealed cardiomegaly and no significant congestion .
+The ECG was paced .
+An outpatient echocardiogram revealed a left atrium of 45 mms. , an LV of 60 mms. , ejection fraction of 26% , moderate to severe mitral regurgitation by color and spectral Doppler , aortic stenosis with a valve area of .8 cms. squared with a peak gradient of 50 , a mean gradient of 30 , an ejection fraction of 26% with diffuse left ventricular hypokinesis and more severe inferior hypokinesis .
+There was mild tricuspid insufficiency , an estimated RV peak systolic pressure of 55 and a mild diffuse hypokinesis of the right ventricle .
+HOSPITAL COURSE :
+The patient was admitted to the hospital following uncomplicated cardiac catheterization that revealed a right atrial pressure of 5 , a pulmonary capillary wedge pressure of 23 , pulmonary artery pressure of 56/22 with a mean of 36 , a cardiac output of 6.1 liters per minute with a cardiac index of 3.8 liters per minute per meter squared .
+The aortic valve gradient was approximately 32 mms of Mercury peak with a calculated aortic valve area of 1.1 cms. squared .
+Coronary angiography revealed occlusion of the dominant right coronary artery in the proximal segment with distal reconstitution via left to right collaterals .
+Left ventriculography revealed a dilated , diffusely and severe hypokinetic left ventricle with the anterior basilar wall best perfused and an ejection fraction of 18% .
+There was 3+ mitral regurgitation and reflux into the pulmonary veins in the ------ views .
+In addition , there was a 60% lesion in the left circumflex artery and only minimal irregularities in the left anterior descending itself .
+The patient tolerated the procedure well apart from a small rise in his creatinine to 2.3 which returned to his baseline value of approximately 1.7 to 1.9 at the time of discharge after holding his diuretics and his vasodilator medications .
+The patient was seen in consultation by Dr. Win Shufffyfe of the Cardiac Surgery Service and after a long discussion with the patient , Dr. Shufffyfe and the patient &apos;s family , it was decided to defer cardiac surgery likely indefinitely and probably permanently given the patient &apos;s age , co-morbidities , lack of probable benefit with relief of his mitral regurgitation , modest aortic stenosis and relatively modest coronary artery disease .
+While in hospital , the patient was seen by Lenni Breutzoln who felt that the incremental benefit from biventricular pacing was likely to be modest .
+The patient also underwent a sleep study which revealed evidence for fairly advanced and severe obstructive sleep apnea with multiple hypopneas and apneas , mean duration of which was approximately 30 seconds with one episodes of 68 seconds with a desaturation to 71% .
+The patient was fitted with a CPAP apparatus with titration of 8-12 cms. of water as tolerated as an outpatient .
+In addition , the patient had oxygen therapy given his prominent desaturation at night .
+At the time of discharge , the patient &apos;s vasodilator regimen had been winnowed appreciably and he was discharged with a goal weight of 125 lbs .
+He will be followed both by Dr. Warm closely upon return to his son &apos;s home in Connecticut and by Gie Lung of the Fairm of Ijordcompmac Hospital Heart Failure Partners Home Care Program .
+DISCHARGE ORDERS :
+1. Prn nitroglycerin 0.3 mgs. qd .
+2. Zocor 20 mgs qd .
+3. Serevent 2 puffs bid .
+4. Nexium 20 mgs. qd .
+5. Proscar 5 mgs. qd .
+6. Ambien 10 mgs. qhs prn .
+7. Allopurinol 75 mgs. qd .
+8. Zoloft 25 mgs. qd .
+9. Flovent 110 micrograms bid inhaled .
+10. Lopressor 25 mgs. bid .
+11. KCL 20 meqs. qd .
+12. Lisinopril 2.5 mgs. qd .
+13. Lasix 40 mgs. bid .
+14. Metolazone 2.5 mgs. qd .
+15. Plavix 75 mgs. qd .
+16. Imdur 90 mgs. qd .
+FOLLOW-UP INSTRUCTIONS :
+The patient will be seen in follow-up by Dr. Warm one week post-discharge and by Gie Lung in the Fairm of Ijordcompmac Hospital Heart Failure Care Program .
+The patient also will likely relocate to the Du , KS area for the short term .
+CC :
+Fairm of Ijordcompmac Hospital Heart Failure Program Stemstrictalle Medical Center Dr. Fa Knottippsfyfe Fairm of Ijordcompmac Hospital Pulmonary Division AKA G LUNG , M.D.
+DICTATING FOR :
+Electronically Signed AKA G LUNG , M.D. 09/21/2002 16:34 _____________________________ AKA G LUNG , M.D.
+TR :
+ql
+DD :
+09/15/2002
+TD :
+09/18/2002 2:40 P 457846
+cc :
+AKA G LUNG , M.D. AMAN SCKOLLMINEVUILLE , M.D. WIN E SHUFFFYFE , M.D.

@@ -1,0 +1,33 @@
+c="physical examination" 47:1 47:2||r="TeRP"||c="a hoarse voice" 47:15 47:17
+c="physical examination" 47:1 47:2||r="TeRP"||c="acute distress" 47:12 47:13
+c="mediastinal exploration" 33:16 33:17||r="TeCP"||c="metastatic mass" 33:23 33:24
+c="the head , eyes , ears , nose , throat examination" 48:0 48:10||r="TeRP"||c="lymphadenopathy" 48:46 48:46
+c="the head , eyes , ears , nose , throat examination" 48:0 48:10||r="TeRP"||c="atraumatic" 48:17 48:17
+c="sulfa" 41:5 41:5||r="TrCP"||c="allergic" 41:3 41:3
+c="removal" 61:20 61:20||r="TrAP"||c="her mediastinal mass" 61:22 61:24
+c="a median sternotomy" 61:16 61:18||r="TrAP"||c="her mediastinal mass" 61:22 61:24
+c="this tube" 65:0 65:1||r="TrAP"||c="the effusion" 65:14 65:15
+c="metastatic disease from the colon" 63:10 63:14||r="PIP"||c="adenocarcinoma" 63:8 63:8
+c="a chest tube" 64:2 64:4||r="TrAP"||c="a left pleural effusion" 64:22 64:25
+c="the frozen section analysis" 63:0 63:3||r="TeRP"||c="adenocarcinoma" 63:8 63:8
+c="the frozen section analysis" 63:0 63:3||r="TeRP"||c="metastatic disease from the colon" 63:10 63:14
+c="the rectal examination" 55:0 55:2||r="TeRP"||c="masses" 55:7 55:7
+c="radical resection" 21:11 21:12||r="TrAP"||c="tumor" 21:14 21:14
+c="radical resection" 21:11 21:12||r="TrAP"||c="aortopulmonary window" 21:16 21:17
+c="duke &apos;s grade b-ii" 25:15 25:18||r="PIP"||c="colon carcinoma" 25:11 25:12
+c="left hemidiaphragm elevation" 65:26 65:28||r="PIP"||c="the effusion" 65:14 65:15
+c="the aortopulmonary window" 62:5 62:7||r="PIP"||c="this mass" 62:0 62:1
+c="percocet" 72:0 72:0||r="TrAP"||c="pain" 72:2 72:2
+c="bronchoscopy" 23:25 23:25||r="TeCP"||c="a mass in the left superhilar region" 23:14 23:20
+c="a mass in the left superhilar region" 23:14 23:20||r="PIP"||c="metastatic colon carcinoma" 23:10 23:12
+c="mediastinal exploration" 23:27 23:28||r="TeCP"||c="a mass in the left superhilar region" 23:14 23:20
+c="resection" 23:30 23:30||r="TrAP"||c="a mass in the left superhilar region" 23:14 23:20
+c="a transverse colectomy" 25:7 25:9||r="TrAP"||c="colon carcinoma" 25:11 25:12
+c="an exploratory laparotomy" 27:7 27:9||r="TeCP"||c="an increased level of cea" 27:12 27:16
+c="computerized tomography scan" 27:28 27:30||r="TeRP"||c="a liver abnormality" 27:24 27:26
+c="a further work up" 29:12 29:15||r="TeCP"||c="a rise" 29:4 29:5
+c="her blood" 27:18 27:19||r="TeRP"||c="an increased level of cea" 27:12 27:16
+c="a thoracic computerized tomography scan" 31:5 31:9||r="TeRP"||c="a four centimeter soft tissue mass on the left suprahilar region" 31:11 31:21
+c="left vocal cord paralysis" 32:14 32:17||r="PIP"||c="increased hoarseness" 32:3 32:4
+c="resection" 33:19 33:19||r="TrAP"||c="metastatic mass" 33:23 33:24
+c="her cea level" 29:7 29:9||r="TeRP"||c="a rise" 29:4 29:5

@@ -1,0 +1,133 @@
+305757070 ELMVH
+74973293
+2973118
+11/27/2003 12:00:00 AM
+dehydration
+DIS
+Admission Date :
+11/27/2003
+Report Status :
+Discharge Date :
+11/28/2003
+****** DISCHARGE ORDERS ******
+MEEDBELB , LIND E
+869-08-73-5 B09
+Room :
+23Q-929
+Service :
+CAR
+DISCHARGE PATIENT ON :
+11/28/03 AT 02:00 PM
+CONTINGENT UPON
+Not Applicable
+WILL D / C ORDER BE USED AS THE D / C SUMMARY :
+YES
+Attending :
+KOTESKISMANHOUT , AYAN , M.D.
+CODE STATUS :
+Full code
+DISPOSITION :
+Home
+DISCHARGE MEDICATIONS :
+COLACE ( DOCUSATE SODIUM ) 100 MG PO BID FENTANYL ( PATCH ) 25 MCG / HR TP Q72H
+Alert overridden :
+Override added on 11/27/03 by CRAMPKOTE , LINE , M.D.
+POSSIBLE ALLERGY ( OR SENSITIVITY ) to NARCOTICS ,
+PHENYLPIPERIDINE POTENTIALLY SERIOUS INTERACTION :
+CITALOPRAM HYDROBROMIDE and FENTANYL CITRATE
+Reason for override :
+takes at home w / o problem LASIX ( FUROSEMIDE ) 40 MG PO monday , wednesday , friday ZESTRIL ( LISINOPRIL ) 20
+MG PO QD HOLD IF :
+sbp &lt; 100
+Override Notice :
+Override added on 11/27/03 by CRAMPKOTE , LINE , M.D. on order for KCL IMMEDIATE RELEASE PO ( ref # 16679329 )
+POTENTIALLY SERIOUS INTERACTION :
+LISINOPRIL and POTASSIUM CHLORIDE
+Reason for override :
+aware TOPROL XL ( METOPROLOL ( SUST. REL. ) )
+25
+MG PO QD HOLD IF :
+hr &lt; 55
+Food / Drug Interaction Instruction
+Take consistently with meals or on empty stomach .
+Number of Doses Required ( approximate ) :
+4 IMDUR ( ISOSORBIDE MONONIT. ( SR ) ) 30
+MG PO QD HOLD IF :
+sbp &lt; 100
+Food / Drug Interaction Instruction
+Give on an empty stomach ( give 1hr before or 2hr after food ) PLAVIX ( CLOPIDOGREL ) 75 MG PO QD CELEXA ( CITALOPRAM ) 20 MG PO QD
+Override Notice :
+Override added on 11/27/03 by CRAMPKOTE , LINE , M.D. on order for FENTANYL ( PATCH ) TP ( ref # 39386653 )
+POTENTIALLY SERIOUS INTERACTION :
+CITALOPRAM HYDROBROMIDE and FENTANYL CITRATE
+Reason for override :
+takes at home w / o problem
+DIET :
+House / Low chol / low sat. fat
+ACTIVITY :
+walking with assistance
+FOLLOW UP APPOINTMENT ( S ) :
+Dr Va Lardesprableyl 1-2 wks ,
+ALLERGY :
+Percocet
+ADMIT DIAGNOSIS :
+presyncope
+PRINCIPAL DISCHARGE DIAGNOSIS ;
+Responsible After Study for Causing Admission ) dehydration
+OTHER DIAGNOSIS ;
+Conditions , Infections , Complications , affecting Treatment / Stay
+CAD , s / p L mastectomy breastCA , s / p excision malig. melanoma , bladder CA , s / p partial gastrectomy , hx GIB on ASA , s / p PTCA of LCx , 80% sten of
+LAD
+OPERATIONS AND PROCEDURES :
+OTHER TREATMENTS / PROCEDURES ( NOT IN O.R. )
+-
+BRIEF RESUME OF HOSPITAL COURSE :
+83M w/ signif oncologic hx , currently stable , and recent LAD stent ( CV-stable since 08/18 ) transferred from L w/ report of presyncope and ? AFib .
+By family &apos;s hx , pt is high-functioning at baseline .
+Developed URI Sx 1 wk ago , likely viral , w/ increasing confusion over last few days .
+Seen at L this AM for URI , found to have difficulty standing , noted to have cardiac ectopy .
+No c / o CP , SOB , or anginal equivalents .
+EKG o / w unchanged , w/ negative enz - low suspicion for acute cardiac process .
+PMH :
+CAD 3vd , s / p mult PCIs ; CHF .
+Breast CA s / p L mastectomy ; melanoma ; bladder CA ; BPH s / p TURP ; GI B on ASA ; s / p partial gastrectomy ; HOH .
+ALL :
+NKDA ( Percocet-&gt; agitation ) .
+On exam , found to be delerious and moderately dehydrated .
+Alert and oriented x 3 ; appears neurologically intact .
+98.5 , bp110/60 p65 supine ; 100/55 p80 sitting , r20 , 95% RA OP clear .
+JVP 5 cm .
+CTAB. rrr , no mrg. soft , nt / nd , no HSM .
+Neuro :
+poor attention , cranial nerves intact , strength / sens intact , cerebell intact , poor balance .
+CT head from L negative .
+CXR w/ no acute process .
+EKG :
+NSR , 1d AVB , mult PACs , old LBBB , no Si acute ischemia .
+ECHO 08/18 :
+35-40% , mod global HK , mod MR. Na137 , K4.4 , Cr 0.9 , Glu92 ; wbc7.8 , Hct 40 , plt150 .
+A / P :
+Likely dehydration w/ mild delirium in an elederly man in the setting of recent URI .
+Reportedly has had increased Vicodin use for back pain , which may also contribute to MS change .
+CV :
+tele .
+Cardiac enz negative .
+Gentle IVF. hold ASA due to hx massive GIB on ASA in the past ; currently on Plavix .
+Lasix decreased to 40 mg PO tid .
+By 11/28 , rehydrated , felt better .
+ID :
+pan-Cx .
+no need for abx now .
+rapid viral panel .
+Remained afebrile .
+Disp :
+gait much improved by 11/28 ; PT felt pt safe to go home w/ monitoring - son will arrange for home aid to be w/ pt for several days .
+Rehab screening was offered but pt preferred to go home .
+ADDITIONAL COMMENTS :
+DISCHARGE CONDITION :
+Satisfactory
+TO DO / PLAN :
+No dictated summary
+ENTERED BY :
+CRAMPKOTE , LINE , M.D. ( JT0 ) 11/28/03 02:25 PM
+****** END OF DISCHARGE ORDERS ******

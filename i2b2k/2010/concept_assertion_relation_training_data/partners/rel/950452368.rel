@@ -1,0 +1,28 @@
+c="difficult ambulation" 45:2 45:3||r="PIP"||c="a small ulcer in the sacral area" 45:8 45:14
+c="maalox plus extra strength" 48:91 48:94||r="TrAP"||c="indigestion" 48:105 48:105
+c="diflucan" 42:10 42:10||r="TrAP"||c="yeast" 42:7 42:7
+c="bypass grafting" 24:33 24:34||r="TrAP"||c="coronary artery disease" 24:29 24:31
+c="chemotherapy" 22:12 22:12||r="TrAP"||c="status post lymphoma" 22:6 22:8
+c="a change of antibiotics" 41:19 41:22||r="TrAP"||c="the persistent fevers" 41:2 41:4
+c="ampicillin" 40:5 40:5||r="TrAP"||c="enterococci" 40:17 40:17
+c="ampicillin" 40:5 40:5||r="TrAP"||c="the wound" 40:21 40:22
+c="ampicillin" 40:5 40:5||r="TrAP"||c="staphylococcus" 40:19 40:19
+c="further cultures from sputum and urine" 42:0 42:5||r="TeRP"||c="yeast" 42:7 42:7
+c="gentamicin" 40:7 40:7||r="TrAP"||c="enterococci" 40:17 40:17
+c="gentamicin" 40:7 40:7||r="TrAP"||c="the wound" 40:21 40:22
+c="gentamicin" 40:7 40:7||r="TrAP"||c="staphylococcus" 40:19 40:19
+c="eoc / loc" 48:53 48:55||r="TrAP"||c="constipation" 48:65 48:65
+c="the culture" 40:14 40:15||r="TeRP"||c="enterococci" 40:17 40:17
+c="the culture" 40:14 40:15||r="TeRP"||c="staphylococcus" 40:19 40:19
+c="the culture" 40:14 40:15||r="TeCP"||c="the wound" 40:21 40:22
+c="vancomycin" 41:24 41:24||r="TrAP"||c="the persistent fevers" 41:2 41:4
+c="a small complication" 44:1 44:3||r="PIP"||c="a left ankle wound" 44:8 44:11
+c="clindamycin" 40:10 40:10||r="TrAP"||c="enterococci" 40:17 40:17
+c="clindamycin" 40:10 40:10||r="TrAP"||c="the wound" 40:21 40:22
+c="clindamycin" 40:10 40:10||r="TrAP"||c="staphylococcus" 40:19 40:19
+c="levofloxacin" 41:26 41:26||r="TrAP"||c="the persistent fevers" 41:2 41:4
+c="radiation" 22:14 22:14||r="TrAP"||c="status post lymphoma" 22:6 22:8
+c="magnesia" 48:109 48:109||r="TrAP"||c="constipation" 48:120 48:120
+c="vancomycin desensitization" 41:9 41:10||r="TrAP"||c="the persistent fevers" 41:2 41:4
+c="duoderm dressing" 45:20 45:21||r="TrAP"||c="a small ulcer in the sacral area" 45:8 45:14
+c="percocet" 48:167 48:167||r="TrAP"||c="pain" 48:178 48:178

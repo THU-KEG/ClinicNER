@@ -1,0 +1,12 @@
+c="ventilatory support" 64:6 64:7||r="TrAP"||c="a persistent acidemia" 64:10 64:12
+c="a persistent flow" 56:2 56:4||r="PIP"||c="pa fistula" 56:15 56:16
+c="a persistent flow" 56:2 56:4||r="PIP"||c="the circumflex to pa branch fistula" 56:22 56:27
+c="minimally invasive mitral valve repair" 81:5 81:9||r="TrAP"||c="mitral regurgitation" 81:1 81:2
+c="intracranial pathology" 73:9 73:10||r="PIP"||c="diabetes insipidus" 73:13 73:14
+c="a head ct scan" 73:2 73:5||r="TeCP"||c="intracranial pathology" 73:9 73:10
+c="coil embolization" 56:34 56:35||r="TrNAP"||c="a persistent flow" 56:2 56:4
+c="coil embolization" 56:34 56:35||r="TrNAP"||c="pa fistula" 56:15 56:16
+c="coil embolization" 56:34 56:35||r="TrNAP"||c="the circumflex to pa branch fistula" 56:22 56:27
+c="cardiac catheterization" 54:0 54:1||r="TeRP"||c="significant disease in the coronary arteries" 54:4 54:9
+c="chest x-ray" 53:0 53:1||r="TeRP"||c="infiltrate" 53:4 53:4
+c="chest x-ray" 53:0 53:1||r="TeRP"||c="pneumothorax" 53:6 53:6

@@ -1,0 +1,27 @@
+c="cardiac catheterization" 49:10 49:11||r="TeRP"||c="two vessel disease" 49:18 49:20
+c="plavix" 69:8 69:8||r="TrAP"||c="a small stroke" 69:12 69:14
+c="examination" 66:8 66:8||r="TeRP"||c="weakness" 66:6 66:6
+c="coumadin" 71:8 71:8||r="TrAP"||c="apical akinesis" 71:10 71:11
+c="coumadin" 71:8 71:8||r="TrAP"||c="stroke risk" 71:13 71:14
+c="left anterior descending artery stent" 75:10 75:14||r="TrAP"||c="st elevation myocardial infarction" 75:3 75:6
+c="telemetry" 61:8 61:8||r="TeRP"||c="significant events" 61:14 61:15
+c="icd placement" 64:24 64:25||r="TrAP"||c="sudden cardiac death" 64:19 64:21
+c="coumadin" 59:20 59:20||r="TrAP"||c="significant apical akinesis" 59:7 59:9
+c="coumadin" 59:20 59:20||r="TrAP"||c="apical akinesis" 59:30 59:31
+c="heparin" 59:15 59:15||r="TrAP"||c="significant apical akinesis" 59:7 59:9
+c="heparin" 59:15 59:15||r="TrAP"||c="apical akinesis" 59:30 59:31
+c="stroke prevention" 59:24 59:25||r="TrAP"||c="apical akinesis" 59:30 59:31
+c="stroke prevention" 59:24 59:25||r="TrAP"||c="significant apical akinesis" 59:7 59:9
+c="anticoagulation" 59:22 59:22||r="TrAP"||c="apical akinesis" 59:30 59:31
+c="anticoagulation" 59:22 59:22||r="TrAP"||c="significant apical akinesis" 59:7 59:9
+c="a tp3a inhibitor" 22:0 22:2||r="TrNAP"||c="dissection" 22:9 22:9
+c="atorvastatin" 55:12 55:12||r="TrCP"||c="muscle cramping" 55:9 55:10
+c="examination" 70:10 70:10||r="TeRP"||c="neurologic deficit" 70:7 70:8
+c="an aspirin" 69:5 69:6||r="TrAP"||c="a small stroke" 69:12 69:14
+c="further management" 56:11 56:12||r="TrAP"||c="her coronary artery disease" 56:14 56:17
+c="the pain" 16:0 16:1||r="PIP"||c="diaphoresis" 16:20 16:20
+c="the pain" 16:0 16:1||r="PIP"||c="nausea" 16:18 16:18
+c="further evaluation" 56:19 56:20||r="TeCP"||c="her remaining rca lesions" 56:22 56:25
+c="a 90% lesion" 50:7 50:9||r="PIP"||c="a 95% stenosis" 50:15 50:17
+c="a 90% lesion" 50:7 50:9||r="PIP"||c="99% stenosis" 50:23 50:24
+c="these side effects" 55:27 55:29||r="PIP"||c="muscle cramping" 55:9 55:10

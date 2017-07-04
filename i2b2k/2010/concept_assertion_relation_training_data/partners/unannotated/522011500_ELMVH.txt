@@ -1,0 +1,76 @@
+522011500 ELMVH
+98638774
+324573
+7/28/2000 12:00:00 AM
+s / p repeat cesarean section , elective
+DIS
+Admission Date :
+07/28/2000
+Report Status :
+Discharge Date :
+08/01/2000
+****** DISCHARGE ORDERS ******
+LUDZ , AYDADTA W
+X 547-42-07-0 J07
+Room :
+BOU8-799
+Service :
+OBS
+DISCHARGE PATIENT ON :
+08/01/00 AT 10:00 AM
+CONTINGENT UPON
+Attending evaluation
+WILL D / C ORDER BE USED AS THE D / C SUMMARY :
+YES
+Incomplete Discharge
+DISPOSITION :
+Home
+DISCHARGE MEDICATIONS :
+IBUPROFEN 600 MG PO Q6H PRN PAIN DEMEROL ( MEPERIDINE HCL ) 50-100 MG PO Q3H PRN pain
+Alert overridden :
+Override added on 07/28/00 by :
+POSSIBLE ALLERGY ( OR SENSITIVITY ) to NARCOTICS , PHENYLPIPERIDINE
+Reason for override :
+tolerates , only allergic percocet COLACE ( DOCUSATE SODIUM ) 100 MG PO BID PRN consipation
+DIET :
+No Restrictions Activity - As tolerated
+RETURN TO WORK :
+After Appt with local physician
+FOLLOW UP APPOINTMENT ( S ) :
+primary ob 6 wks ,
+ALLERGY :
+Penicillins , Percocet , Narcan ( narcotic antagonists )
+ADMIT DIAGNOSIS :
+Repeat C / S
+PRINCIPAL DISCHARGE DIAGNOSIS ;
+Responsible After Study for Causing Admission ) s / p repeat cesarean section , elective
+OTHER DIAGNOSIS ;
+Conditions , Infections , Complications , affecting Treatment / Stay
+OPERATIONS AND PROCEDURES :
+Primary Anesthesia :
+Spinal
+OTHER TREATMENTS / PROCEDURES ( NOT IN O.R. )
+BRIEF RESUME OF HOSPITAL COURSE :
+G5 T1 P0 A3 L1
+Estimated EDC :
+Maternal transfer :
+No
+Baby 1
+MRN :
+70596205
+Delivery date :
+07/28/00 10:22 AM
+Apgars ,
+Weight :
+lb oz grams
+Sex :
+ADDITIONAL COMMENTS :
+Nothing in the vagina x 6 wks ( no tampons , douching , intercourse ) .
+No driving on percocets , no heavy lifting .
+please call your ob for temperature &gt; 100.5 , increasing abdominal pain , foul discharge , bleeding &gt; 1 pad per hour , problems with wound oozing / redness or other concerns .
+DISCHARGE CONDITION :
+Stable
+TO DO / PLAN :
+ENTERED BY :
+SLIHIBBS , CHLINO G. , M.D. ( VI65 ) 07/28/00 11:34 AM
+****** END OF DISCHARGE ORDERS ******

@@ -1,0 +1,103 @@
+570594910
+CTMC
+25509903
+860320
+11/2/1992 12:00:00 AM
+Discharge Summary
+Signed
+DIS
+Admission Date :
+11/02/1992
+Report Status :
+Signed
+Discharge Date :
+11/06/1992
+PRINCIPAL DIAGNOSIS :
+CORONARY ARTERY DISEASE .
+SECONDARY DIAGNOSIS :
+CHRONIC LYMPHOCYTIC LEUKEMIA .
+HISTORY OF PRESENT ILLNESS :
+The patient is a 73-year-old white man status post coronary artery bypass graft in 1989 admitted for catheterization for evaluation of the current anginal symptoms and a positive exercise tolerance test .
+The patient had a coronary artery bypass graft in 1989 because of unstable angina with LIMA to the LAD and SVG to the OMB and PDA .
+The patient was free of angina until six weeks prior to admission when he began to have anginal symptoms described as a heaviness beginning in the scapula , moving to the retrosternal chest and radiating to the left shoulder with no other associated symptoms .
+These anginal episodes occurred after exercise and also at rest resolving in two to five minutes .
+An exercise tolerance test on 9/21/92 was stopped at seven minutes because of fatigue and chest pain .
+There were positive EKG changes in the inferolateral leads and thallium showed a reversible ischemia in the inferoapical region .
+Addition of diltiazem to the patient &apos;s aspirin and Dyazide medical treatment had no improvement in symptoms .
+The patient had no symptoms of congestive heart failure .
+PAST MEDICAL HISTORY :
+Chronic lymphocytic leukemia .
+The patient started Leukorin treatment two days prior to admission for a white count of 100,000 .
+Hypertension .
+Hyperlipidemia .
+Left total hip replacement in 1988 .
+Low back pain .
+Right internal carotid artery stenosis of 80-90% diagnosed by carotid noninvasives after an episode of amaurosis fugax .
+Gout .
+Skin cancer .
+MEDICATIONS :
+On admission included diltiazem CD , 240 mg po q day ; Isordil , 5 mg po t.i.d. ; aspirin , one po q.o.d. ; Dyazide , one po q.o.d. ; allopurinol , 300 mg po q day ; Levoxine , 0.1 mg q day ; Leukorin , 2 mg two po q a.m.
+ALLERGIES :
+NO KNOWN DRUG ALLERGIES .
+REVIEW OF SYSTEMS :
+Negative except for increasing fatigue in the past two weeks and leg cramps at night .
+PHYSICAL EXAMINATION :
+On admission revealed a blood pressure of 158/88 .
+Pulse 70 .
+Temperature 97.4 .
+Respiratory rate 18 .
+Physical examination was significant for ulcerated fungating lesions on his left ear , dorsum of his hands .
+There was a right carotid bruit .
+Lungs were clear .
+Cardiovascular exam revealed a regular rate and rhythm with S1 , S2 , S4 without murmurs .
+Spleen was felt 4 cm below the costal margin .
+The liver was 10 cm by percussion .
+There were palpable inguinal lymph nodes .
+Pulses were 1-2+ bilaterally .
+Neurological exam was nonfocal .
+LABORATORY DATA :
+On admission included a white blood cell count of 77.8 with 82% lymphs .
+Hematocrit 35.2 .
+Platelet count 104,000 .
+BUN / creatinine 26/1.4 .
+Potassium 4.4 .
+EKG showed normal sinus rhythm , normal axis and intervals , no changes from previous EKG , no signs of ischemia or infarction .
+HOSPITAL COURSE :
+The patient underwent a diagnostic cardiac catheterization on 11/2/92 which showed the following :
+Pressures RA 9/4 , RV 24/7 , PA 24/12 with a mean of 14 , PCW 12/9 with a mean of 10 .
+Cardiac output 6.7 .
+Cardiac index 3.2 .
+SVR 943 .
+Angiography showed an occluded SVG graft to OM1 , patent SVG graft to the RCA , patent LIMA to the LAD .
+There was also 50% occlusion of the left proximal circumflex , 95% occlusion of the right proximal coronary artery , 50% occlusion of the OMB1 , 90% occlusion of the mid LAD .
+The patient tolerated the procedure well .
+The patient then underwent PTCA of the distal RCA lesion .
+Because of difficulty passing the wire through the graft to the RCA , the proximal 95% RCA lesion was dilated first and then the distal RCA lesion was dilated .
+The patient received 600 cc of contrast and the PTCA procedure took approximately three hours .
+The patient did not experience any chest pain during the procedure and has not had any chest pain since the procedure .
+The sheaths were removed on 11/4/92 and heparin was restarted four hours after sheath removal and maintained for two days because of a possible small dissection in the RCA .
+The patient &apos;s hematocrit was 25 on 11/4/92 .
+Repeat hematocrit showed it to be stable at 27 on 11/5 .
+It was thought that the drop in hematocrit was secondary to his chemotherapy , some small dilutional effect and small blood loss from the PTCA , although there was no evidence of significant bleeding .
+The patient was asymptomatic except for some back pain from lying flat after the catheterization procedures .
+His vital signs remained stable .
+He is to be discharged home on 11/6 with follow-up with Dr. Kote , his cardiologist and with Dr. Right , his hematologist .
+DISPOSITION :
+MEDICATIONS :
+On discharge included Levoxine , 0.1 mg po q day ; diltiazem CD , 240 mg po q day ; Isordil , 5 mg po t.i.d. ; aspirin , one po q.o.d. ; Leukeran , 2 mg po two q a.m. ; Dyazide , one po q.o.d. ; allopurinol , 300 mg po q day .
+The patient was discharged to home in stable condition .
+GR863/2-07 COLLEA DOUETSCARV , M.D. RN9
+D :
+11/07/92
+Batch :
+0896
+Report :
+R4900W17
+T :
+11/09/92
+Dicatated By :
+ONLAVE ZEISKOTE , ZBE5
+cc :
+1. ETI MULKEVI , M.D.
+2. DR. RIGHT / Pla
+3. KOTE , M.D.

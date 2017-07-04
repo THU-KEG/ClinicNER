@@ -1,0 +1,14 @@
+c="chest tubes" 76:0 76:1||r="TrCP"||c="incident" 76:6 76:6
+c="oxycodone-acetaminophen" 95:1 95:1||r="TrAP"||c="pain" 95:19 95:19
+c="wires" 76:3 76:3||r="TrCP"||c="incident" 76:6 76:6
+c="a small paravavluar leak" 50:2 50:5||r="PIP"||c="some trace insuffiency" 50:18 50:20
+c="new echo" 70:0 70:1||r="TeRP"||c="thrombus" 70:9 70:9
+c="new echo" 70:0 70:1||r="TeRP"||c="pannus" 70:3 70:3
+c="amiodarone" 74:7 74:7||r="TrIP"||c="episode of afib" 74:0 74:2
+c="echo" 22:5 22:5||r="TeRP"||c="stenotic mech. valve" 22:11 22:13
+c="echo" 22:5 22:5||r="TeRP"||c="decreased disc motion" 22:20 22:22
+c="echo" 22:5 22:5||r="TeRP"||c="mobile mass in lvot" 22:24 22:27
+c="echo" 22:5 22:5||r="TeRP"||c="mild ai" 22:29 22:30
+c="echo" 22:5 22:5||r="TeRP"||c="mild to moderate mr" 22:32 22:35
+c="echo" 22:5 22:5||r="TeRP"||c="trace tr." 22:37 22:38
+c="drugs" 12:8 12:8||r="TrCP"||c="known allergies" 12:5 12:6

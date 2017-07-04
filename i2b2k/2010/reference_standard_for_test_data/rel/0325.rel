@@ -1,0 +1,26 @@
+c="an increasing pillow requirement" 13:4 13:7||r="PIP"||c="orthopnea" 13:2 13:2
+c="a 6-pound weight gain" 14:3 14:6||r="PIP"||c="lower extremity edema" 14:14 14:16
+c="further workup" 76:13 76:14||r="TeCP"||c="her cardiomyopathy" 76:19 76:20
+c="a cough" 17:3 17:4||r="PIP"||c="green sputum" 17:7 17:8
+c="anticardiolipin antibody" 76:9 76:10||r="TeCP"||c="her cardiomyopathy" 76:19 76:20
+c="spep" 76:6 76:6||r="TeCP"||c="her cardiomyopathy" 76:19 76:20
+c="a myocarditis" 78:32 78:33||r="PIP"||c="her elevated cardiac enzymes" 78:39 78:42
+c="a myocarditis" 78:32 78:33||r="PIP"||c="her congestive heart failure" 78:48 78:51
+c="a right heart catheterization" 79:3 79:6||r="TeRP"||c="elevated wedge pressures" 79:10 79:12
+c="a swan - guided therapy" 81:17 81:21||r="TrAP"||c="her elevated wedge pressures" 81:26 81:29
+c="a swan - guided therapy" 81:17 81:21||r="TrAP"||c="low cardiac output" 81:31 81:33
+c="a cough" 88:3 88:4||r="PIP"||c="green sputum" 88:7 88:8
+c="azithromycin" 89:6 89:6||r="TrIP"||c="her cough" 89:12 89:13
+c="azithromycin" 89:6 89:6||r="TrIP"||c="sputum production" 89:15 89:16
+c="telemetry" 86:22 86:22||r="TeRP"||c="ectopy" 86:18 86:18
+c="an icd" 85:3 85:4||r="TrCP"||c="complication" 85:10 85:10
+c="chest x-ray" 67:0 67:1||r="TeRP"||c="right patchy opacity" 67:3 67:5
+c="chest x-ray" 67:0 67:1||r="TeRP"||c="a right effusion" 67:7 67:9
+c="ekg" 68:0 68:0||r="TeRP"||c="sinus tachycardia" 68:2 68:3
+c="ekg" 68:0 68:0||r="TeRP"||c="borderline left axis" 68:5 68:7
+c="ekg" 68:0 68:0||r="TeRP"||c="lvh" 68:12 68:12
+c="ekg" 68:0 68:0||r="TeRP"||c="q waves" 68:19 68:20
+c="ekg" 68:0 68:0||r="TeRP"||c="depression" 68:31 68:31
+c="ekg" 68:0 68:0||r="TeRP"||c="left atrial enlargement" 68:14 68:16
+c="ekg" 68:0 68:0||r="TeRP"||c="p-r depressions" 68:23 68:24
+c="ekg" 68:0 68:0||r="TeRP"||c="st segment elevations" 68:27 68:29

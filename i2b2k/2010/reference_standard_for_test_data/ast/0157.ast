@@ -1,0 +1,6 @@
+c="further events" 13:6 13:7||t="problem"||a="absent"
+c="chest discomfort" 17:7 17:8||t="problem"||a="absent"
+c="myocardial infarction" 15:21 15:22||t="problem"||a="possible"
+c="chest discomfort" 14:12 14:13||t="problem"||a="present"
+c="complications" 13:4 13:4||t="problem"||a="absent"
+c="afebrile" 17:11 17:11||t="problem"||a="absent"

@@ -1,0 +1,8 @@
+c="end stage liver disease" 12:10 12:13||r="PIP"||c="hepatitis c cirrhosis" 12:16 12:18
+c="miconazole nitrate powder" 27:1 27:3||r="TrAP"||c="groin rash" 27:7 27:8
+c="management" 14:20 14:20||r="TrAP"||c="ascites" 14:24 14:24
+c="management" 14:20 14:20||r="TrAP"||c="encephalopathy" 14:22 14:22
+c="the patient 's surgical incision" 68:0 68:4||r="PIP"||c="infection" 68:18 68:18
+c="vancomycin therapy" 44:5 44:6||r="TrAP"||c="his previously diagnosed methicillin resistant , coagulase negative staph bacteremia" 44:8 44:17
+c="a platelet count" 43:5 43:7||r="TeRP"||c="thrombocytopenic" 43:3 43:3
+c="the procedure" 53:0 53:1||r="TrCP"||c="complications" 53:4 53:4

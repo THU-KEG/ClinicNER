@@ -1,0 +1,25 @@
+c="the hematoma" 99:4 99:5||r="PIP"||c="hypertension" 99:10 99:10
+c="a magnetic resonance imaging study" 100:0 100:4||r="TeCP"||c="a small vascular malformation" 100:17 100:20
+c="a small vascular malformation" 100:17 100:20||r="PIP"||c="the hemorrhage" 100:24 100:25
+c="intra-parenchymal hematoma" 92:22 92:23||r="PIP"||c="mild local mass effect" 92:25 92:28
+c="occupational therapy" 103:25 103:26||r="TrAP"||c="arm and leg weakness" 103:10 103:13
+c="occupational therapy" 103:25 103:26||r="TrAP"||c="sensory deficit" 103:15 103:16
+c="occupational therapy" 103:25 103:26||r="TrAP"||c="a mild leftsided face" 103:5 103:8
+c="heel / shin" 73:25 73:27||r="TeCP"||c="a mild dysmetria on the left side" 73:13 73:19
+c="a-line" 105:16 105:16||r="TrAP"||c="her hypertension" 105:0 105:1
+c="sensory exam" 71:1 71:2||r="TeRP"||c="a mild diminution of light touch , pinprick , position , and vibration sense in the left side" 71:5 71:22
+c="hemorrhage" 95:3 95:3||r="PIP"||c="slightly more edema and mass effect" 95:7 95:12
+c="the workup" 107:0 107:1||r="TeCP"||c="secondary cause" 107:5 107:6
+c="3 centimeter hyperdensity" 92:7 92:9||r="PIP"||c="mild local mass effect" 92:25 92:28
+c="3 centimeter hyperdensity" 92:7 92:9||r="PIP"||c="surrounding edema" 92:30 92:31
+c="3 centimeter hyperdensity" 92:7 92:9||r="PIP"||c="intra-parenchymal hematoma" 92:22 92:23
+c="the exam" 103:0 103:1||r="TeRP"||c="a mild leftsided face" 103:5 103:8
+c="the exam" 103:0 103:1||r="TeRP"||c="sensory deficit" 103:15 103:16
+c="the exam" 103:0 103:1||r="TeRP"||c="arm and leg weakness" 103:10 103:13
+c="physical therapy" 103:22 103:23||r="TrAP"||c="arm and leg weakness" 103:10 103:13
+c="physical therapy" 103:22 103:23||r="TrAP"||c="sensory deficit" 103:15 103:16
+c="physical therapy" 103:22 103:23||r="TrAP"||c="a mild leftsided face" 103:5 103:8
+c="finger / nose" 73:21 73:23||r="TeCP"||c="a mild dysmetria on the left side" 73:13 73:19
+c="nipride intravenously" 105:18 105:19||r="TrAP"||c="her hypertension" 105:0 105:1
+c="head computerized tomography scan" 92:0 92:3||r="TeRP"||c="intra-parenchymal hematoma" 92:22 92:23
+c="cerebellar hemorrhage" 99:20 99:21||r="PIP"||c="hypertension" 99:23 99:23

@@ -1,0 +1,89 @@
+056209409 EH
+48339582
+2353146
+7/16/2005 12:00:00 AM
+pulmonary embolism
+DIS
+Admission Date :
+07/16/2005
+Report Status :
+Discharge Date :
+07/18/2005
+****** DISCHARGE ORDERS ******
+FREIERMLIERMGREND , TABEER D. 269-88-86-8 Z02
+Room :
+00T-419
+Service :
+MED
+DISCHARGE PATIENT ON :
+07/18/05 AT 12:00 PM
+CONTINGENT UPON
+Not Applicable
+WILL D / C ORDER BE USED AS THE D / C SUMMARY :
+YES
+Attending :
+SEIELSPALDSNA , NME , M.D.
+CODE STATUS :
+Full code
+DISPOSITION :
+Home
+DISCHARGE MEDICATIONS :
+COUMADIN ( WARFARIN SODIUM ) 5 MG PO QPM Starting NOW , Within Hour of Pharmacy Approval ( 07/17 )
+Food / Drug Interaction Instruction
+No high Vitamin-K containing foods LOVENOX ( ENOXAPARIN ) 90 MG SC BID
+DIET :
+No Restrictions
+ACTIVITY :
+Resume regular exercise
+FOLLOW UP APPOINTMENT ( S ) :
+follow up with your primary care provider , Arrange INR to be drawn on 7/23/05 with f / u INR&apos;s to be drawn every 5 days .
+INR&apos;s will be followed by IGH coumadin clinic and Dr. Go
+ALLERGY :
+Erythromycins , DIPHENHYDRAMINE HCL , CODINE , COMBIVENT , DICLXACILLIN , IV IODINE , PREDNISONE , PROCAINE HCL 1% , BUDESONIDE , steroid inhalers , CITALOPRAM , CELECOXIB
+ADMIT DIAGNOSIS :
+pulmonary embolism
+PRINCIPAL DISCHARGE DIAGNOSIS ; Responsible After Study for Causing Admission ) pulmonary embolism
+OTHER DIAGNOSIS ; Conditions , Infections , Complications , affecting Treatment / Stay PE ( pulmonary embolism ) DVT ( deep venous thrombosis ) sleep apnea ( sleep apnea ) obesity ( obesity ) osteopenia ( osteopenia ) asthma ( asthma ) uterine cancer ( uterine cancer ) diverticulosis ( diverticulosis ) past smoker ( past smoking ) CTS ( carpal tunnel syndrome ) PTSD ( post traumatic stress disorder ) lactose intolerance ( lactose intolerance ) protein S deficiency
+OPERATIONS AND PROCEDURES :
+OTHER TREATMENTS / PROCEDURES ( NOT IN O.R. ) none
+BRIEF RESUME OF HOSPITAL COURSE :
+67yo F with mild protein S deficiency and h / o PE 25 yrs ago as well as multiple DVTs , who p / w 10/10 pleuritic CP the night prior to admission , which awoke her from sleep .
+Pain was positional ( better w/ sitting up ) , she went to sleep sitting .
+This was similar to her prior PE .
+She went to see her PCP the following afternoon , EKG and CXR were unchanged .
+She was then instructed to go to the ED for evaluation w/ VQ scan .
+Of note , pt c / o intermittent pleuritic CP in the last 3 wks assoc w/ mild SOB .
+No hemoptysis .
+During the evaluation for the etiology of her PE / DVT she was found to have a mild protein S deficiency , but she was also a smoker and on OCPs when her first PE occurred .
+She discontinued her Coumadin around menopause as directed by her PCP .
+Fam Hx :
++ DVT in multiple family members In the ED , she was afebrile with pulse of 99 , BP 154/66 , O2 sat 95% on RA .
+She had a small R pleural effusion on her CXR .
+She underwent a VQ scan given her iodine allergy which was read as low probability .
+She was given Lovenox 70mg sc x1 .
+She has a history of IV contrast allergy ( rash ) and refused PE CT .
+she was treated for presumptive diagnosis of PE given high pre-test probability .
+EKG :
+ectopic atrial rhythm , LAD , incomplete RBBB , no STTW changes
+HOSPITAL COURSE :
+HEME :
+Lenis negative .
+Pt. refuses PE-CT given contrast allergy .
+Will treat for recurrent PE with Lovenox 1mg/kg/dose every 12 hours , start Coumadin , and overlap for at least 5 days .
+PULM :
+Small pleural effusion likely in setting of pulmonary embolism .
+CV :
+Hemodynamically stable , no tachycardia , no hypoxia .
+No prior echo available .
+GI :
+h / o diverticulosis and lactose intolerance
+Ppx :
+PPI , Lovenox at full dose
+ADDITIONAL COMMENTS :
+DISCHARGE CONDITION :
+Stable
+TO DO / PLAN :
+No dictated summary
+ENTERED BY :
+GREND , SCAHER TATA , M.D. , M.P.H. ( MM22 ) 07/18/05 11:45 AM
+****** END OF DISCHARGE ORDERS ******

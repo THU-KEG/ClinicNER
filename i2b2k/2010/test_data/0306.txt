@@ -1,0 +1,114 @@
+466217945
+BH
+0568574
+158979
+3/7/2002 12:00:00 AM
+Discharge Summary
+Signed
+DIS
+Report Status :
+Signed
+DISCHARGE SUMMARY NAME :
+JESCOBEJESC , SON
+UNIT NUMBER :
+485-03-93
+ADMISSION DATE :
+03/07/2002
+DISCHARGE DATE :
+03/13/2002
+PRIMARY DIAGNOSIS :
+Wound infection .
+ASSOCIATED DIAGNOSIS :
+None .
+PRINCIPAL PROCEDURES :
+Incision and drainage of wound infection on 3/7/02 .
+Abdominal pelvic CT scan on 3/10/02 .
+Fistulogram on 3/11/02 .
+Intravenous antibiotics .
+HISTORY OF PRESENT ILLNESS :
+The patient is a 79-year-old man status postradical cystoprostatectomy with ileal loop for locally invasive prostate cancer .
+This operation was performed 2/11/02 by Dr. Doje Para .
+The postoperative course was complicated by atrial fibrillation with transfer to the Cardiac Step-Down Unit .
+This transfer occurred around postoperative day 8 for anticoagulation and amiodarone load .
+The anticoagulation was stopped due to concern for postoperative bleeding .
+The patient complained of fevers .
+The patient presented to the emergency room on 3/7/02 , complaining of fevers since Monday 3/2/02 .
+He developed erythema around the wound on Wednesday and was seen by Dr. Para , who started Keflex and obtained a CT scan which demonstrated a fluid collection at the site of erythema .
+The fevers continued as high as 102.5 degrees F with chills on the morning of admission .
+He was draining pus from the wound site with subsequent relief of discomfort at the site .
+PAST MEDICAL HISTORY :
+Hypertension , atrial fibrillation , gout .
+PAST SURGICAL HISTORY :
+Cystoprostatectomy , bilateral inguinal hernia repair .
+MEDICATIONS ON ADMISSION :
+Keflex 500 mg qid .
+ALLERGIES :
+No known drug allergies .
+PHYSICAL EXAMINATION ON ADMISSION :
+On presentation , temperature 99.3 degrees F , other vital signs were within normal limits .
+He was in no acute distress , non-toxic .
+Cardiovascular :
+Regular rate and rhythm .
+Pulmonary :
+Clear to auscultation bilaterally .
+Abdomen soft and there was wound erythema with three areas of dehiscence draining foul-smelling , purulent fluid .
+The fascia appeared intact by probing .
+The stoma was pink and functional .
+The wound was a midline incision for his radical cystoprostatectomy .
+LABORATORY DATA :
+White blood cell count 16.9 , hematocrit 32.2 , platelet count 418 , sodium 131 , potassium 3.4 , chloride 102 , bicarbonate 21.4 , BUN27 , creatinine 1.4 , glucose 150 .
+RADIOLOGIC STUDIES :
+CT scan 3/5/02 :
+A fluid collection external to the fascia consistent with site of erythema .
+HOSPITAL COURSE :
+The patient was admitted to Urology .
+After the wound was further opened , he was started on ampicillin , Gentamicin , and Flagyl antibiotics and he was placed on a bid dressing change and packing .
+On hospital day 2 , the patient had no complaints .
+He was afebrile with stable vital signs and good urine output .
+The wound erythema was improving and the wound was packed twice a day .
+Wound cultures remained negative at that time .
+We continued his ampicillin , Gentamicin , and Flagyl .
+By hospital day 4 , he remained afebrile throughout his hospital course .
+The wound cultures demonstrated gram-positive cocci in clusters and gram-negative rods .
+Blood cultures remained negative .
+The patient was continued on antibiotics and we obtained a CT scan to check for an enterocutaneous fistula .
+We discontinued his Flagyl on that day .
+We contacted the patient &apos;s primary care physician , Dr. Aslinke ______ , regarding his cardiac medication management .
+We agreed that he should resume his atenolol .
+He was started on 2.5 mg PO qd .
+He was continued on his dressing changes .
+We changed the dressings tid instead of bid for continued drainage .
+The CT scan that was obtained on 3/10/02 demonstrated no connection between bowel and the wound .
+The drainage had been decreasing and the patient continued to be afebrile .
+On the following day , 3/11/02 , a fistulogram was obtained which was negative for a fistula from the bowel to the wound .
+The patient was continued on ampicillin and Gentamicin .
+Her remained afebrile with stable vital signs .
+He was comfortable and erythema continued to decrease with improvemeent in the appearance of the wound .
+In consultation with Infectious Disease , it was agreed to discharge the patient on Augmentin for coverage .
+We obtained sensitivities of his wound bacteria .
+His intravenous antibiotics were discontinued .
+He remaineda febrile with daily improvement in the appearance of his wound .
+On hospital day 7 , the patient remained afebrile with stable vital signs .
+His wound demonstrated no erythema with moderate dark drainage .
+The patient will be discharged with WH and continued dressing changes bid .
+DISCHARGE INSTRUCTIONS :
+1. The patient will be sent home on 7 days of Augmentin PO .
+2. The patient will have follow-up with Dr. Para in three weeks .
+MEDICATIONS ON DISCHARGE :
+Percocet as needed for pain .
+Norvasc 2.5 mg PO qd .
+Augmentin 500/125 1 tab PO tid x 7 days .
+LAKO C SCARVTWI , M.D.
+DICTATING FOR :
+Electronically Signed
+DOJE EED PARA , M.D.
+04/21/2002 10:49
+_____________________________ DOJE EED PARA , M.D.
+TR :
+yh
+DD :
+03/13/2002
+TD :
+03/13/2002 9:24 A 158979
+cc :
+DOJE EED PARA , M.D.

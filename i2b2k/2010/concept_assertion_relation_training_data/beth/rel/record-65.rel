@@ -1,0 +1,114 @@
+c="drainage" 28:19 28:19||r="TrAP"||c="her effusion" 28:5 28:6
+c="her effusion" 28:5 28:6||r="PIP"||c="her sob" 28:9 28:10
+c="cxr" 147:29 147:29||r="TeRP"||c="consolidations" 147:27 147:27
+c="a left thoracentesis" 91:8 91:10||r="TrNAP"||c="her effusions" 91:21 91:22
+c="her effusions" 91:21 91:22||r="PIP"||c="transudative" 91:24 91:24
+c="her effusions" 91:21 91:22||r="PIP"||c="chf" 91:28 91:28
+c="her effusions" 91:21 91:22||r="PIP"||c="chf" 91:36 91:36
+c="tube" 135:23 135:23||r="TrAP"||c="ptx" 135:16 135:16
+c="enzymes" 81:9 81:9||r="TeRP"||c="mi" 81:7 81:7
+c="boluses" 145:21 145:21||r="TrWP"||c="low amounts of urine" 145:5 145:8
+c="mary studies" 133:0 133:1||r="TeRP"||c="transudate" 133:3 133:3
+c="a lasix drip iv" 93:3 93:6||r="TrWP"||c="net positive fluid balance" 93:37 93:40
+c="iv lasix gtt" 145:17 145:19||r="TrWP"||c="low amounts of urine" 145:5 145:8
+c="sob" 114:1 114:1||r="PIP"||c="chf" 114:6 114:6
+c="sob" 114:1 114:1||r="PIP"||c="her copd" 114:16 114:17
+c="aggressive diuresis" 145:14 145:15||r="TrWP"||c="low amounts of urine" 145:5 145:8
+c="her urine lytes" 142:0 142:2||r="TeRP"||c="atn" 142:5 142:5
+c="lung volumes" 68:0 68:1||r="TeRP"||c="low" 68:3 68:3
+c="ecg" 55:0 55:0||r="TeRP"||c="lbbb" 55:11 55:11
+c="ecg" 55:0 55:0||r="TeRP"||c="st or tw changes" 55:14 55:17
+c="2 echocardiograms" 83:3 83:4||r="TeRP"||c="persistent pericardial effusions" 83:7 83:9
+c="pacer placement" 127:17 127:18||r="TrCP"||c="a complication" 127:14 127:15
+c="pacer placement" 127:17 127:18||r="TrCP"||c="her large pericardial effusion" 127:5 127:8
+c="her large pericardial effusion" 127:5 127:8||r="PIP"||c="a complication" 127:14 127:15
+c="tte" 58:0 58:0||r="TeRP"||c="rv diastolic collapse" 58:17 58:19
+c="tte" 58:0 58:0||r="TeRP"||c="mod-lg circumferential pericardial eff" 58:9 58:12
+c="tte" 58:0 58:0||r="TeRP"||c="tamponade" 58:26 58:26
+c="diuresis" 85:6 85:6||r="TrWP"||c="her o2 requirement" 85:0 85:2
+c="exam" 125:30 125:30||r="TeRP"||c="tamponade" 125:28 125:28
+c="transudate" 116:18 116:18||r="PIP"||c="chf" 116:24 116:24
+c="ct placement" 21:28 21:29||r="TrAP"||c="a ptx" 21:25 21:26
+c="studies" 116:15 116:15||r="TeRP"||c="transudate" 116:18 116:18
+c="exam" 114:8 114:8||r="TeRP"||c="chf" 114:6 114:6
+c="her 05-28 cxr" 118:13 118:15||r="TeRP"||c="right pleural effusion" 118:23 118:25
+c="cr" 20:10 20:10||r="TeRP"||c="arf" 20:8 20:8
+c="hypoxic respiratory failure" 177:4 177:6||r="PIP"||c="pulmonary edema" 177:1 177:2
+c="pacer placement" 182:6 182:7||r="TrAP"||c="sick sinus syndrome" 182:1 182:3
+c="her 05-27 cxr" 118:0 118:2||r="TeRP"||c="pnx" 118:6 118:6
+c="her 05-27 cxr" 118:0 118:2||r="TeRP"||c="effusion" 118:8 118:8
+c="imaging" 127:26 127:26||r="TeCP"||c="a complication" 127:14 127:15
+c="pafib" 19:8 19:8||r="PIP"||c="sss" 19:10 19:10
+c="echo" 89:25 89:25||r="TeRP"||c="change in appearance of effusion" 89:19 89:23
+c="a right sided thoracentesis" 81:13 81:16||r="TeRP"||c="transudative fluid" 81:19 81:20
+c="pacer" 64:0 64:0||r="TrCP"||c="perforation" 64:9 64:9
+c="drainage" 116:4 116:4||r="TrAP"||c="right pleural effusion" 116:6 116:8
+c="renal u/s" 143:0 143:1||r="TeRP"||c="hydronephrosis" 143:4 143:4
+c="head ct" 59:0 59:1||r="TeRP"||c="atrophy" 59:10 59:10
+c="head ct" 59:0 59:1||r="TeRP"||c="dense calcification of the tentorium" 59:12 59:16
+c="pericardial drainage" 89:8 89:9||r="TrNAP"||c="change in appearance of effusion" 89:19 89:23
+c="nc" 96:14 96:14||r="TrAP"||c="her oxygen requirement" 96:22 96:24
+c="u/a" 148:0 148:0||r="TeRP"||c="uti" 148:4 148:4
+c="ivf" 26:4 26:4||r="TrAP"||c="her arf" 26:6 26:7
+c="a tte" 27:2 27:3||r="TeRP"||c="rv diastolic collapse" 27:22 27:24
+c="a tte" 27:2 27:3||r="TeRP"||c="tamponade" 27:31 27:31
+c="a tte" 27:2 27:3||r="TeRP"||c="mod-lg circumferential pericardial effusion" 27:15 27:18
+c="pacer" 19:12 19:12||r="TrAP"||c="symptomatic pauses" 19:16 19:17
+c="cxr" 152:4 152:4||r="TeRP"||c="opacity" 152:2 152:2
+c="drainage" 19:26 19:26||r="TrAP"||c="large pericardial effusion" 19:21 19:23
+c="nrb" 96:27 96:27||r="TrAP"||c="her oxygen requirement" 96:22 96:24
+c="tte" 115:0 115:0||r="TeRP"||c="large pericardial effusion" 115:2 115:4
+c="treatment" 28:21 28:21||r="TrAP"||c="chf" 28:23 28:23
+c="a cxr" 98:0 98:1||r="TeRP"||c="stable cardiomegaly" 98:16 98:17
+c="a cxr" 98:0 98:1||r="TeRP"||c="rll infiltrate" 98:21 98:22
+c="a cxr" 98:0 98:1||r="TeRP"||c="moderate sized bilateral pleural effusions" 98:10 98:14
+c="pericardial effusion" 125:1 125:2||r="PIP"||c="rv perforation" 125:12 125:13
+c="pleural effusions" 132:1 132:2||r="PIP"||c="chf" 132:7 132:7
+c="pleural effusions" 132:1 132:2||r="PIP"||c="some leukocytosis" 132:10 132:11
+c="floridly positive" 149:14 149:15||r="PIP"||c="levo-resistant" 149:27 149:27
+c="ua" 149:12 149:12||r="TeRP"||c="floridly positive" 149:14 149:15
+c="ua" 149:12 149:12||r="TeRP"||c="levo-resistant" 149:27 149:27
+c="her amiodarone" 23:10 23:11||r="TrCP"||c="her nausea" 23:5 23:6
+c="afib" 79:5 79:5||r="PIP"||c="sss" 79:7 79:7
+c="cxr" 56:0 56:0||r="TeRP"||c="bilateral pleural eff" 56:9 56:11
+c="cxr" 56:0 56:0||r="TeRP"||c="pericardial eff" 56:13 56:14
+c="sss" 33:2 33:2||r="PIP"||c="afib" 33:0 33:0
+c="morphine gtt" 134:12 134:13||r="TrAP"||c="air hunger" 134:19 134:20
+c="the lung volumes" 66:2 66:4||r="TeRP"||c="bilateral pleural effusions" 66:7 66:9
+c="chest ct" 147:10 147:11||r="TeRP"||c="underlying consolidations" 147:14 147:15
+c="chest ct" 147:10 147:11||r="TeRP"||c="atelectasis" 147:17 147:17
+c="oliguric arf" 141:1 141:2||r="PIP"||c="n/v" 141:8 141:8
+c="oliguric arf" 141:1 141:2||r="PIP"||c="poor po intake" 141:9 141:11
+c="oliguric arf" 141:1 141:2||r="PIP"||c="poor forward flow" 141:13 141:15
+c="chest tube" 135:18 135:19||r="TrAP"||c="ptx" 135:16 135:16
+c="drainage" 79:63 79:63||r="TrAP"||c="bilateral pleural effusions" 79:65 79:67
+c="drainage" 79:63 79:63||r="TrAP"||c="bilateral pleural effusions" 79:35 79:37
+c="pacer dddr ( vitatron cl860 )" 36:0 36:5||r="TrAP"||c="sss" 36:9 36:9
+c="pacer dddr ( vitatron cl860 )" 36:0 36:5||r="TrAP"||c="symptomatic bradycardia" 36:11 36:12
+c="sss" 36:9 36:9||r="PIP"||c="symptomatic bradycardia" 36:11 36:12
+c="pericardial effusion drainage" 79:52 79:54||r="TrAP"||c="a large pericardial effusion" 79:30 79:33
+c="pacer" 125:15 125:15||r="TrCP"||c="rv perforation" 125:12 125:13
+c="treatment" 79:56 79:56||r="TrAP"||c="chf" 79:58 79:58
+c="tte" 129:6 129:6||r="TeCP"||c="chf" 129:1 129:1
+c="chf" 129:1 129:1||r="PIP"||c="diastolic dysfunction" 129:10 129:11
+c="moderate to large pericardial effusion" 62:2 62:6||r="PIP"||c="minimal fluid anteriorly" 62:8 62:10
+c="moderate to large pericardial effusion" 62:2 62:6||r="PIP"||c="bloody" 62:15 62:15
+c="echo" 79:40 79:40||r="TeRP"||c="tamponade" 79:45 79:45
+c="pacer" 79:9 79:9||r="TrAP"||c="sss" 79:7 79:7
+c="pacer" 79:9 79:9||r="TrAP"||c="afib" 79:5 79:5
+c="her urine output" 87:0 87:2||r="TeRP"||c="decreased" 87:3 87:3
+c="zosyn" 119:22 119:22||r="TrAP"||c="right lower lobe infiltrate" 119:13 119:16
+c="chest tube" 36:18 36:19||r="TrAP"||c="r ptx" 36:15 36:16
+c="ct" 79:14 79:14||r="TrAP"||c="ptx" 79:12 79:12
+c="bilat pleural eff" 57:14 57:16||r="PIP"||c="underlying consolidation" 57:18 57:19
+c="bilat pleural eff" 57:14 57:16||r="PIP"||c="pna" 57:23 57:23
+c="bilat pleural eff" 57:14 57:16||r="PIP"||c="atelectasis" 57:25 57:25
+c="underlying consolidation" 57:18 57:19||r="PIP"||c="pna" 57:23 57:23
+c="underlying consolidation" 57:18 57:19||r="PIP"||c="atelectasis" 57:25 57:25
+c="a-paced" 135:5 135:5||r="TrAP"||c="afib/sss" 135:1 135:1
+c="ct chest" 57:0 57:1||r="TeRP"||c="large pericardial effusion" 57:10 57:12
+c="ct chest" 57:0 57:1||r="TeRP"||c="bilat pleural eff" 57:14 57:16
+c="ct chest" 57:0 57:1||r="TeRP"||c="underlying consolidation" 57:18 57:19
+c="most recent cxr" 135:36 135:38||r="TeRP"||c="ptx" 135:34 135:34
+c="vanco" 119:20 119:20||r="TrAP"||c="right lower lobe infiltrate" 119:13 119:16
+c="boluses of iv lasix" 93:15 93:18||r="TrWP"||c="net positive fluid balance" 93:37 93:40

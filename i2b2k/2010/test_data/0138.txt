@@ -1,0 +1,56 @@
+180414134
+PUOMC
+8987576
+39627
+936967
+09/08/1996 12:00:00 AM
+Discharge Summary
+Unsigned
+DIS
+Report Status :
+Unsigned
+DISCHARGE SUMMARY
+NAME :
+PRUESSCHIRD , RIIE
+UNIT NUMBER :
+825-78-07
+ADMISSION DATE :
+09/08/96
+DISCHARGE DATE :
+09/17/96
+HISTORY OF PRESENT ILLNESS :
+This 82 year old retired engineer has had multiple admissions to the Ph University Of Medical Center for multiple strokes and a spontaneous subdural hematoma and prostatic hypertrophy .
+He has been managing at home on restricted activity but able to get around with a walker but on the day before admission he became increasing dyspneic and on the day of admission he collapsed and was unable to walk to his bed .
+For this he was admitted .
+PHYSICAL EXAMINATION :
+On physical examination the patient was both chronically and acutely ill , dyspneic , mildly febrile and with coarse rales in both bases .
+He was in chronic atrial fibrillation and his vital signs were otherwise stable .
+His abdomen was negative .
+His prostate enlarged and he had no peripheral edema .
+LABORATORY DATA :
+He had mild elevation of the WBC intermittently grossly bloody urine .
+No cultures were positive but the chest x-ray showed bilateral densities more on the left than the right compatible with aspiration pneumonia .
+There were no radiographic indications of congestive heart failure .
+HOSPITAL COURSE AND TREATMENT :
+The patient was started on Clindamycin intravenous and Cefuroxime intravenous with clearing of his fever but persistence of cough , choking , and intermittently many coarse rales in his base with no clearing by x-ray .
+His ambulation was minimal and always with assistance but he had a transurethral resection of the prostate on 09/14/96 .
+He is transferred to Louline Mauikings Medical Center for future rehabilitation and hopeful return home with considerable support and assistance .
+DISCHARGE DIAGNOSIS :
+Aspiration pneumonia bilateral , multiple strokes , chronic atrial fibrillation , prostatic hypertrophy with gross hematuria .
+MEDICATIONS ON DISCHARGE :
+Digoxin 0.25 mg .
+Hytrin 2mg at bedtime .
+Ticlid 0.25 g po bid .
+Bronchodilators as needed .
+DOCTOR &apos;S DISCHARGE ORDERS :
+Strict aspiration precautions with avoidance of clear liquids and all other liquids thickened .
+Increased ambulation with assistance and daily pulmonary physical therapy .
+TOOB OBESTIMEUPH , M.D.
+TR :
+ua
+DD :
+09/16/96
+TD :
+09/16/96 4:10 P
+cc :
+DOJE EED BOLMSHI , M.D. TOOB I OBESTIMEUPH , M.D. l1xk STAT

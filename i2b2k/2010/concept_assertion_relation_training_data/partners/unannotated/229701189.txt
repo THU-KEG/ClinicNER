@@ -1,0 +1,64 @@
+229701189
+PUOMC
+9134959
+849659
+813598
+02/11/1997 12:00:00 AM
+HEPATITIS B-RELATED CIRRHOSIS .
+Unsigned
+DIS
+Report Status :
+Unsigned
+DISCHARGE SUMMARY
+NAME :
+HIBBSLIRES , LOJOA M
+UNIT NUMBER :
+690-02-35
+ADMISSION DATE :
+02/11/97
+DISCHARGE DATE :
+02/28/97
+PRINCIPAL DIAGNOSIS :
+Hepatitis B-related cirrhosis .
+ASSOCIATED DIAGNOSIS :
+Tuberculosis in childhood .
+(2) Hepatic encephalopathy .
+(3) Grade I esophageal varices .
+(4) Hepatic hydrothorax on the right .
+(5) peptic ulcer disease .
+PRINCIPAL PROCEDURE :
+Repeated pleurocentesis .
+Chest tube placement on the right .
+Endotracheal intubation .
+HISTORY OF PRESENT ILLNESS :
+REASON FOR HOSPITALIZATION :
+This is a 60-year-old Mandarin speaking gentleman , with a long history of end-stage liver disease secondary to Hepatitis B. infection diagnosed approximately six years prior to admission , who now presents with recurrence of right-sided hydrothorax thought to be related as an ascitic equivalent on the right side .
+The patient has been admitted multiple times with this symptom , and in this setting , was called in to the hospital by his primary care doctor on the day of admission for increasing shortness of breath , and dyspnea on exertion .
+He was admitted to the Medical Service where he was found to have a transudative , right-sided effusion thought again to be the equivalent of his ascites on the basis of end-stage liver disease .
+It was tapped and drained with placement of a chest tube .
+The chest tube was removed , but then replaced on the 14th of February , and maintained a continuous and large volume output .
+The patient was evaluated by the Liver Transplant Service , and on the end of his first week of admission , became increasingly somnolent with exam findings consistent with evolving hepatic encephalopathy .
+This change in mental status remained refractory to medical management , and in the setting of recurrent spiking fevers and worsening renal function , he was transferred to the Intensive Care Unit on the 17th of February , 1997 .
+In the Intensive Care Unit , his chest tube continued to have massive volume output , and an increasing number of white cells with a left shift were noted in the transudated fluid .
+He has not been considered as a candidate for a TIPPS or for pleurodesis , given his position at the top of the transplant list for his blood type , B .
+Early in his Intensive Care Unit admission , Mr. Hibbslires was intubated and ventilated , placed on broad antibiotic coverage including Vancomycin , Fluconazole , Ceftazidime , and Flagyl .
+His renal function continued to worsen and he developed hypervolemic hyponatremia , and hemodynamic parameters consistent with sepsis .
+Blood cultures in this setting grew out Staphylococcus aureus and antibiotic coverage was altered to cover this organism appropriately .
+During the first week of February in spite of antibiosis , the patient developed worsening renal failure , became anuric , and developed rapid progression in spite of his chest tube of the right-sided hydrothorax in addition to diffuse pulmonary infiltrates consistent with adult respiratory distress syndrome vs. extreme volume overload .
+He became dependent on pressers .
+On the 26th of February , the patient had an extremely large volume gastrointestinal bleed , and worsened hepatic encephalopathy .
+In consultation with the patient &apos;s primary doctor , Dr. Leynslentnerswaimjesc and with his gastrointestinal physician , Dr. Loydbreunlinke , and with the patient &apos;s family , the decision was made in the setting of his grim prognosis and multiple morbidities that further aggressive treatment would not be pursued .
+The patient was evaluated for continuous venous venous hemodialysis , which in the end in the setting of the family &apos;s wishes , was not begun with this patient .
+On the 27th of February , the patient succumbed to overwhelming sepsis and anuric renal failure , and hypervolemia .
+The time of death was 5:16 A.M. on the 27th of February , 1997 .
+The family was present .
+Dr. Leynslentnerswaimjesc , Lau , and Launtburce were notified .
+_______________________ CIE S. FALESCOURC , M.D.
+TR :
+dfn
+DD :
+09/01/97
+TD :
+09/01/97 11:44 P
+cc :
+SHAUNDNA RAANA LOYDBREUNLINKE , M.D. LENNI EENAHILDE DOSE , M.D. LAU LEYNSLENTNERSWAIMJESC , M.D.

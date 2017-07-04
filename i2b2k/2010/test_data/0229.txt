@@ -1,0 +1,129 @@
+0488076
+Admission Date :
+2015-07-12
+Discharge Date :
+2015-07-19
+Date of Birth :
+1970-05-06
+Sex :
+F
+Service :
+HISTORY OF PRESENT ILLNESS :
+The patient is a 48 - year-old woman who was transferred from Shaugnessy-Kaplan Rehab Hospital .
+The patient originally presented to her PCP approximately one week prior to admission here with increasing cough , dyspnea and fatigue .
+She was given a Z-Pak for treatment along with albuterol .
+Despite this , she continued to worsen and became febrile .
+So , she was admitted to Shaugnessy-Kaplan Rehab Hospital on 2015-07-10 .
+At the hospital , she was started on Rocephin and Levaquin for a right lower lobe pneumonia seen on chest x-ray .
+She continued to have increasing respiratory distress with hypoxia .
+She was also significantly tachypneic .
+At this time , repeat chest x-ray showed bilateral diffuse infiltrates consistent with ARDS .
+The patient was intubated and then transferred to Hahnemann General Hospital CMED .
+PAST MEDICAL HISTORY :
+Hypothyroidism .
+Depression .
+Anxiety disorder .
+MEDICATIONS :
+1. Levoxyl 112 mcg q.d.
+2. Prozac .
+3. Codeine for cough .
+ALLERGIES :
+No known drug allergies .
+SOCIAL HISTORY :
+The patient is unemployed .
+She smokes approximately one pack per day .
+She drinks alcohol socially .
+PHYSICAL EXAMINATION :
+On admission , vital signs:
+Temperature 101.4 , blood pressure 101/62 , pulse 80 , respiratory rate 19 on a ventilator with settings of assist control at 500/12 and a PEEP of 5 .
+General :
+The patient is intubated and sedated , but easily arousable .
+HEENT :
+Pupils equally round and reactive to light .
+Sclerae are anicteric .
+ET tube is in place .
+Neck :
+Soft and supple .
+Cardiovascular :
+Normal .
+Chest :
+Faint scattered wheezes bilaterally .
+Abdomen :
+Benign .
+Extremities :
+Warm with good distal pulses .
+There is no edema .
+Neurologic :
+Able to follow simple commands .
+LABORATORY DATA :
+Labs on admission from outside hospital , CBC notable for a white count of 21.9 with hematocrit of 36.3 and normal platelets .
+Chem-7 notable for potassium of 3.2 and bicarbonate of 30 .
+LFTs show an elevated ALT of 52 and AST of 101 with normal alkaline phosphatase and total bilirubin .
+Latest arterial blood gas with pH of 7.45 , pCO2 43 and pO2 155 on 100 percent oxygen via ventilator .
+RADIOGRAPHIC STUDIES :
+Chest x-ray shows right middle lobe , right lower lobe , and left lower lobe infiltrates .
+EKG shows normal sinus rhythm at 70 beats per minute with normal axis and intervals , borderline LVH .
+SUMMARY OF HOSPITAL COURSE :
+Respiratory :
+On admission , the patient had what appeared to be acute respiratory distress syndrome secondary to community - acquired pneumonia .
+She was maintained on a ventilator and ventilated according to ARDSNet protocol .
+For antibiotic coverage of her pneumonia , she was started on Levaquin , ceftriaxone , and vancomycin .
+Over the next two days after admission , the patient 's vent settings were gradually weaned , and she was extubated two days after being transferred to this hospital .
+After extubation , the patient was oxygenating well on face mask .
+She did continue to have a persistent fairly severe cough ; however , her cough was weak due to abdominal muscle pain from repeated coughing .
+The cough was mostly nonproductive .
+The patient was breathing comfortably .
+As there was no identified bacterial pathogen on any cultures , the patient was continued on the triple antibiotics for first several days of the hospitalization .
+She was also on round-the-clock Atrovent and albuterol nebulizers .
+Once the patient was transferred out of the ICU and after extubation , the antibiotics were gradually narrowed .
+The vancomycin and Levaquin were discontinued after approximately four days in the hospital .
+The ceftriaxone was discontinued after four days in the hospital , and the patient was to continue on Levaquin .
+The patient had gradual improvement in her oxygenation .
+Pain control :
+The patient had fairly significant abdominal pain secondary to persistent cough .
+She was started on a regimen of MS Contin with oxycodone for breakthrough pain .
+This helped her somewhat though she has continued to have difficulty coughing due to the pain .
+Tylenol and ibuprofen were also added for better control .
+Transaminitis :
+The patient was noted to have mild transaminitis on admission .
+However , this was felt to be due to her significant infection .
+This should continue to be followed as an outpatient to assure that it returns back to normal .
+Anemia :
+The patient 's reticulocyte count showed inadequate production .
+Iron studies showed a mixed picture with decreased iron and decreased iron to TIBC ratio suggestive of iron-deficiency anemia , but also normal to high MCV .
+B12 was noted to be low and the patient was given an injection of IM B12 while in the hospital .
+She was also started on iron supplementation .
+Hypothyroidism :
+The patient was continued on Synthroid for her chronic hypothyroidism .
+DISCHARGE STATUS :
+The patient was discharged home with services .
+DISCHARGE CONDITION :
+Good .
+DISCHARGE DIAGNOSES :
+Community-acquired pneumonia .
+Acute respiratory distress syndrome .
+Iron-deficiency anemia .
+Hypothyroidism .
+DISCHARGE MEDICATIONS :
+1. Levothyroxine 75 mcg q.d.
+2. Prozac 40 mg q.d.
+3. Levaquin 500 mg q.d. for 7 days after discharge .
+4. Guaifenesin syrup p.r.n. cough .
+5. Oxycodone 10 mg q.4 h. p.r.n. for pain .
+6. Colace 100 mg b.i.d.
+7. MS Contin 30 mg b.i.d.
+8. Ibuprofen 800 mg q.8 h .
+9. Albuterol 1 to 2 puffs q.6 h. p.r.n.
+10. Atrovent 1 puff q.6 h. p.r.n.
+DISCHARGE INSTRUCTIONS :
+Follow-up Plans :
+The patient was instructed to call her PCP , Dr. Ruby Godfrey , to follow up the week of discharge .
+She is also to call her PCP if she has increasing shortness of breath or fevers .
+Richard Wanita , Washington 30778
+Dictated By : Christopher QX Morse , M.D.
+MEDQUIST36
+D : 2015-09-14 17:19:48
+T : 2015-09-15 00:27:21
+Job # : 18355
+Signed electronically by : DR. Phillip Garcia on : WED 2015-09-16 5:10 PM
+( End of Report )

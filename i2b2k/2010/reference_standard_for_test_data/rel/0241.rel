@@ -1,0 +1,6 @@
+c="his antihypertensives" 85:0 85:1||r="TrNAP"||c="gi bleed" 85:7 85:8
+c="prbc" 28:7 28:7||r="TrAP"||c="orthostatic" 28:3 28:3
+c="ivf" 28:9 28:9||r="TrAP"||c="orthostatic" 28:3 28:3
+c="endoscopy" 82:5 82:5||r="TeRP"||c="a non bleeding ulcer" 82:11 82:14
+c="endoscopy" 82:5 82:5||r="TeRP"||c="gastritis" 82:16 82:16
+c="motrin" 23:9 23:9||r="TrAP"||c="pain" 23:15 23:15

@@ -1,0 +1,64 @@
+702031153 YC
+26718324
+4179318
+5/31/2005 12:00:00 AM
+retinal Migraine
+DIS
+Admission Date :
+05/31/2005
+Report Status :
+Discharge Date :
+06/02/2005
+****** DISCHARGE ORDERS ******
+LIKFREIERMKOTELEEBBREUTZ , LYNA N. 457-00-15-9 P26
+Room :
+30C-515
+Service :
+NEU
+DISCHARGE PATIENT ON :
+05/31/05 AT 03:00 PM
+CONTINGENT UPON
+Attending evaluation
+WILL D / C ORDER BE USED AS THE D / C SUMMARY :
+YES
+Attending :
+TRICKDENE , LAASIE N. , M.D.
+DISPOSITION :
+Home
+DISCHARGE MEDICATIONS :
+ALBUTEROL INHALER 2 PUFF INH QID PRN Shortness of Breath
+DIET :
+No Restrictions
+ACTIVITY :
+Resume regular exercise
+FOLLOW UP APPOINTMENT ( S ) :
+Dr. Shuffstreu 223-513-5831 ,
+ALLERGY :
+Aspirin , Nuts , G6PD
+DEFICIENCY ADMIT DIAGNOSIS :
+TMB ; Transient mono-ocular blindness
+PRINCIPAL DISCHARGE DIAGNOSIS ;
+Responsible After Study for Causing Admission ) retinal Migraine
+OTHER DIAGNOSIS ;
+Conditions , Infections , Complications , affecting Treatment / Stay Migraines , asthma , exzema
+OPERATIONS AND PROCEDURES :
+OTHER
+TREATMENTS / PROCEDURES ( NOT IN O.R. )
+MRI MRA TTE Hypercoag panel
+BRIEF RESUME OF HOSPITAL COURSE :
+Mr. Likfreiermkoteleebbreutz is a 31 y / o gentleman admitted 5/31/04 after two episodes of transient blindness in his Left eye .
+Episodes lasted 1-2 hours each , were preceded by wavy lines and accompanied by a headache .
+Vision returned in a horizontal hemifield in his Left eye .
+MRI / MRA was unremarkable .
+L ICA was broadly patent .
+TTE showed normal cadiac functions , EF 60% , normal valves , no PFO .
+A hyper-coag Panel was sent some results are still pending .
+ADDITIONAL COMMENTS :
+DISCHARGE CONDITION :
+Stable
+TO DO / PLAN :
+Return to ED if symptoms recur .
+Follow-Up with Dr. Cantslorkwierst in 1-2 months No dictated summary
+ENTERED BY :
+CANTSLORKWIERST , CILLETROY Y. , M.D. ( LA444 ) 06/02/05 05:27 PM
+****** END OF DISCHARGE ORDERS ******

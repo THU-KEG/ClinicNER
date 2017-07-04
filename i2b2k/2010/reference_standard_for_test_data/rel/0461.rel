@@ -1,0 +1,43 @@
+c="a transfusion" 29:7 29:8||r="TrCP"||c="complications" 29:10 29:10
+c="joint deformities" 68:0 68:1||r="PIP"||c="rheumatoid arthritis" 68:4 68:5
+c="symptomatic anemia" 15:4 15:5||r="PIP"||c="myelodysplastic syndrome" 15:1 15:2
+c="transfusion" 31:23 31:23||r="TrAP"||c="a low hematocrit" 31:5 31:7
+c="his prior transfusion" 86:28 86:30||r="TrCP"||c="congestive heart failure" 86:21 86:23
+c="a anc" 75:7 75:8||r="TeRP"||c="an absolute neutropenia" 75:3 75:5
+c="bilateral repair" 43:5 43:6||r="TrAP"||c="cataracts" 43:1 43:1
+c="heart rate" 56:3 56:4||r="TeRP"||c="irregular" 56:7 56:7
+c="heart rate" 62:14 62:15||r="TeRP"||c="tachycardic" 62:17 62:17
+c="right great toe infection" 34:12 34:15||r="PIP"||c="cellulitis" 34:19 34:19
+c="right great toe infection" 34:12 34:15||r="PIP"||c="paronychia" 34:21 34:21
+c="dig" 82:10 82:10||r="TrCP"||c="st scooping" 82:2 82:3
+c="st scooping" 82:2 82:3||r="PIP"||c="chronic ischemia changes" 82:15 82:17
+c="coumadin" 46:6 46:6||r="TrCP"||c="hemoptysis" 46:3 46:3
+c="home oxygen" 38:15 38:16||r="TrAP"||c="chronic obstructive pulmonary disease" 38:5 38:8
+c="home oxygen" 38:15 38:16||r="TrAP"||c="chronic bronchi ectasis" 38:10 38:12
+c="chronic obstructive pulmonary disease" 38:5 38:8||r="PIP"||c="mat" 38:3 38:3
+c="lasix" 86:13 86:13||r="TrAP"||c="congestive heart failure" 86:21 86:23
+c="ischemiccardiomyopathy" 37:5 37:5||r="PIP"||c="coronary artery disease" 37:1 37:3
+c="his hematocrit" 88:35 88:36||r="TeRP"||c="a drop" 88:32 88:33
+c="ekg" 81:0 81:0||r="TeRP"||c="mat" 81:4 81:4
+c="ekg" 81:0 81:0||r="TeRP"||c="atrial fibrillation" 81:6 81:7
+c="a po antibiotic ( ciprofloxacin )" 34:5 34:10||r="TrAP"||c="right great toe infection" 34:12 34:15
+c="a bone marrow biopsy" 26:9 26:12||r="TeRP"||c="myelodysplastic syndrome" 26:19 26:20
+c="a bone marrow biopsy" 26:9 26:12||r="TeRP"||c="chronic anemia" 26:3 26:4
+c="4 units packed red blood cells" 88:51 88:56||r="TrAP"||c="a drop" 88:32 88:33
+c="chest x-ray" 80:0 80:1||r="TeRP"||c="enlarged heart" 80:3 80:4
+c="chest x-ray" 80:0 80:1||r="TeRP"||c="mild pulmonary vascular redistribution" 80:6 80:9
+c="chest x-ray" 80:0 80:1||r="TeRP"||c="gross congestive heart failure" 80:12 80:15
+c="mild pulmonary vascular redistribution" 80:6 80:9||r="PIP"||c="enlarged heart" 80:3 80:4
+c="ischemia cardiomyopathy" 28:15 28:16||r="PIP"||c="congestive heart failure" 28:9 28:11
+c="ischemia cardiomyopathy" 28:15 28:16||r="PIP"||c="fluid overload" 28:6 28:7
+c="myelodysplastic syndrome" 24:16 24:17||r="PIP"||c="known transfusion dependent" 24:11 24:13
+c="decreased hematocrit" 24:20 24:21||r="PIP"||c="myelodysplastic syndrome" 24:16 24:17
+c="decreased hematocrit" 24:20 24:21||r="PIP"||c="known transfusion dependent" 24:11 24:13
+c="dilated cardiomyopathy" 20:5 20:6||r="PIP"||c="congestive heart failure" 20:1 20:3
+c="somewhat asymmetric thyroid" 58:7 58:9||r="PIP"||c="small nodule" 58:11 58:12
+c="home o2" 22:4 22:5||r="TrAP"||c="chronic bronchiectasis" 22:1 22:2
+c="cardiovascular examination" 62:0 62:1||r="TeRP"||c="jugular venous distention" 62:3 62:5
+c="cardiovascular examination" 62:0 62:1||r="TeRP"||c="carotid bruits" 62:11 62:12
+c="cardiovascular examination" 62:0 62:1||r="TeRP"||c="palpable s4" 62:26 62:27
+c="cardiovascular examination" 62:0 62:1||r="TeRP"||c="tachycardic" 62:17 62:17
+c="cardiovascular examination" 62:0 62:1||r="TeRP"||c="murmur" 62:30 62:30

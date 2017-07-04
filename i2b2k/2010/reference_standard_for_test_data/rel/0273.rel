@@ -1,0 +1,23 @@
+c="cytology" 23:0 23:0||r="TeCP"||c="these nodules" 23:2 23:3
+c="cytology" 23:0 23:0||r="TeCP"||c="hepatocellular carcinoma" 23:7 23:8
+c="endoscopy" 28:11 28:11||r="TeRP"||c="varices" 28:9 28:9
+c="endoscopy" 28:11 28:11||r="TeRP"||c="a gi bleed" 28:5 28:7
+c="drugs" 12:8 12:8||r="TrCP"||c="known allergies" 12:5 12:6
+c="complaints" 79:6 79:6||r="PIP"||c="pain" 79:9 79:9
+c="a cabg" 33:7 33:8||r="TrAP"||c="coronary artery disease" 33:2 33:4
+c="his blood glucose" 72:5 72:7||r="TeRP"||c="elevated" 72:9 72:9
+c="his blood glucose" 72:5 72:7||r="TeRP"||c="labile" 72:11 72:11
+c="his blood glucose" 72:5 72:7||r="TeRP"||c="below normal values" 72:14 72:16
+c="below normal values" 73:5 73:7||r="PIP"||c="assymptomatic" 73:3 73:3
+c="purulent discharge" 132:17 132:18||r="PIP"||c="incision" 132:20 132:20
+c="the sphincterotomy" 69:7 69:8||r="TrCP"||c="a small bleed" 69:2 69:4
+c="initial biopsy of the allograft" 70:0 70:4||r="TeRP"||c="preservation / ischemic injury" 70:13 70:16
+c="epinepherine injections" 69:15 69:16||r="TrIP"||c="a small bleed" 69:2 69:4
+c="his alk phos" 65:0 65:2||r="TeRP"||c="low" 65:5 65:5
+c="his liver function tests" 64:9 64:12||r="TeRP"||c="elevated" 64:14 64:14
+c="an ercp" 67:0 67:1||r="TeRP"||c="strictures" 67:18 67:18
+c="an ercp" 67:0 67:1||r="TeRP"||c="a filling defect" 67:7 67:9
+c="an ercp" 67:0 67:1||r="TeRP"||c="a narrowed donor duct" 67:11 67:14
+c="a filling defect" 67:7 67:9||r="PIP"||c="a narrowed donor duct" 67:11 67:14
+c="alcoholic cirrhosis" 20:15 20:16||r="PIP"||c="end stage liver disease" 20:9 20:12
+c="a sphincterotomy" 68:0 68:1||r="TrAP"||c="the sludge from the central common duct" 68:6 68:12

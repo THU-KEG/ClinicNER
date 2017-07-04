@@ -1,0 +1,58 @@
+164312247
+NVH
+47624330
+1/19/2002 12:00:00 AM
+Sepsis , myocardial infarction , ARDS , pneumonia
+DIS
+Admission Date :
+01/19/2002
+Report Status :
+Discharge Date :
+01/20/2002
+****** DISCHARGE ORDERS
+TROSPROB , STYEES
+650-29-95-3E45
+Room :
+9V-851
+Service :
+PUL
+DISCHARGE PATIENT ON :
+01/20/02 AT 03:00 AM
+CONTINGENT UPON
+Not Applicable
+WILL D / C ORDER BE USED AS THE D / C SUMMARY :
+YES
+Attending :
+GLOMOBESAP , BAMJET ELLDAN , M.D.
+CODE STATUS :
+Other-Expired .
+DISPOSITION :
+Expired
+DISCHARGE MEDICATIONS :
+RETURN TO WORK :
+Not Applicable
+ALLERGY :
+Penicillins
+ADMIT DIAGNOSIS :
+Sepsis , ARDS , Pneumonia
+PRINCIPAL DISCHARGE DIAGNOSIS ; Responsible After Study for Causing Admission ) Sepsis , myocardial infarction , ARDS , pneumonia
+OTHER DIAGNOSIS ; Conditions , Infections , Complications , affecting Treatment / Stay DM2 , s / p splenectomy , depression
+OPERATIONS AND PROCEDURES :
+None .
+OTHER TREATMENTS / PROCEDURES ( NOT IN O.R. ) None .
+BRIEF RESUME OF HOSPITAL COURSE :
+Patient received as transfer from outside hospital .
+Patient on vent , febrile , hypotensive .
+Developed requirement for multiple pressors , then arrhythmias .
+Full code carried out .
+Despite extraordinary measures , stable sinus rhythm could not be restored .
+Please see written medical record for complete report .
+ADDITIONAL COMMENTS :
+DISCHARGE CONDITION :
+Expired
+TO DO / PLAN :
+No dictated summary
+ENTERED BY :
+NELLFYFE , SHATAYE I , M.D. , PH.D. ( IY150 )
+01/20/02 03:35 AM
+****** END OF DISCHARGE ORDERS ******

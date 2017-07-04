@@ -1,0 +1,5 @@
+c="primary c / s" 48:7 48:10||r="TrAP"||c="breech" 48:12 48:12
+c="oxycodone" 33:0 33:0||r="TrAP"||c="pain" 33:6 33:6
+c="scheduled c / s" 51:0 51:3||r="TrAP"||c="breech" 51:5 51:5
+c="ibuprofen" 30:0 30:0||r="TrAP"||c="pain" 30:6 30:6
+c="primary c / s" 5:0 5:3||r="TrAP"||c="breech" 5:5 5:5

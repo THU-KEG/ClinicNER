@@ -1,0 +1,14 @@
+c="standard 12 lead electrocardiogram" 79:0 79:3||r="TeRP"||c="poor r wave progression" 79:15 79:18
+c="poor r wave progression" 79:15 79:18||r="PIP"||c="an old anteroseptal myocardial infarction" 79:28 79:32
+c="a computerized tomography scan of the head" 77:0 77:6||r="TeRP"||c="a small external skull fracture" 77:8 77:12
+c="mylanta" 106:6 106:6||r="TrAP"||c="dyspepsia" 106:15 106:15
+c="the heart sounds" 55:0 55:2||r="TeRP"||c="murmur" 55:10 55:10
+c="the heart sounds" 55:0 55:2||r="TeRP"||c="rub" 55:12 55:12
+c="the heart sounds" 55:0 55:2||r="TeRP"||c="gallop" 55:14 55:14
+c="powder burn" 50:34 50:35||r="PIP"||c="an entry wound" 50:12 50:14
+c="nifedipine" 107:20 107:20||r="TrAP"||c="systolic blood pressure greater than 160 millemeters of mercury" 107:30 107:38
+c="milk of magnesia" 106:17 106:19||r="TrAP"||c="constipation" 106:27 106:27
+c="the head , eyes , ears , nose , throat examination" 50:0 50:10||r="TeRP"||c="an entry wound" 50:12 50:14
+c="the head , eyes , ears , nose , throat examination" 50:0 50:10||r="TeRP"||c="powder burn" 50:34 50:35
+c="suture" 21:0 21:0||r="TrAP"||c="right temporal head wound" 21:2 21:5
+c="haloperidol" 106:35 106:35||r="TrAP"||c="agitation" 106:45 106:45

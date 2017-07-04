@@ -1,0 +1,156 @@
+Admission Date :
+2019-02-28
+Discharge Date :
+2019-03-26
+Date of Birth :
+1943-06-17
+Sex :
+M
+Service :
+CARDIOTHORACIC
+Allergies :
+Morphine Sulfate / Codeine / Keflex / Sudafed
+Attending : Willa D Garcia , M.D.
+Chief Complaint :
+Fever / + BC w/ h/o MV endocarditis
+Major Surgical or Invasive Procedure :
+Mitral Valve Replacement with 31 mm SJM Biocor Tissue valve / della
+Copeland resection on 2019-03-19
+History of Present Illness :
+Mr. Pizano is a 75 y/o man who has a PMHx significant for Enterococcus mitral valve endocarditis which has been treated since 09-19 .
+He has had 2 6 week courses of antibiotics with recurrent bacteremia .
+He had a TEE on 2019-01-22 which revealed thickened mitral leaflets with small vegetations on both anterior and posterior leaflets with moderate to severe mitral regurgitation .
+He has preserved LV systolic function with mild TR and AR and LAE without abscess .
+He had a repeat TEE on 02-19 which revealed 4 + MR .
+Thomasine was tranferred from MWMC ( where he was admitted on 02-15 with fevers and positive blood cultures ) to IDMC for further treatment and possibly MVR .
+Past Medical History : h/o Mitral Valve Endocarditis
+Hypertension
+h/o CVA
+Spinal Stenosis s/p Lumbar Laminectomy x 3
+Parkinson 's disease
+h/o paranoid delusions
+MGUS vs MM
+Social History :
+Lives in nursing home .
+Quit smoking 3.5 years ago .
+Denies ETOH .
+Family History :
+Non-contributory
+Physical Exam :
+Preop
+General :
+Elderly man in NAD , VSS
+HEENT :
+NC/AT , PERRLA , EOMI , poor dentition
+Neck :
+Supple , FROM , - thyromegaly , - lymphadenopathy , Carotids 2 +
+Bilat w/out bruits
+Lungs :
+CTAB - w/r/r
+Heart :
+RRR , + S1S2 , 02-18 mumrmur
+Abd :
+Soft NT/ND , + BS without masses or hepatomegaly / splenomegaly
+Ext :
+Warm , dry - c/c/e , pulses 2+ throughout
+Neuro :
+Non-focal , MAE
+Skin : well-healed surgical scars on lower back
+Discharge
+Gen :
+NAD / VSS
+Neuro :
+Alert , non focal exam
+Pulm :
+CTA bilat
+Card :
+RRR , sternum stable , incision clean and dry , no erythema / drainage
+Abdm : soft , NT / ND / NABS
+Ext : warm well perfused , no C/C/E
+Pertinent Results :
+2019-02-28 07:30 PM
+GLUCOSE - 94 UREA N - 21 * CREAT - 1.3 * SODIUM - 138 POTASSIUM - 5.0 CHLORIDE - 105 TOTAL CO2 - 25 ANION GAP - 13
+2019-02-28 07:30 PM
+ALT ( SGPT )- 6 AST ( SGOT )- 20 LD ( LDH )- 255 * ALK PHOS - 134 * TOT BILI - 0.4
+2019-02-28 07:30 PM
+CALCIUM - 9.3 PHOSPHATE - 3.7 MAGNESIUM - 2.3
+2019-02-28 07:30 PM
+WBC - 4.9 RBC - 4.27 * HGB - 11.3 * HCT - 35.1 * MCV - 82 MCH - 26.4 * MCHC - 32.2 RDW - 17.4 *
+2019-02-28 07:30 PM
+NEUTS - 66.3 LYMPHS - 25.0 MONOS - 5.7 EOS - 0.1 BASOS - 2.9 *
+2019-02-28 07:30 PM
+PLT COUNT - 187
+2019-02-28 07:30 PM
+PT - 13.1 PTT - 30.1 INR ( PT )- 1.1
+2019-02-28 06:27 PM URINE
+COLOR - Amber APPEAR - Clear SP Stickney - 1.015
+2019-03-23 05:31 AM BLOOD
+WBC - 8.6 RBC - 3.43 * Hgb - 9.9 * Hct - 28.7 * MCV - 84 MCH - 28.9 MCHC - 34.5 RDW - 17.8 * Plt Ct - 120 *
+2019-03-25 01:53 AM BLOOD
+Glucose - 95 UreaN - 35 * Creat - 1.4 * Na - 136 K - 4.9 Cl - 105 HCO3 - 21 * AnGap - 15
+2019-03-25 04:47 PM BLOOD PT - 14.1 * PTT - 29.4 INR ( PT )- 1.3 *
+Brief Hospital Course :
+As mentioned in the HPI , Mr. Mcculley was transferred from MWMC to Nantucket Cottage Hospital for ongoing care ( ? MVR ).
+And Infectious disease consult was immediately made .
+IV Daptomycin was continued via PICC line which was inserted on 02-20 at MWMC .
+Mr Stutts had an extensive preop evaluation including cardiology , infectious diseases , orthopedics , psychiatry and ethics services .
+He ultimately was brought to the operating room on 03-19 .
+At that time he had a Mitral Valve replacement , aortoomy , and left atrial appendage resection .
+His bypass time was 103 minutes / crossclamp 89 mins .
+Please see OR report for full details .
+He tolerated the surgery well and was transferred from the OR to the CSRU on Epinephrinne and Propofol infusions .
+He did well in immediate postoperative period .
+Following surgery his anesthesia was reversed , he was weaned from ventilator and successfully extubated .
+His iv medications were also weaned to off .
+On POD1 His PA line and chest tubes were removed , he was also started on Beta blockers and diuretics .
+On POD2 the patient remained hemodynamically stable and was transferred from the ICU to F2 for continued postop care .
+Over the next several days with the assisstance of the nursing staff and physical therapy the patients activity level was advanced , he was transitioned to all oral medications with the exception of his antibiotics .
+On POD7 it was decided that the pt was stable and ready for discharge to rehabilitation .
+It should be noted that the patient did have episodes of postoperative atrial fibrillation , he was seen by the
+Electrophysiology service , started on Procainamide and Coumadin .
+Medications on Admission :
+Aricept 10 mg qd , Aspirin 81 mg qd , Folic acid , Gabapentin 200 mg tid , Lopressor 12.5 mg bid , Lisinopril 5 mg qd , Daptomycin 420 mg IV qd , Protonix 40 mg qd , Seroquel 50 mg tid , Heparin 5000 units SQ tid , Colace 100 mg bid , Lactulose 15 mg bid , Comtan 200 mg qd , Mirapex 1.5 mg tid , Sinemet 50 / 200 mg tid
+Discharge Medications :
+1. Furosemide 20 mg Tablet Sig : One ( 1 ) Tablet PO once a day for 2 weeks .
+2. Potassium Chloride 20 mEq Packet Sig : One ( 1 ) Packet PO once a day for 2 weeks .
+3. Docusate Sodium 100 mg Capsule Sig : One ( 1 ) Capsule PO BID ( 2 times a day ) .
+4. Pantoprazole 40 mg Tablet , Delayed Release ( E.C. ) Sig : One ( 1 ) Tablet , Delayed Release ( E.C. ) PO Q24H ( every 24 hours ) .
+5. Aspirin 81 mg Tablet , Delayed Release ( E.C. ) Sig : One ( 1 ) Tablet , Delayed Release ( E.C. ) PO DAILY ( Daily ) .
+6. Magnesium Hydroxide 400 mg / 5 mL Suspension Sig : Thirty ( 30 ) ML PO HS ( at bedtime ) as needed for constipation .
+7. Entacapone 200 mg Tablet Sig : One ( 1 ) Tablet PO TID ( 3 times a day ) .
+8. Pramipexole 0.25 mg Tablet Sig : Six ( 6 ) Tablet PO TID ( 3 times a day ) .
+9. Carbidopa - Levodopa 50 - 200 mg Tablet Sustained Release Sig : One ( 1 ) Tablet PO TID ( 3 times a day ) .
+10. Quetiapine 25 mg Tablet Sig : Two ( 2 ) Tablet PO DAILY ( Daily ) .
+11. Procainamide 250 mg Capsule Sig : Three ( 3 ) Capsule PO Q6H ( every 6 hours ) : x 6 weeks .
+12. Acetaminophen - Codeine 300-30 mg Tablet Sig : One ( 1 ) Tablet PO Q4H ( every 4 hours ) as needed .
+13. Warfarin 1 mg Tablet Sig : as directed Tablet PO DAILY ( Daily ) .
+14. Daptomycin 500 mg Recon Soln Sig : Four 90y ( 480 ) mg Intravenous Q24H ( every 24 hours ) : thru 05-02 .
+Discharge Disposition :
+Extended Care
+Discharge Diagnosis : mitral valve endocarditis s/p MV replacement
+HTN
+s/p CVA
+Spinal stenosis s/p Lumbar Laminectomy
+Parkingson 's
+h/o paranoid delusions
+MGUS vs MM
+Discharge Condition : good
+Discharge Instructions :
+May take shower .
+Wash incisions with warm water and gentle soap .
+Do no take bath or swim .
+Do not apply lotions , creams , ointments or powders to incision .
+Do not drive for 1 month .
+Do not lift more than 10 pounds for 2 months .
+Please contact office if you develop a fever more than 101.5 or notice drainage from chest incision .
+Followup Instructions :
+Dr. Portsche in 4 weeks
+Dr. Bravo ( PCP ) in 1-2 weeks
+Infectious disease Provider :
+Marsha Harriet , MD
+Phone : 574-5036
+Date / Time : 2019-04-29 10:00
+Jeffrey Everett MD 23-815
+Completed by : MARK Carolyn NP 80-AUO 2019-03-26 @ 1033
+Signed electronically by : DR. Millard Fornataro on : FRI 2019-03-29 4:45 PM
+( End of Report )

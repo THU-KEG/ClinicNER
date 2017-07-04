@@ -1,0 +1,48 @@
+704319103 PUMC
+6340505
+274938
+7752547
+10/14/2004 12:00:00 AM
+ED Discharge Summary
+Unsigned
+DIS
+Report Status :
+Unsigned
+ED DISCHARGE NOTIFICATION / SUMMARY
+A , MIFER
+MRN :
+6340505
+Age :
+41y
+REGISTRATION DATE :
+10/14/2004 03:51 PM
+Provider :
+KOTEJESCZUK , M.D. STOCKADALELEEFNATHE
+PRELIMINARY REPORT
+PCP notified by MD :
+E-mail PCP
+Benefits Assigned :
+Y
+Discharge Date / Time :
+10/14/2004 21:17
+Discharge Status :
+Discharged
+Condition on Discharge :
+Stable
+Patient States Complaint :
+CP Standardized
+Discharge Instructions :
+The patient was given printed instructions for chest pain ( English ) .
+Diagnosis :
+lt arm/ chest pain
+Treatment Rendered :
+ekg = normal , cxr normal , ddimer / cardiac enzymes negative
+Discharge Medications :
+ibuprofen as needed
+Follow up Service :
+call dr koorskote &apos;s office tomorrow
+PCP Name :
+KOORSKOTE , SHARA G
+Provider Number :
+00708
+This report was created by STOCKADALELEEFNATHE , LISHE , M.D. 10/14/2004 09:35 PM

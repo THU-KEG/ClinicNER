@@ -1,0 +1,84 @@
+688439328
+CTMC
+73662633
+164980
+11/2/1990 12:00:00 AM
+Discharge Summary
+Unsigned
+DIS
+Admission Date :
+11/02/1990
+Report Status :
+Unsigned
+Discharge Date :
+11/06/1990
+DISCHARGE DIAGNOSES :
+1) MITRAL STENOSIS .
+2) HYPERTENSION .
+3) ATRIAL FIBRILLATION .
+4) HYPERCHOLESTEROLEMIA .
+HISTORY OF PRESENT ILLNESS :
+Ms. Kotekoorsner is a 57 year old white woman with mitral stenosis , atrial fibrillation , and cardiac risk factors including a positive family history , hypertension , and hypercholesterolemia who presented for catheterization because of progressive worsening of fatigue and dyspnea on exertion .
+The patient was told that she had a heart murmur approximately twenty years ago .
+However , she had been asymptomatic at that time .
+She now gives a history of progressively worsening dyspnea on exertion and fatigue which has become more incapacitating over the past several months .
+She states that previously , she had been fairly active but now does not feel that she can do much of anything .
+She denies chest pain but complains of episodes of light headedness accompanied by diaphoresis which occur at rest approximately once per week and last for several minutes .
+She also complains of a tight feeling in her abdomen .
+She also has had a cough for the past several years which is worse in the wintertime and is non-productive .
+She denies hemoptysis , orthopnea , or paroxysmal nocturnal dyspnea .
+She complains of ankle swelling for the past several months .
+Her course has been complicated by atrial fibrillation first diagnosed in New Years Eve of l989 and she has been on Digoxin and Coumadin .
+Because of her worsening symptoms , the patient had an echocardiogram at an outside hospital in Chogejuan St.ver , New Hampshire in September of l989 which showed mitral stenosis .
+She is now referred to the Retelk County Medical Center for evaluation of her mitral valvular disease .
+The patient &apos;s cardiac risk factors include a positive family history in that both parents died in their fifties of heart disease and two brothers had coronary artery bypass graft procedures in their thirties , hypercholesterolemia for several years , and hypertension .
+PAST MEDICAL HISTORY :
+There is no history of rheumatic heart disease recalled by the patient , removal of benign lump in the left breast .
+CURRENT MEDICATIONS :
+Coumadin 5 mg q.d. ( this was discontinued one week prior to admission ) , Digoxin 0.25 mg q.d. , Mevacor 20 mg q.d. , Propranolol 20 mg q.d. , and Penicillin for dental procedures .
+ALLERGIES :
+She had no known drug allergies .
+SOCIAL HISTORY :
+The patient lives with her husband in Glendmin .
+She has four children , ages 22 through 27 , and works as a cook at a grammer school .
+PHYSICAL EXAMINATION :
+Ms. Kotekoorsner is a very pleasant woman who appears her stated age and is in no acute distress .
+Vital signs showed that she had a blood pressure on the right which was l80/ll0 and a blood pressure on the left arm which was l84/ll0 , her pulse was 90 and was irregularly irregular , and her respirations were l6 per minute and were unlabored .
+HEENT :
+Unremarkable .
+LUNGS :
+Clear to auscultation and percussion .
+CARDIAC :
+Carotid arteries showed normal upstroke and volume without bruits bilaterally .
+There was jugular venous distention to l7 cm at 45 degrees .
+The point of maximal impulse was at the fifth intercostal space in the mid clavicular line .
+There was a left parasternal lift .
+There was a loud Sl and a physiologically split S2 with a prominent P2 component .
+There was an opening snap immediately following the P2 .
+There was a diastolic rumble at the apex which radiates to the axilla which is graded as a I / VI .
+There was also a I / VI apical systolic murmur .
+The patient &apos;s peripheral pulses were full .
+There was no evidence of edema in the extremities .
+ABDOMEN :
+Soft , slightly distended , and there was a slight right upper quadrant fullness .
+NEUROLOGICAL :
+Non-focal .
+However , there was evidence of subtle mental status change on the evening after the patient &apos;s valvuloplasty .
+She was having difficulty remembering certain events which had occurred that day .
+It was felt that because her neurological examination was non-focal at this time and that these changes represented no real change in her mental status from the time of admission , that no further work-up was required .
+DISPOSITION :
+DISCHARGE MEDICATIONS :
+Nadalol 20 mg p.o. q.d. , Coumadin 5 mg p.o. q.h.s. , Mevacor 20 mg q.d. , and Digoxin 0.25 mg q.d.
+________________________________ SQ869/0059 CA G. NERMOONE , M.D. XO4
+D :
+11/06/90
+Batch :
+2762
+Report :
+Z3569C89
+T :
+11/08/90
+Dicatated By :
+RA LERKNEIGHKIH , ZBE5
+cc :
+A L. RALLSCHIRD , M.D.

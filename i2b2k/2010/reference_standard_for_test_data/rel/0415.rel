@@ -1,0 +1,5 @@
+c="delivery by cesarean section" 26:0 26:3||r="TrAP"||c="twin b breech presentation" 26:6 26:9
+c="management" 12:23 12:23||r="TrAP"||c="prematurity" 12:25 12:25
+c="ampicillin" 50:10 50:10||r="TrAP"||c="sepsis" 50:16 50:16
+c="gentamicin" 50:12 50:12||r="TrAP"||c="sepsis" 50:16 50:16
+c="cr-monitor" 33:8 33:8||r="TeRP"||c="premature ventricular contractions" 33:11 33:13

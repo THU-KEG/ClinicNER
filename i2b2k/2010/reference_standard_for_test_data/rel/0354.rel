@@ -1,0 +1,11 @@
+c="a resection" 19:2 19:3||r="TrAP"||c="stage i" 19:5 19:6
+c="xrt" 19:12 19:12||r="TrAP"||c="stage i" 19:5 19:6
+c="an emergent embolectomy" 20:14 20:16||r="TrAP"||c="a numb right leg" 20:6 20:9
+c="an emergent head ct scan" 26:13 26:17||r="TeCP"||c="an acute change in mental status" 26:5 26:10
+c="an emergent head ct scan" 26:13 26:17||r="TeCP"||c="a massive subarachnoid hemorrhage" 26:20 26:23
+c="an emergent head ct scan" 26:13 26:17||r="TeCP"||c="bleeding in the subarachnoid space" 26:25 26:29
+c="an acute change in mental status" 26:5 26:10||r="PIP"||c="a massive subarachnoid hemorrhage" 26:20 26:23
+c="an acute change in mental status" 26:5 26:10||r="PIP"||c="bleeding in the subarachnoid space" 26:25 26:29
+c="a ventriculostomy" 28:12 28:13||r="TrAP"||c="her hydrocephalus" 28:7 28:8
+c="coronary artery disease" 22:0 22:2||r="PIP"||c="myocardial infarction" 22:5 22:6
+c="follow up ct scan" 28:0 28:3||r="TeRP"||c="her hydrocephalus" 28:7 28:8

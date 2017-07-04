@@ -1,0 +1,85 @@
+693519617
+PUOMC
+2328487
+769151
+388371
+12/16/1997 12:00:00 AM
+END-STAGE RENAL DISEASE .
+Unsigned
+DIS
+Report Status :
+Unsigned
+DISCHARGE SUMMARY
+NAME :
+LESS , LIESEANALE
+UNIT NUMBER :
+589-25-50
+ADMISSION DATE :
+12/16/97
+DISCHARGE DATE :
+01/16/98
+PRINCIPAL DIAGNOSIS :
+End-stage renal disease .
+ASSOCIATED DIAGNOSIS :
+1. Right nephrectomy .
+2. Cadaveric renal transplant .
+3. Acute thrombosis .
+4. Transplant nephrectomy .
+5. Pulmonary emboli .
+6. Hypertension .
+7. Coronary artery disease .
+8. Chronic obstructive pulmonary disease .
+9. Hypercoagulable state .
+10. Perforated viscus .
+11. Abdominal abscesses .
+12. Sepsis .
+13. Respiratory failure .
+HISTORY OF PRESENT ILLNESS :
+The patient was a 53-year-old male with a longstanding history of renal disease with multiple complications and problems related to vascular access and hypercoagulable state .
+These culminated in an attempted cadaveric kidney transplant undertaken on 12/16/97 , which was complicated by thrombosis and necrosis of the cadaveric renal vein within 24 hours .
+This required a transplant nephrectomy .
+HOSPITAL COURSE AND TREATMENT :
+The patient &apos;s course was subsequently characterized by recurrent pneumonias , possibly due to aspiration , and by hemodynamic instability .
+He was transferred to the Medical Intensive Care Unit from the Transplant Service for ventilatory management in the setting of hypotension .
+On transfer , the patient was not sedated , but was unresponsive and extremely dyssynchronous with the ventilator .
+The patient was found to have substantial auto PEEP with an elevated dead space .
+A pulmonary arteriogram on 01/03/98 demonstrated multiple pulmonary emboli , likely less than one week old , possibly introduced at the time of the renal vein thrombosis of 12/19/97 .
+An inferior vena cava filter was placed ; lower extremity noninvasive studies were negative .
+The patient required high pressures to ventilate adequately , possibly related to an abdominal compartment syndrome .
+The patient had undergone two abdominal procedures following explantation .
+The physiology at the time of transfer to the Medical Intensive Care Unit was consistent with a septic process .
+CT scan demonstrated retroperitoneal collection containing both free air and extravasated contrast material .
+For the concern of a perforated viscus , the patient was taken to exploratory laparotomy on 01/06/98 , during which the bowel was run without evidence of perforation .
+The patient remained unstable .
+He was taken to fluoroscopy , where oral contrast was demonstrated to be extravasating through a posterior duodenum .
+For this reason , he was taken again to the operating room on 01/08/98 , at which time a gastrojejunostomy was performed with stapling across the gastroduodenal junction , introduction of five Jackson-Pratt drains into the retroperitoneal mass , cholecystotomy tube , gastrostomy tube , and jejunostomy tube .
+The patient had an extensive estimated blood loss requiring multiple blood products and fluid resuscitation therapy .
+Accompanying this during this period were elevations in liver function studies and amylase and lipase consistent with pancreatic inflammation .
+The patient was aggressively treated with fluid resuscitation and pressors for his septic physiology .
+There was no evidence of cardiac tamponade or specific underlying coronary dysfunction .
+He was treated with appropriate antibiotics for his Serratia pneumonia , as well as for his abdominal process .
+The patient was felt to have an underlying hypercoagulable state , thought to be the source for the repeated clots .
+Because of the bleeding problems , however , it was felt that full heparinization would not be prudent , and the patient was treated with pneumo-boots and subcutaneous heparin .
+Attention was paid to a variety of metabolic and electrolyte abnormalities , which were corrected appropriately .
+Nonetheless , Mr. Less continued to remain critically ill with only very transient mild improvement with drainage of additional retroperitoneal fluid .
+He remained pressor dependent , as well as dependent upon mechanical ventilatory assistance .
+His course was complicated by atrial fibrillation requiring cardioversion .
+He had an ongoing requirement for high volume resuscitation and was persistently acidotic despite CV-VVH in the face of bicarbonate replenishment .
+The patient also appeared to have stool from his Jackson-Pratt site and right oblique incision .
+Bloody drainage from his increasingly distended abdomen was noted .
+Extensive discussions were carried out with Mrs. Less condition was irretrievable .
+It was felt that the patient had continued massive retroperitoneal contamination and probable multiple enteric fistulae from an ischemic bowel .
+Dr. Cantsleddjesc felt that no surgical approach to this problem or further intervention or radiologic procedures would be helpful .
+All physicians and the family were in agreement that the most appropriate approach was to institute comfort measures .
+This was done , and the patient appeared to be comfortable at the time of death with his family at his side on 1/16/98 .
+I L. STERPSKOLK , M.D.
+TR :
+vcp
+DD :
+05/25/98
+TD :
+05/30/98 8:30 A
+cc :
+LE FREIERM , JR , M.D. KIVERL NA CANTSLEDDJESC , M.D. I LYNIN STERPSKOLK , M.D. ETI CHAELKA MULKEVI , M.D.
+cc :
+Dr. Less

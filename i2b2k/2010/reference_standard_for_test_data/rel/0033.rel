@@ -1,0 +1,11 @@
+c="workup" 19:4 19:4||r="TeCP"||c="oa" 19:2 19:2
+c="bilat arthroplasty" 25:2 25:3||r="TrAP"||c="oa" 25:0 25:0
+c="oxycodone - acetaminophen" 115:1 115:3||r="TrAP"||c="pain" 115:18 115:18
+c="bilat knee surgery" 124:24 124:26||r="TrAP"||c="oa" 124:19 124:19
+c="stress test" 19:15 19:16||r="TeCP"||c="afib" 19:12 19:12
+c="cardiac catheterization" 19:22 19:23||r="TeRP"||c="severe 3vd" 19:26 19:27
+c="cardiac catheterization" 19:22 19:23||r="TeRP"||c="afib" 19:12 19:12
+c="drainage" 131:7 131:7||r="PIP"||c="wounds" 131:9 131:9
+c="preop w/" 15:0 15:1||r="TeRP"||c="asymptomatic" 15:9 15:9
+c="preop w/" 15:0 15:1||r="TeRP"||c="cardiac dz" 15:6 15:7
+c="knee replacements" 19:6 19:7||r="TrAP"||c="oa" 19:2 19:2

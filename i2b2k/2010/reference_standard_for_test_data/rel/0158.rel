@@ -1,0 +1,13 @@
+c="frozen pathology from the uterus" 66:3 66:7||r="TeRP"||c="invasion of the myometrium" 66:18 66:21
+c="frozen pathology from the uterus" 66:3 66:7||r="TeRP"||c="a grade 1 cancer" 66:12 66:15
+c="invasion of the myometrium" 66:18 66:21||r="PIP"||c="a grade 1 cancer" 66:12 66:15
+c="exam" 61:7 61:7||r="TeRP"||c="additional masses" 61:1 61:2
+c="exam" 61:7 61:7||r="TeRP"||c="nodules" 61:4 61:4
+c="an endometrial biopsy" 24:24 24:26||r="TeCP"||c="an endometrial cell" 24:12 24:14
+c="the endometrial biopsy" 25:0 25:2||r="TeRP"||c="grade 1 endometrial cancer" 25:4 25:7
+c="an endometrial biopsy" 21:23 21:25||r="TeRP"||c="grade 1 endometrial cancer" 21:30 21:33
+c="an endometrial biopsy" 21:23 21:25||r="TeRP"||c="an abnormal pap smear" 21:17 21:20
+c="a pap smear" 24:0 24:2||r="TeRP"||c="an endometrial cell" 24:12 24:14
+c="this disease" 45:17 45:18||r="PIP"||c="colon cancer" 45:10 45:11
+c="verapamil" 42:6 42:6||r="TrAP"||c="migraines" 42:8 42:8
+c="spotting" 23:3 23:3||r="PIP"||c="some constant brown discharge" 23:8 23:11

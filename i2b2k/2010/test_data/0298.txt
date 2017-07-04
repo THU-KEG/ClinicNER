@@ -1,0 +1,115 @@
+435216075 YC
+93004953
+1966777
+5/26/2005 12:00:00 AM
+Atypical chest pain
+DIS
+Admission Date :
+05/26/2005
+Report Status :
+Discharge Date :
+05/27/2005
+****** DISCHARGE ORDERS ******
+CHEAMPBUR , STEENRA R.
+789-41-40-5 N56
+Room :
+0W-320
+Service :
+CAR
+DISCHARGE PATIENT ON :
+05/27/05 AT 05:30 PM
+CONTINGENT UPON
+Not Applicable
+WILL D / C ORDER BE USED AS THE D / C SUMMARY :
+YES
+Attending :
+SEISE , JR , EJAKE L. , M.D.
+CODE STATUS :
+Full code
+DISPOSITION :
+Home
+DISCHARGE MEDICATIONS :
+ECASA ( ASPIRIN ENTERIC COATED ) 81 MG PO QD LEVOXYL ( LEVOTHYROXINE SODIUM ) 25 MCG PO QD SYNAREL ( NAFARELIN ACETATE ) 1 PUFF NA BID NITROGLYCERIN 1/150 ( 0.4 MG ) 1 TAB SL Q5MIN X 3 doses PRN Chest Pain MULTIVITAMIN THERAPEUTIC ( THERAPEUTIC MULTIVI ... ) 1 TAB PO QD
+Alert overridden :
+Override added on 05/26/05 by SAGELYSS , TYTUMZE V. , M.D.
+POTENTIALLY SERIOUS INTERACTION :
+SIMVASTATIN and NIACIN , VIT .
+B-3 Reason for override :
+ok TOPROL XL ( METOPROLOL ( SUST. REL. ) ) 200 MG PO QD
+Food / Drug Interaction Instruction
+Take consistently with meals or on empty stomach .
+Number of Doses Required ( approximate ) :
+8 PLAVIX ( CLOPIDOGREL ) 75 MG PO QD LIPITOR ( ATORVASTATIN ) 40 MG PO QD
+Alert overridden :
+Override added on 05/27/05 by :
+POTENTIALLY SERIOUS INTERACTION :
+NIACIN , VIT .
+B-3 and ATORVASTATIN CALCIUM
+Reason for override :
+ok
+DIET :
+House / Low saturated fat low cholesterol &lt; FDI &gt;
+ACTIVITY :
+Resume regular exercise
+FOLLOW UP APPOINTMENT ( S ) :
+Follow up with your PCP within 2 wks ,
+ALLERGY :
+Morphine ,
+LEUPROLIDE ADMIT DIAGNOSIS :
+Chest Pain
+PRINCIPAL DISCHARGE DIAGNOSIS ;
+Responsible After Study for Causing Admission ) Atypical chest pain
+OTHER DIAGNOSIS ;
+Conditions , Infections , Complications , affecting Treatment / Stay
+s / p inferior STEMI ( 2/17 ) with stent to RCA ; TTE ( 2/17 ) - LVEF 55-60% , inferobasal HK ; cervical spinal stenosis ; hypothyroidism ; GERD ; endometriosis s / p laparotomy and L oophorectomy .
+OPERATIONS AND PROCEDURES :
+none
+OTHER TREATMENTS / PROCEDURES ( NOT IN O.R. )
+ETT - MIBI 5/27/05 - normal , no e / o ischemia .
+BRIEF RESUME OF HOSPITAL COURSE :
+45 yo F s / p recent inferior STEMI ( 2/17 ) w/ 100% RCA stented -&gt; 0% , and residual LAD / Diag1/LCx / OM2 disease .
+Developed burning chest pain before bedtime the night PTA .
+NO associated sxs / radiation .
+Slept well , but on the am of admission had same burning across chest ( &quot; deeper than heartburn &quot; ) so went to her MD &apos;s office .
+Transient diaphoresis in MD &apos;s office that patient attributed to heat in room .
+Patient says pain is similar in location and quality to the pain she had with her MI , although with her MI the pain was much more intense ( 20x worse ) .
+This is 1st pain since MI ( though patient reports chronic baseline chest tightness x8-10 years of unclear etiology ) .
+CP / burning lasted several hours and was relieved after she received Maalox , lidocaine , and NTG in the ED .
+She reports compliance with her ASA + plavix .
+She is active at baseline , participating in cardiac rehab for 2 hrs / week and running up and down stairs at home without CP / SOB .
+IN ED vitals p86 bp 127/88 sat 100% .
+NAD .
+No JVD .
+CTAB. nl s1s2 , reg , no m / r. no chest tenderness .
+abd soft , NT / ND , NABS. ext wwp , no c / c/e , 2+DP &apos;s b / l.
+labs :
+A set :
+trop &lt; assay , CK 67 , MB 0.2 .
+EKG - old TWI III .
+A / P :
+45F with recent inferior STEMI s / p stent to RCA .
+1. CV :
+( I ) ROMI negative .
+ETT MIBI 4/14 without e / o ischemia . ?
+GERD as etiology of her chest burning .
+cont asa , statin , plavix , bblkr .
+( P ) Most recent echo :
+EF 55% and inf / post HK .
+( R ) Patient had no events on tele .
+2. ENDO :
+continue levoxyl for hypothyroidism , synarel for endometriosis .
+3. MSK :
+cervical spondylosis , tylenol for pain .
+4. GI :
+h / o GERD- nexium .
+FULL CODE ADDITIONAL COMMENTS :
+If you develop recurrent chest pain , shortness of breath , or any other concerning symptoms , call your doctor or return to the hospital .
+Continue taking all of your regular home medications .
+Follow up with Dr. Koteskismanhout in July .
+DISCHARGE CONDITION :
+Stable
+TO DO / PLAN :
+No dictated summary
+ENTERED BY :
+SAGELYSS , TYTUMZE V. , M.D. ( FS69 ) 05/27/05 05:33 PM
+****** END OF DISCHARGE ORDERS ******

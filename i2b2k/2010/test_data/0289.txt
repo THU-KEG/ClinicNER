@@ -1,0 +1,93 @@
+Admission Date :
+2010-06-07
+Discharge Date :
+2010-06-12
+Date of Birth :
+1955-03-30
+Sex :
+M
+Service :
+CARDIOTHORACIC SURGERY
+HISTORY OF THE PRESENT ILLNESS :
+This is a 55 - year-old male with critical aortic stenosis who was referred to Dr. Brenda Hummer for discussion for surgical options to free this condition .
+The patient reportedly had been experiencing increasing fatigue and dyspnea with exertion for the year prior to his admission .
+The patient reported increasingly frequent episodes of dizziness and shortness of breath accompanied with coughing spells after walking approximately a half a mile or climbing three flights of stairs .
+On 2010-05-27 , an echocardiogram was done which revealed critical fibrocalcific aortic stenosis with a peak gradient of 125 mmHg , a mean gradient of 74 mmHg , an Oak Bluffs of 0.44 , and 1+ aortic and mitral insufficiency .
+The patient subsequently underwent a cardiac catheterization on 2010-06-01 , which demonstrated no hemodynamically significant coronary artery disease , but critical aortic stenosis consistent with his echocardiogram study results .
+The patient was subsequently scheduled for a mechanical aortic valve replacement procedure with aortic replacement on 2010-06-07 .
+PAST MEDICAL HISTORY :
+1. Diabetes .
+2. Hypertension .
+3. Seasonal allergies .
+4. Arthritis .
+PAST SURGICAL HISTORY :
+Negative .
+AT - HOME MEDICATIONS :
+1. Metformin .
+2. Celexa .
+3. Lipitor .
+4. Aspirin .
+5. Toprol XL .
+ALLERGIES :
+The patient is allergic to penicillin and shell fish .
+SOCIAL HISTORY :
+The patient is married with two children and is currently unemployed .
+The patient denied any tobacco or alcohol history .
+HOSPITAL COURSE :
+On 2010-06-07 , the patient underwent a mechanical aortic valve replacement with a 23 mm Carbomedics mechanical valve and a Supra coronary aortic graft with gelweave 28 mm .
+The patient tolerated the procedure well with a bypass time of 155 minutes and a crossclamp time of
+130 minutes , and a rest time of 16 minutes .
+The patient 's pericardium was left open ; lines placed included a right radial line and a right IJ line ; both ventricular and atrial wires were placed ; two mediastinal tubes were placed .
+The patient was subsequently transferred to the Cardiac Surgery Recovery Unit , intubated , for further evaluation and management .
+On transfer , the patient 's mean arterial pressure was 76 , CVP 12 , PAD 17 , and his Bennie was 25 .
+The patient was AV paced at a rate of 88 beats per minute .
+Active drips included milrinone , Levophed , propofol , and insulin .
+On postoperative day number one , the patient was successfully weaned and extubated without complication .
+The patient was then advanced to oral intake which he tolerated without complication .
+On postoperative day number two , the patient 's chest tubes were removed without complication and the patient was subsequently cleared for transfer to the floor .
+The patient was subsequently admitted to the cardiothoracic service under the direction of Dr. Brenda Hummer .
+Postoperatively , the patient 's clinical course was largely unremarkable .
+The patient was evaluated by Physical Therapy , who declared him a suitable candidate for discharge directly to home following resolution of his medical therapy .
+The patient was advanced to a full regular diet , which he tolerated without complication , and had adequate pain control provided via oral pain medications .
+The patient was begun on anticoagulation therapy for a target INR of 2.5 .
+On the evening of postoperative day number four , the patient had a transient episode of disorientation and confusion which subsequently resolved spontaneously .
+By postoperative day number five , the patient was noted to be afebrile and stable .
+His incision was noted to be clean , dry , and intact with no evidence of cellulitis or purulent drainage .
+The patient was noted to be independently ambulatory and was productive of adequate amounts of urine .
+The patient was tolerant of a full regular diet and had his pain well controlled via oral pain medications .
+The patient 's INR was noted to be 2.3 .
+The patient was subsequently cleared for discharge to home with instructions for follow-up on postoperative day number five , 2010-06-12 .
+CONDITION AT DISCHARGE :
+The patient is to be discharged to home with instructions for follow-up .
+STATUS AT DISCHARGE :
+Stable .
+DISCHARGE MEDICATIONS :
+1. Lopressor 25 mg p.o. b.i.d.
+2. Lasix 20 mg p.o. q. 12 hours times seven days .
+3. Potassium chloride 20 mEq p.o. q. 12 hours times seven days .
+4. Colace 100 mg p.o. b.i.d.
+5. Metformin 500 mg p.o. b.i.d.
+6. Percocet 5/325 one to two tablets p.o. q. four to six hours p.r.n.
+7. Celexa 20 mg p.o. q.d.
+8. Lipitor 20 mg p.o. q.d.
+9. Warfarin 5 mg p.o. q.d. times four days , after which point the patient 's dosage schedule is to be coordinated by his PCP , Dr. Jerold Esqueda .
+DISCHARGE INSTRUCTIONS :
+The patient is to maintain his incisions clean and dry at all times .
+The patient may shower but should pat dry incisions afterwards ; no bathing or swimming until further notice .
+The patient may resume a Heart Healthy Diet .
+The patient had been advised to limit his physical exercise ; no heavy exertion .
+No driving while taking prescription pain medications .
+The patient is to have his Coumadin managed by his primary care provider , Dr. Jerold Esqueda , for a target INR of 2.5 .
+The patient is to report to Dr. Jones office on 2010-06-14 for an initial blood draw and subsequent Coumadin titration ; Coumadin levels are to be monitored per his PCP David .
+The patient is to follow-up with Dr. Leanne Larimore in Cardiology within two to three weeks following discharge .
+The patient is to follow-up with Dr. Brenda Hummer four weeks following discharge .
+The patient is to call to schedule all appointments .
+Tracy X. Carmen , M.D.
+76-050
+Dictated By : Gerald R. Quiroz , M.D.
+MEDQUIST36
+D : 2010-06-12 02:00
+T : 2010-06-12 14:21
+JOB #: 47222
+Signed electronically by : DR. Tiffany D. Picklesimer on : WED 2010-07-28 4:41 PM
+( End of Report )

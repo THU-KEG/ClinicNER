@@ -1,0 +1,47 @@
+441466156 RWH
+8812784
+915188
+4120840
+7/2/2003 12:00:00 AM
+ED Discharge Summary
+Unsigned
+DIS
+Report Status :
+Unsigned
+ED DISCHARGE NOTIFICATION / SUMMARY
+KOTEEAK , KA
+MRN :
+8812784
+Age :
+24y
+REGISTRATION DATE :
+07/02/2003 11:39 PM
+Provider :
+Wear Pilar
+PRELMINARY REPORT
+Benefits Assigned :
+N
+Discharge Date / Time :
+07/03/2003 03:18
+Discharge Status :
+Discharged
+Condition on Discharge :
+Stable
+Patient States Complaint :
+R ANKLE INJURY
+Standardized Discharge Instructions :
+The patient was given printed instructions for sprains , fractures and bruises ( English ) .
+Diagnosis :
+r ankle sprain
+Treatment Rendered :
+air splint
+Discharge Medications :
+motrin
+Disposition , Follow up and Instructions to Patient :
+f / u with PCP --- call if you need one ( 203-0490 )
+Ice to ankle , crutches , elevation and rest
+PCP Name :
+SC , LUA
+Provider Number :
+83948
+This report was created by Pilar , Viennee 07/03/2003 03:19 AM

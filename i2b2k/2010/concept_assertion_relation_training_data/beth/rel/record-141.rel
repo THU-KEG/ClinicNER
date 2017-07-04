@@ -1,0 +1,68 @@
+c="bp" 170:21 170:21||r="TeRP"||c="hypotension" 170:19 170:19
+c="docusate sodium" 286:1 286:2||r="TrAP"||c="constipation" 286:24 286:24
+c="copious ivf hydration" 210:21 210:23||r="TrCP"||c="his massive fluid overload" 210:34 210:37
+c="several complications" 26:10 26:11||r="PIP"||c="an aicd pocket infection" 26:19 26:22
+c="very deconditioned" 26:6 26:7||r="PIP"||c="several complications" 26:10 26:11
+c="oxycodone" 300:1 300:1||r="TrAP"||c="pain" 300:23 300:23
+c="acetaminophen" 300:3 300:3||r="TrAP"||c="pain" 300:23 300:23
+c="a swan" 185:0 185:1||r="TeCP"||c="volume overloaded" 185:16 185:17
+c="swan numbers" 185:19 185:20||r="TeRP"||c="volume overloaded" 185:16 185:17
+c="swan numbers" 185:19 185:20||r="TeRP"||c="elevated cvp" 185:26 185:27
+c="swan numbers" 185:19 185:20||r="TeRP"||c="an elevated pad" 185:22 185:24
+c="a high co" 186:3 186:5||r="PIP"||c="sepsis" 186:11 186:11
+c="low svr" 186:7 186:8||r="PIP"||c="sepsis" 186:11 186:11
+c="an eeg" 235:0 235:1||r="TeRP"||c="mild encephalopathy" 235:3 235:4
+c="levofloxacin" 240:5 240:5||r="TrAP"||c="uti" 240:13 240:13
+c="percocet" 30:3 30:3||r="TrAP"||c="back pain" 30:5 30:6
+c="abnormal eeg" 162:0 162:1||r="PIP"||c="the moderately slow posterior background" 162:4 162:8
+c="abnormal eeg" 162:0 162:1||r="PIP"||c="generalized slowing" 162:13 162:14
+c="stronger narcotics" 244:0 244:1||r="TrNAP"||c="somnolence" 244:5 244:5
+c="stronger narcotics" 244:0 244:1||r="TrNAP"||c="ms changes" 244:7 244:8
+c="the cardiac monitor" 166:0 166:2||r="TeRP"||c="occasional irregularities" 166:4 166:5
+c="gentle cleansing" 248:9 248:10||r="TrAP"||c="the left gluteal pressure ulcer" 248:1 248:5
+c="normal saline" 248:12 248:13||r="TrAP"||c="the left gluteal pressure ulcer" 248:1 248:5
+c="subtle hypodensities within the periventricular white matter" 153:3 153:9||r="PIP"||c="chronic microvascular ischemic changes" 153:15 153:18
+c="the patient 's inr" 202:0 202:3||r="TeRP"||c="supratherapeutic" 202:5 202:5
+c="commercial wound cleaner" 248:15 248:17||r="TrAP"||c="the left gluteal pressure ulcer" 248:1 248:5
+c="duoderm gel" 248:22 248:23||r="TrAP"||c="the left gluteal pressure ulcer" 248:1 248:5
+c="coumadin" 202:7 202:7||r="TrNAP"||c="supratherapeutic" 202:5 202:5
+c="commercial wound cleanser" 249:10 249:12||r="TrAP"||c="the left chest wound" 249:1 249:4
+c="saline" 249:24 249:24||r="TrAP"||c="the left chest wound" 249:1 249:4
+c="pack aquacel ag rope" 249:17 249:20||r="TrAP"||c="the left chest wound" 249:1 249:4
+c="dry gauze" 249:28 249:29||r="TrAP"||c="the left chest wound" 249:1 249:4
+c="tap" 221:7 221:7||r="TrAP"||c="the right pleural effusion" 221:0 221:3
+c="continued diuresis" 221:11 221:12||r="TrIP"||c="the right pleural effusion" 221:0 221:3
+c="repeat cxr" 222:0 222:1||r="TeRP"||c="the effusion" 222:5 222:6
+c="scattered parenchymal opacities in the left lower lobe" 136:0 136:7||r="PIP"||c="superimposed infection" 136:9 136:10
+c="scattered parenchymal opacities in the left lower lobe" 136:0 136:7||r="PIP"||c="atelectasis" 136:12 136:12
+c="an initial troponin bump" 195:3 195:6||r="PIP"||c="chf exacerbation" 195:15 195:16
+c="the left ventricular inflow pattern" 117:0 117:4||r="TeRP"||c="a restrictive filling abnormality" 117:6 117:9
+c="the left ventricular inflow pattern" 117:0 117:4||r="TeRP"||c="elevated left atrial pressure" 117:12 117:15
+c="his underlying rhythm" 200:0 200:2||r="TeRP"||c="atrial flutter" 200:4 200:5
+c="cloudy" 25:8 25:8||r="PIP"||c="his worsening sob" 25:17 25:19
+c="resting regional wall motion abnormalities" 108:0 108:4||r="PIP"||c="inferior and inferolateral hypokinesis" 108:6 108:9
+c="serial abgs" 218:6 218:7||r="TeCP"||c="the metabolic alkalosis" 218:15 218:17
+c="s/p right thoracentesis" 219:4 219:6||r="TrAP"||c="pleural effusions" 219:1 219:2
+c="s/p right thoracentesis" 219:4 219:6||r="TrAP"||c="serosanguinous fluid" 219:13 219:14
+c="lv systolic function" 107:0 107:2||r="TeRP"||c="depressed" 107:4 107:4
+c="congestive heart failure" 95:0 95:2||r="PIP"||c="bilateral effusions" 95:4 95:5
+c="congestive heart failure" 95:0 95:2||r="PIP"||c="underlying consolidation in the rll" 95:14 95:18
+c="sedatives" 215:35 215:35||r="TrCP"||c="a depressed respiratory drive" 215:29 215:32
+c="sedatives" 215:35 215:35||r="TrAP"||c="agitation" 215:38 215:38
+c="a depressed respiratory drive" 215:29 215:32||r="PIP"||c="a preexisting alkalosis" 215:42 215:44
+c="amiodarone" 199:3 199:3||r="TrAP"||c="post-op afib" 199:5 199:6
+c="a head ct" 234:5 234:7||r="TeRP"||c="old lacunar infarcts" 234:9 234:11
+c="a head ct" 234:5 234:7||r="TeRP"||c="a change in mental status" 234:17 234:21
+c="metabolic abnormalities" 232:17 232:18||r="PIP"||c="delerium" 232:12 232:12
+c="baseline dementia" 232:6 232:7||r="PIP"||c="delerium" 232:12 232:12
+c="s/p lad ptca" 22:6 22:8||r="TrAP"||c="cad" 22:5 22:5
+c="s/p lad ptca" 37:2 37:4||r="TrAP"||c="cad" 37:1 37:1
+c="jvd" 69:0 69:0||r="PIP"||c="increased neck girth" 69:5 69:7
+c="t2dm" 38:1 38:1||r="PIP"||c="nephropathy" 38:5 38:5
+c="t2dm" 38:1 38:1||r="PIP"||c="neuropathy" 38:3 38:3
+c="transmitral doppler" 118:0 118:1||r="TeRP"||c="grade iii/iv ( severe ) left ventricular diastolic dysfunction" 118:9 118:17
+c="s/p mediastinal exploration" 35:10 35:12||r="TeRP"||c="pericardial effusion" 35:8 35:9
+c="evacuation" 35:14 35:14||r="TrAP"||c="pericardial effusion" 35:16 35:17
+c="evacuation" 35:14 35:14||r="TrAP"||c="hematoma" 35:19 35:19
+c="tissue velocity imaging" 118:3 118:5||r="TeRP"||c="grade iii/iv ( severe ) left ventricular diastolic dysfunction" 118:9 118:17
+c="aicd pocket infection" 35:1 35:3||r="PIP"||c="mssa bacteremia" 35:5 35:6

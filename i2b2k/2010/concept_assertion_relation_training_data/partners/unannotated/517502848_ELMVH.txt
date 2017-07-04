@@ -1,0 +1,87 @@
+517502848 ELMVH
+18587541
+6634152
+12/12/2004 12:00:00 AM
+s / p Anterior and Posterior Repari
+DIS
+Admission Date :
+12/12/2004
+Report Status :
+Discharge Date :
+12/13/2004
+****** DISCHARGE ORDERS ******
+AGREND , RA A
+930-45-28-6 H48
+Room :
+22G-908
+Service :
+GYN
+DISCHARGE PATIENT ON :
+12/13/04 AT 05:00 PM
+CONTINGENT UPON
+Attending evaluation
+WILL D / C ORDER BE USED AS THE D / C SUMMARY :
+YES
+Attending :
+THORE , HELI GERLEOLA , M.D.
+DISPOSITION :
+Home
+DISCHARGE MEDICATIONS :
+COLACE ( DOCUSATE SODIUM ) 100 MG PO BID MOTRIN ( IBUPROFEN ) 600 MG PO Q6H PRN Pain
+Food / Drug Interaction Instruction
+Take with food
+Override Notice :
+Override added on 12/12/04 by KUNGPEASE , AND B. , M.D. on order for TORADOL IV ( ref # 65248753 )
+SERIOUS INTERACTION :
+IBUPROFEN and KETOROLAC TROMETHAMINE , INJ
+Reason for override :
+not at same time PERCOCET 1-2 TAB PO Q4H PRN Pain
+Override Notice :
+Override added on 12/12/04 by KUNGPEASE , AND B. , M.D. on order for TYLENOL PO 650 MG Q4H ( ref # 53148650 )
+POTENTIALLY SERIOUS INTERACTION :
+ACETAMINOPHEN and ACETAMINOPHEN
+Reason for override :
+will monitor SIMVASTATIN 20 MG PO QHS
+Food / Drug Interaction Instruction
+Avoid grapefruit unless MD instructs otherwise .
+DIET :
+No Restrictions
+ACTIVITY :
+No heavy liftingx 2 weeks
+FOLLOW UP APPOINTMENT ( S ) :
+Dr. Thore 2 weeks , No Known Allergies
+ADMIT DIAGNOSIS :
+pelvic organ prolapse
+PRINCIPAL DISCHARGE DIAGNOSIS ;
+Responsible After Study for Causing Admission ) s / p Anterior and Posterior Repari
+OTHER DIAGNOSIS ;
+Conditions , Infections , Complications , affecting Treatment / Stay
+none
+OPERATIONS AND PROCEDURES :
+12/12/04 THORE , HELI GERLEOLA , M.D. E.U.A ANT / POST COLPORRPLASTY
+OTHER TREATMENTS / PROCEDURES ( NOT IN O.R. )
+none
+BRIEF RESUME OF HOSPITAL COURSE :
+57 yo G3P3 with pelvic organ prolapse
+PMH :
+hypercholesterolemia ,
+MVP PSH :
+TAH 1995 for fibroids , vein stripping
+Meds :
+Lipitor 10
+Allergies
+NKDA
+Preop hct 36.4 3/16/04 POD 0 s / p A / P repair vag pack / foley , ebl minimal
+Uncomplicated postoperative course .
+Discharged home voiding , tolerating POs , and ambulating .
+To follow up with Dr. Thore .
+ADDITIONAL COMMENTS :
+Nothing per vagina x 6 weeks .
+Call for fever , nausea , vomiting , heavy vaginal bleeding , difficulty voiding , or any concerns .
+DISCHARGE CONDITION :
+Stable
+TO DO / PLAN :
+No dictated summary
+ENTERED BY :
+KUNGPEASE , AND B. , M.D. ( SN55 ) 12/13/04 07:24 AM
+****** END OF DISCHARGE ORDERS ******

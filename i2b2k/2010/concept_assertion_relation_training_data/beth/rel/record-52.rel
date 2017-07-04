@@ -1,0 +1,3 @@
+c="percocet" 47:1 47:1||r="TrAP"||c="pain" 47:11 47:11
+c="chest pain" 12:16 12:17||r="PIP"||c="nausea" 12:30 12:30
+c="protonix" 17:6 17:6||r="TrAP"||c="peptic ulcer disease" 17:13 17:15

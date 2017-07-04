@@ -1,0 +1,17 @@
+c="an angiogram" 67:0 67:1||r="TeRP"||c="severe tibial disease" 67:5 67:7
+c="an angiogram" 67:0 67:1||r="TeRP"||c="moderate sfa disease" 67:9 67:11
+c="an i&d" 24:5 24:6||r="TrAP"||c="a right foot infection" 24:11 24:14
+c="a vac dressing" 74:25 74:27||r="TrAP"||c="a well-healing wound" 74:20 74:22
+c="empiric coverage" 61:10 61:11||r="TrAP"||c="his wound" 61:13 61:14
+c="hct" 70:14 70:14||r="TeRP"||c="post-op anemia" 70:11 70:12
+c="right foot pain" 21:2 21:4||r="PIP"||c="gout" 21:21 21:21
+c="penicillin g" 61:4 61:5||r="TrAP"||c="group a strep growth" 61:17 61:20
+c="penicillin g" 61:4 61:5||r="TrAP"||c="his wound" 61:13 61:14
+c="prbcs" 70:9 70:9||r="TrAP"||c="post-op anemia" 70:11 70:12
+c="clindamycin" 61:7 61:7||r="TrAP"||c="group a strep growth" 61:17 61:20
+c="clindamycin" 61:7 61:7||r="TrAP"||c="his wound" 61:13 61:14
+c="re-exploration" 25:0 25:0||r="TeCP"||c="developing necrotizing fascitis" 25:5 25:7
+c="turp" 81:10 81:10||r="TrAP"||c="prostate cancer" 81:7 81:8
+c="the new england baptist hospital-bryce cultures" 61:22 61:27||r="TeRP"||c="group a strep growth" 61:17 61:20
+c="a vac dressing" 72:10 72:12||r="TrAP"||c="his wound" 72:0 72:1
+c="silvadine" 65:4 65:4||r="TrAP"||c="dessication" 65:12 65:12

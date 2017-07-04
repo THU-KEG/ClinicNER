@@ -1,0 +1,210 @@
+﻿Admission Date :
+2014-07-30
+Discharge Date :
+2014-08-04
+Date of Birth :
+1930-08-11
+Sex :
+F
+Service :
+MEDICINE
+Allergies :
+Penicillins
+Attending : William Q. Williams , M.D.
+Chief Complaint :
+dyspnea
+Major Surgical or Invasive Procedure :
+None
+History of Present Illness :
+This is an 83 y/o female with moderate AS , s/p MVR 27 years ago , s/p PPM , DM , CHF , p/w dsypnea and increased work of breathing x 4-5 days .
+Per family , the patient has had worsening CHF/volume overload over the last several weeks , requiring supplemental O2 at rehab .
+Over the last few days , she has been noted to be more short of breath and having sats to 60% on RA .
+Her lasix was increased to 60 mg bid .
+Beginning today , she was noted to be in hypoxic respiratory distress , 87-91% on 2L/NC .
+She was increased to 5L , with her sats going up to 97% .
+She was also noted to be more confused over the last few days and especially today .
+She was given lasix and 2 mg IV morphine at New England Sinai Hospital & Rehab Center Rehab , and sent to Nantucket Cottage Hospital for further evaluation .
+En route , she was given additional lasix of 60 mg IV and nitro spray x 2 .
+In the Deanna , her VS were Tc 97.2 , BP 146/25 , HR 70 , RR 27 , SaO2 95%/NRB .
+Foley was placed in Deanna .
+She was given 40 mg IV lasix and 325 mg ASA .
+She was placed on BiPAP for comfort at 30% FiO2 , 5 PEEP , 12 PS .
+Admitted to the CMED CSRU for further management .
+Per family , besides the dyspnea and SOB , the patient has had no other symptoms , including f/c/s , CP , palpitations , abd pain , n/v/diarrhea .
+She has had decreased appetite over the last few days in the context of increasing confusion .
+Past Medical History :
+1. Moderate AS
+2. s/p MVR
+3. s/p PPM
+4. A fib
+5. DM 2 on insulin
+6. Hypercholesterolemia
+7. Gout
+8. Depression
+9. ? Pulmonary fibrosis
+10. CHF/CAD , last EF 55% 4/06
+Social History :
+Lives at Salem Hospital - North Shore Medical Center Rehab .
+Prior h/o heavy tobacco use .
+Ambulates at baseline .
+Family History :
+Mother with h/o emphysema , CAD
+Physical Exam :
+General : Asleep , easily arousable .
+On BiPAP , NAD
+HEENT : NC/AT , PERRL , EOMI .
+MMM , OP clear
+Neck : + elevated JVD to earlobe , supple
+Chest : decreased BS at bases with few crackles b/l
+CV : RRR 3/6 HSM , loudest at LUSB
+Abd : soft , NT/ND , NABS
+Ext : 2 + pitting edema b/l , warm with faint DP
+Pertinent Results :
+2014-07-30 01:30PM
+WBC - 9.6 RBC - 4.02 * HGB - 11.4 * HCT - 36.3 MCV - 90 MCH - 28.4 MCHC - 31.4 RDW - 17.8 *
+2014-07-30 01:30PM
+NEUTS - 87.0 * LYMPHS - 6.7 * MONOS - 5.0 EOS - 0.9 BASOS - 0.4
+2014-07-30 01:30PM
+PLT COUNT - 161
+2014-07-30 01:30PM
+PT - 23.2 * INR ( PT ) - 2.3 *
+2014-07-30 01:30PM
+cTropnT - 0.08 *
+2014-07-30 01:30PM
+CK ( CPK ) - 37
+2014-07-30 01:30PM
+cTropnT - 0.08 *
+2014-07-30 01:30PM
+CK-MB - NotDone proBNP - 5313 *
+2014-07-30 01:30PM
+GLUCOSE - 173 * UREA N - 52 * CREAT - 1.5 * SODIUM - 145 POTASSIUM - 4.8 CHLORIDE - 100 TOTAL CO2 - 40 * ANION GAP - 10
+2014-07-30 01:45PM
+TYPE - ART PO2 - 249 * PCO2 - 99 * PH - 7.28 * TOTAL CO2 - 49 * BASE XS - 15 INTUBATED - NOT INTUBA
+2014-07-30 06:20PM
+TYPE - ART TEMP - 37.0 O2-90 O2 FLOW - 5 PO2 - 63 * PCO2 - 81 * PH - 7.39 TOTAL CO2 - 51 * BASE XS - 19 AADO2 - 513 REQ O2 - 84
+INTUBATED - NOT INTUBA COMMENTS - NASAL Harper
+Echo : The left atrium is mildly dilated .
+There is mild symmetric left ventricular hypertrophy .
+The left ventricular cavity size is normal .
+Overall left ventricular systolic function is normal ( LVEF 70% ).
+There is no ventricular septal defect .
+The right ventricular free wall is hypertrophied .
+The right ventricular cavity is dilated .
+Right ventricular systolic function appears depressed .
+The aortic arch is mildly dilated .
+There are focal calcifications in the aortic arch .
+There are three aortic valve leaflets .
+The aortic valve leaflets are moderately thickened .
+There is at least moderate aortic valve stenosis .
+A bileaflet mitral valve prosthesis is present .
+The gradients are higher than expected for this type of prosthesis .
+The tricuspid valve leaflets are mildly thickened .
+There is moderate pulmonary artery systolic hypertension .
+The end-diastolic pulmonic regurgitation velocity is increased suggesting pulmonary artery diastolic hypertension .
+There is no pericardial effusion .
+Compared with the findings of the prior study ( images reviewed ) of 2013-06-18 , the pressure gradient across the mitral valve prosthesis is increased .
+IMPRESSION : AP chest compared to 07-30 through 26 : Mild pulmonary edema is unchanged .
+Bilateral pleural effusion small on the right and moderate on the left is stable .
+Severe cardiomegaly and left lower lobe atelectasis unchanged .
+No pneumothorax .
+Transvenous right ventricular pacer lead in standard placement .
+ECG : Ventricular paced rhythm .
+Compared to the previous tracing of 2014-07-30 no significant change .
+Intervals Axes
+Rate PR QRS QT/QTc P QRS T 70 0 160 466/486.42 0 -71 112
+Brief Hospital Course :
+A/P - 83yo F with valvular disorder , AF , and h/o CAD a/w hypercarbic respiratory failure .
+# Respiratory failure - She was admitted to the CMED CSRU for her repiratory failure which was thought to be secondary to CHF .
+Pt was diuresed with iv lasix / acetazolamide and given iv morphine / prn for respiratory distress and BIPAP was tried .
+However , hypercarbia ( 04-11 metabolic alkalosis ) remained in the 90s .
+Pt was mentating okay , having conversations with intermittent somnolence despite hypercarbia .
+TTE showed preserved EF with moderate AS and moderate MS and mod pulm HTN .
+Cardiology was consulted and thought MS Harold Holcomb to her pulm edema and pulm HTN .
+Cardiology recommended d/cing digoxin and starting amiodarone .
+Family declined valvuloplasty .
+For possible COPD , pt was started on steroids and nebs on 08-03 .
+Pt is currently satting 90s on 1 L NC while sitting in a chair but needs more O2 when supine .
+Pt is a mouth breather and occasionally needs a face mask .
+Pt will need I/Os monitored to goal even to slightly negative as she was diursed 4.8 L during her CMED stay .
+Depending on her I/O , lasix and acetazolamide can be decreased or discontinued .
+If she were to decompensate at the rehab , goals of care will need to be readdressed .
+# h/o CAD - There were new changes on EKG but pt was ruled out with 3 sets of negative cardiac enzymes .
+Pt was continued on BB , ASA , and nitrates .
+# Acid / base status - Respiratory acidosis with metabolic compensation .
+Appears to be chronic in nature given degree of metabolic compensation with acute component earlier today .
+Pt failed BIPAP and pCO2 remained in the 90s but maintaining mentation .
+# Renal insufficiency - baseline Cr unknown , may have CRI from DM .
+Creatinine stayed stable from 1.3-1.5 .
+Will need to renally dose all medications .
+# A fib - continued BB .
+Per cardiology consult recs , discontinued digoxin and started amiodarone .
+Due to elevated INR , coumadin was held .
+Pt is also paced .
+Pt needs to be on amiodarone 400mg BID x 7 days ( loading dose ) and then 400mg daily for maintenance .
+# DM - insulin standing + HISS , FS qid
+# Depression - continued home regimen
+# F/E/N - NPO initially while on BIPAP and now low sodium cardiac diet .
+# PPx - supratherpeutic INR
+# Access - PIV
+# Code - DNR/DNI .
+No pressors or central line per HCP .
+If she were to decompensate at the rehab , goals of care will need to be readressed .
+# Communication - Evelyn Matos ( niece ) 492 - 9977 , cell ( 921 ) 815 - 7040
+Medications on Admission :
+Coumadin 2.5 mg / 3 mg
+Insulin - Humulin N 36 U daily / 14 U qhs
+Lasix 40 mg bid
+Venlafaxine XR 75 mg qd
+Sorbitol
+Metoprolol 25 mg bid
+Imdur 30 mg qd
+Hydralazine 50 mg bid
+Digoxin 0.125 qd
+Oscal 250 mg + D
+Tylenol prn
+Morphine sulfate 4 mg q2 hrs prn
+Discharge Medications :
+1. NPH
+18 units qam and 7 units qhs
+2. Humalog
+Per sliding scale q breakfast , lunch , and dinner
+3. Venlafaxine 37.5 mg Capsule , Sust . Release 24 hr Sig : One ( 1 ) Capsule , Sust . Release 24 hr PO DAILY ( Daily ).
+4. Aspirin 325 mg Tablet Sig : One ( 1 ) Tablet PO DAILY ( Daily ).
+5. Isosorbide Mononitrate 30 mg Tablet Sustained Release 24 hr Sig : One ( 1 ) Tablet Sustained Release 24 hr PO DAILY ( Daily ).
+6. Metoprolol Tartrate 25 mg Tablet Sig : One ( 1 ) Tablet PO BID ( 2 times a day ).
+7. Albuterol Sulfate 0.083 % ( 0.83 mg / mL ) Solution Sig : One ( 1 ) Inhalation Q6H ( every 6 hours ).
+8. Ipratropium Bromide 0.02 % Solution Sig : One ( 1 )  Inhalation Q6H ( every 6 hours ).
+9. Albuterol Sulfate 0.083 % ( 0.83 mg / mL ) Solution Sig : One ( 1 ) Inhalation Q2H ( every 2 hours ) as needed .
+10. Prednisone 20 mg Tablet Sig : Two ( 2 ) Tablet PO DAILY ( Daily ) for 4 days .
+11. Furosemide 10 mg / mL Solution Sig : Forty ( 40 ) mg Injection BID ( 2 times a day ).
+12. Acetazolamide Sodium 500 mg Recon Soln Sig : Two Hundred Fifty ( 250 ) Recon Soln Injection Q12H ( every 12 hours ).
+13. Morphine 2 mg / mL Syringe Sig : 1-2 mg Injection Q4H ( every 4 hours ) as needed .
+14. Amiodarone 200 mg Tablet Sig : Two ( 2 ) Tablet PO BID ( 2 times a day ) for 7 days .
+15. Amiodarone 400 mg Tablet Sig : One ( 1 ) Tablet PO once a day : after finishing 400mg BID x 6 days .
+Discharge Disposition :
+Extended Care
+Facility :
+Whidden Memorial Hospital for the Aged - LTC
+Discharge Diagnosis :
+Primary diagnoses :
+Diastolic congestive heart failure
+Aortic stenosis
+Mitral stenosis
+Possible chronic obstructive lung disease
+Secondary diagnoses :
+Coronary artery disease
+Chronic kidney disease
+Depression
+Diabetes mellitus
+Discharge Condition :
+Stable , satting 98% on 1L via NC , sitting up in a chair
+Discharge Instructions :
+Please call your doctor at the rehabilitation if you develop any shortness of breath , chest pain , nausea , vomiting , or any other concerning symptoms .
+Please take medications as instructed .
+Keep all your follow-up appointments .
+Followup Instructions :
+Provider : David Phone : 912-6800-0569 Date / Time : 2014-08-11 1:00
+Jim Stanley MD 78-708
+Completed by : Junko Alpha MD 22-842 2014-08-04 @ 1725
+Signed electronically by : DR. Jane B. Hardy on : Sandra 2014-08-07 11:10 AM
+( End of Report )

@@ -1,0 +1,104 @@
+086513773
+FIH
+5078706
+58262/gv5v
+008122
+Martin Luther King Day 12:00:00 AM
+Discharge Summary
+Unsigned
+DIS
+Report Status :
+Unsigned
+ADMISSION DATE :
+Martin Luther King Day
+DISCHARGE DATE :
+01/22/93
+HISTORY OF PRESENT ILLNESS :
+Mr. Louplardkote is a 70 year old male who was admitted for coronary artery bypass grafting .
+He has been followed by his local physician for heart block which has progressed and culminated in a DDD pacer being inserted 02/92 .
+In March , 1993 he noted chest discomfort with exertion .
+An exercise tolerance test and stress Thallium showed septal and anterior wall ischemia .
+In October , 1993 the patient developed shortness of breath and orthopnea .
+An echocardiogram at the time revealed left ventricular dilatation and septal dyskinesis .
+The patient subsequently developed congestive heart failure which was treated with diuretics .
+On 12/29 the patient underwent cardiac catheterization which revealed a right coronary artery that had serial stenosis , and left anterior descending artery that had a long complex proximal lesion and a circumflex which had its first obtuse marginal which was stenotic .
+The left ventriculogram showed global hypokinesis and preserved left ventricular function with mitral valve prolapse without regurgitation .
+The patient is thus admitted for coronary artery bypass grafting .
+PAST MEDICAL HISTORY :
+1 ) hypercholesterolemia ,
+2 ) arthritis ,
+3 ) history of guaiac-positive stools with a lower gastrointestinal endoscopy negative three years ago ,
+4 ) status post appendectomy .
+MEDICATIONS ON ADMISSION :
+Toprol XL 50 mg. po q.day , Ismo 20 mg. po bid , Lasix 40 mg. d , Lopid 600 mg. po bid , Questran 1 scoop po bid , nitroglycerin spray prn .
+ALLERGIES :
+no known drug allergies .
+PHYSICAL EXAMINATION :
+His head , eyes , ears , nose , and throat exam was benign .
+Cardiac exam revealed a normal S1 and S2 with a I-II / VI late systolic murmur radiating to the apex .
+Lungs were clear .
+Abdomen was benign .
+Rectal :
+guaiac negative , no lesions , smooth prostate .
+Vascular exam ; 2+ pulses throughout bilaterally without bruits .
+LABORATORY DATA :
+On admission , chest x-ray revealed two nodular opacities that were projected over the left lung , one over the anterior aspect of the left fourth rib and the other over the interspace between the anterior sixth and seventh ribs .
+These were also seen on previous film .
+These were felt to be consistent with a granulomata .
+There was also a bipolar pacemaker present .
+Creatinine was 0.9 , BUN 13 , hematocrit was 40 .
+HOSPITAL COURSE :
+The patient was admitted to the hospital on 01/15/93 and on the following day was taken to the operating room where he underwent a saphenous coronary artery bypass graft to the diagonal , circumflex marginal artery , and acute marginal coronary artery and left internal mammary artery graft to the left anterior descending coronary artery .
+This operation was performed by Dr. Chitllik Kote .
+Intraoperative findings were as follows :
+The pericardium was opened to reveal a heart that appeared essentially normal .
+The diagonal coronary artery was isolated , opened and probed with a 1.5 millimeter probe .
+The circumflex marginal artery was small and only took a 1 millimeter probe tightly .
+The first main was anastomosed side to side to the diagonal and end to end to the circumflex marginal artery .
+The left anterior descending artery was then isolated , opened , probed with a 1.5 millimeter probe and anastomosed to the left internal mammary artery .
+The acute marginal branch of the right coronary artery was isolated , opened and probed with a 1.5 millimeter probe tightly and a second main was anastomosed to this .
+The patient tolerated the procedure well and was transported to the Surgical Intensive Care Unit in stable condition on nitroglycerin at 50 mcg. per minute Levophed at 4 mcg. per minute and Lidocaine at 1 mg. r minute .
+The patient was extubated on postoperative day # 1 and transported to the routine postoperative care floor on postoperative day # 2 in good condition .
+The only issue of note during the patient &apos;s SICU course was a small right apical pneumothorax which disappeared on repeat chest x-ray .
+The other issue was that the Pacer Lab was consulted for an atrial sensing problem .
+The pace setter 2022 Synchrony II was interrogated .
+It was found to have inadequate atrial sensing , even post re-programming to the maximum sensitivity at 0.5 millivolts .
+No changes with unipolar ring or tip .
+The V threshhold was changed from 0.6 millivolts/ 2.0 millivolts to 0.8 millivolts/ 4.0 millivolts .
+The V sensor was changed from 4 millivolts to 2 millivolts .
+It was felt that the atrial pacing would improve as the edema resolved .
+Meanwhile , the patient was AV paced using the epicardial wires .
+While on the routine postoperative care floor the patient continued to progress well .
+Of note , he developed a small right apical pneumothorax which was followed on serial films and found to be stable and was not causing the patient any respiratory distress .
+Also , the Pacer Service re-programmed the patient &apos;s cardiac pacer to a VVIR mode with a rate of 60 beats per minute , an AV delay of 175 , a maximum track of 120 .
+The ventricular pulse configuration was bipolar with a V-pulse width of .8 , a V-pulse amplitude of 4.0 , a V-sense configuration of bipolar , a V-sensitivity of 2.0 and a V-refractory of 250 .
+The atrial pulse configuration was bipolar with an A-pulse width of .4 , an A-pulse amplitude of 2.5 , an A-sensed configuration that was bipolar , an A-sensitivity that was .5 , an A-refractory that was 325 .
+Blanking was set at 38 , AV-safety option was on enable , PVC options were on , PMT options were off , a rate respiratory AV-delay was on enable , a magnet was temporary off .
+The threshhold was 2.0 .
+The measured average sensor was 2.0 .
+The slope was 8 .
+The maximum sensory rate was 110 .
+The reaction time was fast , the recovery time was medium .
+The patient continued to progress well and was ultimately discharged on 01/22/93 in good condition .
+DISCHARGE DIAGNOSIS :
+Coronary artery disease .
+PRINCIPAL PROCEDURE :
+Saphenous coronary artery bypass graft to the diagonal , circumflex marginal artery and acute marginal coronary artery and left internal mammary artery graft to the left anterior descending artery on 01/17/93 by Dr. Chitllik Kote .
+CONDITION ON DISCHARGE :
+Good .
+MEDICATIONS ON DISCHARGE :
+Lasix 40 mg. po q.day , Ecotrin 325 mg. po q.day , Iron 325 mg. po tid , Folate 1 mg. po q.day , Lopid 600 mg. po bid , Questran 1 scoop bid .
+DISPOSITION :
+The patient was discharged to home .
+He will followup with Dr. Chitllik Kote , Cardiothoracic Surgery ; with Dr. Naka Jesc of Cardiology ; and with Dr. Tomedankell Flowayles of Sephsandpot Center in Chandbay .
+LEEN PAUGBREUN , M.D.
+DICTATING FOR :
+CHITLLIK KOTE , M.D.
+TR :
+xd / bmot
+DD :
+01/24/93
+TD :
+01/26/93
+CC :
+Chitllik Kote , M.D. Naka Jesc , M.D. Tomedankell Flowayles , M.D. T. Medical Center , Carsterl , Minnesota edited 02/24/93

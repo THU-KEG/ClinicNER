@@ -1,0 +1,10 @@
+c="exam" 44:0 44:0||r="TeRP"||c="significant lymphadenopathy" 44:8 44:9
+c="barium enema" 21:19 21:20||r="TeRP"||c="stenotic area on her mid sigmoid" 21:10 21:15
+c="the head , eyes , ears , nose , throat exam" 39:0 39:10||r="TeRP"||c="alopecia" 39:14 39:14
+c="infusion of her vp 16" 53:7 53:11||r="TrCP"||c="some hypertension" 53:4 53:5
+c="the ultrasound" 22:0 22:1||r="TeRP"||c="pelvic mass" 22:7 22:8
+c="the ultrasound" 22:0 22:1||r="TeRP"||c="ascites" 22:3 22:3
+c="her prior chemotherapy" 53:21 53:23||r="TrCP"||c="some hypertension" 53:4 53:5
+c="physical exam" 37:1 37:2||r="TeRP"||c="acute distress" 37:16 37:17
+c="further evaluation" 54:10 54:11||r="TeCP"||c="her hypertension" 54:13 54:14
+c="further management" 54:21 54:22||r="TrAP"||c="her hypertension" 54:13 54:14

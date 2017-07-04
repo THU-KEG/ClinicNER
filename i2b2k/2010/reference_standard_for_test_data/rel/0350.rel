@@ -1,0 +1,41 @@
+c="percutaneous transluminal coronary angioplasty of left anterior descending" 19:10 19:17||r="TrAP"||c="anterior myocardial infarction" 19:2 19:4
+c="a percutaneous transluminal coronary angioplasty of the lad" 25:24 25:31||r="TrAP"||c="an anterior myocardial infarction" 25:13 25:16
+c="20.9% mb fraction" 82:14 82:16||r="TeCP"||c="myocardial infarction" 82:5 82:6
+c="significant change" 77:40 77:41||r="PIP"||c="flipped t-waves in v1" 77:29 77:32
+c="poor r-wave progression" 77:17 77:19||r="PIP"||c="an old anterior myocardial infarction" 77:22 77:26
+c="the femoral pulses" 68:0 68:2||r="TeRP"||c="diminished" 68:4 68:4
+c="the left ventriculogram" 85:0 85:2||r="TeRP"||c="an akinetic anterolateral and apical ventricle" 85:4 85:9
+c="his last ekg" 77:43 77:45||r="TeRP"||c="flipped t-waves in v1" 77:29 77:32
+c="treatment" 91:21 91:21||r="TrAP"||c="ischemia" 91:19 91:19
+c="diagnostic electrocardiogram changes" 83:11 83:13||r="PIP"||c="a non-q wave myocardial infarction" 83:2 83:6
+c="lysis" 29:15 29:15||r="TrNAP"||c="bright red blood per rectum" 29:8 29:12
+c="work up" 39:18 39:19||r="TeCP"||c="his bright red blood per rectum" 39:21 39:26
+c="thallium" 37:48 37:48||r="TrCP"||c="some anteroseptal redistribution" 37:44 37:46
+c="q&apos;s in v1 and v2" 28:20 28:24||r="PIP"||c="4-7 mm st segment elevations across the precordium" 28:11 28:18
+c="beta blockers" 35:4 35:5||r="TrNAP"||c="hypotension" 35:2 35:2
+c="the portable chest x-ray" 76:0 76:3||r="TeRP"||c="slight enlarged heart" 76:8 76:10
+c="the portable chest x-ray" 76:0 76:3||r="TeRP"||c="a mildly elevated hemidiaphragm" 76:13 76:16
+c="repeat cardiac catheterization" 38:5 38:7||r="TeRP"||c="a distal pda lesion" 38:20 38:23
+c="repeat cardiac catheterization" 38:5 38:7||r="TeRP"||c="a circumflex lesion" 38:25 38:27
+c="ptca &apos;d" 84:34 84:35||r="TrAP"||c="a restenosis of the proximal left anterior descending lesion" 84:22 84:30
+c="an intra-aortic balloon pump" 31:19 31:22||r="TrAP"||c="a 95% proximal left anterior descending lesion" 31:2 31:8
+c="beta blockers" 81:1 81:2||r="TrNAP"||c="hypertension" 81:10 81:10
+c="his intra-aortic balloon pump" 34:0 34:3||r="TrCP"||c="problems" 34:7 34:7
+c="the treadmill exercise test" 93:7 93:10||r="TeRP"||c="diagnostic electrocardiogram changes" 93:3 93:5
+c="the treadmill exercise test" 93:7 93:10||r="TeRP"||c="0.5 to 1 mm st depression in ii , iii , and avf" 93:16 93:28
+c="an echocardiogram" 36:4 36:5||r="TeRP"||c="anterior akinesis" 36:13 36:14
+c="an echocardiogram" 36:4 36:5||r="TeRP"||c="septal hypokinesis" 36:16 36:17
+c="the electrocardiogram" 77:0 77:1||r="TeRP"||c="poor r-wave progression" 77:17 77:19
+c="the electrocardiogram" 77:0 77:1||r="TeRP"||c="flipped t-waves in v1" 77:29 77:32
+c="a low level exercise tolerance test with thallium" 37:6 37:13||r="TeRP"||c="2.5 mm horizontal depressions in ii , iii , and avf" 37:18 37:28
+c="a low level exercise tolerance test with thallium" 37:6 37:13||r="TeRP"||c="1.5 mm downsloping st depressions in v5 and v6" 37:31 37:39
+c="a low level exercise tolerance test with thallium" 37:6 37:13||r="TeRP"||c="some anteroseptal redistribution" 37:44 37:46
+c="thallium images" 95:0 95:1||r="TeRP"||c="a moderate sized region of ischemic but viable myocardium" 95:3 95:11
+c="the test" 96:10 96:11||r="TeRP"||c="left ventricular dysfunction" 96:6 96:8
+c="his hematocrit" 105:9 105:10||r="TeRP"||c="a small dip" 105:16 105:18
+c="the catheterization" 105:20 105:21||r="TrCP"||c="a small dip" 105:16 105:18
+c="the skin exam" 72:0 72:2||r="TeRP"||c="vitiligo" 72:7 72:7
+c="this treadmill test" 91:0 91:2||r="TeCP"||c="ischemia" 91:19 91:19
+c="beta blockers" 81:12 81:13||r="TrNAP"||c="hypertension" 81:10 81:10
+c="physical examination" 29:1 29:2||r="TeRP"||c="bright red blood per rectum" 29:8 29:12
+c="a peak cpk" 82:8 82:10||r="TeRP"||c="myocardial infarction" 82:5 82:6

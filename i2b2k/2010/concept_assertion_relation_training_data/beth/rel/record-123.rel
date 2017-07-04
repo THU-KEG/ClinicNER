@@ -1,0 +1,18 @@
+c="infusion" 80:17 80:17||r="TrCP"||c="platelet drop" 80:12 80:13
+c="mental status changes" 76:15 76:17||r="PIP"||c="loss of short term memory" 76:20 76:24
+c="mental status changes" 76:15 76:17||r="PIP"||c="brief unresponsive period" 76:26 76:28
+c="steroids" 76:36 76:36||r="TrCP"||c="brief unresponsive period" 76:26 76:28
+c="steroids" 76:36 76:36||r="TrCP"||c="loss of short term memory" 76:20 76:24
+c="the ct" 77:0 77:1||r="TeRP"||c="cva" 77:5 77:5
+c="the ct" 77:0 77:1||r="TeRP"||c="pulmonary embolism" 77:9 77:10
+c="iv benadry" 76:33 76:34||r="TrCP"||c="brief unresponsive period" 76:26 76:28
+c="iv benadry" 76:33 76:34||r="TrCP"||c="loss of short term memory" 76:20 76:24
+c="heparin gtt" 80:5 80:6||r="TrCP"||c="platelet drop" 80:12 80:13
+c="ue duplex" 23:4 23:5||r="TeRP"||c="rue dvt" 23:8 23:9
+c="er evaluation" 76:1 76:2||r="TeRP"||c="brief unresponsive period" 76:26 76:28
+c="er evaluation" 76:1 76:2||r="TeRP"||c="mental status changes" 76:15 76:17
+c="er evaluation" 76:1 76:2||r="TeRP"||c="loss of short term memory" 76:20 76:24
+c="er evaluation" 76:1 76:2||r="TeRP"||c="dyspnea" 76:11 76:11
+c="hit panel" 81:10 81:11||r="TeRP"||c="positive" 81:13 81:13
+c="hepain" 80:20 80:20||r="TrCP"||c="platelet drop" 80:12 80:13
+c="2 surgs." 32:1 32:2||r="TrAP"||c="spermatocele" 32:4 32:4

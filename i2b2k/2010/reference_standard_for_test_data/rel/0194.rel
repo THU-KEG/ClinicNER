@@ -1,0 +1,66 @@
+c="aortic clamping" 41:8 41:9||r="TrAP"||c="the rupture of the left renal vein" 41:16 41:22
+c="mannitol" 53:21 53:21||r="TrWP"||c="oliguria" 53:16 53:16
+c="a large fluid requirement" 53:3 53:6||r="PIP"||c="total body capillary leak" 53:8 53:11
+c="a large fluid requirement" 53:3 53:6||r="PIP"||c="decreasing svr" 53:13 53:14
+c="a large fluid requirement" 53:3 53:6||r="PIP"||c="oliguria" 53:16 53:16
+c="paralyzed" 64:5 64:5||r="TrAP"||c="his severe adult respiratory distress syndrome" 64:8 64:13
+c="ligation" 80:27 80:27||r="TrAP"||c="ruptured left renal vein" 80:31 80:34
+c="pa line guided fluid" 52:19 52:22||r="TrAP"||c="labile blood pressure" 52:15 52:17
+c="intense inflammation" 72:6 72:7||r="PIP"||c="severe diffuse peritonitis" 72:2 72:4
+c="manipulation" 66:40 66:40||r="TrAP"||c="drainage" 66:30 66:30
+c="the examination" 45:0 45:1||r="TeRP"||c="other injury" 45:11 45:12
+c="marlex mesh" 69:15 69:16||r="TrAP"||c="the wound margins" 69:7 69:9
+c="marlex mesh" 69:15 69:16||r="TrAP"||c="evisceration" 69:19 69:19
+c="vancomycin" 63:0 63:0||r="TrAP"||c="bacteroides" 63:16 63:16
+c="vancomycin" 63:0 63:0||r="TrAP"||c="gram negative coccobacilli" 63:9 63:11
+c="vancomycin" 63:0 63:0||r="TrAP"||c="gram negative rods ( enterobacter )" 63:26 63:31
+c="bacteroides" 63:16 63:16||r="PIP"||c="gram negative coccobacilli" 63:9 63:11
+c="temperature" 53:37 53:37||r="TeRP"||c="a rise" 53:34 53:35
+c="irrigation" 66:38 66:38||r="TrAP"||c="drainage" 66:30 66:30
+c="division" 80:29 80:29||r="TrAP"||c="ruptured left renal vein" 80:31 80:34
+c="poor oxygenation" 52:12 52:13||r="PIP"||c="bilateral infiltrates" 52:6 52:7
+c="his blood cultures" 63:22 63:24||r="TeRP"||c="gram negative coccobacilli" 63:9 63:11
+c="his blood cultures" 63:22 63:24||r="TeRP"||c="bacteroides" 63:16 63:16
+c="repair" 80:13 80:13||r="TrAP"||c="torn transverse mesocolon" 80:15 80:17
+c="lasix" 53:19 53:19||r="TrWP"||c="oliguria" 53:16 53:16
+c="cardiac output" 73:15 73:16||r="TeRP"||c="ongoing extreme hyperdynamic" 73:11 73:13
+c="the evacuation" 59:8 59:9||r="TrAP"||c="the peritoneal pancreatic fluid" 59:11 59:14
+c="infection" 72:9 72:9||r="PIP"||c="severe diffuse peritonitis" 72:2 72:4
+c="his peritoneal fluid" 63:33 63:35||r="TeRP"||c="gram negative rods ( enterobacter )" 63:26 63:31
+c="repair" 80:19 80:19||r="TrAP"||c="serosal tear of transverse colon" 80:21 80:25
+c="sutures" 43:7 43:7||r="TrAP"||c="bleeding from the liver" 43:0 43:3
+c="roux-en-y drainage" 57:22 57:23||r="TrNAP"||c="the intense diffuse inflammatory reaction" 57:2 57:6
+c="patchy necrosis of peritoneal surfaces" 72:12 72:16||r="PIP"||c="severe diffuse peritonitis" 72:2 72:4
+c="chest x-ray" 52:9 52:10||r="TeRP"||c="bilateral infiltrates" 52:6 52:7
+c="a 14 gauge catheter" 30:8 30:11||r="TrAP"||c="poor breath sounds" 30:20 30:22
+c="laparotomy" 37:1 37:1||r="TrAP"||c="blood in the peritoneal cavity" 37:8 37:12
+c="norepinephrine infusion" 66:18 66:19||r="TrAP"||c="low svr" 66:7 66:8
+c="norepinephrine infusion" 66:18 66:19||r="TrAP"||c="high cardiac output" 66:10 66:12
+c="a large central retroperitoneal hematoma" 38:48 38:52||r="PIP"||c="a 7 cm serosal tear of the adjacent transverse colon" 38:36 38:45
+c="a large central retroperitoneal hematoma" 38:48 38:52||r="PIP"||c="active bleeding" 38:33 38:34
+c="a large central retroperitoneal hematoma" 38:48 38:52||r="PIP"||c="a tear of the transverse mesocolon" 38:19 38:24
+c="a large central retroperitoneal hematoma" 38:48 38:52||r="PIP"||c="a class ii laceration of the left liver" 38:2 38:9
+c="active bleeding" 38:33 38:34||r="PIP"||c="a tear of the transverse mesocolon" 38:19 38:24
+c="sedated" 64:3 64:3||r="TrAP"||c="his severe adult respiratory distress syndrome" 64:8 64:13
+c="aztreonam" 63:5 63:5||r="TrAP"||c="bacteroides" 63:16 63:16
+c="aztreonam" 63:5 63:5||r="TrAP"||c="gram negative coccobacilli" 63:9 63:11
+c="aztreonam" 63:5 63:5||r="TrAP"||c="gram negative rods ( enterobacter )" 63:26 63:31
+c="repair" 80:8 80:8||r="TrAP"||c="liver laceration" 80:10 80:11
+c="creatinine" 53:27 53:27||r="TeRP"||c="a rise" 53:24 53:25
+c="exploration of the pancreas" 56:0 56:3||r="TeRP"||c="a posterior fracture a the superior mesenteric vessels" 56:5 56:12
+c="flagyl" 63:2 63:2||r="TrAP"||c="bacteroides" 63:16 63:16
+c="flagyl" 63:2 63:2||r="TrAP"||c="gram negative coccobacilli" 63:9 63:11
+c="flagyl" 63:2 63:2||r="TrAP"||c="gram negative rods ( enterobacter )" 63:26 63:31
+c="the abdominal tap" 35:0 35:2||r="TeRP"||c="grossly positive for blood" 35:4 35:7
+c="maximal support" 75:17 75:18||r="TrWP"||c="the septic state" 75:4 75:6
+c="maximal support" 75:17 75:18||r="TrWP"||c="low svr" 75:8 75:9
+c="maximal support" 75:17 75:18||r="TrWP"||c="acidosis" 75:11 75:11
+c="the septic state" 75:4 75:6||r="PIP"||c="low svr" 75:8 75:9
+c="the septic state" 75:4 75:6||r="PIP"||c="acidosis" 75:11 75:11
+c="severe blunt abdominal trauma" 78:0 78:3||r="PIP"||c="rupture of liver , left renal vein , pancreas , and transverse mesocolon" 78:5 78:17
+c="distal pancreatic resection" 57:18 57:20||r="TrNAP"||c="the intense diffuse inflammatory reaction" 57:2 57:6
+c="investigation" 60:22 60:22||r="TeRP"||c="a primary respiratory arrest" 60:24 60:27
+c="investigation" 60:22 60:22||r="TeRP"||c="a cardiac arrest" 60:16 60:18
+c="a primary respiratory arrest" 60:24 60:27||r="PIP"||c="a cardiac arrest" 60:16 60:18
+c="the jackson-pratt drains" 66:32 66:34||r="TrAP"||c="drainage" 66:30 66:30
+c="pressors" 52:24 52:24||r="TrAP"||c="labile blood pressure" 52:15 52:17

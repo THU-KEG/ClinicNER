@@ -1,0 +1,148 @@
+Admission Date :
+2015-08-22
+Discharge Date :
+2015-08-26
+Date of Birth :
+1946-09-05
+Sex :
+M
+Service :
+CMED
+Allergies :
+Patient recorded as having No Known Allergies to Drugs
+Attending : Leroy F Stalnaker , M.D.
+Chief Complaint :
+Right-sided weakness and difficulty speaking
+Major Surgical or Invasive Procedure :
+TPA administration
+History of Present Illness :
+68 year old right handed man with multiple vascular risk factors , including 2 previous strokes and two myocardial infarctions , hypertension and hypercholesterolemia , who presents with acute onset right sided hemiplegia and dysarthria .
+He went to the bathroom on his own at 6:12 AM and then called for help at 6:15 AM .
+His wife found him with weak right leg , flaccid right arm , and severe dysarthria .
+She called 911 and he was brought to Hahnemann General Hospital Lydia .
+ROS :
+Wife denies any recent bleeding , surgeries , or upper respiratory infection .
+Past Medical History :
+1. 1992 anterior cerebellar infarction
+2. Silent stroke affecting anterior part of brain
+3. 2014-09-24 left MCA stroke leaving him with right facial droop
+4. CAD with MI 1999 and CABG
+5. hypercholesterolinemia
+6. hypertension
+7. remote smoking history
+8. depression
+9. bipolar disorder
+Social History :
+He is N. Quinn educated retired data processor who lives with his wife .
+Brian quit smoking and drinking in 1980s .
+No history of ivdu
+Family History :
+Patient 's mother died of stroke at the age of 54 .
+Physical Exam :
+Vitals 97.2 164/97 59 20 100% room air
+General exam including head , neck , heart , lung , abdominal and extremity exam , was normal .
+Neuro exam :
+Awake , oriented to person and place
+Nonfluent speech with inability to repeat .
+Intact to simple comprehension such as " show your left hand " but not " show your left thumb " .
+No neglect
+CN - Pupil 3 to 2 mm reactive bilaterally .
+EOMI .
+Visual field full to hand waving .
+Right facial droop .
+Motor - Decreased tone on right arm .
+Unable to move right arm but able to lift right leg antigravity for less than 5 seconds
+Sensory - Dense loss to touch on the right arm and leg
+Reflex - 1+ / 4 in upper extremity , 2+ / 4 at patellar , trace ankle .
+Toe upgoing on right only .
+Coordination :
+Intact on left finger to nose but limited on right due to weakness
+Pertinent Results :
+Creatinine slightly elevated at 1.3 , otherwise CBC , chemistries normal .
+Cardiac enzymes normal .
+Valproate level within range .
+CT head :
+Slight effacement of posterior insular cortex .
+MRI head :
+Restricted diffusion in left frontotemporal region in the distribution of the right middle cerebral artery indicating acute infarct .
+Brain atrophy .
+Changes of small vessel disease and chronic lacunes bilaterally in basal ganglia .
+Probable chronic infarct in the right occipital cortex .
+Also a chronic infarction in the right cerebellum .
+No acute hemorrhage .
+MRA :
+Subtle decreased flow signal within the Sylvian branches of the left middle cerebral artery .
+No evidence of major vascular occlusion seen .
+Carotid ultrasound :
+No stenosis
+Echo :
+Elongated left atrium .
+LV cavity moderately dilated .
+LVEF 30-35% .
+No masses or thrombi are seen in the left ventricle .
+Resting regional wall motion abnormalities include apical dyskinesis and distal anterior , septal , mid and distal inferior and inferolateral wall akinesis .
+Normal RV size and function .
+Mildly dilated aortic root and ascending aorta .
+No aortic or mitral regurgitation .
+No pericardial effusion .
+Brief Hospital Course :
+Assessment :
+68M with multiple vascular risk factors presents with acute onset right-sided hemiparesis and dysarthria , aphasia concerning for acute left MCA infarct .
+Patient arrived in Daniel within 3 hours of symptom onset and head CT showed no evidence of bleed .
+However , as wife had not seen patient before he became symptomatic , there was some concern that he had symptoms earlier than 6 am , and therefore would be outside the 3 hour window for TPA .
+MRI was performed which showed diffusion abnormalities but no hyperintensity on T2 / FLAIR imaging supporting the acute onset .
+Therefore , IV tpa thrombolytics were administered within 3 hours of symptom onset .
+Within minutes the patient showed decreased right sided weakness and improved from a global aphasia to an anterior aphasia picture .
+Given the likely embolic etiology of infarct , carotid doppler and TTE were performed .
+Doppler revealed no hemodynamically significant lesions bilaterally .
+Echo did not reveal potential source of emboli , but showed striking left ventricle akinesis and hypokinesis presumbly due to past MI x 2 .
+Given that the stroke occurred while taking aspirin and plavix , and given the severe akinesis of the left ventricle , we decided to initiate anticoagulation with warfarin to help prevent future strokes .
+Anticoagulation therapy was initiated with heparin and coumadin beginning on the evening of 2016-08-23 .
+The patient and his wife , a nurse , were educated on low molecular wt heparin , which was started in the hospital on 2015-08-26 with close follow-up scheduled with Dr. Demmert of the Wareham VA primary care clinic the next morning .
+His depakote was continued for his bipolar disorder .
+On discharge , strength was nearly intact in the limbs , though he still had a right-sided facial droop .
+Additionally , he still had mild dysarthria and mild anterior aphasia .
+Additionally , risk factor modification was continued .
+Lipid panel was checked and showed good control of lipids on his home dose of zocor .
+Patient has no history of diabetes , and fasting glucose was 78 , but A1C was slightly elevated at 5.9 .
+He may need further glucose monitoring in the future .
+His home hypertensive medications were held while in the hospital to help increase cerebral perfusion and prevent further ischemia .
+They will be restarted on discharge .
+Speech therapy was also consulted , and recommended oupatient speech therapy .
+Similarly , outpatient PT was recommended for his gait difficulties from his previous strokes .
+Residual deficits include right side facial droop from previous stroke and moderately severe dysarthria and anterior aphasia with word finding difficulties .
+Medications on Admission :
+Captopril 50 bid , asa 81 , plavix 75 , zocor 40 , imdur 30 , lasix 10 , prozac 20 , iron , mvi
+Discharge Medications :
+1. Enoxaparin Sodium 80 mg / 0.8 mL Syringe Sig : One ( 1 ) syringe Subcutaneous Q12H ( every 12 hours ) : May discontinue once INR therapeutic as directed by your physician .
+2. Divalproex Sodium 500 mg Tablet , Delayed Release ( E.C. ) Sig : One ( 1 ) Tablet , Delayed Release ( E.C. ) PO BID ( 2 times a day ) .
+3. Aspirin 325 mg Tablet Sig : One ( 1 ) Tablet PO QD ( once a day ) for 7 days .
+4. Warfarin Sodium 5 mg Tablet Sig : One ( 1 ) Tablet PO HS ( at bedtime ) .
+5. Simvastatin 40 mg Tablet Sig : One ( 1 ) Tablet PO once a day .
+6. Prozac 20 mg Capsule Sig : One ( 1 ) Capsule PO once a day .
+7. Multivitamin Capsule Sig : One ( 1 ) Capsule PO once a day .
+8. Captopril 50 mg Tablet Sig : One ( 1 ) Tablet PO twice a day .
+9. Imdur 30 mg Tablet Sustained Release 24 HR Sig : One ( 1 ) Tablet Sustained Release 24HR PO once a day .
+Discharge Disposition :
+Home
+Discharge Diagnosis :
+Infarction of left middle cerebral artery inferior division , s/p
+TPA , with residual dysarthria and aphasia
+Hypertension
+Hypercholesterolemia
+Coronary artery disease
+Discharge Condition :
+Good , with no motor deficits , mild dysarthria and mild anterior aphasia
+Discharge Instructions :
+Take all medications as directed and go for all scheduled appointments for anticoagulation monitoring .
+If problems with speech or weakness worsen , go immediately to an emergency room for evaluation .
+Followup Instructions :
+Dr. Demmert at Wareham Taunton State Hospital Clinic Thursday 2015-08-27 10:30am and follow-up as scheduled by the VA in their coumadin clinic .
+Follow-up with Dr. Robert in 1-2 weeks .
+Call his office for an appointment .
+Follow-up with Dr. Tina Phillips in Stroke Clinic in about 2 months .
+Call 415 9374 to schedule an appointment .
+William William MD , PHD 13-279
+Completed by : Patricia Francis MD 16-284 2015-08-26 @ 1922
+Signed electronically by : DR. Exie Culbreath on : SUN 2015-09-06 10:03 PM
+( End of Report )

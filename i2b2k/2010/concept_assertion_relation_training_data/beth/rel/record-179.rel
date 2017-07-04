@@ -1,0 +1,28 @@
+c="the mri of your knee" 128:0 128:4||r="TeRP"||c="a meniscal tear" 128:6 128:8
+c="ct chest" 23:3 23:4||r="TeRP"||c="saddle pe" 23:8 23:9
+c="ef" 63:7 63:7||r="TeRP"||c="hyperdynamic" 63:5 63:5
+c="left ventricular systolic function" 63:0 63:3||r="TeRP"||c="hyperdynamic" 63:5 63:5
+c="acute management" 93:23 93:24||r="TrAP"||c="pe" 93:26 93:26
+c="an injury" 107:11 107:12||r="PIP"||c="meniscal tear" 107:16 107:17
+c="physical exam" 107:4 107:5||r="TeRP"||c="an injury" 107:11 107:12
+c="physical exam" 107:4 107:5||r="TeRP"||c="meniscal tear" 107:16 107:17
+c="ekg" 100:10 100:10||r="TeRP"||c="ischemia" 100:13 100:13
+c="hemodynamic monitoring" 86:7 86:8||r="TeCP"||c="saddle pulmonary embolus" 86:13 86:15
+c="anticoagulation" 86:5 86:5||r="TrAP"||c="saddle pulmonary embolus" 86:13 86:15
+c="lysis" 91:7 91:7||r="TrAP"||c="hemodynamic instability" 91:4 91:5
+c="p-pulmonale" 99:20 99:20||r="PIP"||c="clot burden" 99:23 99:24
+c="anticoagulation" 103:8 103:8||r="TrAP"||c="saddle pe" 103:10 103:11
+c="ischemia" 101:11 101:11||r="PIP"||c="any wall motion abnormalities" 101:5 101:8
+c="a small troponin leak" 99:3 99:6||r="PIP"||c="right heart strain" 99:13 99:15
+c="a small troponin leak" 99:3 99:6||r="PIP"||c="p-pulmonale" 99:20 99:20
+c="a small troponin leak" 99:3 99:6||r="PIP"||c="clot burden" 99:23 99:24
+c="right heart strain" 99:13 99:15||r="PIP"||c="p-pulmonale" 99:20 99:20
+c="right heart strain" 99:13 99:15||r="PIP"||c="clot burden" 99:23 99:24
+c="an echo" 101:0 101:1||r="TeRP"||c="any wall motion abnormalities" 101:5 101:8
+c="vs" 24:0 24:0||r="TeRP"||c="tachy" 24:6 24:6
+c="bucket handle medial meniscal tear" 81:1 81:5||r="PIP"||c="flipped fragment in the intercondylar notch" 81:7 81:12
+c="moderate knee joint effusion" 83:1 83:4||r="PIP"||c="ganglion cyst at the insertion of the pcl" 83:7 83:14
+c="essentially bed bound" 29:2 29:4||r="PIP"||c="unable to ambulate" 29:12 29:14
+c="trauma to leg" 89:9 89:11||r="PIP"||c="immobility" 89:13 89:13
+c="trauma to leg" 89:9 89:11||r="PIP"||c="stasis" 89:15 89:15
+c="his embolus" 88:14 88:15||r="PIP"||c="dvt from the left leg" 88:17 88:21

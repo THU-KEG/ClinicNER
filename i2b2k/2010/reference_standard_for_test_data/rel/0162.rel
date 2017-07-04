@@ -1,0 +1,31 @@
+c="other staging studies" 32:6 32:8||r="TeRP"||c="metastatic disease" 32:15 32:16
+c="the cardiac exam" 43:0 43:2||r="TeRP"||c="a i / vi systolic ejection murmur" 43:10 43:16
+c="ativan" 62:10 62:10||r="TrAP"||c="nausea" 62:20 62:20
+c="focal giant cells" 31:8 31:10||r="PIP"||c="a poorly differentiated adenocarcinoma" 31:3 31:6
+c="bone scan" 32:0 32:1||r="TeRP"||c="metastatic disease" 32:15 32:16
+c="head ct" 32:3 32:4||r="TeRP"||c="metastatic disease" 32:15 32:16
+c="this chemotherapy" 57:8 57:9||r="TrCP"||c="unanticipated side effects" 57:4 57:6
+c="formal pathology" 31:0 31:1||r="TeRP"||c="a poorly differentiated adenocarcinoma" 31:3 31:6
+c="formal pathology" 31:0 31:1||r="TeRP"||c="focal giant cells" 31:8 31:10
+c="mediastinoscopy" 30:2 30:2||r="TeRP"||c="an unresectable mediastinal tumor" 30:4 30:7
+c="mediastinoscopy" 30:2 30:2||r="TeRP"||c="cancer" 30:16 30:16
+c="mediastinoscopy" 30:2 30:2||r="TeRP"||c="anthracosis" 30:25 30:25
+c="her hematocrit" 56:12 56:13||r="TeRP"||c="some modest anemia" 56:3 56:5
+c="intravenous chemotherapy" 60:0 60:1||r="TrAP"||c="lung cancer" 60:3 60:4
+c="velban" 27:38 27:38||r="TrAP"||c="mixed adenocarcinoma" 27:12 27:13
+c="velban" 27:38 27:38||r="TrAP"||c="large cell carcinoma of the left upper lobe" 27:15 27:22
+c="bronchoscopy" 30:0 30:0||r="TeRP"||c="an unresectable mediastinal tumor" 30:4 30:7
+c="bronchoscopy" 30:0 30:0||r="TeRP"||c="cancer" 30:16 30:16
+c="bronchoscopy" 30:0 30:0||r="TeRP"||c="anthracosis" 30:25 30:25
+c="cisplatinum" 27:34 27:34||r="TrAP"||c="mixed adenocarcinoma" 27:12 27:13
+c="cisplatinum" 27:34 27:34||r="TrAP"||c="large cell carcinoma of the left upper lobe" 27:15 27:22
+c="neoadjuvant chemotherapy" 27:31 27:32||r="TrAP"||c="mixed adenocarcinoma" 27:12 27:13
+c="neoadjuvant chemotherapy" 27:31 27:32||r="TrAP"||c="large cell carcinoma of the left upper lobe" 27:15 27:22
+c="5-fu" 27:36 27:36||r="TrAP"||c="mixed adenocarcinoma" 27:12 27:13
+c="5-fu" 27:36 27:36||r="TrAP"||c="large cell carcinoma of the left upper lobe" 27:15 27:22
+c="fluid overload" 55:14 55:15||r="PIP"||c="mild increase" 55:2 55:3
+c="vomiting" 54:9 54:9||r="PIP"||c="mild nausea" 54:6 54:7
+c="the chemotherapy" 54:2 54:3||r="TrCP"||c="mild nausea" 54:6 54:7
+c="the chemotherapy" 54:2 54:3||r="TrCP"||c="vomiting" 54:9 54:9
+c="her hypertension" 55:5 55:6||r="PIP"||c="mild increase" 55:2 55:3
+c="neurologic exam" 47:0 47:1||r="TeRP"||c="a resting tremor in the right arm and hand" 47:3 47:11

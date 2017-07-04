@@ -1,0 +1,124 @@
+Admission Date :
+2020-01-20
+Discharge Date :
+2020-01-21
+Date of Birth :
+1977-11-23
+Sex :
+M
+Service :
+MEDICINE
+Allergies :
+Lipitor / Codeine
+Attending : Sam M Ennis , M.D.
+Chief Complaint :
+GIB
+Major Surgical or Invasive Procedure :
+Endoscopy 2020-01-20
+History of Present Illness :
+42 yom with PMH of HTN , hyperchol admitted to OSH 1 day ago with black tarry stools X 2 days .
+Patient states that he had chronically had loose stools but over 2 preeceeding days noticed the stool to be dark and tarry .
++ Epigastric discomfort , gurgling gas-like pain , no association with food .
++ lightheadedness when he stood up prompting him to go to OSH Nellie .
+He states that he takes ASA daily and takes motrin 800 mg tid sometimes for pain , last use 2 wks PTA .
+Denies BRBPR , n/v/d .
+Denies recent fevers , chills .
+Denies any hemetemesis .
+At OSH initial Hct = 26 , and 22 upon repeat .
+He was also orthostatic given 3 units PRBC and IVF .
+EGD attempted but pt unable to tolerate .
+He is now transferred to Mediplex Rehab Hospital for futher workup and Rx .
+On transfer pt denies any complaints .
+States that lightheadedness is resolved .
+Past Medical History :
+HTN
+Hyperchol h/o A. fib 6 yrs ago -> cardioverted .
+Social History :
+Social Hx :
+Works as a police oficer , married , denies smoking , etoh .
+Family History :
+Family Hx : father with lung ca .
+Physical Exam :
+Physical Exam :
+Vitals :
+T : 98
+P : 66
+R : 15
+BP : 122/51
+SaO2 : 100% RA
+General : young male in nad , awake alert oriented
+HEENT :
+MMM , eomi , OP clear
+Neck : supple , no JVD
+Pulmonary :
+Lungs CTA bilaterally without R/R/W
+Cardiac :
+RRR , nl. S1S2 , no M/R/G noted
+Abdomen : obese , soft , mild epigastric tenderness , NABS
+Extremities :
+No C/C/E bilaterally , 2+ radial , DP and PT pulses b/l .
+Rectal : no hemrroiids , guiac positive brown stool .
+Pertinent Results :
+OSH 27.5 hct at 2:50 AM 01-20 .
+EKG :
+OSH - sinus tach at 108 , nl axis , nl intevals .
+No st-t abnormalities .
+2020-01-20 06:17 AM
+PT - 13.2 * PTT - 27.2 INR ( PT )- 1.1
+2020-01-20 06:17 AM
+PLT COUNT - 259
+2020-01-20 06:17 AM
+WBC - 9.3 RBC - 3.21 * HGB - 9.6 * HCT - 27.3 * MCV - 85 MCH - 29.9 MCHC - 35.2 * RDW - 15.6 *
+2020-01-20 09:50 PM
+WBC - 8.0 RBC - 3.20 * HGB - 9.6 * HCT - 27.8 * MCV - 87 MCH - 30.1 MCHC - 34.7 RDW - 15.7 *
+2020-01-20 09:50 PM
+PLT COUNT - 264
+2020-01-20 12:38 PM
+WBC - 7.4 RBC - 3.38 * HGB - 10.1 * HCT - 29.2 * MCV - 86 MCH - 29.8 MCHC - 34.5 RDW - 15.5
+Brief Hospital Course :
+Assessment and Plan :
+42 yom with h/o NSAID use transferred from OSH with black tarry stools at home .
+Patient was admitted to CMED CCU with tid Hct check .
+GI was consulted and performed Endoscopy under general anesthesia which revealed a non bleeding ulcer and gastritis .
+Patient was continued on BID PPI , H .
+Pylori serology checked ( pending at time of discharge ) .
+His antihypertensives were held given concern for GI bleed and should be restarted at follow up appointment with PCP .
+Marie was discharged with goal PPI twice day for 1 month followed by once a day .
+He is scheduled to follow up with daughter in 2 days .
+Medications on Admission :
+Medications on transfer : esmopreazole 40 mg iv bid hydrochlorthiazide 25 mg daily lisinopril 5 mg daily loratadine 10 mg daily metprolol 150 mg daily multivitamin niacin 500 mg daily
+Medications at home :
+ASA 325 mg daily
+motrin 800 mg tid
+lisinopril 5 mg daily
+hydrochlorthiazide 25 mg daily
+toprol xl 150 mg daily
+niaspan 500 mg daily
+loratidine 10 mg daily .
+Discharge Medications :
+1. Niacin 500 mg Capsule , Sustained Release Sig : One ( 1 ) Capsule , Sustained Release PO DAILY ( Daily ) .
+2. Pantoprazole 40 mg Tablet , Delayed Release ( E.C. ) Sig : One ( 1 ) Tablet , Delayed Release ( E.C. ) PO Q12H ( every 12 hours ) :
+Twice a day for one month , followed by one tablet per day .
+Disp :* 60 Tablet , Delayed Release ( E.C. )( s )* Refills :* 2 *
+Discharge Disposition :
+Home
+Discharge Diagnosis :
+GI Bleeding
+Peptic Ulcer disease
+Gastritis
+Hypertension
+Hypercholestrolemia
+Discharge Condition :
+Good
+Discharge Instructions :
+Please continue to take all your medicaitons and follow up with your appointments as below .
+You should avoid aspirin , motrin or any other nonsteroidal antiinflammatory agents .
+You should restart your BP medications after you see your PCP .
+If you have any further black stools , bleeding , lightheadedness or any other concerning symptoms please contact your PCP or return to the emergency room .
+Followup Instructions :
+Please call your PCP X. Neuse at ( 536 ) 671-1515 to set up an appointment by Friday this week .
+Richard Campbell MD 99-028
+Completed by :
+James Monique MD 11-259 2020-01-21 @ 1445
+Signed electronically by : DR. William Dunbar on : FRI 2020-09-25 1:30 PM
+( End of Report )

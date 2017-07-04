@@ -1,0 +1,86 @@
+950841719
+HLGMC
+0357073
+57762/7oq7
+07/01/1993 12:00:00 AM
+ACUTE POLYMICROBIAL BACTERIAL ENDOCARDITIS .
+Unsigned
+DIS
+Report Status :
+Unsigned
+ADMISSION DATE :
+07-01-93
+DISCHARGE DATE :
+07-26-93
+DISCHARGED TO SOUTHOBASSKING&apos;S VILLEMARG HOSPITAL .
+PRINCIPAL DIAGNOSIS :
+Acute polymicrobial bacterial endocarditis .
+ASSOCIATED DIAGNOSES :
+Ascending aortic dissection , cutaneous drug eruption , diarrhea , congestive heart failure , pulmonary edema , anuric renal failure , stroke , postoperative bleeding , mitral regurgitation , history of rheumatic fever .
+PRINCIPAL PROCEDURE :
+7/21/93 - mitral valve replacement and replacement of ascending aorta .
+OTHER PROCEDURES :
+06/29/93 - white cell scan ; 07/03/93 - cardiac ultrasound ; 07/05/93 - brain magnetic resonance imaging study ; 07/05/93 - abdominal computerized tomography scan ; 07-08-93 - cardiac ultrasound ; 07/07/93 - pelvic ultrasound ; 07/09/93 - barium enema ; 7/14/93 - cardiac catheterization and coronary angiography ; 7/15/93 - cardiac ultrasound ; 7/21/93 - reopening of sternum ; 07/22/93 - mediastinal exploration .
+HISTORY OF PRESENT ILLNESS :
+This extremely complex 75 year old woman was admitted from an outside hospital with fever .
+She was in her usual state of health until 6/15/93 when she began to experience intermittent confusion , diarrhea , and fevers up to 104 , associated with chills .
+There were transient mental status changes but no convulsions or loss of consciousness .
+She was also noted to have some diarrhea at this time .
+Because of increasing mental status changes , the patient was admitted to O Center in Sondibrid Ey on 6/20 , and she was found to have a gram-positive urinary tract infection , high fever , and was started on Ciprofloxacin .
+Blood cultures drawn on admission showed multiple organisms including Clostridium perfringens , coagulase negative Staph , and alpha hemolytic Streptococcus .
+Her antibiotics were appropriately changed .
+At the family &apos;s request , the patient was transferred to Heaonboburg Linpack Grant Medical Center for further evaluation .
+HOSPITAL COURSE :
+Further evaluation at Heaonboburg Linpack Grant Medical Center , demonstrated that the patient had mitral valve endocarditis with mitral regurgitation that was initially managed medically .
+Her antibiotics were appropriately adjusted because of the polymicrobial nature .
+Cardiac echo showed that she had moderate mitral regurgitation , an enlarged left atrium , and good ventricular function .
+There was a suggestion of mitral valve vegetation .
+She was placed on intravenous antibiotics with gradual decrease in her temperature , although some low grade temperatures initially persisted .
+The patient had an extensive evaluation over the days that followed in order to find potential sources .
+She was evaluated by the Gynecology Service including the performance of a pelvic ultrasound and also by the GI Service where she underwent a barium enema .
+There was no evidence of GI or pelvic disease which would account for the bacterial source .
+In addition , she was evaluated by the Sileyer Medical Center and there was no evidence of active dental infection .
+She had a cerebral magnetic resonance imaging study performed and there was evidence of stroke .
+Because of her complex picture , and because the source of her sepsis was not found , the initial plan was to treat with antibiotics and hopefully obtain a completely sterile surgical field for subsequent valve replacement , if indicated .
+Her temperature became low grade and it was initially stable with her mitral regurgitation .
+Towards the end of June , she had become afebrile and the initial plan was to complete a full course of antibiotics to obtain a sterile surgical field .
+A rash developed and antibiotics were appropriately changed and antibiotic levels were optimized .
+On 7/13 , she developed a sudden episode of pulmonary edema that resolved quickly and she was thought to have possible worsening of her mitral regurgitation .
+She was moved to the Intensive Care Unit and underwent subsequent cardiac catheterization in preparation for possible surgery .
+Her cardiac catheterization demonstrated minor coronary artery disease and severe mitral regurgitation with a suggestion of an annular abscess .
+After considerable discussion among the physicians involved in the patient &apos;s care , it had become apparent that the mitral regurgitation had worsened .
+Also , no source for sepsis had been found .
+Because of worsening mitral regurgitation , and the findings of severe mitral regurgitation at cardiac catheterization , as well as elevated filling pressures , it was everyone &apos;s opinion that the patient would not wait to complete a long course of antibiotics .
+Accordingly , she was taken to the operating room on 7/21/93 .
+During her cardiac procedure , she sustained dissection of the ascending aorta .
+She , therefore , underwent graft replacement of her ascending aorta and mitral valve replacement .
+Her valve was excised and any material that appeared infected was debrided .
+It was possible to clean the area thoroughly and it also became apparent that there was evidence of calcification in and around the annulus consistent with prior rheumatic fever .
+Her valve was replaced with a St. Jude Medical mitral prosthesis and it was possible to place the valve securely .
+She weaned from cardiopulmonary bypass with hemodynamics consistent with extreme vasodilation , and she required enormous doses of vasoconstrictors to maintain her blood pressure .
+She was bleeding after operation with her picture also consistent with coagulopathy , and the overall picture suggested the effects of systemic sepsis .
+In the early postoperative period , she had evidence of tamponade , possibly related to compression from her lungs , as the patient was noted to have elevated inspiratory pressures on the ventilator .
+The sternum was reopened with improvement in her hemodynamics and additional stability .
+She was returned to the operating room on 07/22 and underwent mediastinal exploration , removal of some mediastinal clot , and by now , hemostasis had improved .
+Her sternum was left opened and the skin wound was left opened , using an elastic membrane to close the chest .
+With clotting factor replacement , bleeding gradually abated and was no longer a problem .
+She subsequently developed ongoing manifestations of sepsis with sustained vasodilation and developed anuric renal failure which required peritoneal dialysis .
+She remained on full support in the Intensive Care Unit , on dialysis , with ongoing evidence of acidosis .
+Despite full support on multiple , high dose inotropic and vasoconstrictor agents , her clinical status continued to deteriorate and it became apparent that her prognosis was extremely poor .
+After consultation with the family , it was decided to not resuscitate her and , with continued deterioration , she expired on 07/26/93 at 11:10 a.m.
+Autopsy permission was granted .
+RIEMUND C. GRAFT , M.D.
+TR :
+qt / bmot
+DD :
+07-26-93
+TD :
+07/27/93
+CC :
+Collea Douetscarv , M.D.
+Gittetumn Darnnaman Graft , M.D.
+Asha Vengloan , M.D.
+Bulon Vitro , M.D.
+Hypor Vikays , M.D.
+Lanette Sc , M.D.
+Lupevickette L. Ca , M.D.

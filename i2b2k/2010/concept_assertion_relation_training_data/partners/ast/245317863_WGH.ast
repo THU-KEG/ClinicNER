@@ -1,0 +1,6 @@
+c="recently passed kidney stone" 37:1 37:4||t="problem"||a="possible"
+c="your kidney stones" 44:9 44:11||t="problem"||a="possible"
+c="kidney stones" 35:7 35:8||t="problem"||a="present"
+c="your symptoms" 46:3 46:4||t="problem"||a="hypothetical"
+c="a fever" 46:9 46:10||t="problem"||a="hypothetical"
+c="rlq pain" 33:0 33:1||t="problem"||a="present"

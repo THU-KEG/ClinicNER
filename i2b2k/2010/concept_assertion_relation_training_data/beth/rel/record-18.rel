@@ -1,0 +1,44 @@
+c="chest x-ray" 16:0 16:1||r="TeRP"||c="left lower lobe infiltrate" 16:7 16:10
+c="a foley catheterization" 91:14 91:16||r="TrAP"||c="neurogenic bladder" 91:6 91:7
+c="persistent carbon dioxide retention" 95:13 95:16||r="PIP"||c="respiratory acidosis" 95:18 95:19
+c="respiratory acidosis" 95:18 95:19||r="PIP"||c="the intermittent mental status changes" 95:21 95:25
+c="albuterol nebulizer treatments" 76:5 76:7||r="TrAP"||c="her chronic obstructive pulmonary disease" 76:22 76:26
+c="ipratropium nebulizer treatments" 76:9 76:11||r="TrAP"||c="her chronic obstructive pulmonary disease" 76:22 76:26
+c="albuterol sulfate solution" 129:1 129:3||r="TrAP"||c="shortness of breath" 129:8 129:10
+c="smear" 104:12 104:12||r="TeRP"||c="megaloblastic cells" 104:9 104:10
+c="zithromax" 77:24 77:24||r="TrAP"||c="consolidation" 77:4 77:4
+c="zithromax" 77:24 77:24||r="TrAP"||c="pneumonia" 77:15 77:15
+c="ceftriaxone" 77:29 77:29||r="TrAP"||c="consolidation" 77:4 77:4
+c="ceftriaxone" 77:29 77:29||r="TrAP"||c="pneumonia" 77:15 77:15
+c="anemia" 104:17 104:17||r="PIP"||c="high mcv" 104:6 104:7
+c="anemia" 104:17 104:17||r="PIP"||c="megaloblastic cells" 104:9 104:10
+c="antibiotics" 77:22 77:22||r="TrAP"||c="consolidation" 77:4 77:4
+c="antibiotics" 77:22 77:22||r="TrAP"||c="pneumonia" 77:15 77:15
+c="mucomyst" 80:0 80:0||r="TrAP"||c="secretions" 80:9 80:9
+c="percocet" 85:5 85:5||r="TrAP"||c="pain relief" 85:8 85:9
+c="a mucolytic component" 80:5 80:7||r="TrAP"||c="secretions" 80:9 80:9
+c="her chest x-ray" 87:9 87:11||r="TeRP"||c="acute rib factors" 87:5 87:7
+c="bipap" 98:3 98:3||r="TrCP"||c="apneic" 98:18 98:18
+c="bipap" 98:3 98:3||r="TrCP"||c="obstructing" 98:20 98:20
+c="ppi" 89:5 89:5||r="TrAP"||c="reflux disease" 89:7 89:8
+c="ppi" 89:5 89:5||r="TrAP"||c="known gastritis" 89:10 89:11
+c="bipap" 19:4 19:4||r="TrAP"||c="copd" 19:2 19:2
+c="bipap" 19:4 19:4||r="TrAP"||c="asthma" 19:0 19:0
+c="increased nebulizer treatments" 12:27 12:29||r="TrAP"||c="copd" 12:12 12:12
+c="increased nebulizer treatments" 12:27 12:29||r="TrAP"||c="asthma exacerbation" 12:14 12:15
+c="increased nebulizer treatments" 12:27 12:29||r="TrWP"||c="upper respiratory like infection" 12:21 12:24
+c="increased nebulizer treatments" 12:27 12:29||r="TrAP"||c="pneumonia" 12:10 12:10
+c="bipap" 100:1 100:1||r="TrCP"||c="hypotensive" 100:8 100:8
+c="bipap" 100:1 100:1||r="TrCP"||c="bradycardiac" 100:13 100:13
+c="anemia" 35:0 35:0||r="PIP"||c="chronic disease" 35:2 35:3
+c="florinef" 101:5 101:5||r="TrAP"||c="adrenal insufficiency" 101:9 101:10
+c="stress echo" 27:6 27:7||r="TeRP"||c="coronary artery disease" 27:0 27:2
+c="levoxyl" 93:4 93:4||r="TrAP"||c="hyperthyroidism" 93:12 93:12
+c="b12 deficiency" 104:20 104:21||r="PIP"||c="borderline low b12 levels" 104:30 104:33
+c="3 fluid boluses" 100:17 100:19||r="TrIP"||c="bradycardiac" 100:13 100:13
+c="3 fluid boluses" 100:17 100:19||r="TrIP"||c="hypotensive" 100:8 100:8
+c="b12 deficiency" 105:5 105:6||r="PIP"||c="poor p.o. intake" 105:13 105:15
+c="chest x-ray" 77:6 77:7||r="TeRP"||c="consolidation" 77:4 77:4
+c="active airway disease component" 78:9 78:12||r="PIP"||c="her shortness of breath" 78:14 78:17
+c="solu-medrol iv" 78:6 78:7||r="TrAP"||c="active airway disease component" 78:9 78:12
+c="solu-medrol iv" 78:6 78:7||r="TrAP"||c="her shortness of breath" 78:14 78:17

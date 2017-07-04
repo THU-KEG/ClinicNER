@@ -1,0 +1,84 @@
+403426241 EH
+12489813
+823156
+12/13/2002 12:00:00 AM
+Headache
+DIS
+Admission Date :
+12/13/2002
+Report Status :
+Discharge Date :
+****** DISCHARGE ORDERS ******
+SKOLKGREND , MABICEN 101-98-76-0 E13
+Room :
+53O-624
+Service :
+NEU
+DISCHARGE PATIENT ON :
+12/14/02 AT 08:30 AM
+CONTINGENT UPON
+Not Applicable
+WILL D / C ORDER BE USED AS THE D / C SUMMARY :
+YES
+Attending :
+DREPSNOUN , ICHING RACH , M.D.
+CODE STATUS :
+Full code
+DISPOSITION :
+Home
+DISCHARGE MEDICATIONS :
+AMITRIPTYLINE HCL 25 MG PO QHS ZOMIG ( ZOLMITRIPTAN ) 2.5 MG PO Q2H
+Instructions :
+Do not take more than 4 tablets in one day .
+Do not take every day .
+DIET :
+House / Low chol / low sat. fat
+Activity - As tolerated
+RETURN TO WORK :
+Immediately
+FOLLOW UP APPOINTMENT ( S ) :
+Neurology ( 663-288-7480 ) Dr. Griesewierstflythe - Ic Memorial Hospital Sat , January 5 at 2:30 pm scheduled , Neuroophthalmology ( 981-4546 ) - 254 Pring January 24 at 8:30 am scheduled , Visual Evoked Potentials - Parael Hospital Sunday , Jan 06 at 2:30 pm scheduled , No Known Allergies
+ADMIT DIAGNOSIS :
+Headache
+PRINCIPAL DISCHARGE DIAGNOSIS ;
+Responsible After Study for Causing Admission ) Headache
+OTHER DIAGNOSIS ;
+Conditions , Infections , Complications , affecting Treatment / Stay Hypercholesterolemia , h / o Bell &apos;s palsy , smokin
+OPERATIONS AND PROCEDURES :
+none
+OTHER TREATMENTS / PROCEDURES ( NOT IN O.R. )
+none
+BRIEF RESUME OF HOSPITAL COURSE :
+62 yo right-handedman with right frontal headache for past 7 days adn awkwardness of left foot on exam .
+Hedadached developed 7 days prior to admission and gradually worsened over that time .
+Stabbing in quality .
+Gradually built up to 9/10 intensity .
+Continued to go to work but had difficulty focusing .
+Tylenol gave no relief .
+No accompanying com ; plaints .
+No n / v , focal weakness , no focal sensation change , word finding difficulty , dysarthria , vertigo .
+No difficulty walking .
+PCP sent him to ER .
+In ER , pt noted binocular diplopia on primary gaze at far distance only .
+PE 110/74 , pulse 62 , afebrile .
+Exam w/ binocular diplopia on primary gaze at far distance .
+Awkward use of Left foot .
+Not able to tendem well .
+Otherwise exam within normal limits .
+Labs wnl .
+Head CT negative .
+Head MRI with and without gadolinium negative .
+Patient will be discharged to home on zomig and amitriptyline with follow-up by neurology and neuro-ophthalmology and with visual evoked potentials scheduled .
+ADDITIONAL COMMENTS :
+Take amitryptiline to prevent against future headaches .
+Take zomig only as needed ( no more than 4 pills per day ) and not every day .
+Follow up with neurology and neuro-ophthalmology , and go to your test for visual evoked potentials .
+If you wear glasses , you should bring them to your visual evoked potential test .
+DISCHARGE CONDITION :
+Stable
+TO DO / PLAN :
+As above No dictated summary
+ENTERED BY :
+PREHEWHYTEKUDZ , LENELYN LINKATE , M.D. ( EQ02 )
+12/14/02 09:01 AM
+****** END OF DISCHARGE ORDERS ******

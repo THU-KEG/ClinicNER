@@ -1,0 +1,123 @@
+Admission Date :
+2009-11-10
+Discharge Date :
+2009-11-12
+Date of Birth :
+1948-10-16
+Sex :
+M
+Service :
+CCU
+HISTORY OF PRESENT ILLNESS :
+The patient is a 61 - year-old white male with a history of coronary artery disease , status post 5-vessel coronary artery bypass graft on 2009-09-11 , who presents for elective right heart catheterization and pericardiocentesis .
+The patient did well after his coronary artery bypass graft .
+On 10-14 , the patient had a transthoracic echocardiogram which revealed a new , moderate-to-large sized pericardial effusion .
+The patient was asymptomatic at this time , and the decision was made to monitor him and to start him on Lasix .
+The patient had follow-up transthoracic echocardiogram on 11-04 which revealed a slightly large effusion .
+A few days later , on 11-07 , the patient began to develop dyspnea on exertion with normal activity .
+He also noted a new two to three-pillow orthopnea and paroxysmal nocturnal dyspnea .
+On 11-08 , he had an episode of acute shortness of breath with chest pressure which he describes as different from his typical angina with minimal exertion .
+The patient spoke with his cardiologist who referred him for pericardiocentesis for persistent and symptomatic pericardial effusion .
+On right heart catheterization , the patient was noted to have elevated right-sided and left-sided filling pressures with a pulmonary capillary wedge pressure of 19 and a right atrial pressure of 16 .
+After 600 cc of serosanguineous pericardial fluid was removed , the patient was noted to have a pulmonary capillary wedge pressure of 9 and a right atrial pressure of 2 ; indicating resolution of tamponade physiology .
+PAST MEDICAL HISTORY :
+1. Coronary artery disease , status post 5-vessel coronary artery bypass graft on 2009-09-11 .
+Left internal mammary artery to left anterior descending artery , saphenous vein graft to left anterior descending artery to diagonal , saphenous vein graft to right posterior descending artery , and saphenous vein graft to first obtuse marginal .
+2. Type 1 diabetes mellitus for 50 years .
+3. Hypercholesterolemia .
+4. Hypertension .
+5. Chronic renal insufficiency with a baseline creatinine of 1.1 to 1.4 .
+SOCIAL HISTORY :
+The patient has a positive tobacco history , but he quit smoking over 20 years ago .
+He is married and lives in Burbank Hospital .
+He has retired .
+ALLERGIES :
+No known drug allergies .
+MEDICATIONS ON ADMISSION :
+Atenolol 50 mg p.o. q.d. , Lipitor 10 mg p.o. q.d. , baby aspirin 81 mg p.o. q.d. , iron sulfate 81 mg p.o. q.d. , Lasix 40 mg p.o. q.d. , Accupril 40 mg p.o. q.d. , hydrochlorothiazide 12.5 mg p.o. q.d. , NPH insulin 18 units q.a.m. and 10 units q.p.m. , Humalog sliding-scale q.a.m. and q.p.m.
+PHYSICAL EXAMINATION ON PRESENTATION :
+The patient had a temperature of 100.9 .
+He had a blood pressure of 148 to 162/45 to 54 .
+He had a heart rate of 85 to 87 , breathing at 17 to 23 , satting 100% on room air .
+In general , he was alert and in no acute distress .
+His neck was supple without any jugular venous distention .
+HEENT examination revealed his pupils were equal , round , and reactive to light .
+His extraocular movements were intact .
+His sclerae were anicteric .
+His mucous membranes were moist .
+His oropharynx was benign .
+Cardiovascular revealed a regular rate and rhythm , heart sounds muffled , no murmurs .
+Respiratory revealed bibasilar rales .
+Abdomen was soft , nontender , and nondistended , positive bowel sounds .
+Extremities revealed trace lower extremity edema , right greater than left , 2+ dorsalis pedis and posterior tibialis pulses .
+He had 2+ femoral pulses bilaterally .
+No hematomas were noted , but a soft right femoral bruit was heard .
+LABORATORY DATA ON PRESENTATION :
+The patient had a white blood cell count of 9.5 , a hematocrit of 34.5 , a platelet count of 194 .
+His Chem-7 revealed sodium of 132 , potassium of 43 , chloride of 97 , bicarbonate of 28 , BUN of 25 , creatinine of 1.3 , glucose of 220 .
+He had an INR of 1.1 .
+A calcium of 8.4 , phosphate of 2.5 , magnesium of 1.9 .
+Pericardial fluid analysis was consistent with an exudative etiology .
+RADIOLOGY / IMAGING :
+The patient had an electrocardiogram with normal sinus rhythm at 70 , normal axis , normal intervals , low voltage in the limb leads .
+Chest x-ray on admission revealed a large left pleural effusion .
+The patient had an echocardiogram on 11-10 which revealed the following :
+Global left ventricular systolic function appeared grossly preserved .
+Due to technical quality a focal wall motion abnormality could not be fully excluded .
+The aortic valve leaflets were mildly thickened .
+The mitral valve leaflets were mildly thickened .
+There was a large pericardial effusion ( up to greater than 6 cm wide anterior to the right ventricle ).
+The right ventricle was compressed .
+HOSPITAL COURSE :
+The patient was transferred to the Coronary Care Unit after his therapeutic pericardiocentesis .
+He was hemodynamically stable and without any complaints .
+He was continued on his home cardiac regimen , but was started on indomethacin for post pericardiotomy syndrome .
+Over the course of the night the patient drained an additional 400 cc of serosanguineous fluid from his pericardial drain pouch .
+By the next morning , the degree of drainage had decreased considerably with only 60 cc drained over six hours .
+The patient had a repeat transthoracic echocardiogram prior to drain removal which revealed the following :
+A trivial / physiologic pericardial effusion one day post pericardiocentesis with no change from the study immediately post pericardiocentesis .
+The pericardial drain was removed without any difficulty .
+The pericardial fluid bag was removed without any difficulty with the decision to monitor the patient overnight and repeat the echocardiogram prior to discharge .
+The patient had an enlarged left pleural effusion which was noted to layer on a lateral decubitus film .
+We decided to perform a therapeutic thoracentesis .
+The patient was prepped and draped in a sterile fashion , and 1150 cc of fluid were drained .
+A chest x-ray was obtained post thoracentesis which revealed a significant decrease in the size of the left pleural effusion .
+No evidence of pneumothorax .
+On the morning of admission the patient had a markedly improved lung examination with increased air movement in the left base .
+He denied any shortness of breath and had oxygen saturations in the 90 s on room air .
+He had a repeat echocardiogram which revealed a trivial / physiologic pericardial effusion .
+The patient was without any complaints and remained stable .
+CONDITION AT DISCHARGE :
+Condition on discharge was stable .
+DISCHARGE STATUS :
+The patient was to be discharged to home .
+DISCHARGE DIAGNOSES :
+1. Post pericardiotomy syndrome .
+2. Status post pericardiocentesis .
+3. Status post thoracentesis .
+4. Type 1 diabetes mellitus for 50 years .
+5. Coronary artery disease .
+6. Hypercholesterolemia .
+7. Hypertension .
+8. Chronic renal insufficiency .
+MEDICATIONS ON DISCHARGE : ( Discharge medications include )
+1. Indomethacin 25 mg p.o. t.i.d. for seven days.
+2. Atenolol 50 mg p.o. q.d.
+3. Lipitor 10 mg p.o. q.d.
+4. Baby aspirin 81 mg p.o. q.d.
+5. Iron sulfate 81 mg p.o. q.d.
+6. Accupril 40 mg p.o. q.d.
+7. Hydrochlorothiazide 12.5 mg p.o. q.d.
+8. NPH insulin 18 units q.a.m. and 10 units q.p.m.
+9. Humalog sliding-scale q.a.m. and q.p.m.
+DISCHARGE FOLLOWUP :
+The patient was to follow up with his primary cardiologist , Dr. Thomas , within one week .
+David Archibald , M.D. 11-989
+Dictated By : Dorothy Y. Madore , M.D.
+MEDQUIST36
+D : 2009-11-12 12:02
+T : 2009-11-12 17:44
+JOB #: 33199
+( cclist )
+Signed electronically by : DR. Susan O. G. Aviles on : Robert 2010-01-14 7:23 PM
+( End of Report )

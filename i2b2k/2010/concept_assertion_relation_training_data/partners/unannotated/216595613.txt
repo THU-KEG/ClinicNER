@@ -1,0 +1,60 @@
+216595613
+CTMC
+81260526
+807782
+2/9/1992 12:00:00 AM
+Discharge Summary
+Unsigned
+DIS
+Admission Date :
+02/09/1992
+Report Status :
+Unsigned
+Discharge Date :
+02/22/1992
+PRINCIPAL DIAGNOSIS :
+STATUS POST MULTIPLE EMBOLISMS AND LEFT VENTRICULAR THROMBUS PROCEDURES :
+LEFT VENTRICULAR THROMBECTOMY .
+HISTORY OF PRESENT ILLNESS :
+This is a 63 year old patient who had no significant medical history until 1987 , when he developed a left arm embolism which was treated with SVG from the left thigh .
+The postop course was uncomplicated with an embolus occluding the graft and a CVA .
+In 04-90 , the patient suffered an intestinal embolism requiring an ileostomy which was closed in 09-90 .
+In 09-90 , the patient developed a second CVA presenting with slurred speech which resolved without residual .
+The patient presents now with a 3 month history of dizziness and mood changes .
+He also complains of continued left arm paresthesias .
+The patient also reports that he had a large silent MI in 01-89 , which was uncomplicated .
+HOSPITAL COURSE :
+After admission to the Medical Service , the patient underwent work up for embolism source and source for his dizziness .
+His search had previously been negative .
+A recent echo showed 1+ MR , inferior apical and left ventricular akinesis and a 3 x 2.5 cm spherical mass in the inferior apical left ventricle .
+This finding was in concurrence with findings of a cardiac cath performed on 2-12-92 .
+The patient was then transferred to the Cardiac Surgery Service for the removal of this left ventricular mass .
+Coronary angiography during the cardiac cath had revealed normal coronaries without coronary artery disease .
+After the usual preparation , the patient was taken to the OR on 2-14-92 , and underwent left ventriculotomy and removal of the left ventricular thrombus .
+The pathological examination of the removed material revealed a blood clot with thrombus .
+The patient tolerated the procedure well .
+During the early postop period , he was kept on IV Dextran and was restarted on Coumadin .
+His further postop course was complicated by a recurrent episode of dizziness .
+His neurologic work up , however , was negative .
+A repeat echo showed no recurrent intraventricular thrombus and a carotid Doppler study was negative .
+The patient suffered no further dizzy spells during the further postop days .
+He was discharged in good condition on 2-22-92 .
+DISPOSITION :
+MEDICATIONS ON DISCHARGE :
+Synthroid .1 mg po q d , Metamucil one pack po q d , Persantine 50 mg po t.i.d. , Lopressor 25 mg po b.i.d. , Anusol cream at anal t.i.d. , Coumadin for PTT equal 20 seconds as directed , Albuterol inhaler two puffs q 6 h prn .
+FOLLOW UP CARE :
+Since our Hematology consultant recommended to keep the patient &apos;s PT in the range of 20-22 seconds , the patient will require close follow up of his PT&apos;s while on Coumadin .
+This was discussed with the patient &apos;s local medical doctor , Dr. Royneo Walla .
+The patient will receive further follow up including evoked potential studies by our Neurology Service .
+He has an appointment with Dr. O Kotea for his cardiac surgical follow up 4 weeks post discharge .
+RW629/4018 ER SPALDJESCSAPELKSGLOTZA , M.D. JS8 RW2
+D :
+04/04/92
+Batch :
+0230
+Report :
+C3717T78
+T :
+04/06/92
+Dicatated By :
+WIN AGNE , M.D.

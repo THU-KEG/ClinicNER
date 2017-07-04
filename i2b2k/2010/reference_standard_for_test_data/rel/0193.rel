@@ -1,0 +1,23 @@
+c="repair/replacement" 58:15 58:15||r="TrAP"||c="mild mitral regurgitation" 58:9 58:11
+c="cardiac catheterization" 21:10 21:11||r="TeRP"||c="severe three vessel disease" 21:14 21:17
+c="cardiac catheterization" 21:10 21:11||r="TeRP"||c="04-05+ mitral regurgitation" 21:19 21:21
+c="cytoxan" 24:4 24:4||r="TrAP"||c="non-hodgkins lymphoma" 24:0 24:1
+c="acyclovir" 76:0 76:0||r="TrAP"||c="a herpes zoster breakout on her right upper back" 76:9 76:17
+c="cabg" 103:5 103:5||r="TrAP"||c="coronary artery disease" 103:0 103:2
+c="varicella zoster" 24:12 24:13||r="PIP"||c="opthalmic lesions" 24:15 24:16
+c="intravenous amiodarone" 69:13 69:14||r="TrAP"||c="paroxysmal atrial fibrillation" 69:5 69:7
+c="flagyl" 77:8 77:8||r="TrAP"||c="persistent diarrhea" 77:10 77:11
+c="intraoperative transesophageal echocardiogram evaluation" 58:3 58:6||r="TeRP"||c="mild mitral regurgitation" 58:9 58:11
+c="flagyl" 77:34 77:34||r="TrCP"||c="an additional rash on her buttocks" 77:23 77:28
+c="acetaminophen" 85:1 85:1||r="TrAP"||c="fever" 85:19 85:19
+c="acetaminophen" 85:1 85:1||r="TrAP"||c="pain" 85:21 85:21
+c="a stat mri" 62:0 62:2||r="TeRP"||c="multiple abnormal foci" 62:6 62:8
+c="multiple abnormal foci" 62:6 62:8||r="PIP"||c="systemic emboli" 62:11 62:12
+c="follow up examinations" 20:0 20:2||r="TeRP"||c="a suspicious left lower lobe finding" 20:5 20:10
+c="cytoxan" 19:15 19:15||r="TrWP"||c="non-hodgkins lymphoma" 19:11 19:12
+c="c. diff" 70:7 70:8||r="TeCP"||c="loose stools" 70:3 70:4
+c="dilantin" 65:5 65:5||r="TrAP"||c="seizure activity" 65:2 65:3
+c="bactrim" 78:12 78:12||r="TrAP"||c="a urinary tract infection" 78:2 78:5
+c="the flagyl" 77:37 77:38||r="TrNAP"||c="an additional rash on her buttocks" 77:23 77:28
+c="skin irritation" 79:15 79:16||r="PIP"||c="incontinence" 79:10 79:10
+c="a foley catheter" 79:0 79:2||r="TrAP"||c="incontinence" 79:10 79:10

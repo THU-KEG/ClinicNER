@@ -1,0 +1,93 @@
+812367409
+SH
+21952193
+06/19/1991 12:00:00 AM
+Discharge Summary
+Signed
+DIS
+Admission Date :
+06/19/1991
+Report Status :
+Signed
+Discharge Date :
+Independence Day
+HISTORY OF PRESENT ILLNESS :
+The patient is an 84-year-old woman with a history of rheumatoid arthritis .
+She is now status post three myocardial infarctions .
+She has had progressive deformity and rheumatoid arthritis of her right knee .
+She presented at this time for a right total knee replacement .
+PAST MEDICAL HISTORY :
+As above .
+Appendectomy .
+Cholecystectomy .
+Left total knee replacement in 1977 .
+Pepticulcer disease .
+MEDICATIONS :
+On admission included Inderal , 40 mgpo q.i.d. ; Aldomet , 250 mg po t.i.d. ; apresoline , 250 mg po t.i.d. ; Nitropaste , one - half inch q p.m. ; Zantac , 150 mg po q p.m. ; Lasix , 20 mg po q day ; allopurinol , 300 mg po b.i.d. and Clinoril , 25 mgpo b.i.d.
+HABITS :
+She does not smoke or drink .
+ALLERGIES :
+ECOTRIN .
+MINIPRES .
+TAGAMET .
+HALDOL .
+PHYSICAL EXAMINATION :
+On admission revealed an elderly woman in no acute distress .
+Temperature 97.6 .
+Pulse 80 .
+Respiratory rate 18 .
+Blood pressure 200/86 .
+Skin was without rashes or breakdown .
+Lungs were clear to auscultation and percussion .
+Heart revealed a Grade IV / VI systolic ejection murmur .
+Abdomen was soft , nontender , no masses .
+Extremities revealed skin was intact to both lower extremities .
+Right leg demonstrated flexion from 5 degrees to 135 degrees .
+Left leg demonstrated flexion from 0 to 130 degrees .
+She had tenderness in her right knee .
+She had crepitus in her right knee .
+Sensory and motor function was intact .
+LABORATORY DATA :
+On admission included x-rays which demonstrated severe degenerative disease of her right knee .
+She had a creatinine of 2.0 .
+BUN 59 .
+Hematocrit of 31.4 .
+EKG revealed left bundle branch block with no acute ischemic changes .
+Urinalysis demonstrated a small amount of blood but no evidence of infection .
+HOSPITAL COURSE :
+Rheumatoid arthritis :
+The patient underwent a right total knee replacement after Cardiology clearance .
+She tolerated the procedure well , however , in the immediate postoperative period she developed confusion and adelirium status state .
+She was evaluated by Neurology and followed carefully .
+All of her pain medications were discontinued and she was maintained with a sitter .
+Psychiatry Service evaluated the patient and she was scheduled for a head CT .
+Head CT demonstrated no evidence of any stroke or acute compromise but there appeared to be chronic atrophy .
+Further evaluation consisted of a Urology consult which followed for her mildly elevated creatinine .
+The patient was followed by the Cardiology Service postoperatively and demonstrated no evidence of myocardial infarction in the immediate postoperative period .
+Note that she cleared mentally spontaneously over approximately seven days postoperatively .
+She subsequently did well with physical therapy .
+She was cleared for discharge after achieving flexion beyond 100 degrees .
+She was able to ambulate up and down stairs with crutches .
+She had x-rays taken confirming good alignment of her prosthesis .
+Ultrasound ruled out evidence of a deep venous thrombosis .
+She was therefore discontinued on Coumadin .
+DISCHARGE DIAGNOSES :
+STATUS POST RIGHT TOTAL KNEE REPLACEMENT .
+CONFUSION .
+CHRONIC RENAL FAILURE .
+DISPOSITION :
+The patient was discharged to home in satisfactory condition .
+MEDICATIONS :
+On discharge included Zantac , 150 mg po q p.m. ; Lasix , 20 mg po q day ; allopurinol , 300mg po b.i.d. ; Clinoril , 325 mg po b.i.d. ; Nitropatch , one - half inch q p.m. ; apresoline , 250 mg po t.i.d. ; Aldomet , 250 mg po t.i.d. ; Inderal , 40 mg po q.i.d.
+IL799/1282
+RAMAG L. TROISQUARCKAYS , M.D. KK5
+D :
+07/11/91
+Batch :
+8122
+Report :
+H7634J2
+T :
+07/15/91
+Dictated By :
+HEAGLE , M.D.

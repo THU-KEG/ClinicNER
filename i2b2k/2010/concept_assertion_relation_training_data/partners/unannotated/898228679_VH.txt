@@ -1,0 +1,29 @@
+898228679 VH
+5063404
+853944
+4513030
+07/30/2003 12:00:00 AM
+ED Discharge Summary
+Unsigned
+DIS
+Report Status :
+Unsigned
+ED DISCHARGE NOTIFICATION
+ZEISSHUFFGACH , BETHBRA
+MRN :
+5063404
+Age :
+86y
+REGISTRATION DATE :
+07/30/2003 09:02 PM
+PRELIMINARY REPORT
+This is to notify you that your patient , ZEISSHUFFGACH , BETHBRA arrived in the Emergency Department at Villea Hospital on 07/30/2003 09:02 PM .
+The patient presented with a chief complaint of DVT R LE .
+Following evaluation and treatment , the patient &apos;s disposition at the end of the visit was ADMITTED AS AN INPATIENT TO VILLEA HOSPITAL .
+The patient &apos;s preliminary admitting physician is MEEDHUANG , PADA and the preliminary diagnosis is DVT .
+Please note this information may have been updated on the inpatient unit .
+If you need additional information please call 169-025-7293 .
+PCP Name :
+BELB , RYNA S
+Provider Number :
+74944

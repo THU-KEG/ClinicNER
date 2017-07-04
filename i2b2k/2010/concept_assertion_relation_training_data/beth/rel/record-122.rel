@@ -1,0 +1,15 @@
+c="the procedure" 40:2 40:3||r="TrCP"||c="hoarse" 40:14 40:14
+c="the procedure" 40:2 40:3||r="TrCP"||c="complications" 40:7 40:7
+c="examination" 26:1 26:1||r="TeRP"||c="afebrile" 26:5 26:5
+c="xrt" 48:10 48:10||r="TrAP"||c="squamous cell cancer" 48:18 48:20
+c="xrt" 48:10 48:10||r="TrAP"||c="positive level ii nodes" 48:29 48:32
+c="scoping" 41:1 41:1||r="TeRP"||c="significant supraglottic edema" 41:5 41:7
+c="resection" 39:12 39:12||r="TrAP"||c="the left face squamous cell cancer" 39:14 39:19
+c="a cystoscopy transurethral resection of prostate placement" 38:15 38:21||r="TrAP"||c="hematuria" 38:11 38:11
+c="his pathology" 48:15 48:16||r="TeRP"||c="squamous cell cancer" 48:18 48:20
+c="his pathology" 48:15 48:16||r="TeRP"||c="positive level ii nodes" 48:29 48:32
+c="radiation" 14:18 14:18||r="TrAP"||c="non hodgkin 's lymphoma" 14:20 14:23
+c="resection" 36:7 36:7||r="TrAP"||c="this left facial lesion" 36:11 36:14
+c="split thickness and full thickness skin grafting" 39:24 39:30||r="TrAP"||c="the defects" 39:32 39:33
+c="repair" 36:9 36:9||r="TrAP"||c="this left facial lesion" 36:11 36:14
+c="evaluation" 11:15 11:15||r="TeCP"||c="a left facial mass" 11:17 11:20

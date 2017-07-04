@@ -1,0 +1,14 @@
+c="the gait examination" 80:5 80:7||r="TeCP"||c="changing gait" 80:14 80:15
+c="heent examination" 42:0 42:1||r="TeRP"||c="bilateral esotropia" 42:5 42:6
+c="an mri" 27:3 27:4||r="TeRP"||c="enlarged lateral ventricles" 27:11 27:13
+c="an mri" 27:3 27:4||r="TeRP"||c="normal pressure hydrocephalus" 27:19 27:21
+c="altzheimer &apos;s disease" 29:6 29:8||r="PIP"||c="down &apos;s syndrome" 29:11 29:13
+c="her feet externally rotated" 61:4 61:7||r="PIP"||c="a wide based gait" 61:9 61:12
+c="her feet externally rotated" 61:4 61:7||r="PIP"||c="shuffling short steps" 61:14 61:16
+c="her feet externally rotated" 61:4 61:7||r="PIP"||c="a tendency to fall back" 61:18 61:22
+c="mri" 62:0 62:0||r="TeRP"||c="large ventricles" 62:12 62:13
+c="csf gram stain" 74:0 74:2||r="TeRP"||c="organisms" 74:10 74:10
+c="csf gram stain" 74:0 74:2||r="TeRP"||c="polys" 74:7 74:7
+c="left ankle surgery" 47:10 47:12||r="TrCP"||c="swelling" 47:5 47:5
+c="diagnostic lumbar puncture" 27:30 27:32||r="TeCP"||c="normal pressure hydrocephalus" 27:19 27:21
+c="down &apos;s syndrome" 21:5 21:7||r="PIP"||c="alzheimer &apos;s disease" 21:0 21:2

@@ -1,0 +1,138 @@
+878464010
+CTMC
+09250515
+753143
+02/20/1994 12:00:00 AM
+Discharge Summary
+Signed
+DIS
+Admission Date :
+02/20/1994
+Report Status :
+Signed
+Discharge Date :
+03/13/1994
+PRINCIPAL DIAGNOSIS :
+1. IDIOPATHIC DILATED CARDIOMYOPATHY
+SECONDARY DIAGNOSES :
+2. DILATED CARDIOMYOPATHY
+3. HYPERTENSION
+4. CHRONIC OBSTRUCTIVE PULMONARY DISEASE
+5. BRONCHITIS
+6. CERVICAL POLYPS
+CHIEF COMPLAINT :
+The patient is a 55 year old white female with dilated cardiomyopathy , status post ventricular tachycardia / ventricular fibrillation arrest 02/04/94 .
+She was transferred to Retelk County Medical Center for further therapy , and transplant evaluation .
+Patient also received AICD .
+HISTORY OF PRESENT ILLNESS :
+The patient was initially admitted for further therapy of her idiopathic dilated cardiomyopathy and for transplant evaluation .
+Patient &apos;s past medical history is to besummarized as follows :
+In 1990 the patient was diagnosed with dilated cardiomyopathy in Hispit , Delaware .
+Since that time the patient has been treated medically .
+In 07/93 the patient underwent exercise tolerance test which showed a MBO2 of 12.7 mg per kilogram .
+On 09/93 the patient underwent transplant evaluation at Retelk County Medical Center .
+Echocardiogram showed severe PR and mitral regurgitation , mild AI and ejection fraction of 15% to 20% , a markedly dilated left ventricle and moderately dilated right ventricle , and a question of a possible left ventricular and right ventricular thrombus .
+Consequently the patient was started on Coumadin .
+Catheterization at that time showed an RA pressure of 60 , cardiac index of 1.7 , SVR of 2100 and a PVR of 387 .
+Coronaries were completely normal .
+Consequently the patient was admitted to the CCU for intensive hemodynamic monitoring , and after load reduction .
+In the CCU the patient was initially treated with nitroprusside and eventually switched to Captopril and Isordil .
+Hemodynamics were optimized resulting in a cardiac output of 4.4 with a SVR of 1300 and a wedge of 16 .
+Pulmonary function tests were obtained which showed marked pulmonary dysfunction with FEV1 of 1.4 and markedly decreased ELCL of 50% .
+Repeat pulmonary function tests following optimization of cardiac therapy showed somewhat improved but not to a significant degree of the pulmonary function tests .
+Furthermore , due to the patient &apos;s long standing amiodarone therapy , and a positive second pulmonary function , Amiodarone was discontinued during that hospital admission .
+Consequently the patient was discharged on Captopril , Digoxin , Lasix , Micronase , Isordil and prn inhalers .
+The patient did well at home until 1/31/94 when she was admitted to Souland in Nixmont Bovo with increasing congestive heart failure .
+At that time the patient was aggressively diuresed .
+By report , in the interim since discharge from Retelk County Medical Center , amiodarone was restarted for unclear indications .
+Dring this hospitalization at Hahkellrick Hospital , a dobutamine drip was started to improve hemodynamics , and in the setting of the dobutamine drip the patient had spontaneous ventricular tachycardia / ventricular fibrillation arrest .
+She was quickly defibrillated and converted to sinus rhythm with a left bundle branch block .
+She was treated for a short time with Lidocaine and eventually weaned off .
+She was continued on low dose dobutamine and transferred back to Retelk County Medical Center for further evaluation .
+The patient was transferred to Retelk County Medical Center on 02/20/94 , again for possible heart-lung transplantation .
+The patient was evaluated by the CHF and Heart Transplant Service .
+It was felt that the patient was not likely a good transplant candidate secondary to endocurrent lung disease .
+Furthermore , since it was felt that the patient failed amiodarone therapy , the patient was seen by the Alllo Eino Hospital which recommended EPS to rule out possible bundle branch reentry as the source of the patient &apos;s arrhythmia with possible AICD placement if the EPS was negative .
+Note , per recommendation from the CHF Team , dobutamine was discontinued within the first 24 hours of the patient &apos;s hospitalization without difficulty .
+On 02/22/94 an EPS study was performed .
+The patient was negative for inducible ventricular arrhythmias despite maximal stimulation .
+Consequently AICD placement was recommended .
+Consequently , the patient underwent AICD placement on 03/09/94 .
+Note , from 02/22 to 03/09 there is a question of the patient having a right forearm thrombophlebitis .
+Consequently , the patient underwent a full 2 week course of antibiotic therapy along with debridement of the right forearm for placement of the AICD .
+Note , biopsies from the right forearm were significant only for inflammation , and not infection .
+Cultures were negative , and note , no pus or purulent fluid was found upon debridement .
+Thus , AICD placement was performed on 03/09/94 following a 2 week course of antibiotic therapy for presumed ( but later found to be inflammation only ) of right forearm phlebitis .
+There were no intraoperative or postoperative complications following the AICD placement .
+By 03/10/94 the patient was able to ambulate without assistance , and was only having minimal tenderness at the AICD placement site .
+At this point it was felt the patient would go home on 03/13/94 .
+It was felt that the patient should stay inhouse over the weekend since the patient will be traveling back to Vonamemp , LA via plane by herself .
+This was discussed with both the patient and the Cardiology B Team .
+PAST MEDICAL HISTORY :
+Type II diabetes mellitus , cardiomyopathy , bronchitis , history of hypertension , chronic obstructive pulmonary disease , and cervical polyps .
+ALLERGIES :
+NKDA .
+MEDICATIONS ON TRANSFER :
+Captopril 25 mg t.i.d. , digoxin .125 mg q.d. , Lasix 40 mg q.d. , Isordil 10 mg t.i.d. , dobutamine 2.3 mg per kilogram per hour , Xanax .25 mg prn , Beclovent 2 puffs q.i.d. , Proventil 2 puffs q.i.d. , K-Dur 20 mEq q.d. , magnesium oxide 400 mg t.i.d. and Colace 100 mg b.i.d.
+SOCIAL HISTORY :
+Positive tobacco history although the patient quit approximately 1 year ago .
+History of alcohol formerly 6 pack per day long-standing , however , the patient currently does not use alcohol .
+The patient lives with her daughter and is unable to work .
+FAMILY HISTORY :
+Positive for lung cancer and positive for hypertension .
+PHYSICAL EXAMINATION :
+HEENT :
+Within normal limits .
+NECK :
+Supple with 2+ carotid pulses bilaterally , negative for bruits .
+Jugular venous pressure approximately 8 cm , negative for lymphadenopathy .
+CARDIOVASCULAR :
+Regular rate and rhythm , II / VI systolic murmur , negative for L3 .
+Note that the S2 was greater than S1 .
+LUNGS :
+Clear to auscultation bilaterally with an inspiratory squeak at the left lower base .
+ABDOMEN :
+Positive bowel sounds , nontender , nondistended , negative for hepatosplenomegaly .
+EXTREMITIES :
+Negative for clubbing , cyanosis or edema , and 2+ pulses throughout .
+NEUROLOGICAL :
+Nonfocal .
+LABORATORY DATA :
+Sodium 141 , potassium 3.4 , chloride 93 , bicarb 34 , BUN 14 , creatinine .8 , glucose 155 , hematocrit 51.3 , platelet count 255 , white count 8.1 .
+Digoxin 0.9 .
+HOSPITAL COURSE :
+As mentioned in the history of present illness ( inadvertently placed in the history of present illness ) , the patient was admitted for further management , and evaluation of transplantation .
+As per history of present illness the patient was found to be a poor heart-lung transplantation candidate .
+An EPS study was performed which was negative for inducible arrhythmia despite maximal stimulus .
+Consequently , the patient underwent AICD placement on 03/09/94 .
+Hospital course was only complicated by presumed right forearm thrombophlebitis , and the patient completed a 2 week antibiotic course prior to AICD placement .
+Note , for the question of the right forearm thrombophlebitis , the right forearm was debrided and sent for culture and pathology .
+Cultures were negative .
+Debridement was negative for purulent discharge .
+Pathology is only significant for inflammation , and not infection .
+The patient did well following the AICD placement .
+There were no intraoperative complications , and no postoperative complications .
+DISPOSITION :
+The patient is discharged to home in stable condition on 03/13/94 .
+MEDICATIONS ON DISCHARGE :
+At the time of discharge , the patient was on Coumadin 2 mg q.h.s. , K-Dur 20 mEq po q.d. , magnesium oxide 420 mg po q.d. , Isordil 10 mg po t.i.d. , Lasix 40 mg po q.d. , Colace 100 mg po b.i.d. , Digoxin .25 mg po q.d. , Captopril 25 mg po t.i.d. , Beclovent inhaler 2 puffs q.i.d. , Proventil inhaler 2 puffs q.i.d. , Tylenol #3 1 tablet 30 mg po q. 2-3 hours times 1 day prn pain or discomfort .
+CONDITION ON DISCHARGE :
+Stable .
+OPERATIONS / PROCEDURES :
+1) 3/1/94 Excision of right forearm vein for question of phlebitis ; 2) 03/09/94 AICD implantation .
+FOLLOW-UP CARE :
+1) Dr. Fyfe , the patient &apos;s primary Cardiologist in Saltra , Kansas .
+Dr. Fyfe &apos;s number is ( 672 ) 056-7892 .
+Dictated By :
+I BASE , M.D. PX38
+Attending :
+DE A. RIBREEFCHEAMPNER , M.D. RE0 PB977/3415
+Batch :
+0656
+Index No. QYXZ9F5H7W
+D :
+03/12/94
+T :
+03/14/94
+CC :
+1. DR. FYFE , STIE , Texas

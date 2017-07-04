@@ -1,0 +1,22 @@
+c="initial opthalmologic exam" 77:0 77:2||r="TeRP"||c="immature retinas" 77:6 77:7
+c="peak bilirubin" 65:13 65:14||r="TeRP"||c="hyperbilirubinemia" 65:5 65:5
+c="the echo" 51:0 51:1||r="TeRP"||c="an anomalous left coronary" 51:3 51:6
+c="evaluation by echo" 50:16 50:18||r="TeCP"||c="a murmur" 50:11 50:12
+c="phototherapy" 65:3 65:3||r="TrAP"||c="hyperbilirubinemia" 65:5 65:5
+c="regular echos" 56:18 56:19||r="TeCP"||c="coronary ischemia" 56:5 56:6
+c="regular echos" 56:18 56:19||r="TeCP"||c="an lcapa" 56:10 56:11
+c="regular echos" 56:18 56:19||r="TeCP"||c="ischemia" 56:32 56:32
+c="regular echos" 56:18 56:19||r="TeCP"||c="valvular regurgitation" 56:34 56:35
+c="regular echos" 56:18 56:19||r="TeCP"||c="compromised ventricular function" 56:38 56:40
+c="coronary ischemia" 56:5 56:6||r="PIP"||c="an lcapa" 56:10 56:11
+c="ekgs" 56:21 56:21||r="TeCP"||c="coronary ischemia" 56:5 56:6
+c="ekgs" 56:21 56:21||r="TeCP"||c="an lcapa" 56:10 56:11
+c="ekgs" 56:21 56:21||r="TeCP"||c="ischemia" 56:32 56:32
+c="ekgs" 56:21 56:21||r="TeCP"||c="valvular regurgitation" 56:34 56:35
+c="ekgs" 56:21 56:21||r="TeCP"||c="compromised ventricular function" 56:38 56:40
+c="caffeine" 46:11 46:11||r="TrAP"||c="apnea of prematurity" 46:5 46:7
+c="antibiotics" 104:6 104:6||r="TrAP"||c="sepsis" 104:1 104:1
+c="physical examination" 26:3 26:4||r="TeRP"||c="a non dysmorphic infant" 26:6 26:9
+c="physical examination" 26:3 26:4||r="TeRP"||c="multiple bruises" 26:16 26:17
+c="one specimen" 93:4 93:5||r="TeRP"||c="borderline low thyroxine" 93:10 93:12
+c="a hip ultrasound" 100:5 100:7||r="TeCP"||c="breech presentation" 100:2 100:3

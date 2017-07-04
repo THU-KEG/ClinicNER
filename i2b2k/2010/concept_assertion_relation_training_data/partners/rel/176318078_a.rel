@@ -1,0 +1,27 @@
+c="vanceril" 36:5 36:5||r="TrAP"||c="chronic obstructive pulmonary disease" 36:7 36:10
+c="interstitial edema" 66:13 66:14||r="PIP"||c="small , bilateral effusions" 66:16 66:19
+c="coumadin" 29:0 29:0||r="TrCP"||c="bleeding from the mouth and nose" 29:3 29:8
+c="electrocardiogram" 65:0 65:0||r="TeRP"||c="atrial fibrillation" 65:2 65:3
+c="electrocardiogram" 65:0 65:0||r="TeRP"||c="moderate ventricular response" 65:5 65:7
+c="electrocardiogram" 65:0 65:0||r="TeRP"||c="right axis deviation" 65:15 65:17
+c="electrocardiogram" 65:0 65:0||r="TeRP"||c="right ventricular hypertrophy" 65:19 65:21
+c="electrocardiogram" 65:0 65:0||r="TeRP"||c="incomplete right bundle branch block" 65:9 65:13
+c="electrocardiogram" 65:0 65:0||r="TeRP"||c="apical infarction" 65:24 65:25
+c="liver slightly pulsatile" 59:0 59:2||r="PIP"||c="enlarged" 59:5 59:5
+c="atrial fibrillation" 32:3 32:4||r="PIP"||c="ventricular bigemini" 32:8 32:9
+c="transdermal nitroglycerin" 43:0 43:1||r="TrCP"||c="headache" 43:3 43:3
+c="pulses" 60:0 60:0||r="TeRP"||c="weak dorsalis pedis pulses" 60:6 60:9
+c="potassium replacement" 88:0 88:1||r="TrCP"||c="marked hyperkalemia" 88:10 88:11
+c="a holter" 32:0 32:1||r="TeRP"||c="ventricular bigemini" 32:8 32:9
+c="a holter" 32:0 32:1||r="TeRP"||c="atrial fibrillation" 32:3 32:4
+c="chest x-ray" 66:0 66:1||r="TeRP"||c="left atrial , right ventricular and pulmonary arterial enlargement" 66:3 66:11
+c="chest x-ray" 66:0 66:1||r="TeRP"||c="small , bilateral effusions" 66:16 66:19
+c="chest x-ray" 66:0 66:1||r="TeRP"||c="interstitial edema" 66:13 66:14
+c="coumadin" 82:15 82:15||r="TrCP"||c="nasal hemorrhage" 82:12 82:13
+c="minimal mitral valve calcification" 76:2 76:5||r="PIP"||c="2+ mitral regurgitation into a large left atrium" 76:13 76:20
+c="interventional neuroradiology occlusion" 82:19 82:21||r="TrAP"||c="nasal hemorrhage" 82:12 82:13
+c="pulmonary capillary wedge pressure" 72:0 72:3||r="TeRP"||c="markedly elevated" 72:5 72:6
+c="narrowly physiologically split" 54:1 54:3||r="PIP"||c="accentuation" 54:5 54:5
+c="a partial gastrectomy" 38:2 38:4||r="TrAP"||c="a &quot; tumor &quot;" 38:8 38:11
+c="pulmonary artery pressure" 71:0 71:2||r="TeRP"||c="markedly elevated" 71:4 71:5
+c="coumadin" 21:2 21:2||r="TrCP"||c="epistaxis" 21:0 21:0

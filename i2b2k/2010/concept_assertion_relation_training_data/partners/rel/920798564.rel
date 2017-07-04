@@ -1,0 +1,32 @@
+c="prostate ca in the pelvic area" 33:20 33:25||r="PIP"||c="obstructive uropathy" 33:16 33:17
+c="further evaluation" 33:0 33:1||r="TeCP"||c="his renal failure" 33:3 33:5
+c="further evaluation" 33:0 33:1||r="TeRP"||c="obstructive uropathy" 33:16 33:17
+c="further evaluation" 33:0 33:1||r="TeRP"||c="bilateral hydronephrosis" 33:11 33:12
+c="further evaluation" 33:0 33:1||r="TeRP"||c="prostate ca in the pelvic area" 33:20 33:25
+c="nephrostomy tube placement" 24:20 24:22||r="TrCP"||c="persistent hematuria" 24:16 24:17
+c="nephrostomy tube placement" 24:20 24:22||r="TrAP"||c="prostate ca" 24:6 24:7
+c="prostate ca" 24:6 24:7||r="PIP"||c="persistent hematuria" 24:16 24:17
+c="sodium bicarbonate" 111:5 111:6||r="TrAP"||c="his metabolic acidosis" 111:9 111:11
+c="transurethral resection of the prostate" 27:2 27:6||r="TrAP"||c="persistent urinary retention" 27:12 27:14
+c="crisis treatment" 116:35 116:36||r="TrNAP"||c="this well advanced prostate ca" 116:38 116:42
+c="a left nephrostomy tube" 34:13 34:16||r="TrAP"||c="the increasing creatinine" 34:2 34:4
+c="ct scan of the renal area" 97:0 97:5||r="TeRP"||c="an asymmetrically thickened urinary bladder wall" 97:12 97:17
+c="ct scan of the renal area" 97:0 97:5||r="TeRP"||c="right hydronephrosis" 97:7 97:8
+c="a mass like thickening of the urinary bladder" 98:0 98:7||r="PIP"||c="tumor" 98:15 98:15
+c="detrusor hypertrophy" 98:11 98:12||r="PIP"||c="a mass like thickening of the urinary bladder" 98:0 98:7
+c="chest examination" 75:0 75:1||r="TeRP"||c="some basilar crackles at the right lung base" 75:3 75:10
+c="two units of packed red blood cells" 35:16 35:22||r="TrAP"||c="the patient &apos;s hematocrit dropped" 35:5 35:9
+c="a right nephrostomy" 107:17 107:19||r="TrNAP"||c="renal function" 107:21 107:22
+c="kayexalate" 37:3 37:3||r="TrAP"||c="hyperkalemia" 37:5 37:5
+c="the ct scan" 99:0 99:2||r="TeRP"||c="a cavitary lung lesion in the right lower lobe" 99:4 99:12
+c="constipation" 41:3 41:3||r="PIP"||c="dysuria" 41:5 41:5
+c="the procedure" 35:2 35:3||r="TrCP"||c="the patient &apos;s hematocrit dropped" 35:5 35:9
+c="chest x-ray" 95:0 95:1||r="TeRP"||c="cardiomegaly" 95:6 95:6
+c="angiographic studies" 38:23 38:24||r="TeCP"||c="the persistent blood in the urine" 38:2 38:7
+c="angiographic studies" 38:23 38:24||r="TeCP"||c="vascular injuries" 38:29 38:30
+c="ekg" 100:0 100:0||r="TeRP"||c="atrial fibrillation" 100:2 100:3
+c="ekg" 100:0 100:0||r="TeRP"||c="left axis deviation" 100:5 100:7
+c="ekg" 100:0 100:0||r="TeRP"||c="lvh" 100:9 100:9
+c="ekg" 100:0 100:0||r="TeRP"||c="nonspecific st-t changes" 100:11 100:13
+c="conservative management" 116:26 116:27||r="TrAP"||c="this well advanced prostate ca" 116:38 116:42
+c="haldol" 121:23 121:23||r="TrAP"||c="agitation" 121:29 121:29

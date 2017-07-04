@@ -1,0 +1,35 @@
+c="a serious upper respiratory tract infection" 28:16 28:21||r="PIP"||c="weakness" 28:24 28:24
+c="a serious upper respiratory tract infection" 28:16 28:21||r="PIP"||c="fatigue" 28:26 28:26
+c="myeloproliferative / myelodysplastic disorder" 73:7 73:10||r="PIP"||c="the hyper-eosinophilic syndrome" 73:13 73:15
+c="bone involvement" 72:21 72:22||r="PIP"||c="papillary carcinoma of the thyroid" 72:15 72:19
+c="lung involvement" 72:25 72:26||r="PIP"||c="papillary carcinoma of the thyroid" 72:15 72:19
+c="work up" 73:0 73:1||r="TeCP"||c="the hyper-eosinophilic syndrome" 73:13 73:15
+c="work up" 73:0 73:1||r="TeCP"||c="myeloproliferative / myelodysplastic disorder" 73:7 73:10
+c="a needle biopsy of the right thyroid nodule" 48:0 48:7||r="TeRP"||c="papillary thyroid carcinoma" 48:9 48:11
+c="left upper extremity swelling" 47:9 47:12||r="PIP"||c="increased shortness of breath" 47:15 47:18
+c="heart rate control" 51:8 51:10||r="TrIP"||c="atrial fibrillation" 51:4 51:5
+c="digoxin" 51:12 51:12||r="TrIP"||c="atrial fibrillation" 51:4 51:5
+c="a bone scan" 37:0 37:2||r="TeRP"||c="increased uptake at the manubrium" 37:4 37:8
+c="pulmonary metastases" 86:28 86:29||r="PIP"||c="papillary thyroid carcinoma" 86:24 86:26
+c="biopsy of the lytic lesion" 40:0 40:4||r="TeRP"||c="metastases papillary carcinoma of the thyroid" 40:8 40:13
+c="an abdominal ct" 39:4 39:6||r="TeRP"||c="a benign renal cyst" 39:22 39:25
+c="an abdominal ct" 39:4 39:6||r="TeRP"||c="a lytic lesion on the right iliac bone" 39:13 39:20
+c="an abdominal ct" 39:4 39:6||r="TeRP"||c="an enlarged spleen" 39:9 39:11
+c="a trial of prednisone" 84:9 84:12||r="TrAP"||c="the patient &apos;s eosinophilia" 84:2 84:5
+c="displacement of the thyroid" 43:7 43:10||r="PIP"||c="a cold mass" 43:12 43:14
+c="bactrim" 85:11 85:11||r="TrNAP"||c="diarrhea" 85:20 85:20
+c="bactrim" 85:11 85:11||r="TrNAP"||c="a mild urinary tract infection" 85:3 85:7
+c="a chest ct" 44:0 44:2||r="TeRP"||c="a small pulmonary nodule" 44:5 44:8
+c="a chest ct" 44:0 44:2||r="TeRP"||c="a necrotic mass" 44:10 44:12
+c="a necrotic mass" 44:10 44:12||r="PIP"||c="a small pulmonary nodule" 44:5 44:8
+c="an old fracture" 37:13 37:15||r="PIP"||c="increased uptake at the manubrium" 37:4 37:8
+c="local control" 99:8 99:9||r="TrAP"||c="her invasive carcinoma" 99:11 99:13
+c="a thrombosis of the left subclavian vein" 80:18 80:24||r="PIP"||c="edema of the left upper extremity" 80:6 80:11
+c="a thyroid scan" 43:0 43:2||r="TeRP"||c="decreased function" 43:4 43:5
+c="a thyroid scan" 43:0 43:2||r="TeRP"||c="displacement of the thyroid" 43:7 43:10
+c="a thyroid scan" 43:0 43:2||r="TeRP"||c="a cold mass" 43:12 43:14
+c="a thyroid scan" 43:0 43:2||r="TeRP"||c="calcifications on the right side" 43:18 43:22
+c="a peripheral blood smear" 35:0 35:3||r="TeRP"||c="increased numbers" 35:8 35:9
+c="a head ct" 82:0 82:2||r="TeRP"||c="any metastatic process" 82:10 82:12
+c="weight loss" 46:11 46:12||r="PIP"||c="a decreased appetite" 46:7 46:9
+c="a thyroid ultrasound" 38:0 38:2||r="TeRP"||c="an inferior thyroid mass" 38:4 38:7

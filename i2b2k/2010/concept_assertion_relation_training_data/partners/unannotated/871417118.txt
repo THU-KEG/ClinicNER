@@ -1,0 +1,72 @@
+871417118
+FIH
+5197462
+52827/5248
+711350
+9/5/1994 12:00:00 AM
+RECURRENT RECTAL CANCER .
+Unsigned
+DIS
+Report Status :
+Unsigned
+ADMISSION DATE :
+9/5/94
+DISCHARGE DATE :
+9/14/94
+PRINCIPAL DIAGNOSIS :
+Recurrent rectal cancer .
+ASSOCIATED DIAGNOSES :
+1 ) Right lung nodule .
+2 ) History of kidney stones .
+3 ) Atrophic left kidney .
+4 ) Hypertension .
+5 ) History of smoking .
+6 ) Diabetes .
+7 ) Fatty liver .
+8 ) Incisional hernia .
+9 ) Left-sided hydronephrosis .
+PRINCIPAL PROCEDURE :
+9/6/94 :
+Redo abdominoperineal resection of rectal cancer ; lysis of adhesions ; cystectomy and ileal loop urinary diversion ; intraoperative radiation therapy ; pelvic omentoplasty ; incisional hernia repair .
+HISTORY OF PRESENT ILLNESS :
+This 68 year-old male underwent abdominoperineal resection of the rectum elsewhere in 03/91 for a rectal cancer , which was not transmural and was node-negative .
+He presented with a one-year history of perineal pain .
+Outside CBT scan showed a pelvic mass .
+On 5/18/94 , he underwent perineal exploration elsewhere .
+Biopsy showed recurrent rectal cancer in the low pelvis .
+He received a course of preoperative radiation therapy and his perineal pain resolved .
+PHYSICAL EXAMINATION :
+His abdomen was slightly obese .
+There was a small incisional hernia in his upper scar .
+His perineum exam was unremarkable .
+Colonoscopy done elsewhere in 03/94 was normal .
+CEA was 3.8 before radiation , and 3.0 after radiation .
+CBT scan done on 8/25/94 showed a 3 cm. rounded , presacral mass with left-sided hydronephrosis and hydroureter extending down to the mass .
+The left kidney was scarred and atrophic .
+There was a fatty liver .
+A loop was small bowel seems to be attached to the mass .
+There was a 1 cm. right basilar lung nodule .
+Chest CBT scan done elsewhere on 9/5/94 was normal , except for a less than 1 cm. right basilar lung nodule ; no other nodules were seen .
+HOSPITAL COURSE :
+He underwent the procedure as above .
+A mass of recurrent tumor low in the pelvis was excised .
+It was densely-adherent to the back of the bladder and the presacral area .
+All gross tumor was removed and intraoperative radiation therapy was delivered to the bed of the tumor .
+It was a prolonged operation .
+Postoperatively , he had sinus tachycardia , which resolved spontaneously .
+For the first few days after surgery he had nocturnal confusion , which also resolved .
+Otherwise , his recovery was uneventful .
+On 9/13/94 , an intravenous pyelogram showed no extravasation .
+His drains were all removed , and he was discharged in good condition .
+His pathology report confirms recurrent cancer .
+MEDICATIONS ON DISCHARGE :
+Glucotrol 5 mg. q.d. , nifedipine extended release 30 mg. q.d. , iron and folate for one month .
+TRANGCA CHIRDSTEN , M.D.
+TR :
+it / bmot
+DD :
+9/14/94
+TD :
+09/14/94
+CC :
+Nabeth Na Glyncred M.D. Verd Churlaunt , M.D. Besti Ray , M.D. ( Idaho ) Telshey Cough , M.D. ( Za Milo ) Sta Titchegriesesc , M.D. ( Sa ) Tako Inske , M.D. ( Oklahoma ) edited 10/20/94

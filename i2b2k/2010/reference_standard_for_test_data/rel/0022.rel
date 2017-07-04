@@ -1,0 +1,73 @@
+c="narcotics" 94:14 94:14||r="TrCP"||c="hallucinations" 94:9 94:9
+c="narcotics" 94:14 94:14||r="TrCP"||c="confusion" 94:7 94:7
+c="narcotics" 94:14 94:14||r="TrCP"||c="some mental status changes" 94:2 94:5
+c="some mental status changes" 94:2 94:5||r="PIP"||c="confusion" 94:7 94:7
+c="some mental status changes" 94:2 94:5||r="PIP"||c="hallucinations" 94:9 94:9
+c="ifex" 96:8 96:8||r="TrNAP"||c="further hallucinations" 96:3 96:4
+c="the ifex" 95:0 95:1||r="TrCP"||c="the mental status changes" 95:13 95:16
+c="ekg" 63:14 63:14||r="TeRP"||c="ectopic p" 63:27 63:28
+c="physical examination" 25:17 25:18||r="TeRP"||c="bilateral cystic adnexal masses" 25:11 25:14
+c="wheezing" 90:7 90:7||r="PIP"||c="the patient &apos;s shortness of breath" 90:0 90:5
+c="symptoms" 98:22 98:22||r="PIP"||c="anxiety" 98:24 98:24
+c="further ifex" 95:24 95:25||r="TrNAP"||c="the mental status changes" 95:13 95:16
+c="home o2 two liters" 103:57 103:60||r="TrAP"||c="symptoms" 103:72 103:72
+c="another echocardiogram" 92:12 92:13||r="TeRP"||c="tamponade" 92:21 92:21
+c="nasal prong" 103:62 103:63||r="TrAP"||c="symptoms" 103:72 103:72
+c="follow-up echo" 92:3 92:4||r="TeRP"||c="tamponade" 92:21 92:21
+c="decreased po2" 94:16 94:17||r="PIP"||c="some mental status changes" 94:2 94:5
+c="decreased po2" 94:16 94:17||r="PIP"||c="confusion" 94:7 94:7
+c="decreased po2" 94:16 94:17||r="PIP"||c="hallucinations" 94:9 94:9
+c="room air arterial blood gas" 74:0 74:4||r="TeRP"||c="fairly significant aa gradient" 74:21 74:24
+c="stent tube" 38:18 38:19||r="TrAP"||c="a hydronephrosis" 38:30 38:31
+c="an fev1" 29:23 29:24||r="TeCP"||c="wheezing" 29:15 29:15
+c="an fvc" 29:28 29:29||r="TeCP"||c="wheezing" 29:15 29:15
+c="malignant" 33:18 33:18||r="PIP"||c="the pericardial effusion" 33:9 33:11
+c="malignant" 33:18 33:18||r="PIP"||c="cervical cancer" 33:6 33:7
+c="a malignant lymphangitic spread" 72:6 72:9||r="PIP"||c="pericardial involvement" 72:11 72:12
+c="a malignant lymphangitic spread" 72:6 72:9||r="PIP"||c="infectious" 72:14 72:14
+c="a malignant lymphangitic spread" 72:6 72:9||r="PIP"||c="other cardiovascular causes" 72:16 72:18
+c="a malignant lymphangitic spread" 72:6 72:9||r="PIP"||c="viral bronchiolitis" 72:21 72:22
+c="pulmonary wheezing" 70:4 70:5||r="PIP"||c="asthma" 70:13 70:13
+c="pathology" 27:0 27:0||r="TeRP"||c="tumor" 27:4 27:4
+c="pathology" 27:0 27:0||r="TeRP"||c="peritubal and periovarian adhesions" 27:7 27:10
+c="echo" 32:7 32:7||r="TeRP"||c="pericardial effusion" 32:9 32:10
+c="echo" 32:7 32:7||r="TeRP"||c="a 10 mm pulsus paradoxus" 32:12 32:16
+c="echo" 32:7 32:7||r="TeRP"||c="tamponade" 32:24 32:24
+c="ekg" 32:0 32:0||r="TeRP"||c="sinus tachycardia" 32:2 32:3
+c="metastatic squamous cell carcinoma in the cardinal ligaments" 23:16 23:23||r="PIP"||c="extensive lymphatic invasion" 23:25 23:27
+c="pathology" 23:0 23:0||r="TeRP"||c="poorly differentiated squamous cell carcinoma of the cervix" 23:2 23:9
+c="pathology" 23:0 23:0||r="TeRP"||c="metastatic squamous cell carcinoma in the cardinal ligaments" 23:16 23:23
+c="pathology" 23:0 23:0||r="TeRP"||c="extensive lymphatic invasion" 23:25 23:27
+c="poorly differentiated squamous cell carcinoma of the cervix" 23:2 23:9||r="PIP"||c="extensive lymphatic invasion" 23:25 23:27
+c="poorly differentiated squamous cell carcinoma of the cervix" 23:2 23:9||r="PIP"||c="metastatic squamous cell carcinoma in the cardinal ligaments" 23:16 23:23
+c="low dose cisplatin" 24:22 24:24||r="TrAP"||c="stage 2b disease" 24:5 24:7
+c="chemotherapy" 85:0 85:0||r="TrAP"||c="metastatic cervical cancer" 85:2 85:4
+c="pulmonary function tests" 29:18 29:20||r="TeCP"||c="wheezing" 29:15 29:15
+c="a bronchoscopy" 84:15 84:16||r="TeCP"||c="lymphangitic spread" 84:7 84:8
+c="a new pericardial effusion" 65:5 65:8||r="PIP"||c="metastatic cervical cancer" 65:18 65:20
+c="5-fu" 85:15 85:15||r="TrAP"||c="metastatic cervical cancer" 85:2 85:4
+c="ultrasound" 25:1 25:1||r="TeRP"||c="bilateral cystic adnexal masses" 25:11 25:14
+c="xanax" 98:20 98:20||r="TrAP"||c="anxiety" 98:24 98:24
+c="xanax" 98:20 98:20||r="TrAP"||c="symptoms" 98:22 98:22
+c="low velocity paradox" 68:18 68:20||r="PIP"||c="diastolic indications of the right ventricle" 68:11 68:16
+c="echocardiogram" 68:0 68:0||r="TeRP"||c="moderate anterior pericardial effusion" 68:2 68:5
+c="echocardiogram" 68:0 68:0||r="TeRP"||c="diastolic indications of the right ventricle" 68:11 68:16
+c="echocardiogram" 68:0 68:0||r="TeRP"||c="low velocity paradox" 68:18 68:20
+c="moderate anterior pericardial effusion" 68:2 68:5||r="PIP"||c="diastolic indications of the right ventricle" 68:11 68:16
+c="moderate anterior pericardial effusion" 68:2 68:5||r="PIP"||c="low velocity paradox" 68:18 68:20
+c="malignant pericardial effusion" 21:20 21:22||r="PIP"||c="metastatic cervical cancer" 21:12 21:14
+c="a tap" 69:14 69:15||r="TrAP"||c="tamponade" 69:5 69:5
+c="her cardiac examination" 91:0 91:2||r="TeRP"||c="tamponade" 91:14 91:14
+c="examination" 75:31 75:31||r="TeRP"||c="a new rub" 75:25 75:27
+c="examination" 75:31 75:31||r="TeRP"||c="a new junctional rhythm" 75:17 75:20
+c="examination" 75:31 75:31||r="TeRP"||c="murmur" 75:29 75:29
+c="ekg" 77:0 77:0||r="TeRP"||c="an ectopic low atrial p" 77:2 77:6
+c="ekg" 77:0 77:0||r="TeRP"||c="tamponade" 77:17 77:17
+c="echocardiogram" 79:0 79:0||r="TeRP"||c="moderate to mild effusion" 79:17 79:20
+c="echocardiogram" 79:0 79:0||r="TeRP"||c="the effusion" 79:44 79:45
+c="echocardiogram" 79:0 79:0||r="TeRP"||c="low normal function" 79:13 79:15
+c="lymphangitic spread" 83:2 83:3||r="PIP"||c="cancer in the chest" 83:5 83:8
+c="a total abdominal hysterectomy" 22:2 22:5||r="TrAP"||c="a 4x3.6x2 cm cervical mass" 22:9 22:13
+c="a total abdominal hysterectomy" 22:2 22:5||r="TrAP"||c="a fibroid" 22:17 22:18
+c="a 4x3.6x2 cm cervical mass" 22:9 22:13||r="PIP"||c="a fibroid" 22:17 22:18
+c="intracavitary and external beam radiation therapy" 24:15 24:20||r="TrAP"||c="stage 2b disease" 24:5 24:7

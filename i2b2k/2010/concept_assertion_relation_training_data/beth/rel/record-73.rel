@@ -1,0 +1,16 @@
+c="drugs" 12:8 12:8||r="TrCP"||c="known allergies" 12:5 12:6
+c="bilateral pelvic lymph node dissection" 29:20 29:24||r="TrAP"||c="metastatic bladder ca" 29:0 29:2
+c="ct scan" 61:1 61:2||r="TeRP"||c="a right psoas mass" 61:4 61:7
+c="a right psoas mass" 61:4 61:7||r="PIP"||c="a hematoma" 61:12 61:13
+c="radical prstatectomy" 29:17 29:18||r="TrAP"||c="metastatic bladder ca" 29:0 29:2
+c="a ct scan of your abdomen" 86:0 86:5||r="TeRP"||c="a right pelvic mass" 86:7 86:10
+c="cystectomy" 29:9 29:9||r="TrAP"||c="metastatic bladder ca" 29:0 29:2
+c="a hematoma" 86:14 86:15||r="PIP"||c="a right pelvic mass" 86:7 86:10
+c="ileal loop urinary diversion" 29:11 29:14||r="TrAP"||c="metastatic bladder ca" 29:0 29:2
+c="chemo/xrt" 29:7 29:7||r="TrAP"||c="metastatic bladder ca" 29:0 29:2
+c="anticoagulation" 85:28 85:28||r="TrCP"||c="bleeding" 85:22 85:22
+c="ileal conduit" 20:11 20:12||r="TrAP"||c="recurrent bladder ca" 20:5 20:7
+c="cystectomy" 20:9 20:9||r="TrAP"||c="recurrent bladder ca" 20:5 20:7
+c="red blood cell scan" 59:7 59:10||r="TeRP"||c="right lower quadrant source of bleed" 59:0 59:5
+c="cscope" 23:0 23:0||r="TeRP"||c="tics" 23:8 23:8
+c="lovenox" 58:15 58:15||r="TrAP"||c="recurrent dvt s" 58:11 58:13

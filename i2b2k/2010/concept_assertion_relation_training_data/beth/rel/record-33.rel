@@ -1,0 +1,55 @@
+c="amoxicillin" 42:7 42:7||r="TrAP"||c="enterococcus" 42:10 42:10
+c="amoxicillin" 42:7 42:7||r="TrAP"||c="klebsiella" 42:14 42:14
+c="octreotide" 105:11 105:11||r="TrAP"||c="hepatorenal" 105:4 105:4
+c="her creatinine" 107:0 107:1||r="TeRP"||c="her worsening liver failure" 107:9 107:12
+c="hcv cirrhosis" 44:0 44:1||r="PIP"||c="esophageal varices" 44:3 44:4
+c="hcv cirrhosis" 44:0 44:1||r="PIP"||c="ascites" 44:6 44:6
+c="hcv cirrhosis" 44:0 44:1||r="PIP"||c="partial portal vein thrombosis" 44:8 44:11
+c="cr" 40:2 40:2||r="TeRP"||c="syndrome" 40:0 40:0
+c="midodrine" 39:14 39:14||r="TrAP"||c="worsening renal function" 39:4 39:6
+c="uti" 41:14 41:14||r="PIP"||c="klebsiella" 41:19 41:19
+c="uti" 41:14 41:14||r="PIP"||c="enterococcus" 41:16 41:16
+c="cryoglobulins" 41:12 41:12||r="TrAP"||c="mild dic" 41:6 41:7
+c="na" 102:3 102:3||r="TeRP"||c="pre-renal" 102:8 102:8
+c="na" 102:3 102:3||r="TeRP"||c="hepatorenal" 102:10 102:10
+c="albumin" 39:16 39:16||r="TrAP"||c="worsening renal function" 39:4 39:6
+c="urine lytes" 102:0 102:1||r="TeRP"||c="pre-renal" 102:8 102:8
+c="urine lytes" 102:0 102:1||r="TeRP"||c="hepatorenal" 102:10 102:10
+c="bear hugger" 32:12 32:13||r="TrIP"||c="low" 32:4 32:4
+c="midodrine" 105:9 105:9||r="TrAP"||c="hepatorenal" 105:4 105:4
+c="albumin" 105:13 105:13||r="TrAP"||c="hepatorenal" 105:4 105:4
+c="her bp" 31:0 31:1||r="TeRP"||c="decreased" 31:7 31:7
+c="hct dropped" 97:3 97:4||r="PIP"||c="bleed into her abdomen" 97:13 97:16
+c="temp" 32:0 32:0||r="TeRP"||c="low" 32:4 32:4
+c="ns" 31:18 31:18||r="TrIP"||c="decreased" 31:7 31:7
+c="the tap" 97:6 97:7||r="TrCP"||c="hct dropped" 97:3 97:4
+c="the tap" 97:6 97:7||r="TrCP"||c="bleed into her abdomen" 97:13 97:16
+c="the tap" 97:6 97:7||r="TrCP"||c="anemia" 97:1 97:1
+c="anemia" 97:1 97:1||r="PIP"||c="bleed into her abdomen" 97:13 97:16
+c="anemia" 97:1 97:1||r="PIP"||c="hct dropped" 97:3 97:4
+c="ct of the abdomen and pelvis" 99:0 99:5||r="TeRP"||c="bleed" 99:10 99:10
+c="medication" 28:18 28:18||r="TrAP"||c="abd pain" 28:9 28:10
+c="creatinine" 101:3 101:3||r="TeRP"||c="arf" 101:1 101:1
+c="hcv cirrhosis" 82:8 82:9||r="PIP"||c="encephalopathy" 82:11 82:11
+c="hcv cirrhosis" 82:8 82:9||r="PIP"||c="esophageal varices" 82:13 82:14
+c="hcv cirrhosis" 82:8 82:9||r="PIP"||c="partial vein thrombosis" 82:16 82:18
+c="replacement with albumin" 91:21 91:23||r="TrAP"||c="recurrent ascites" 91:1 91:2
+c="a large volume paracentesis" 91:11 91:14||r="TrAP"||c="recurrent ascites" 91:1 91:2
+c="the large volume paracentesis" 93:7 93:10||r="TrCP"||c="hypotensive" 93:5 93:5
+c="the large volume paracentesis" 93:7 93:10||r="TrCP"||c="hypotension" 93:1 93:1
+c="replacement with albumin" 93:12 93:14||r="TrWP"||c="hypotensive" 93:5 93:5
+c="replacement with albumin" 93:12 93:14||r="TrWP"||c="hypotension" 93:1 93:1
+c="hcv cirrhosis" 20:4 20:5||r="PIP"||c="encephalopathy" 20:8 20:8
+c="hcv cirrhosis" 20:4 20:5||r="PIP"||c="ascites" 20:10 20:10
+c="hcv cirrhosis" 20:4 20:5||r="PIP"||c="portal vein thrombosis" 20:14 20:16
+c="hcv cirrhosis" 20:4 20:5||r="PIP"||c="increasing abdominal girth" 20:39 20:41
+c="ascites" 20:10 20:10||r="PIP"||c="increasing abdominal girth" 20:39 20:41
+c="increasing abdominal girth" 82:28 82:30||r="PIP"||c="ascites" 82:34 82:34
+c="cholelithiasis" 78:1 78:1||r="PIP"||c="acute cholecystitis" 78:5 78:6
+c="liver non-palpable" 63:16 63:17||r="PIP"||c="large volume of ascited" 63:20 63:23
+c="paracentesis" 36:16 36:16||r="TrAP"||c="her abdominal pain" 36:23 36:25
+c="paracentesis" 36:16 36:16||r="TrIP"||c="abdominal discomfort" 36:9 36:10
+c="abdominal discomfort" 36:9 36:10||r="PIP"||c="her abdominal pain" 36:23 36:25
+c="octreotide" 39:12 39:12||r="TrAP"||c="worsening renal function" 39:4 39:6
+c="her urine output" 33:9 33:11||r="TeRP"||c="minimal" 33:13 33:13
+c="percussion" 63:10 63:10||r="TeRP"||c="dull" 63:8 63:8

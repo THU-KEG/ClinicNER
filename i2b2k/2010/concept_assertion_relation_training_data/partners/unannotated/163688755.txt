@@ -1,0 +1,100 @@
+163688755
+CTMC
+76762757
+536432
+6/21/1991 12:00:00 AM
+Discharge Summary
+Signed
+DIS
+Admission Date :
+06/21/1991
+Report Status :
+Signed
+Discharge Date :
+06/29/1991
+DISCHARGE DIAGNOSES :
+SYNCOPE .
+HYPERTENSION .
+INDUCIBLE COMPLETE HEART BLOCK .
+HISTORY OF PRESENT ILLNESS :
+The patient is an 81 year old woman with a history of hypertension , history of recurrent VPBs , admitted for investigation following a syncopal episode two weeks prior to admission .
+The patient experienced a brief episode of loss of consciousness while driving her car two weeks prior to admission , at which time she collided with the car in front of her and rapidly regained consciousness .
+There was no aura , no witnessed seizure activity and no post ictal symptoms .
+The patient has a history of ventricular premature beats for which she was treated with Flecainide .
+After the syncopal episode the patient was evaluated at a local hospital with head and abdominal CT , EEG , and EKG , all of which were normal .
+Her Flecainide was discontinued and she was referred to CTMC for further evaluation .
+The patient has history of VPBs as noted above , treated with Flecainide with good symptomatic response .
+Following discontinuation of this drug the patient noted return of palpitations .
+PAST MEDICAL HISTORY :
+Left mastectomy in 1982 for breast carcinoma .
+History of upper GI bleeding in 1985 while on nonsteroidal anti-inflammatory medicines .
+DJD , hypertension , status post cholecystectomy , status post cataract surgery , status post herniorrhaphy .
+ALLERGIES :
+None known .
+MEDICATIONS ON ADMIT :
+Vaseretic 10 mg p.o.q.d. , Calan SR 240 mg p.o.q.d. , Motrin 600 mg p.o. prn , Cytotec prn with Motrin .
+SOCIAL HISTORY :
+The patient lives alone .
+Her husband is in a nursing home .
+She is a nonsmoker , nondrinker .
+PHYSICAL EXAMINATION :
+Pleasant elderly lady in no apparent distress .
+Blood pressure 140/70 , heart rate 84 , with occasional premature beats , respirations 16 , afebrile .
+Skin :
+Showed bruises over both her knees .
+HEENT :
+Within normal limits .
+Neck :
+Supple without lympadenopathy .
+No JVD .
+Lungs :
+Clear .
+COR :
+Showed no JVD .
+Normal S1 and S2 without murmurs .
+There was a soft right carotid and right femoral bruit .
+Digital pulses were absent bilaterally .
+Abdomen :
+Soft , nontender , without masses .
+Bowel sounds present .
+CNS :
+Alert and oriented .
+Cranial nerves intact .
+Sensory motor examination was grossly intact .
+Reflexes were normal and symmetric throughout .
+Extremities :
+Showed nodes in both hands and crepitans of both knees .
+LABORATORY EXAMINATION :
+Hematocrit 44 , WBC count 4.9 thousand , BUN 15 , creatinine 0.9 thousand , potassium 3.6 , PT and PTT were within normal limits .
+LFTs were normal .
+Cholesterol 252 .
+Chest x-ray normal .
+EKG was within normal limits .
+UA was normal .
+HOSPITAL COURSE :
+The patient was admitted with a history of syncope for cardiac evaluation .
+She was taken to the Cardiac Catheterization Laboratory where a catheterization revealed an 80% mid-RCA stenosis , 80% mid-LAD lesion and an LVEF of approximately 80% .
+It was felt that these lesions were unrelated to the patient &apos;s episode , and were unlikely to cause her significant distress .
+On the following day , she was taken to electrophysiologic study .
+During the study , the right bundle branch was hit by the catheter , inducing a right bundle branch block .
+Following this , upon rapid atrial pacing at a rate of 120 , there was revealed a bifascicular left block , which combined with the right bundle branch block caused a complete heart block .
+It was felt that given this rate-related block on the left , combined with the possibility of physiologic malfunction on the right , complete heart block as the source of the patient &apos;s syncopal episode was quite possible and plans were made to insert a VVI pacer .
+The pacer was inserted on the fifth hospital day without event , and the patient was discharged home on the sixth hospital day .
+DISPOSITION :
+Calan SR 240 mg p.o. q.d. , Vaseretic 10 mg p.o. q.d. , Ibuprofen and Cytotec prn joint pain .
+The patient is discharged home .
+Followup with primary physician in one week .
+Discharge condition good .
+RG218/6440 TOMEDANKELL FLOWAYLES , M.D. HZ4
+D :
+06/26/91
+Batch :
+4509
+Report :
+W5747D1
+T :
+06/29/91
+Dicatated By :
+TAMYRCLEO KOTE , M.D. EV68
+cc :
+1. LAYMIE ASLINKE , MD LIODIMAN BASSPRINGTY HOSPITAL Plaport , Utah

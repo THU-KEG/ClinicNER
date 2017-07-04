@@ -1,0 +1,12 @@
+c="an afi" 19:7 19:8||r="TeRP"||c="severe polyhydramnios" 19:4 19:5
+c="mild intermittent grunting" 33:0 33:2||r="PIP"||c="mild subcostal retractions" 33:5 33:7
+c="x-ray" 71:5 71:5||r="TeRP"||c="a hemivertebra at t11" 71:10 71:13
+c="cesarean section" 24:2 24:3||r="TrAP"||c="ongoing labor" 24:7 24:8
+c="preterm labor" 25:0 25:1||r="PIP"||c="late decelerations" 25:6 25:7
+c="preterm labor" 25:0 25:1||r="PIP"||c="breech presentation" 25:9 25:10
+c="a te fistula" 59:6 59:8||r="PIP"||c="an incidental pass" 59:13 59:15
+c="a gavage tube" 59:17 59:19||r="TrCP"||c="a te fistula" 59:6 59:8
+c="x-ray" 60:13 60:13||r="TeRP"||c="tef" 60:0 60:0
+c="echocardiogram results" 49:0 49:1||r="TeRP"||c="a pps murmur" 49:7 49:9
+c="antibiotics" 90:4 90:4||r="TrAP"||c="sepsis" 90:2 90:2
+c="mildly flattened on top" 31:9 31:12||r="PIP"||c="breech positioning in utero" 31:15 31:18

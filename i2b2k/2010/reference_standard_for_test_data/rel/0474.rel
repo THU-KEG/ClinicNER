@@ -1,0 +1,64 @@
+c="dilantin" 97:6 97:6||r="TrWP"||c="his rhythmic blinking" 97:24 97:26
+c="an electroencephalogram" 95:2 95:3||r="TeRP"||c="seizure activity" 95:21 95:22
+c="intravenous ativan" 97:17 97:18||r="TrWP"||c="his rhythmic blinking" 97:24 97:26
+c="minimal surrounding edema" 90:15 90:17||r="PIP"||c="a 2 x 2 x 2 left anterior temporal hemorrhage" 90:4 90:13
+c="an oral regimen" 98:22 98:24||r="TrAP"||c="his hypertension" 98:0 98:1
+c="an oral regimen" 98:22 98:24||r="TrAP"||c="his high blood pressure" 98:3 98:6
+c="his hypertension" 98:0 98:1||r="PIP"||c="his high blood pressure" 98:3 98:6
+c="further examination of his eye movement" 101:11 101:16||r="TeCP"||c="progressive supranuclear palsy" 101:3 101:5
+c="examination" 97:35 97:35||r="TeRP"||c="his rhythmic blinking" 97:24 97:26
+c="intravenous nitroglycerine" 98:10 98:11||r="TrIP"||c="his high blood pressure" 98:3 98:6
+c="intravenous nitroglycerine" 98:10 98:11||r="TrIP"||c="his hypertension" 98:0 98:1
+c="intravenous tng" 111:3 111:4||r="TrCP"||c="supratherapeutic" 111:7 111:7
+c="motor examination" 82:0 82:1||r="TeRP"||c="a weak withdrawal" 82:4 82:6
+c="head ct scan" 90:0 90:2||r="TeRP"||c="a 2 x 2 x 2 left anterior temporal hemorrhage" 90:4 90:13
+c="head ct scan" 90:0 90:2||r="TeRP"||c="minimal surrounding edema" 90:15 90:17
+c="confusion" 34:23 34:23||r="PIP"||c="disorientation" 34:25 34:25
+c="tube manipulation" 81:5 81:6||r="TrAP"||c="gag" 81:3 81:3
+c="eldopa" 103:20 103:20||r="TrWP"||c="parkinson &apos;s disease" 103:9 103:11
+c="enhancement" 106:9 106:9||r="PIP"||c="his hemorrhage" 106:14 106:15
+c="his hemorrhage" 106:14 106:15||r="PIP"||c="tumor" 106:18 106:18
+c="tremor" 103:31 103:31||r="PIP"||c="parkinson &apos;s disease" 103:9 103:11
+c="1+ carotids" 67:5 67:6||r="TeRP"||c="bruits" 67:8 67:8
+c="hemorrhage" 107:41 107:41||r="PIP"||c="arterial venous malformation" 107:29 107:31
+c="hemorrhage" 107:41 107:41||r="PIP"||c="an underlying tumor" 107:25 107:27
+c="his bleed" 108:3 108:4||r="PIP"||c="hypertension" 108:13 108:13
+c="gadolinium scan" 106:4 106:5||r="TeRP"||c="enhancement" 106:9 106:9
+c="his susceptibility studies" 105:27 105:29||r="TeRP"||c="old bleeds" 105:32 105:33
+c="nail bed pressure" 82:8 82:10||r="TeRP"||c="a weak withdrawal" 82:4 82:6
+c="his anti-coagulation" 111:9 111:10||r="TrCP"||c="supratherapeutic" 111:7 111:7
+c="pulmonary embolus" 121:18 121:19||r="PIP"||c="deep venous thrombosis" 121:14 121:16
+c="coumadin" 48:4 48:4||r="TrAP"||c="atrial fibrillation" 48:1 48:2
+c="his electrocardiogram" 110:0 110:1||r="TeRP"||c="ischemia" 110:5 110:5
+c="abdominal examination" 71:0 71:1||r="TeRP"||c="non-tender" 71:5 71:5
+c="abdominal examination" 71:0 71:1||r="TeRP"||c="non-distended" 71:7 71:7
+c="heroic measures" 130:36 130:37||r="TrAP"||c="a cardiopulmonary arrest" 130:41 130:43
+c="cortico-basal ganglia degeneration process" 102:17 102:20||r="PIP"||c="his dementing illness" 102:4 102:6
+c="cortico-basal ganglia degeneration process" 102:17 102:20||r="PIP"||c="rigidity" 102:8 102:8
+c="electrocardiogram" 89:0 89:0||r="TeRP"||c="st depressions in v4-6" 89:5 89:8
+c="urinalysis" 87:62 87:62||r="TeRP"||c="1+ albumin," 87:63 87:64
+c="urinalysis" 87:62 87:62||r="TeRP"||c="0-5 high link caths" 87:65 87:68
+c="head , eyes , ears , nose and throat examination" 66:0 66:9||r="TeRP"||c="abrasions about his forehead" 66:11 66:14
+c="head , eyes , ears , nose and throat examination" 66:0 66:9||r="TeRP"||c="some minimal swelling" 66:18 66:20
+c="some minimal swelling" 66:18 66:20||r="PIP"||c="abrasions about his forehead" 66:11 66:14
+c="his tpk" 112:7 112:8||r="TeRP"||c="a slight elevation" 112:3 112:5
+c="intensive monitoring" 94:11 94:12||r="TeCP"||c="his frail condition" 94:15 94:17
+c="monitoring" 124:9 124:9||r="TeCP"||c="further problems" 124:19 124:20
+c="anticoagulation" 121:37 121:37||r="TrNAP"||c="the new intraparenchymal bleed" 121:40 121:43
+c="threat" 76:5 76:5||r="TeRP"||c="no blink" 76:2 76:3
+c="features" 31:24 31:24||r="PIP"||c="parkinsonism" 31:27 31:27
+c="cardiovascular examination" 70:0 70:1||r="TeRP"||c="murmurs" 70:9 70:9
+c="cardiovascular examination" 70:0 70:1||r="TeRP"||c="rubs" 70:11 70:11
+c="cardiovascular examination" 70:0 70:1||r="TeRP"||c="gallops" 70:14 70:14
+c="heart rate" 63:12 63:13||r="TeRP"||c="irregular" 63:16 63:16
+c="aggressive pulmonary toilets" 118:5 118:7||r="TrAP"||c="any pulmonary symptoms" 118:21 118:23
+c="chest physical therapy" 118:9 118:11||r="TrAP"||c="any pulmonary symptoms" 118:21 118:23
+c="aspiration precautions" 118:13 118:14||r="TrAP"||c="any pulmonary symptoms" 118:21 118:23
+c="his decreased mental status" 117:11 117:14||r="PIP"||c="a large aspiration risk" 117:6 117:9
+c="resuscitation measures" 130:33 130:34||r="TrAP"||c="a cardiopulmonary arrest" 130:41 130:43
+c="pulmonary embolus" 49:5 49:6||r="PIP"||c="deep venous thrombosis" 49:1 49:3
+c="a drop off in his mental functioning" 34:11 34:17||r="PIP"||c="confusion" 34:23 34:23
+c="a drop off in his mental functioning" 34:11 34:17||r="PIP"||c="disorientation" 34:25 34:25
+c="assistance" 34:29 34:29||r="TrAP"||c="a drop off in his mental functioning" 34:11 34:17
+c="assistance" 34:29 34:29||r="TrAP"||c="confusion" 34:23 34:23
+c="assistance" 34:29 34:29||r="TrAP"||c="disorientation" 34:25 34:25

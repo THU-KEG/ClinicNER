@@ -1,0 +1,41 @@
+c="her urine cultures" 160:12 160:14||r="TeRP"||c="enterobacter cloacae" 160:3 160:4
+c="active problems" 172:3 172:4||r="PIP"||c="respiratory failure" 172:6 172:7
+c="active problems" 172:3 172:4||r="PIP"||c="urinary tract infection" 172:9 172:11
+c="active problems" 172:3 172:4||r="PIP"||c="bleeding diathesis" 172:14 172:15
+c="an anterior mediastinal mass" 28:5 28:8||r="PIP"||c="a hematoma" 28:17 28:18
+c="jevity" 136:12 136:12||r="TrIP"||c="her diarrhea" 136:14 136:15
+c="her tracheostomy" 123:0 123:1||r="TrCP"||c="problems" 123:11 123:11
+c="stool cultures" 133:0 133:1||r="TeCP"||c="c. difficile toxin" 133:12 133:14
+c="an extensive workup" 149:2 149:4||r="TeRP"||c="a bleeding diathesis" 149:9 149:11
+c="placement of a greenfield filter" 111:9 111:13||r="TrCP"||c="a left femoral artery pseudoaneurysm" 111:3 111:7
+c="a ct scan" 24:6 24:8||r="TeRP"||c="a retrotracheal mass" 24:11 24:13
+c="macrodantin" 160:10 160:10||r="TrAP"||c="enterobacter cloacae" 160:3 160:4
+c="a # 6 endotracheal tube" 22:6 22:10||r="TrAP"||c="a 5 mm severely compressed airway" 22:13 22:18
+c="her clot" 86:8 86:9||r="PIP"||c="a rupture" 86:13 86:14
+c="a rupture" 86:13 86:14||r="PIP"||c="this parathyroid adenoma" 86:16 86:18
+c="an extensive workup" 95:2 95:4||r="TeRP"||c="a bleeding diatheses" 95:9 95:11
+c="a hematoma" 82:15 82:16||r="PIP"||c="this mass" 82:11 82:12
+c="an elevated calcium level" 82:2 82:5||r="PIP"||c="a hematoma" 82:15 82:16
+c="an elevated calcium level" 82:2 82:5||r="PIP"||c="a ruptured parathyroid adenoma" 82:19 82:22
+c="a ruptured parathyroid adenoma" 82:19 82:22||r="PIP"||c="a hematoma" 82:15 82:16
+c="the parathormone level" 83:7 83:9||r="TeRP"||c="elevated" 83:4 83:4
+c="a parathyroid exploration" 88:2 88:4||r="TeCP"||c="a ruptured ectopic right upper parathyroid adenoma" 88:8 88:14
+c="analysis" 133:10 133:10||r="TeCP"||c="c. difficile toxin" 133:12 133:14
+c="the sestamibi scan" 85:0 85:2||r="TeRP"||c="a parathyroid adenoma in the right lobe" 85:9 85:15
+c="resection" 88:6 88:6||r="TrAP"||c="a ruptured ectopic right upper parathyroid adenoma" 88:8 88:14
+c="the ionized calcium" 83:0 83:2||r="TeRP"||c="elevated" 83:4 83:4
+c="ekg" 69:0 69:0||r="TeRP"||c="incomplete left bundle branch block" 69:10 69:14
+c="ekg" 69:0 69:0||r="TeRP"||c="left ventricular hypertrophy" 69:6 69:8
+c="agitated" 107:40 107:40||r="PIP"||c="hypertensive" 107:36 107:36
+c="a ventral hernia" 60:10 60:12||r="PIP"||c="a large midline defect" 60:4 60:7
+c="the pressure support" 126:1 126:3||r="TrCP"||c="tachypneic" 126:9 126:9
+c="her chest x-ray" 121:0 121:2||r="TeRP"||c="a left lower lobe hematoma" 121:4 121:8
+c="clot" 79:34 79:34||r="PIP"||c="an abnormal area below the trachea" 79:7 79:12
+c="ct scan" 70:0 70:1||r="TeRP"||c="an anterior mediastinal mass" 70:3 70:6
+c="a biopsy" 78:0 78:1||r="TeCP"||c="this mass" 78:3 78:4
+c="a biopsy" 78:0 78:1||r="TeCP"||c="hematoma" 78:8 78:8
+c="hematoma" 78:8 78:8||r="PIP"||c="this mass" 78:3 78:4
+c="a fiberoptic intubation" 22:2 22:4||r="TrAP"||c="a 5 mm severely compressed airway" 22:13 22:18
+c="billroth ii" 31:13 31:14||r="TrAP"||c="peptic ulcer disease" 31:7 31:9
+c="tah-bso" 31:21 31:21||r="TrAP"||c="ovarian cancer" 31:16 31:17
+c="hydralazine" 170:67 170:67||r="TrAP"||c="hypertension" 170:73 170:73

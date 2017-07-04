@@ -1,0 +1,223 @@
+Admission Date :
+2015-06-29
+Discharge Date :
+2015-07-09
+Date of Birth :
+1941-01-16
+Sex :
+M
+Service :
+MEDICINE
+Allergies :
+Patient recorded as having No Known Allergies to Drugs
+Attending : Pedro D. Anderson , M.D.
+Chief Complaint :
+Chest Pain
+Major Surgical or Invasive Procedure : persantine MIBI cardiac stress test thoracentesis
+Chest Tube
+History of Present Illness :
+74 yo M with lung cancer DVT who presents with 1 day of substernal chest pain .
+Patient developed chest pain the night prior to admission .
+The pain was substernal 07-08 , did not radiate .
+He reports that the pain was similar to his prior MI .
+The patient had shortness of breath .
+In the Amanda the patients pain resolved with NTG and morphine .
+he was given ASA and bblocker .
+At time of my evaluation , the patient denied nausea , vomitting , abdominal pain , dysuria , dizziness , changes in vision /hearing
+Past Medical History :
+- Lung cancer - Non-small cell lung cancer stage IIIA , status post weekly carboplatin and Taxol chemotherapy with XRT for seven weeks followed by surgery on 2015-04-14 .
+- CAD - s/p inferior STEMI 12-03 , stent to L Cx
+- CHF ( EF 55% on 05-04 )
+- HTN
+- paroxismal afib
+- CVA
+- Left LE DVT on coumadin
+- s/p IVC filter
+Social History : non-smoker , occasional etoh , no drugs
+Family History : father and mother with CAD
+Physical Exam :
+VS - 98.0 67 140/63 22 99% on RA
+Gen - A+Ox3 , NAD
+HEENT - EOMI , OP clear
+Neck - supple , no LAD , no JVD
+Cor - RRR no murmurs
+Chest - R base with poor excursion and poor breath sounds .
+Clear otherwise .
+Abd - s/nt/nd +BS
+Ext - w/wp , no edema , R leg swollen compared to left
+Pertinent Results  :
+2015-06-29 05:15PM
+CK ( CPK )- 67
+2015-06-29 05:15PM
+CK - MB - NotDone cTropnT -< 0.01
+2015-06-29 09:55 AM
+GLUCOSE - 159 * UREA N - 17 CREAT - 1.0 SODIUM - 137 POTASSIUM - 3.6 CHLORIDE - 100 TOTAL CO2 - 27 ANION GAP - 14
+2015-06-29 09:55 AM
+CK ( CPK )- 76
+2015-06-29 09:55 AM cTropnT -< 0.01
+2015-06-29 09:55 AM
+CK - MB - NotDone
+2015-06-29 09:55 AM
+WBC - 10.4 RBC - 4.41 *# HGB - 12.8 *# HCT - 38.2 *# MCV - 87 MCH - 29.0 MCHC - 33.5 RDW - 15.9 *
+2015-06-29 09:55 AM
+NEUTS - 86.1 * LYMPHS - 5.4 * MONOS - 5.7 EOS - 2.2 BASOS - 0.6
+2015-06-29 09:55 AM
+MICROCYT - 1+
+2015-06-29 09:55 AM
+PLT COUNT - 372
+2015-06-29 09:50 AM URINE
+HOURS - RANDOM
+2015-06-29 09:50 AM URINE
+GR HOLD - HOLD
+2015-06-29 09:50 AM
+PT - 20.4 * PTT - 28.6 INR ( PT )- 2.0 *
+2015-06-29 09:50 AM URINE
+COLOR - Yellow APPEAR - Clear SP Dickson - 1.013
+2015-06-29 09:50 AM URINE
+BLOOD - MOD NITRITE - NEG PROTEIN - NEG GLUCOSE - NEG KETONE - NEG BILIRUBIN - NEG UROBILNGN - NEG PH - 6.0 LEUK - NEG
+2015-06-29 09:50 AM URINE
+RBC - 05-03 * WBC - 0 BACTERIA - NONE YEAST - NONE EPI -< 1
+CXR - Increased right pleural effusion and partial collapse of the right upper lung .
+EKG - NSR 70 , nl axis , nl int , old TWI III , F ; old J pointing V 04-04
+07-03 CT
+CT CHEST :
+The heart , pericardium , and great vessels are stable .
+There is a small amount of pericardial fluid .
+No definite axillary , mediastinal , or hilar lymphadenopathy is seen .
+Again seen is a moderate - to large - sized right pleural effusion .
+There has been interval development of moderate amount of high-attenuation fluid within the effusion consistent with hemorrhage .
+Patchy consolidation of the right lung is stable .
+Hazy patchy opacities are noted in the left lung field but no frank consolidation is seen .
+CT ABDOMEN :
+Within the limits of this non-contrast study , the liver , gallbladder , pancreas , spleen , adrenal glands , kidneys , stomach , and small bowel loops are within normal limits .
+There is colonic diverticulosis most prominent at the hepatic flexure .
+There is no free air or free fluid .
+No mesenteric or retroperitoneal lymphadenopathy is identified .
+An IVC filter is seen .
+CT PELVIS :
+The bladder is unremarkable .
+The patient appears to be status post prostatectomy .
+The rectum is unremarkable .
+There is no free fluid and no pelvic or inguinal lymphadenopathy .
+BONE WINDOWS :
+A lytic area is again seen in the L5 vertebral body but unchanged from prior examination .
+Several subacute or chronic rib fractures are identified on the right .
+IMPRESSION :
+1. Interval development of a moderate amount of hemorrhage within the right pleural effusion .
+2. No acute intra-abdominal abnormalities identified .
+07-01 Stress MIBI
+New moderate and fixed inferior myocardial wall perfusion defect .
+Mild inferior wall hypokinesis .
+Calculated LVEF 42% .
+Brief Hospital Course :
+A/P 74 yo M with lung cancer , DVT , CAD s/p MI presents with chest pain shortness of breath .
+# Chest Pain / Ischemia - Patient with history of CAD a/p MI .
+Now with an episode of pain consistent with his anginal equivalent .
+No changes on EKG but not in pain at time of EKG .
+Patient was ruled out by enzymes .
+He also had a stress test which revealed an irreversible deficit from his prior known IMI .
+Continued on asa , bblocker , Hicks , statin , plavix .
+BP meds held while was unstable .
+ASA , plavix held during hemothorax .
+# CHF - patient does not seem volume overloaded at this time .
+He has no JVD , no edema in legs ( other than swelling from DVT ) .
+Last Echo with EF 55% .
+Does have increased effusion although loculated .
+Continued on lasix , bblocker Robertson .
+BP meds held while unstable .
+# Afib - In sinus during admission .
+Patients anticoag held during hemothorax .
+# Shortness of Breath / loculated Effusion - patient with increaing loculated pleural effusion .
+Has chronic shortness of breath which has worsened over the past few days .
+No sign of infeciton at this time .
+Had thoracentesis by interventional pumonology on 2015-07-01 revealing almost 2 L of serous exudative fluid .
+Patient had improved breathing .
+Cytology was negative .
+However on 07-02 Hct dropped .
+CT revealed hemothorax .
+All anticoagulation stopped despite the risk of DVT , afib .
+Risk discussed with family .
+Thoracics consulted and chest tube placed .
+Frank blood was taken out .
+Patient continued to bleed in and around the tube .
+Patient sent to CMED for observation after Hct continued to drop .
+Patient spontaneously stablized and output of CT became more serous .
+Output resent for cytology which was pending at time of discharge .
+When output became < 100 cc the tube was removed .
+Patient follwed with serial CXR that did not demonstrate reaccumulation .
+Hct also remained stable .
+# DVT - patient therapeutic on heparin .
+Improving clots on LENI .
+CTA neg for PE .
+Anticoagulaiton held during hemothorax .
+Patient restarted on coumadin and will be discharged on 3mg coumadin qday .
+# Lung Cancer - patient currently with no evidence of disease .
+s/p neoadjuvant chemo/XRT now s/p surgery .
+1st cytology negative .
+2ng cytology pending .
+WIll follow up tih outpatient oncologist .
+Contacts - son 506-1596
+Medications on Admission :
+Lipitor 80 mg qday
+Asa 81 mg qday
+bowel reg
+percocet prn
+plavix 75 mg qday
+losartan 25 mg qday
+coumadin 3 mg qday
+lasix 20 mg qday
+atenolol 25 mg qday
+Discharge Medications :
+1. Atorvastatin 80 mg Tablet Sig : One ( 1 ) Tablet PO DAILY ( Daily ) .
+2. Aspirin 325 mg Tablet Sig : One ( 1 ) Tablet PO DAILY ( Daily ) .
+3. Senna 8.6 mg Tablet Sig : One ( 1 ) Tablet PO BID ( 2 times a day ) as needed for constipation .
+Disp :* 30 Tablet ( s )* Refills :* 0 *
+4. Bisacodyl 5 mg Tablet , Delayed Release ( E.C. ) Sig : Two ( 2 ) Tablet , Delayed Release ( E.C. ) PO DAILY ( Daily ) as needed for constipation .
+Disp :* 30 Tablet , Delayed Release ( E.C. )( s )* Refills :* 0 *
+5. Oxycodone 5 mg Tablet Sig : One ( 1 ) Tablet PO Q4H ( every 4 hours ) as needed .
+Disp :* 100 Tablet ( s )* Refills :* 0 *
+6. Clopidogrel 75 mg Tablet Sig : One ( 1 ) Tablet PO DAILY ( Daily ) .
+7. Furosemide 20 mg Tablet Sig : One ( 1 ) Tablet PO DAILY ( Daily ) .
+8. Nitroglycerin 0.3 mg Tablet , Sublingual Sig : One ( 1 ) Tablet , Sublingual Sublingual PRN ( as needed ) .
+9. Atenolol 50 mg Tablet Sig : One ( 1 ) Tablet PO once a day .
+Disp :* 30 Tablet ( s )* Refills :* 2 *
+10. Losartan 50 mg Tablet Sig : One ( 1 ) Tablet PO DAILY ( Daily ) .
+Disp :* 30 Tablet ( s )* Refills :* 2 *
+11. Benzonatate 100 mg Capsule Sig : One ( 1 ) Capsule PO TID ( 3 times a day ) as needed for cough .
+Disp :* 60 Capsule ( s )* Refills :* 3 *
+12. Acetaminophen 325 mg Tablet Sig : Two ( 2 ) Tablet PO Q6H ( every 6 hours ) as needed for pain .
+13. Oxycodone 5 mg Tablet Sig : One ( 1 ) Tablet PO Q4H ( every 4 hours ) as needed .
+Disp :* 50 Tablet ( s )* Refills :* 0 *
+14. Codeine - Guaifenesin 10-100 mg / 5 mL Syrup Sig : 5-10 MLs PO Q6H ( every 6 hours ) as needed .
+Disp :*QS 1 month ML ( s )* Refills :* 0 *
+15. Coumadin 3 mg Tablet Sig : One ( 1 ) Tablet PO once a day .
+Disp :* 30 Tablet ( s )* Refills :* 2 *
+Discharge Disposition :
+Home with Service
+Discharge Diagnosis :
+Angina
+Pleural Effusion
+Secondary
+HTN
+Non small cell lung cancer
+CAD
+DVT h/o afib
+Discharge Condition : stable , eating , on room air
+Discharge Instructions :
+Please take all medications as listed in the discharge paperwork .
+Please make all appointments listed in the discharge paperwork .
+If you have chest pain , shortness of breath , abdominal pain , nausea or other concerning symptoms please call your MD or come to the emergency room .
+I have changed some of your blood pressure meds .
+Your atenolol has increased to 50 mg a day .
+Your losartan has increased to 50 mg a day .
+Followup Instructions :
+Provider :
+Kathleen Shirley , MD Phone :( 870 ) 559-0424
+Date / Time : 2015-08-06 9:00
+You should call Dr. Worden to also see him again sooner 09-07 days .
+( 870 ) 559-0424 .
+Please see Dr. Holbrook ( 984 ) 452 0816 on monday and have your coumadin level checked .
+Merle Shirley MD 87-502
+Completed by : Nannie Brenda MD 13-326 2015-07-10 @ 1534
+Signed electronically by : DR. Shanta PARKS on : TUE 2015-07-14 9:08 AM
+( End of Report )

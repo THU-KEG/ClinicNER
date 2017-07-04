@@ -1,0 +1,147 @@
+Admission Date :
+2013-03-27
+Discharge Date :
+2013-04-01
+Date of Birth :
+1954-08-12
+Sex :
+F
+Service : NEUROSURGERY
+Allergies :
+Shellfish
+Attending : Sam K. Laudato , M.D.
+Chief Complaint :
+s/p MVC
+Major Surgical or Invasive Procedure :
+none
+History of Present Illness :
+58 yo female s/p high speed MVC .
+She lost contaol of her car , she hit the Barnes rails then the car stopped .
+Another car was coming behind her did not see her car , hit again , the person checked the car , she was not inside .
++LOC , GCS:14 .
+She ejected .
+She brought by EMS to Nantucket Cottage Hospital for furher evaluation .
+Past Medical History :
+1. EtOH addiction in past
+2. h/o depression
+3. ? h/o hypomania
+4. L5-S1 spondylolisthesis
+all : no known drug allergies
+Social History :
+divorced twice .
+smokes 1ppd for many years , no EtOH or illicit drug use .
+Family History :
+brother who was alcoholic
+Physical Exam :
+O : T : 100.1 BP : 162/84 HR : 80 RR : 20 O2Sats : 100
+Gen : lying in strecther , NAD , shaking om bilateral lower extremities .
+HEENT : Neck Supple , right CMED CCU ecchymotic and edematous , c-collor in place .
+Lungs : CTA bilaterally .
+Cardiac : RRR .
+S1/S2 .
+Abd : Soft , NT , BS+
+Extrem : Cool , No C/C/E .
+Neuro :
+Mental status : Awake and alert , cooperative with exam , normal affect .
+Orientation : Oriented to person , place , and date .
+Language : Speech fluent with good comprehension and repetition .
+Naming intact .
+No dysarthria or paraphasic errors .
+Cranial Nerves :
+I: Not tested
+II: Pupils equally round and reactive to light , 3to 2 mm bilaterally .
+Visual fields are full to confrontation .
+III , IV , VI: Extraocular movements intact bilaterally without nystagmus .
+V , VII: Facial strength and sensation intact and symmetric .
+VIII: Hearing intact to finger rub bilaterally .
+IX , X: Palatal elevation symmetrical .
+XI: Sternocleidomastoid and trapezius normal bilaterally .
+XII: Tongue midline without fasciculations .
+Motor : Normal bulk and tone bilaterally .
+No abnormal movements , tremors .
+Strength full power 05-31 execept Right Dubord 03-31 .
+No pronator drift
+Sensation : Intact to light touch , propioception , pinprick execept decreased sensation L5-S1 distrubution .
+Reflexes :
+Right : B - 2 ; T - 2 ; Br - 2 ; Pa - 2 ; Ac - 2
+Left : B - 2 ; T - 2 ; Br - 2 ; Pa - 2 ; Ac - 2
+Toes downgoing bilaterally
+Coordination : normal finger-nose-finger
+Pertinent Results :
+2013-03-27 12:59 AM URINE COLOR - Yellow APPEAR - Clear SP Stickney - 1.032
+2013-03-27 12:59 AM URINE BLOOD - NEG NITRITE - NEG PROTEIN - TR GLUCOSE - NEG KETONE - 50 BILIRUBIN - NEG UROBILNGN - 1 PH - 7.0 LEUK - NEG
+2013-03-27 12:59 AM URINE RBC- 0-2 WBC - 0 BACTERIA - NONE YEAST - NONE EPI - 0-2
+2013-03-27 12:59 AM WBC - 5.0 RBC - 4.23 HGB - 13.4 HCT - 38.5 MCV - 91 MCH - 31.8 MCHC - 34.9 RDW - 12.7
+2013-03-27 12:59 AM PLT COUNT - 213
+2013-03-27 12:59 AM URINE bnzodzpn - NEG barbitrt - NEG opiates - NEG cocaine - NEG amphetmn - POS mthdone - NEG
+2013-03-27 01:09 AM HGB - 13.4 calcHCT - 40 O2 SAT - 95 CARBOXYHB - 1.2 MET HGB - 0.2
+2013-03-27 12:59 AM UREA N - 21 * CREAT - 0.8
+2013-03-27 02:25 AM PT - 13.2 * PTT - 22.9 INR(PT) - 1.2 *
+Brief Hospital Course :
+The patient was admitted to Nantucket Cottage Hospital on 2013-03-27 following a motor vehicle crash as described previously .
+Chest and pelvis X-rays were negative for fractures .
+A CT of her head demonstrated intraparenchymal and extraaxial blood ( mostly subarachnoid ) in bilateral cerebral hemispheres , right greater than left , in a pattern indicating contrecoup injury .
+A CT of her C-spine revealed a possible fracture of right C7 pedicle .
+A CT of her chest revealed bliateral lung nodules and a right thyroid nodule .
+A CT of her sinues revealed no fractures .
+X-rays of her right lower extremity were negative for any acute injury .
+A neurosurgery consult was obtained .
+Our recommendations were to load her with Dilantin and then continue at 100 mg PO TID .
+The orthopedics spine service saw her and put her in a C-collar .
+She was admitted to the trauma ICU .
+A repeat head CT 12 hours after the first was largely unchanged .
+She was transferred to step down .
+She was having some pain issues and morphine was making her " jittery ."
+On HD 2 she was switched to Fioricet , which helped with her headaches .
+A repeact head CT was unchanged .
+An MRI of her C-spine was done to evaluate for ligamentous injury , but this was extremely limited examination due to patient motion and the signal in the spinal cord could not be adequately assessed for edema .
+As per CMED CSRU spine , the patient was instructed to follow-up in 2 weeks for repeat X-rays .
+On discharge she was awake , alert and orientated X3 with c/o mild headache .
+She had full strength motor exam , no pronator drift and PERRLA with full EOM s.
+She was ambulating without difficulties .
+On 04-01 she was seen by physical therapy was thought to benefit from acute rehabilitation .
+She had a head CT prior to discharge that showed resolution of the subarachnoid hemorrhage .
+Follow-up in 1 month with neurosurgery for a repeat head CT was arranged .
+She was discharged on fioricet and dilantin .
+She was counseled to follow-up with her PCP F 6-12 months regading the right thyroid nodule and the bilateral small lung nodules seen on her chest CT .
+Medications on Admission :
+1. celexa
+2. premarin
+3. trazodone
+4. 6-MP
+5. Prednisone
+Discharge Medications :
+1. Phenytoin Sodium Extended 100 mg Capsule Sig : One ( 1 ) Capsule PO TID ( 3 times a day ) for 1 months .
+Disp :* 90 Capsule (s)* Refills :* 0 *
+2. Acetaminophen - Caff - Butalbital 504-61-78 mg Capsule Sig : 01-28 Tablets PO Q4-6H ( every 4 to 6 hours ) as needed for 1 months .
+Disp :* 60 Tablet (s)* Refills :* 0 *
+3. Citalopram 20 mg Tablet Sig : One ( 1 ) Tablet PO DAILY ( Daily ).
+4. Metoprolol Tartrate 25 mg Tablet Sig : One ( 1 ) Tablet PO BID ( 2 times a day ).
+5. Hydromorphone 2 mg Tablet Sig : 1-2 Tablets PO Q4H ( every 4 hours ) as needed for pain .
+Disp :* 40 Tablet (s)* Refills :* 0 *
+6. Docusate Sodium 100 mg Capsule Sig : One ( 1 ) Capsule PO BID ( 2 times a day ): Use while taking narcotics .
+7. Phenytoin Sodium Extended 100 mg Capsule Sig : One ( 1 ) Capsule PO TID ( 3 times a day ).
+Disp :* 90 Capsule (s)* Refills :* 0 *
+Discharge Disposition :
+Extended Care
+Facility :
+St. Anne's Hospital - Burlington
+Discharge Diagnosis :
+Head trauma with subarachnoid hemorrhage
+C7 fracture
+Discharge Condition :
+neurologically stable
+Discharge Instructions :
+Call for severe headache or any other problems .
+Please take Fioricet as directed for headaches .
+Please do not drive while on this medication .
+Please continue to wear your C-collar at all times .
+Please continue Dilantin as directed for seizure prophylaxis .
+Followup Instructions :
+Follow up with Dr. Kelley in 4 weeks with head CT - call 716 3268
+Please also follow-up with Dr. Obrecht of CMED CCU spine in 2 weeks for flexion / extension X-rays (( 228 ) 411-7660 )
+Please follow-up with your PCP N 6-12 months reguading the right thyroid nodule and the bilateral small lung nodules seen on your chest CT .
+Vernia Diana MD 76-016
+Completed by : Sonya Ramona NP 80-AKY 2013-04-01 @ 1453
+Signed electronically by : DR. Shirley Bennett on : Sandra 2013-05-02 4:53 PM
+( End of Report )

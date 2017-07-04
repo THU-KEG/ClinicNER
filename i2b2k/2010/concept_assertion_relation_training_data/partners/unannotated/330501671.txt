@@ -1,0 +1,103 @@
+330501671
+CMC
+00614780
+10/29/2003 12:00:00 AM
+Expired secondary to DIC
+DIS
+Admission Date :
+10/29/2003
+Report Status :
+Discharge Date :
+11/01/2003
+****** DISCHARGE ORDERS ******
+KAASPARD , NACEN D. 485-64-95-3M05
+Room :
+2N-867
+Service :
+HEM
+DISCHARGE PATIENT ON :
+11/01/03 AT 02:00 PM
+CONTINGENT UPON
+Not Applicable
+WILL D / C ORDER BE USED AS THE D / C SUMMARY :
+YES
+Attending :
+FYFEMAAG , ANNE DIRK , M.D. , PH.D.
+CODE STATUS :
+No CPR / No defib / No intubation / No pressors
+/DISPOSITION :
+Expired
+DISCHARGE MEDICATIONS :
+FOLLOW UP APPOINTMENT ( S ) :
+not applicable , No Known Allergies
+ADMIT DIAGNOSIS :
+anemia and thrombocytopenia
+PRINCIPAL DISCHARGE DIAGNOSIS ;
+Responsible After Study for Causing Admission ) Expired secondary to DIC
+OTHER DIAGNOSIS ;
+Conditions , Infections , Complications , affecting Treatment / Stay
+HTN gout thrombocytopenia and severe anemia COPD hypercholest / TG NIDDM from steroids CRF ( chronic renal dysfunction ) diverticulosis s/p LGIB ( diverticulosis )
+OPERATIONS AND PROCEDURES :
+none
+OTHER TREATMENTS / PROCEDURES ( NOT IN O.R. ) hemodyalysis
+PRBC transfusion
+BRIEF RESUME OF HOSPITAL COURSE :
+This is a 75 yoF hx of CRI , HTN , GERD , Diverticular dz , COPD , was recently admitted to Diy Hospital for N/V/bloody diarrhea and hypotension on 10/7/03 .
+During her hospitalization at Neriereten , she had received HD due to concerns of uremia , had a MI by TnI ( 5.07 ) , had LGIB with negative work up for any potential source .
+She was severely anemicon admission to Neriereten , and subsequently bled of unknown cause after dialysis .
+Under these circumstances , she required multiple blood transfusion .
+It was unclear which even happened first .
+During her stay at Neriereten , she also developed severe thrombocytopenia with lowest Plt to 2 .
+She was subsequently transferred to CMC for work up of her severe anemia and thrombocytopenia .
+The DDx include HIT , post-transfusion thrombocytopenia , DIC , HUS / TTP , and ITP .
+Patient was DNR / DNI on admission .
+On admission :
+T96.8 BP110/68 P108 RR28 99% on 2L NC PE was notalbe for decreased BS at L lung base .
+There was also decreased DP pulses in R foot as well as R blue toe .
+There were large purpura on both of her arms , and petechiae on her legs and on hermucosal membranes .
+Labs for CBC , DIC panels , HIT antibodies and electrolytes are still Pending .
+Her latest Hct was 21 and plt was 15 upon transfer .
+During her stay , she received HD and 2 units of PRBCs , heparin was avoided in all proecedures due to concerns of HIT .
+Her hospital course was subsequently complicated by sudden onset of severe respiratory distress and leg swelling .
+It was suspected that patient may had apulmonary embolism .
+Patient received lasix , O2 , morphine and nitroglycerin drip .
+At this time , the family and patient &apos;s health careproxy have decided to pursue CMO .
+Patient was on morphine drip for pain and respiratory discomfort .
+Patient was comfortable and spent the next two days with her family .
+Patient expired on 11/1 at 2pm .
+BRIEF RESUME OF HOSPITAL COURSE ADDENDUM 1 :
+This is a 75 yoF hx of CRI , HTN , GERD , Diverticular dz , COPD , was recently admitted to Diy Hospital for N/V/bloody diarrhea and hypotension on 10/7/03 .
+During her hospitalization at Neriereten , she had received HD due to concerns of uremia , had a MI by TnI ( 5.07 ) , had LGIB with negative work up for any potential source .
+She was severely anemicon admission to Neriereten , and subsequently bled of unknown cause after dialysis .
+Under these circumstances , she required multiple blood transfusion .
+It was unclear which even happened first .
+During her stay at Neriereten , she also developed severe thrombocytopenia with lowest Plt to 2 .
+She was subsequently transferred to CMC for work up of her severe anemia and thrombocytopenia .
+The DDx include HIT , post-transfusion thrombocytopenia , DIC , HUS / TTP , and ITP .
+Patient was DNR / DNI on admission .
+On admission :
+T96.8 BP110/68 P108 RR28 99% on 2L NC PE was notalbe for decreased BS at L lung base .
+There was also decreased DP pulses in R foot as well as R blue toe .
+There were large purpura on both of her arms , and petechiae on her legs and on hermucosal membranes .
+Labs for CBC , DIC panels , HIT antibodies and electrolytes are still Pending .
+Her latest Hct was 21 and plt was 15 upon transfer .
+During her stay , she received HD and 2 units of PRBCs , heparin was avoided in all proecedures due to concerns of HIT .
+Her hospital course was subsequently complicated by sudden onset of severe respiratory distress and leg swelling .
+It was suspected that patient may had apulmonary embolism .
+Patient received lasix , O2 , morphine and nitroglycerin drip .
+At this time , the family and patient &apos;s health care proxy have decided to pursue CMO .
+Patient was on morphine drip for pain and respiratory discomfort .
+Patient was comfortable and spent the next two days with her family .
+Patient expired on 11/1 at 2pm .
+Addended by :
+ELKSREIDL , CAELL , M.D. ( BB32 ) on 11/01/03 04:48 PM
+ADDITIONAL COMMENTS :
+DISCHARGE CONDITION :
+TO DO / PLAN :
+No dictated summary
+ENTERED BY :
+ELKSREIDL , CAELL , M.D. ( BB32 )
+11/01/03 04:46 PM
+Addended by :
+ELKSREIDL , CAELL , M.D. ( BB32 ) on 11/01/03 04:48 PM
+****** END OF DISCHARGE ORDERS ******

@@ -1,0 +1,43 @@
+c="anterior myocardial infarction" 22:7 22:9||r="PIP"||c="coronary artery disease" 22:1 22:3
+c="drainage" 113:0 113:0||r="TrAP"||c="the pancreatic necrosis" 113:2 113:4
+c="the drainage catheter" 94:0 94:2||r="TrAP"||c="a pseudocyst" 94:6 94:7
+c="a persantine thallium study" 96:0 96:3||r="TeRP"||c="a large infarct" 96:5 96:7
+c="culture" 93:11 93:11||r="TeCP"||c="brownish fluid" 93:4 93:5
+c="associated chronic renal insufficiency" 50:6 50:9||r="PIP"||c="wegener &apos;s granulomatosis" 50:1 50:3
+c="drainage" 30:9 30:9||r="TrAP"||c="pancreatic necrosis" 30:11 30:12
+c="amphotericin-b" 128:7 128:7||r="TrAP"||c="a small fluid collection around his pancreas" 128:19 128:25
+c="amphotericin-b" 128:7 128:7||r="TrAP"||c="candida albicans" 128:29 128:30
+c="candida albicans" 128:29 128:30||r="PIP"||c="a small fluid collection around his pancreas" 128:19 128:25
+c="torulopsis glabrata" 129:10 129:11||r="PIP"||c="fungal cystitis" 129:7 129:8
+c="the patient &apos;s coumadin" 141:17 141:20||r="TrNAP"||c="the risk for bleeding" 141:12 141:15
+c="aggressive surgical intervention" 137:14 137:16||r="TrAP"||c="his intra-abdominal bursts of intermittent sepsis" 137:21 137:26
+c="shots of morphine" 151:6 151:8||r="TrAP"||c="intermittent pain" 151:10 151:11
+c="a computerized tomography scan" 43:0 43:3||r="TeRP"||c="a large &quot; pseudocyst &quot;" 43:8 43:12
+c="fluconazole" 128:11 128:11||r="TrAP"||c="a small fluid collection around his pancreas" 128:19 128:25
+c="fluconazole" 128:11 128:11||r="TrAP"||c="candida albicans" 128:29 128:30
+c="vancomycin" 126:11 126:11||r="TrAP"||c="gram positive cocci" 126:25 126:27
+c="vancomycin" 126:11 126:11||r="TrAP"||c="enteric and non-enteric gram negative rods" 126:29 126:34
+c="anterior myocardial infarction" 47:7 47:9||r="PIP"||c="coronary artery disease" 47:1 47:3
+c="further aggressive intervention" 137:51 137:53||r="TrAP"||c="his intra-abdominal bursts of intermittent sepsis" 137:21 137:26
+c="the lesser sac collection" 85:10 85:13||r="PIP"||c="a perisplenic effusion" 85:0 85:2
+c="blood cultures" 126:19 126:20||r="TeRP"||c="gram positive cocci" 126:25 126:27
+c="blood cultures" 126:19 126:20||r="TeRP"||c="enteric and non-enteric gram negative rods" 126:29 126:34
+c="anticoagulated" 131:4 131:4||r="TrAP"||c="his left ventricular aneurysm" 131:6 131:9
+c="flagyl" 126:16 126:16||r="TrAP"||c="gram positive cocci" 126:25 126:27
+c="flagyl" 126:16 126:16||r="TrAP"||c="enteric and non-enteric gram negative rods" 126:29 126:34
+c="ekg" 79:0 79:0||r="TeRP"||c="sinus tachycardia" 79:2 79:3
+c="palpation" 74:25 74:25||r="TeRP"||c="mildly tender" 74:22 74:23
+c="the indwelling catheter" 106:10 106:12||r="TrAP"||c="thick brownish material" 106:4 106:6
+c="drainage" 92:7 92:7||r="TrAP"||c="the peripancreatic fluid collection" 92:9 92:12
+c="ofloxacin" 126:13 126:13||r="TrAP"||c="gram positive cocci" 126:25 126:27
+c="ofloxacin" 126:13 126:13||r="TrAP"||c="enteric and non-enteric gram negative rods" 126:29 126:34
+c="reflux" 134:13 134:13||r="PIP"||c="small-volume emesis" 134:5 134:6
+c="repeated work ups" 123:1 123:3||r="TeRP"||c="remaining infection in the peripancreatic area" 123:14 123:19
+c="the echocardiogram" 99:0 99:1||r="TeRP"||c="terrible left ventricular function" 99:3 99:6
+c="the echocardiogram" 99:0 99:1||r="TeRP"||c="left ventricular aneurysm" 99:9 99:11
+c="an epigastric mass" 74:17 74:19||r="PIP"||c="abdomen distended" 74:14 74:15
+c="his urine" 129:15 129:16||r="TeRP"||c="torulopsis glabrata" 129:10 129:11
+c="his urine" 129:15 129:16||r="TeRP"||c="fungal cystitis" 129:7 129:8
+c="a computerized tomography guided aspirate" 128:13 128:17||r="TeCP"||c="a small fluid collection around his pancreas" 128:19 128:25
+c="a computerized tomography guided aspirate" 128:13 128:17||r="TeCP"||c="candida albicans" 128:29 128:30
+c="80-90 systolic/40-50 diastolic" 120:7 120:9||r="TeRP"||c="hypotension" 120:5 120:5

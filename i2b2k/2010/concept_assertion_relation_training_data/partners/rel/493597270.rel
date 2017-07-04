@@ -1,0 +1,18 @@
+c="some shortness of breath" 23:0 23:3||r="PIP"||c="allergies" 23:5 23:5
+c="simethicone" 84:1 84:1||r="TrAP"||c="gas pain" 84:7 84:8
+c="sarna topical" 82:1 82:2||r="TrAP"||c="itching" 82:5 82:5
+c="heent examination" 40:0 40:1||r="TeRP"||c="atraumatic" 40:5 40:5
+c="cardiac exam" 46:0 46:1||r="TeRP"||c="a diffuse 2/6 systolic murmur" 46:9 46:13
+c="an abdominal mri" 65:0 65:2||r="TeCP"||c="elevated liver enzymes" 65:8 65:10
+c="penicillin" 30:9 30:9||r="TrCP"||c="her reaction" 30:6 30:7
+c="miracle creamtopical" 81:1 81:2||r="TrAP"||c="skin irritation" 81:6 81:7
+c="a blood culture" 62:6 62:8||r="TeRP"||c="staphylococcusaureus" 62:11 62:11
+c="lactulose" 79:1 79:1||r="TrAP"||c="constipation" 79:7 79:7
+c="albuterol inhaler" 74:1 74:2||r="TrAP"||c="breathing difficulties" 74:7 74:8
+c="nafcillin" 68:7 68:7||r="TrCP"||c="drug rash" 68:4 68:5
+c="a smear" 19:3 19:4||r="TeRP"||c="all" 19:8 19:8
+c="laxatives" 69:8 69:8||r="TrIP"||c="constipated" 69:3 69:3
+c="the skin examination" 49:0 49:2||r="TeRP"||c="a dark two centimeter ecchymosis" 49:8 49:12
+c="the skin examination" 49:0 49:2||r="TeRP"||c="pale blue two centimeter macules" 49:20 49:24
+c="robituss in ac" 89:1 89:3||r="TrAP"||c="cough" 89:11 89:11
+c="the patient &apos;s physical examination" 37:0 37:4||r="TeRP"||c="apparent distress" 37:14 37:15

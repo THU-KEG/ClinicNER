@@ -1,0 +1,12 @@
+c="the right knee examination" 43:0 43:3||r="TeRP"||c="some effusion" 43:5 43:6
+c="the general physical examination" 41:0 41:3||r="TeRP"||c="any abnormality" 41:7 41:8
+c="a electrocardiogram" 51:0 51:1||r="TeRP"||c="nonspecific t-wave abnormalities" 51:3 51:5
+c="debridement" 53:7 53:7||r="TrAP"||c="synovial chondromatosis" 53:9 53:10
+c="right knee open synovectomy" 53:2 53:5||r="TrAP"||c="synovial chondromatosis" 53:9 53:10
+c="his chest x-ray" 50:0 50:2||r="TeRP"||c="any abnormality" 50:6 50:7
+c="serum uric acid" 20:20 20:22||r="TeCP"||c="uric acid crystals" 20:15 20:17
+c="an open synovectomy" 24:13 24:15||r="TrAP"||c="synovial chondromatosis" 24:7 24:8
+c="an magnetic resonance imaging study" 23:0 23:4||r="TeRP"||c="calcification densities in the suprapatellar bursa region" 23:6 23:12
+c="an magnetic resonance imaging study" 23:0 23:4||r="TeRP"||c="hypertrophia of the synovium" 23:16 23:19
+c="plain films" 22:0 22:1||r="TeRP"||c="some soft tissue calcification" 22:11 22:14
+c="debridement" 24:17 24:17||r="TrAP"||c="synovial chondromatosis" 24:7 24:8

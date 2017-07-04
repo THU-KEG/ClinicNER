@@ -1,0 +1,37 @@
+c="a cbc" 85:14 85:15||r="TeCP"||c="abdominal distention" 85:11 85:12
+c="a cbc" 85:14 85:15||r="TeCP"||c="hyperglycemia" 85:9 85:9
+c="apnea episodes" 47:3 47:4||r="PIP"||c="bradycardia" 47:8 47:8
+c="apnea episodes" 47:3 47:4||r="PIP"||c="desaturations" 47:10 47:10
+c="insulin" 64:14 64:14||r="TrAP"||c="hyperglycemia" 64:8 64:8
+c="vancomycin" 87:13 87:13||r="TrAP"||c="staph coagulase negative" 87:3 87:5
+c="blood culture" 85:17 85:18||r="TeCP"||c="abdominal distention" 85:11 85:12
+c="blood culture" 85:17 85:18||r="TeCP"||c="hyperglycemia" 85:9 85:9
+c="prematurity" 157:3 157:3||r="PIP"||c="anemia" 157:1 157:1
+c="gentamicin" 87:15 87:15||r="TrAP"||c="staph coagulase negative" 87:3 87:5
+c="prematurity" 158:3 158:3||r="PIP"||c="apnea" 158:1 158:1
+c="initial rop screen" 122:0 122:2||r="TeRP"||c="immature retinas to zone 2 bilaterally" 122:9 122:14
+c="coronal images" 103:12 103:13||r="TeCP"||c="partially absent" 103:5 103:6
+c="cpap" 59:27 59:27||r="TrCP"||c="increased abdominal girth" 59:17 59:19
+c="blood culture" 87:0 87:1||r="TeRP"||c="staph coagulase negative" 87:3 87:5
+c="a normal saline bolus" 50:2 50:5||r="TrAP"||c="poor perfusion" 50:10 50:11
+c="prematurity" 100:18 100:18||r="PIP"||c="focal gyral morphology" 100:13 100:15
+c="radiograph" 42:0 42:0||r="TeRP"||c="bilateral diffuse granular pattern" 42:2 42:5
+c="bilateral diffuse granular pattern" 42:2 42:5||r="PIP"||c="surfactant deficiency" 42:8 42:9
+c="an mri" 100:0 100:1||r="TeRP"||c="focal gyral morphology" 100:13 100:15
+c="an mri" 100:0 100:1||r="TeRP"||c="lesions" 100:28 100:28
+c="an mri" 100:0 100:1||r="TeRP"||c="signal abnormalities" 100:31 100:32
+c="an mri" 100:0 100:1||r="TeRP"||c="extracerebral collections" 100:34 100:35
+c="intubation" 29:6 29:6||r="TrIP"||c="increased work of breathing" 29:0 29:3
+c="a lumbar puncture" 88:0 88:2||r="TeCP"||c="meningitis" 88:9 88:9
+c="immunization" 148:15 148:15||r="TrAP"||c="influenza" 148:17 148:17
+c="npo" 70:9 70:9||r="TrAP"||c="a distended abdomen" 70:11 70:13
+c="npo" 70:9 70:9||r="TrAP"||c="a bilious spit" 70:15 70:17
+c="cpap" 68:13 68:13||r="TrCP"||c="abdominal distention" 68:6 68:7
+c="cpap" 68:13 68:13||r="TrCP"||c="slow gastrointestinal motility" 68:2 68:4
+c="sepsis evaluation" 63:14 63:15||r="TeCP"||c="abdominal distention" 63:11 63:12
+c="sepsis evaluation" 63:14 63:15||r="TeCP"||c="hyperglycemia" 63:9 63:9
+c="npo" 76:11 76:11||r="TrAP"||c="abdominal distention" 76:18 76:19
+c="dilated loops" 71:6 71:7||r="PIP"||c="nonspecific changes" 71:3 71:4
+c="serial kubs" 71:0 71:1||r="TeRP"||c="nonspecific changes" 71:3 71:4
+c="serial kubs" 71:0 71:1||r="TeRP"||c="dilated loops" 71:6 71:7
+c="bluish discoloration" 73:5 73:6||r="PIP"||c="a bruise on her left lower quadrant" 73:11 73:17

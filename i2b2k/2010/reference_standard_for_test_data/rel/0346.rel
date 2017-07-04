@@ -1,0 +1,54 @@
+c="nipride" 100:14 100:14||r="TrAP"||c="hypertension" 100:12 100:12
+c="intravenous heparin" 86:10 86:11||r="TrAP"||c="myocardial infarction" 86:7 86:8
+c="iso" 84:19 84:19||r="TeRP"||c="myocardial infarction" 84:5 84:6
+c="index" 84:23 84:23||r="TeRP"||c="myocardial infarction" 84:5 84:6
+c="the electrocardiogram" 81:0 81:1||r="TeRP"||c="q waves in v1" 81:3 81:6
+c="the electrocardiogram" 81:0 81:1||r="TeRP"||c="t wave pseudonormalization in v1" 81:10 81:14
+c="large saphenous vein graft" 109:4 109:7||r="TrCP"||c="thrombosis" 109:13 109:13
+c="metoprolol" 102:17 102:17||r="TrIP"||c="atrial fibrillation" 102:9 102:10
+c="the left ventriculography" 90:0 90:2||r="TeRP"||c="anterior akinesis" 90:4 90:5
+c="the left ventriculography" 90:0 90:2||r="TeRP"||c="apical severe hypokinesis" 90:7 90:9
+c="the left ventriculography" 90:0 90:2||r="TeRP"||c="a moderately depressed ejection fraction" 90:11 90:15
+c="a moderately depressed ejection fraction" 90:11 90:15||r="PIP"||c="anterior akinesis" 90:4 90:5
+c="a moderately depressed ejection fraction" 90:11 90:15||r="PIP"||c="apical severe hypokinesis" 90:7 90:9
+c="penicillin" 51:5 51:5||r="TrCP"||c="allergic" 51:3 51:3
+c="penicillin" 51:5 51:5||r="TrCP"||c="a rash" 51:8 51:9
+c="a rash" 51:8 51:9||r="PIP"||c="allergic" 51:3 51:3
+c="the electrocardiogram" 32:0 32:1||r="TeRP"||c="pseudonormalization of t waves" 32:3 32:6
+c="the electrocardiogram" 32:0 32:1||r="TeRP"||c="q waves in v1" 32:12 32:15
+c="fresh frozen plasma" 100:21 100:23||r="TrAP"||c="bleeding" 100:16 100:16
+c="anticoagulation" 109:2 109:2||r="TrAP"||c="thrombosis" 109:13 109:13
+c="fresh frozen plasma" 98:43 98:45||r="TrAP"||c="increasing chest tube drainage" 98:49 98:52
+c="3-4 millimeter st segment elevation in v1" 34:7 34:13||r="PIP"||c="depression in ii , iii , and avf" 34:17 34:24
+c="the rectal examination" 75:0 75:2||r="TeRP"||c="trace guaiac positive" 75:4 75:6
+c="repeat cardiac catheterization" 38:10 38:12||r="TeRP"||c="circumflex lesion after the obtuse marginal 1" 38:26 38:32
+c="repeat cardiac catheterization" 38:10 38:12||r="TeRP"||c="distal posterior descending artery lesion" 38:20 38:24
+c="aspirin" 86:13 86:13||r="TrAP"||c="myocardial infarction" 86:7 86:8
+c="mb" 39:30 39:30||r="TeRP"||c="a non-q wave myocardial infarction" 39:19 39:23
+c="a non-q wave myocardial infarction" 39:19 39:23||r="PIP"||c="chest pain" 39:9 39:10
+c="a non-q wave myocardial infarction" 39:19 39:23||r="PIP"||c="shortness of breath" 39:12 39:14
+c="electrocardiogram" 107:78 107:78||r="TeRP"||c="left atrial enlargement" 107:84 107:86
+c="platelets" 98:47 98:47||r="TrAP"||c="increasing chest tube drainage" 98:49 98:52
+c="packed red blood cells" 98:38 98:41||r="TrAP"||c="increasing chest tube drainage" 98:49 98:52
+c="digoxin" 102:19 102:19||r="TrIP"||c="atrial fibrillation" 102:9 102:10
+c="cpk" 84:8 84:8||r="TeRP"||c="myocardial infarction" 84:5 84:6
+c="a chest x-ray" 80:3 80:5||r="TeRP"||c="mild pulmonary edema" 80:8 80:10
+c="previous surgery" 71:4 71:5||r="TrAP"||c="gastric ulcer" 71:9 71:10
+c="the appropriate protocol" 86:3 86:5||r="TrAP"||c="myocardial infarction" 86:7 86:8
+c="the neurological examination" 77:0 77:2||r="TeRP"||c="pain" 77:14 77:14
+c="the physical examination" 60:0 60:2||r="TeRP"||c="afebrile" 60:7 60:7
+c="electrocardiogram" 107:93 107:93||r="TeRP"||c="acute ischemic changes" 107:89 107:91
+c="sublingual nitroglycerin" 29:17 29:18||r="TrIP"||c="chest pain" 29:7 29:8
+c="the echocardiogram" 37:0 37:1||r="TeRP"||c="septal hypokinesis" 37:11 37:12
+c="the echocardiogram" 37:0 37:1||r="TeRP"||c="anterior akinesis" 37:8 37:9
+c="maximal impulse" 69:21 69:22||r="TeRP"||c="laterally displaced" 69:24 69:25
+c="repeat cardiac catheterization" 40:0 40:2||r="TeRP"||c="a lesion in the first obtuse marginal" 40:18 40:24
+c="repeat cardiac catheterization" 40:0 40:2||r="TeRP"||c="a moderate to severe left circumflex lesion" 40:26 40:32
+c="repeat cardiac catheterization" 40:0 40:2||r="TeRP"||c="re-stenosis of proximal left anterior descending" 40:4 40:9
+c="cpk peak" 39:25 39:26||r="TeRP"||c="a non-q wave myocardial infarction" 39:19 39:23
+c="multiple stigmata" 63:0 63:1||r="PIP"||c="burns on the left arm and chest" 63:3 63:9
+c="peak" 84:15 84:15||r="TeRP"||c="myocardial infarction" 84:5 84:6
+c="chest x-ray" 107:61 107:62||r="TeRP"||c="mild cardiomegaly" 107:71 107:72
+c="chest x-ray" 107:61 107:62||r="TeRP"||c="subsegmental atelectasis bibasilar" 107:74 107:76
+c="chest x-ray" 107:61 107:62||r="TeRP"||c="small bilateral effusions" 107:67 107:69
+c="platelets" 100:25 100:25||r="TrAP"||c="bleeding" 100:16 100:16

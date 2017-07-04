@@ -1,0 +1,15 @@
+c="caffeine citrate" 43:0 43:1||r="TrAP"||c="apnea" 43:7 43:7
+c="caffeine citrate" 43:0 43:1||r="TrAP"||c="bradycardia of prematurity" 43:9 43:11
+c="2 vessel cord" 14:6 14:8||r="PIP"||c="ivf pregnancy" 14:0 14:1
+c="ivf pregnancy" 14:0 14:1||r="PIP"||c="iugr" 14:4 14:4
+c="cesarean section" 18:7 18:8||r="TrAP"||c="pprom" 18:0 18:0
+c="cesarean section" 18:7 18:8||r="TrAP"||c="bleeding" 18:2 18:2
+c="cesarean section" 18:7 18:8||r="TrAP"||c="transverse lie" 18:4 18:5
+c="bleeding" 18:2 18:2||r="PIP"||c="pprom" 18:0 18:0
+c="transverse lie" 18:4 18:5||r="PIP"||c="pprom" 18:0 18:0
+c="antibiotic" 93:4 93:4||r="TrAP"||c="sepsis" 93:2 93:2
+c="the child 's life immunizations" 90:10 90:14||r="TrAP"||c="influenza" 90:16 90:16
+c="x-ray" 41:0 41:0||r="TeRP"||c="mild respiratory distress syndrome" 41:2 41:5
+c="synagis rsv prophylaxis" 88:3 88:5||r="TrAP"||c="neuromuscular disease" 88:54 88:55
+c="synagis rsv prophylaxis" 88:3 88:5||r="TrAP"||c="chronic lung disease" 88:64 88:66
+c="synagis rsv prophylaxis" 88:3 88:5||r="TrAP"||c="weight abnormalities" 88:57 88:58

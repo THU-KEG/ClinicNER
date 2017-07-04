@@ -1,0 +1,120 @@
+168484101
+OMH
+4891944
+282114
+1/5/1999 12:00:00 AM
+Discharge Summary
+Unsigned
+DIS
+Report Status :
+Unsigned
+DISCHARGE SUMMARY NAME :
+SLEMNEAVKOTE , PAUCI
+UNIT NUMBER :
+558-22-78
+ADMISSION DATE :
+01/05/1999
+DISCHARGE DATE :
+01/16/1999
+PRINCIPAL DIAGNOSIS :
+Small bowel obstruction .
+PRINCIPAL PROCEDURE :
+Exploratory laparotomy , small-bowel resection and repair of small bowel serosal tear .
+HISTORY OF PRESENT ILLNESS :
+The patient is a 75-year-old male with multiple medical problems , who was transferred from Monlidel Medical Center for evaluation of small bowel obstruction .
+His history dates back to 1/2/98 , when he was admitted with the onset of fever , tachypnea , and diaphoresis .
+Evaluation at Monlidel Medical Center revealed a white blood count of 35 , glucose of 547 , and urine culture that showed &gt; 100,000 Proteus .
+He was subsequently admitted with the diagnosis of urosepsis and placed on IV Cipro .
+His admission chest x-ray showed a lingular infiltrate and Clindamycin was added to the antibiotic regimen .
+His admission KUB at Monlidel Medical Center showed loops of dilated small bowel and he continued on antibiotic therapy and subsequently defervesced with a white blood count dropping to 21 .
+His abdominal distension persisted , despite nasogastric decompression , and an abdominal / pelvic CT scan obtained on the date of discharge to Oaksgekesser/ Memorial Hospital revealed adilated small bowel proximally with a decompressed terminal ileum and colon consistent with a high-grade small bowel obstruction .
+At the family &apos;s request , the patient was transferred to the Oaksgekesser/ Memorial Hospital for further evaluation .
+PAST MEDICAL HISTORY :
+1. Dementia .
+2. Prostate cancer .
+3. Hypertension .
+4. Peripheral vascular disease .
+5. Diabetes mellitus .
+6. Chronic atrial fibrillation .
+7. Anemia .
+8. Chronic incontinence .
+PAST SURGICAL HISTORY :
+1. Status post hernia repair .
+2. Status post multiple polypectomies .
+3. Questionable history of a lower midline abdominal scar for unknown abdominal surgery .
+4. Bilateral orchiectomy .
+SOCIAL HISTORY :
+The patient is a resident at Childwoodskosto .
+MEDICATIONS ON ADMISSION :
+Lasix 20 mg. PO QD .
+Digoxin 0.25 mg. PO QD .
+Zestril 5 mg. PO QD .
+Multivitamin 1 PO QD .
+Zinc 220 mg. PO QD .
+Prevacid 30 mg. PO QD .
+Bethanechol 25 mg. PO QD .
+PHYSICAL EXAMINATION ON ADMISSION :
+The patient was an ill-appearing 75-year-old gentleman in no apparent distress .
+Afebrile , vital signs stable .
+HEENT :
+Anicteric sclera , pupils equal , round , reactive to light , moist mucous membranes .
+Neck supple , no lymphadenopathy .
+Cardiac :
+Regular rate and rhythm , no murmurs , rubs , or gallops .
+Lungs :
+Decreased breath sounds bilaterally with bibasilar crackles .
+Abdomen distended with increased bowel sounds .
+His abdomen was moderately tender to palpation and tympanitic on percussion with no guarding or rebound .
+Rectal :
+Guaiac-negative .
+Extremities :
+No clubbing , cyanosis , or edema .
+There were decubitus ulcers on bilateral feet .
+Pulse :
+2+ radial and femoral pulses bilaterally , 2+ popliteal pulses bilaterally .
+The left lower extremity had a PT pulse which was trace and dorsalis pedis 2+ .
+The right lower extremity had a posterior tibial pulse of 1+ and dorsalis pedis pulse of 2+ .
+LABORATORY DATA ON ADMISSION :
+White blood count 16.3 , hematocrit 31.6 , platelet count 446 , sodium 135 , potassium 3.4 , chloride 106 , bicarbonate 29.3 , BUN 25 , creatinine .6 , glucose 154 , PT 12.9 , PTT 21.4 , calcium 8.2 , phosphorus 2.0 , magnesium 1.4 , bilirubin direct .1 , bilirubin total .3 , alkaline phosphatase 113 , amylase 22 .
+RADIOLOGIC STUDIES :
+1. KUB :
+Dilated loops of small bowel with multiple air-fluid levels and some air in the distal bowel .
+2. Chest x-ray :
+Left lower lobe infiltrate and pulmonary congestion .
+3. Abdominal / pelvic CT :
+Concentric thickening of the terminal ileum .
+There was some passage of contrast past the terminal ileum , but there were proximal loops of dilated small bowel .
+HOSPITAL COURSE :
+The patient was admitted to the Oaksgekesser/ Memorial Hospital Ward Surgery Service and made NPO with continued nasogastric tube to suction .
+On hospital day 2 , the patient was brought to the operating room for an exploratory laparotomy with repair of a small bowel serosal tear .
+Operative findings included a thickened segment of the ileum and a frozen section consistent with necrotic bowel , from which there were clear margins .
+The abdomen was full of reactive ascites .
+For a complete description of the operation , please see the operative note dated 1/7/99 .
+The patient tolerated the procedure well and was transferred to the postanesthesia care unit in stable condition .
+The patient did well postoperatively and was maintained on IV antibiotics , including Clindamycin and Levoflox .
+He continued to do well and by postoperative day 8 his white blood count was 12.9 and the rest of his laboratory studies were within normal limits .
+He is tolerating a PO intake and has had several bowel movements .
+At this point , it was felt that the patient would benefit from a continued course of rehabilitation and he was discharged back to his nursing home in stable condition .
+DISCHARGE INSTRUCTIONS :
+Follow up with General Surgery Ward Clinic one week following discharge .
+MEDICATIONS ON DISCHARGE :
+Digoxin 0.25 mg. PO QD .
+Fragmin 2500 units subq QD .
+Lasix 20 mg. PO QD .
+Zestril 5 mg. PO QD .
+Multivitamins 1 PO QD .
+Prevacid 30 mg. PO QD .
+Zinc 220 mg. PO QD .
+Bethanechol 25 mg. PO QD .
+Insulin sliding scale for elevated blood sugars .
+TRANGCA NEEDLE , M.D.
+DICTATING FOR :
+REY CAFFEFALMYORETLAND , M.D.
+TR :
+lv
+DD :
+01/15/1999
+TD :
+01/15/1999 9:02
+Acc :
+TRANGCA NEEDLE , M.D. LEEN LYNME PAUGBREUN , M.D. REY SALBMO CAFFEFALMYORETLAND , M.D. RORIEZAILA FERNE KOTEKAYSKOTEKAYSCOA , M.D.

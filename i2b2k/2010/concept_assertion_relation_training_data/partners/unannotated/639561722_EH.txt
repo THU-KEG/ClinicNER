@@ -1,0 +1,164 @@
+639561722 EH
+08107672
+6574945
+2/20/2006 12:00:00 AM
+CHF , polysubstance abuse , COPD
+DIS
+Admission Date :
+02/20/2006
+Report Status :
+Discharge Date :
+02/22/2006
+****** FINAL DISCHARGE ORDERS ******
+YAW , TAO 831-83-99-8 E47
+Room :
+05W-814
+Service :
+CAR
+DISCHARGE PATIENT ON :
+02/22/06 AT 02:00 PM
+CONTINGENT UPON
+Not Applicable
+WILL D / C ORDER BE USED AS THE D / C SUMMARY :
+YES
+Attending :
+YANESLAUNT , GENTO BARN , M.D.
+CODE STATUS :
+Full code
+DISPOSITION :
+Home
+DISCHARGE MEDICATIONS :
+ACETYLSALICYLIC ACID 81 MG PO QD LISINOPRIL 10 MG PO QD Starting Today ( 02/22 )
+Alert overridden :
+Override added on 02/22/06 by ZUSTBELBKURK , AGEOFF L. , M.D.
+POTENTIALLY SERIOUS INTERACTION :
+POTASSIUM CHLORIDE and LISINOPRIL
+Reason for override :
+MD aware
+MULTIVITAMIN THERAPEUTIC ( THERAPEUTIC MULTIVI ... )
+1 TAB PO QD ALBUTEROL INHALER HFA 2 PUFF INH QID
+Instructions :
+Start at 4 times per day for the next 5 days , then use as needed for shortness of breath ADVAIR DISKUS 250/50 ( FLUTICASONE PROPIONATE/... ) 1 PUFF INH BID HALDOL ( HALOPERIDOL ) 60 MG IM Qmonth BUMETANIDE 0.5 MG PO QD
+DIET :
+House / Low chol / low sat. fat
+DIET :
+4 gram Sodium
+ACTIVITY :
+Resume regular exercise
+FOLLOW UP APPOINTMENT ( S ) :
+RAMMCO PCP DR STILL ( 354 ) 929-4153 04/27/06 2:50 PM scheduled , RAMMCO URGENT CARE ( 225 ) 999-6955
+PLEASE CALL NEXT WEEK AND SCHEDULE FOLLOW-UP , Dr. Zellray Pulefreierm at EH Cardiology on the 2nd floor at EH in TL SONLAMEHEAD MILTRONTION 3/1/06 at 2:30PM ,
+ALLERGY :
+CEPHALEXIN , DIVALPROEX SODIUM
+ADMIT DIAGNOSIS :
+shortness of breath
+PRINCIPAL DISCHARGE DIAGNOSIS ;
+Responsible After Study for Causing Admission ) CHF , polysubstance abuse , COPD
+OTHER DIAGNOSIS ;
+Conditions , Infections , Complications , affecting Treatment / Stay crack use , tobacco use , schizoaffective d / o
+OPERATIONS AND PROCEDURES :
+Chest CT to rule out PE , trans-thoracic ECHO , cardiac telemetry
+OTHER TREATMENTS / PROCEDURES ( NOT IN O.R. )
+none
+BRIEF RESUME OF HOSPITAL COURSE :
+CC :
+SOB / DOE
+*************************************************
+HPI. 51F w h / o tobacco and crack use p / w SOB / DOE worsening over the past 3 weeks and breast soreness , with troponin 0.15 in ED .
+Patient had 2 weeks of cough , fever , SOB when presented to ED 2/11 and was discharged to home with 7 days of Levaquin for presumed CAP with infiltrate on CXR .
+She noted resolution of her fevers and change of cough to now dry / nonproductive after the antibiotics .
+However , her SOB / DOE continues , only able to walk 10 steps until DOE .
+She denies any CP , reports bilateral breast aching chronically .
++ PND vs. OSA , + chronic diarrhea , no edema or orthopnea .
+*************************************************
+PMH :
+schizoaffective F / B Lumnerow Health , crack use , tobacco , CRI , fibroids , S / P I and D of breast abscess , HTN
+*************************************************
+MEDS :
+Haldol 60mg IM Qmonth , had 7 days of levaquin 2/12 - 2/19 ( is not taking any of the other medications listed in LMR )
+*************************************************
+ALL :
+cephalexin , valproate
+SH :
+Lives alone , on SSDI , 1.5 PPD x &gt; 10yrs , rare EtOH , smokes crack several times per week , no IVDU
+FH :
+none known
+*************************************************
+PE :
+96.8 90 163/110 16 99 /RA
+GEN :
+obese , disheveled , coughing but no resp distress
+HEENT :
+MMM , unable to assess JVP w habitus
+CHEST :
+diffuse rhonci , wheezes
+CV :
+RRR , distant HS
+ABD :
+soft , benign
+EXT :
+trace pitting edema to bilat shins
+NEURO :
+A and O x3 , grossly nonfocal
+*************************************************
+Studies :
+CXR 1/21 :
+slightly decreased RLL infiltrate but w new small effusion in fissure
+ECG :
+NSR 96 bpm , LVH , TWI I , L, V3-V6 ( has no prior )
+CT PE 2/21 :
+no PE , but small R loculated effusion
+ECHO 2/22 :
+pending
+*************************************************
+A / P. 51F chronic tobacco , crack , schizoaffective and likely OSA p / w DOE / SOB .
+1.) CV .
+(I). Trop 0.15 , and TWI anterolateral , but likely has some demand w biventricular enlargement w chronic HTN and possible pulm HTN .
+Also may have vasospasm w crack use .
+Got lovenox 80 in ED , but likely doesn &apos;t need anti-platelet meds as yet .
+-- Trop still 0.17 on 3rd draw , likely will take a long time to come down , still no indication for anti-platelet agents
+-- ASA 81 , no B blocker because of recent crack use , fasting lipids 2/21/06 actually looked very good with LDL 91 .
+ECHO 2/22 shows enlarged LV with EF roughly 25% , biatrial enlargement and moderate mitral regurgitation .
+Started bumex ( patient preferred this to lasix because her father had lasix in the past and did poorly ) and lisinopril as an outpatient .
+She was assigned to a new cardiologist Dr. Pulefreierm whom she will see one week after discharge .
+-- BP control with captopril , converted to lisinopril for discharge . (R) .
+NSR , no active issues .
+2.) PULM .
+CXR slightly improved , afebrile , normal WBC , but had terrible exam on admission .
+No antibiotics were given and sputum culture grew oral flora .
+She likely has bad lungs with her chronic crack use .
+-- ATC duonebs , ATC guiafenisen , PRN albuterol and chest PT given throughout admission .
+She was discharged on Advair and albuterol inhalers with instructions to follow-up with PCP for PFTs
+-- A CT PA of the chest on 2/21 showed no PE , but did show a small loculated R pleural effusion in the area of her prior pneumonia .
+Talked with pulmonary service briefly who recommended possible CT-guided thoracentesis to investigate for possible underlying malignancy .
+The patient refused to have this done as an inpatient , but will consider having it done as an outpatient after discharge .
+She will at the least have follow-up imaging with her new PCP Dr. Still at the next visit .
+3.) CRI .
+Cr stable at baseline .
+4.) PSYCH / PSA / SOCIAL .
+On Q month haldol for schizoaffective as outpatient .
+She did not require any PRN Haldol throughout admission .
+-- She refused ACE consult , not ready to quit tobacco or crack , and refused nicoderm
+5.) FEN .
+KSS , MgSS , cardiac diet with nutrition consult , thiamine , folate , and MVI
+PPX :
+heparin SC and nexium
+DISPO :
+The patient does have underlying psychiatric disease , but did meet criteria for capacity for all medical decisions during her hospitalization .
+Given her history of non-compliance and drug abuse , however , the team spoke with 2 family members and her psychiatrist at Lumnerow Health prior to discharge to review the diagnoses and the discharge plan , emphasizing the importance of making her follow-up appointments with Dr. Endo , Dr. Pulefreierm and Br. Still .
+Her family members were given phone numbers for all of her physicians to call if there are concerns that she is endangering herself with non-compliance in the future , at which time there may be further discussions regarding capacit / competency , and possible guardianship .
+FULL CODE ADDITIONAL COMMENTS :
+DO NOT USE CRACK AGAIN .
+Your difficulty breathing is partly caused by your smoking and your crack use , your symptoms will get better if you stop using tobacco and crack .
+If you do decide to quit you can call 632.264.7348 for help with quitting smoking , and they can direct you to help for quitting crack .
+It is also very important that you keep your next appointments with your new doctors , and take all of your medications , including the inhalers , as prescribed .
+The Bumex will help keep extra fluid off your heart and help you breath better .
+DISCHARGE CONDITION :
+Satisfactory
+TO DO / PLAN :
+Will need follow-up chest CT to check for resolution of R pleural effusion , to be checked by new PCP .
+No dictated summary
+ENTERED BY :
+ZUSTBELBKURK , AGEOFF L. , M.D. ( AT93 )
+02/22/06 03:10 PM
+****** END OF DISCHARGE ORDERS ******

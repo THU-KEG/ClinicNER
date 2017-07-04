@@ -1,0 +1,60 @@
+c="albumin" 161:0 161:0||r="TeRP"||c="very low" 161:2 161:3
+c="very low" 161:2 161:3||r="PIP"||c="significant edema" 161:7 161:8
+c="ct" 92:4 92:4||r="TeRP"||c="acute infarction" 92:7 92:8
+c="intravascular volume depletion" 168:7 168:9||r="PIP"||c="so low" 168:16 168:17
+c="2 head ct 's" 154:6 154:9||r="TeRP"||c="anoxic brain injury" 154:14 154:16
+c="2 head ct 's" 154:6 154:9||r="TeRP"||c="bleeding" 154:18 154:18
+c="2d or color doppler" 73:7 73:10||r="TeRP"||c="atrial septal defect" 73:1 73:3
+c="an eeg" 154:3 154:4||r="TeRP"||c="anoxic brain injury" 154:14 154:16
+c="an eeg" 154:3 154:4||r="TeRP"||c="bleeding" 154:18 154:18
+c="the pt 's albumin" 168:11 168:14||r="TeRP"||c="so low" 168:16 168:17
+c="this non - specific pattern" 67:0 67:4||r="PIP"||c="diffuse pneumonia" 67:7 67:8
+c="this non - specific pattern" 67:0 67:4||r="PIP"||c="ards" 67:11 67:11
+c="oxacillin" 17:59 17:59||r="TrCP"||c="acute interstitial nephritis" 17:54 17:56
+c="intubated" 19:9 19:9||r="TrAP"||c="respiratory failure" 19:18 19:19
+c="anemia" 173:4 173:4||r="PIP"||c="chronic disease" 173:6 173:7
+c="difficulties with neurological status" 116:9 116:12||r="PIP"||c="drowsy" 116:16 116:16
+c="difficulties with neurological status" 116:9 116:12||r="PIP"||c="unresponsive" 116:18 116:18
+c="mssa osteomyelitis of the calcaneus" 17:45 17:49||r="PIP"||c="right heel diabetic ulcer" 17:40 17:43
+c="labs" 173:0 173:0||r="TeRP"||c="anemia" 173:4 173:4
+c="aspiration event" 117:30 117:31||r="PIP"||c="worsening pneumonia" 117:34 117:35
+c="aspiration event" 117:30 117:31||r="PIP"||c="pulm edema" 117:42 117:43
+c="bacteremia" 22:32 22:32||r="PIP"||c="enterobacter" 22:34 22:34
+c="bacteremia" 22:32 22:32||r="PIP"||c="mssa" 22:36 22:36
+c="stool" 111:0 111:0||r="TeRP"||c="c. diff" 111:3 111:4
+c="the recent chest x-ray" 66:17 66:20||r="TeRP"||c="extensive bilateral diffuse ground glass" 66:1 66:5
+c="the recent chest x-ray" 66:17 66:20||r="TeRP"||c="consolidation in both lungs" 66:11 66:14
+c="extremely tearful" 176:15 176:16||r="PIP"||c="depression" 176:21 176:21
+c="d50" 22:3 22:3||r="TrWP"||c="progressive respiratory failure" 22:9 22:11
+c="a severe encephalopathy" 95:18 95:20||r="PIP"||c="a low voltage" 95:10 95:12
+c="a severe encephalopathy" 95:18 95:20||r="PIP"||c="slow background" 95:14 95:15
+c="an abnormal eeg" 95:2 95:4||r="PIP"||c="a low voltage" 95:10 95:12
+c="an abnormal eeg" 95:2 95:4||r="PIP"||c="slow background" 95:14 95:15
+c="an abnormal eeg" 95:2 95:4||r="PIP"||c="a severe encephalopathy" 95:18 95:20
+c="neurologic exams" 134:5 134:6||r="TeRP"||c="unresponsive" 134:15 134:15
+c="neurologic exams" 134:5 134:6||r="TeRP"||c="posturing" 134:17 134:17
+c="neurologic exams" 134:5 134:6||r="TeRP"||c="no spontaneous movement" 134:19 134:21
+c="reintubation" 117:27 117:27||r="TrAP"||c="aspiration event" 117:30 117:31
+c="reintubation" 117:27 117:27||r="TrAP"||c="pulm edema" 117:42 117:43
+c="reintubation" 117:27 117:27||r="TrAP"||c="worsening pneumonia" 117:34 117:35
+c="stat scan" 128:8 128:9||r="TeRP"||c="a massive occipital spontaneous hemorrhage into the l ventricle" 128:15 128:23
+c="oxacillin" 192:4 192:4||r="TrCP"||c="acute interstitial nephritis" 192:0 192:2
+c="ventricular drainage" 128:25 128:26||r="TrAP"||c="a massive occipital spontaneous hemorrhage into the l ventricle" 128:15 128:23
+c="diabetes type 1" 23:4 23:6||r="PIP"||c="pancreatic trauma" 23:11 23:12
+c="pancreatic trauma" 191:3 191:4||r="PIP"||c="diabetes mellitis" 191:0 191:1
+c="pt 's triple lumen catheter" 139:0 139:4||r="TrCP"||c="coag neg staph" 139:10 139:12
+c="respiratory distress" 125:8 125:9||r="PIP"||c="a recurrent aspiration event" 125:13 125:16
+c="this medication" 144:11 144:12||r="TrCP"||c="ain" 144:9 144:9
+c="several further debridement" 150:12 150:14||r="TrAP"||c="his r heel wound" 150:16 150:19
+c="oxacillin" 144:2 144:2||r="TrCP"||c="ain" 144:9 144:9
+c="foot ulcer" 150:1 150:2||r="PIP"||c="his r heel wound" 150:16 150:19
+c="vanc" 104:6 104:6||r="TrIP"||c="staphylococcus , coagulase negative" 104:0 104:3
+c="sputum" 139:18 139:18||r="TeRP"||c="enterobacter cloacae" 139:20 139:21
+c="picc tip" 139:15 139:16||r="TrCP"||c="enterobacter cloacae" 139:20 139:21
+c="ativan" 136:10 136:10||r="TrAP"||c="agonal breathing" 136:13 136:14
+c="ativan" 136:10 136:10||r="TrAP"||c="discomfort" 136:16 136:16
+c="his chest radiograph" 123:0 123:2||r="TeRP"||c="fluffy bilateral infiltrates" 123:4 123:6
+c="a morphine drip" 136:6 136:8||r="TrAP"||c="agonal breathing" 136:13 136:14
+c="a morphine drip" 136:6 136:8||r="TrAP"||c="discomfort" 136:16 136:16
+c="nrb" 120:32 120:32||r="TrAP"||c="labored respirations" 120:12 120:13
+c="scopolamine" 136:18 136:18||r="TrAP"||c="secretions" 136:26 136:26

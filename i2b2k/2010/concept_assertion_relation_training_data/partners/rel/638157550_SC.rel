@@ -1,0 +1,10 @@
+c="an outpt egd" 93:16 93:18||r="TeCP"||c="intermittent post-prandial nausea / satiety" 93:4 93:8
+c="outpatient mra" 103:5 103:6||r="TeCP"||c="post prandial pain" 103:13 103:15
+c="the antibiotics" 109:3 109:4||r="TrAP"||c="h. pylori" 109:6 109:7
+c="gi" 93:20 93:20||r="TeCP"||c="intermittent post-prandial nausea / satiety" 93:4 93:8
+c="hida scan" 100:2 100:3||r="TeCP"||c="obstruction" 100:8 100:8
+c="egd" 97:7 97:7||r="TeCP"||c="stricture" 97:17 97:17
+c="egd" 97:7 97:7||r="TeCP"||c="ulcer" 97:19 97:19
+c="egd" 97:7 97:7||r="TeCP"||c="gastritis" 97:15 97:15
+c="hida with ck challenge" 103:20 103:23||r="TeCP"||c="biliary dyskinesia" 103:27 103:28
+c="empiric treatment" 98:13 98:14||r="TrAP"||c="h. pylori positive" 98:5 98:7

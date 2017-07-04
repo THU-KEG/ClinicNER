@@ -1,0 +1,50 @@
+c="a sternal debridement" 34:16 34:18||r="TrAP"||c="a sternal wound infection" 34:11 34:14
+c="subsequent abdominal flap" 34:20 34:22||r="TrAP"||c="a sternal wound infection" 34:11 34:14
+c="an ascending aortic graft replacement" 33:12 33:16||r="TrAP"||c="aortic dissection" 33:20 33:21
+c="primary closure" 31:0 31:1||r="TrAP"||c="wound" 31:3 31:3
+c="this antibiotic regimen" 46:3 46:5||r="TrIP"||c="the patient 's wound drainage" 46:6 46:10
+c="levofloxacin" 45:30 45:30||r="TrAP"||c="diphtheroids" 45:38 45:38
+c="levofloxacin" 45:30 45:30||r="TrAP"||c="citrobacter" 45:36 45:36
+c="intravenous unasyn" 45:27 45:28||r="TrAP"||c="diphtheroids" 45:38 45:38
+c="intravenous unasyn" 45:27 45:28||r="TrAP"||c="citrobacter" 45:36 45:36
+c="auscultation" 76:5 76:5||r="TeRP"||c="crackles" 76:11 76:11
+c="antihypertensives" 110:17 110:17||r="TrAP"||c="persistent hypertension" 110:9 110:10
+c="subsequent early mobilization" 124:14 124:16||r="TrAP"||c="any rigidity in that joint" 124:19 124:23
+c="subsequent primary closure" 103:35 103:37||r="TrAP"||c="that wound" 103:39 103:40
+c="right superiorly rectus abdominis flap" 103:22 103:26||r="TrAP"||c="the patient 's sternal wound" 103:29 103:33
+c="bilateral pectoralis major myocutaneous advancement flaps" 103:15 103:20||r="TrAP"||c="the patient 's sternal wound" 103:29 103:33
+c="sputum cultures" 108:12 108:13||r="TeRP"||c="yeast" 108:17 108:17
+c="sputum cultures" 108:12 108:13||r="TeRP"||c="gram positive cocci in clusters" 108:19 108:23
+c="the operating room cultures" 108:0 108:3||r="TeRP"||c="crinobactermium" 108:10 108:10
+c="the patient 's preoperative chest x-ray" 81:0 81:5||r="TeRP"||c="bilateral effusions" 81:7 81:8
+c="the patient 's preoperative chest x-ray" 81:0 81:5||r="TeRP"||c="bibasilar atelectasis" 81:10 81:11
+c="the procedure" 104:3 104:4||r="TrCP"||c="complications" 104:10 104:10
+c="lopressor" 110:19 110:19||r="TrAP"||c="persistent hypertension" 110:9 110:10
+c="the patient 's sternal incision" 83:0 83:4||r="PIP"||c="dehisced" 83:11 83:11
+c="captopril" 110:28 110:28||r="TrAP"||c="persistent hypertension" 110:9 110:10
+c="the patient 's jackson pratt drains" 113:14 113:19||r="TrAP"||c="some significant drainage" 113:28 113:30
+c="procardia" 110:40 110:40||r="TrAP"||c="persistent hypertension" 110:9 110:10
+c="the procedure" 97:3 97:4||r="TrCP"||c="his chest open" 97:19 97:21
+c="further sternal debridement" 103:8 103:10||r="TrAP"||c="the patient 's sternal wound" 103:29 103:33
+c="subsequent reconstruction" 103:12 103:13||r="TrAP"||c="the patient 's sternal wound" 103:29 103:33
+c="the patient 's sternal drainage" 45:18 45:22||r="PIP"||c="citrobacter" 45:36 45:36
+c="the patient 's sternal drainage" 45:18 45:22||r="PIP"||c="diphtheroids" 45:38 45:38
+c="the wound cultures" 45:40 45:42||r="TeRP"||c="diphtheroids" 45:38 45:38
+c="the wound cultures" 45:40 45:42||r="TeRP"||c="citrobacter" 45:36 45:36
+c="the wound cultures" 45:40 45:42||r="TeRP"||c="the patient 's sternal drainage" 45:18 45:22
+c="the operation" 129:19 129:20||r="TrIP"||c="his disease condition" 129:14 129:16
+c="wound infection" 142:17 142:18||r="PIP"||c="a erythema" 142:20 142:21
+c="wound infection" 142:17 142:18||r="PIP"||c="drainage" 142:23 142:23
+c="wound infection" 142:17 142:18||r="PIP"||c="increasing incisional pain" 142:26 142:28
+c="a computer tomogram scan" 39:10 39:13||r="TeRP"||c="an anterior hematoma" 39:19 39:21
+c="the patient 's intraoperative cultures" 115:11 115:15||r="TeRP"||c="mycoplasma humilius" 115:20 115:21
+c="vancomycin" 116:23 116:23||r="TrAP"||c="the citrobacter" 116:29 116:30
+c="vancomycin" 116:23 116:23||r="TrAP"||c="mycoplasma" 116:32 116:32
+c="long term intravenous antibiotics" 116:12 116:15||r="TrAP"||c="the citrobacter" 116:29 116:30
+c="long term intravenous antibiotics" 116:12 116:15||r="TrAP"||c="mycoplasma" 116:32 116:32
+c="subsequent levofloxacin" 116:26 116:27||r="TrAP"||c="the citrobacter" 116:29 116:30
+c="subsequent levofloxacin" 116:26 116:27||r="TrAP"||c="mycoplasma" 116:32 116:32
+c="an aortogram" 43:9 43:10||r="TeRP"||c="bulging flaps" 43:18 43:19
+c="an aortogram" 43:9 43:10||r="TeRP"||c="a pseudoaneurysm" 43:21 43:22
+c="subsequent hand x-rays" 123:0 123:2||r="TeRP"||c="fracture" 123:8 123:8
+c="gas bubbles" 44:13 44:14||r="PIP"||c="an infectious process" 44:26 44:28

@@ -1,0 +1,17 @@
+c="a transthoracic echocardiogram" 12:21 12:23||r="TeRP"||c="posterior and inferior apical akinesis" 12:33 12:37
+c="a transthoracic echocardiogram" 12:21 12:23||r="TeRP"||c="large left ventricular thrombus" 12:40 12:43
+c="an intraoperative transesophageal echocardiogram" 18:13 18:16||r="TeRP"||c="an irregular intra-aortic pedunculated lesion" 18:18 18:22
+c="status post aborted coronary artery bypass graft" 97:1 97:7||r="TrNAP"||c="mobile aortic atheroma" 97:10 97:12
+c="3-vessel disease" 96:5 96:6||r="PIP"||c="coronary artery disease" 96:1 96:3
+c="one unit of packed red blood cells" 87:13 87:19||r="TrAP"||c="a slight hematocrit drop" 87:6 87:9
+c="initial evaluation" 15:1 15:2||r="TeRP"||c="the right coronary artery stenosis" 15:14 15:18
+c="a bypass graft" 19:18 19:20||r="TrNAP"||c="the elevated stroke risk" 19:1 19:4
+c="aortic cross-clamping" 19:6 19:7||r="TrNAP"||c="the elevated stroke risk" 19:1 19:4
+c="anticoagulation" 85:18 85:18||r="TrNAP"||c="aortic thrombus" 85:23 85:24
+c="therapy" 86:15 86:15||r="TrAP"||c="the left ventricular thrombus" 86:4 86:7
+c="head , eyes , ears , nose , and throat examination" 53:0 53:10||r="TeRP"||c="bruits" 53:13 53:13
+c="a cardiac catheterization" 14:2 14:4||r="TeRP"||c="3-vessel disease" 14:7 14:8
+c="a cardiac catheterization" 14:2 14:4||r="TeRP"||c="diffuse 90% mid distal stenosis" 14:21 14:25
+c="a cardiac catheterization" 14:2 14:4||r="TeRP"||c="90% left circumflex lesions" 14:36 14:39
+c="an aborted coronary artery bypass graft" 72:6 72:11||r="TrNAP"||c="a mobile aortic atheroma" 72:13 72:16
+c="a right internal carotid artery stent" 15:26 15:31||r="TrAP"||c="the right coronary artery stenosis" 15:14 15:18

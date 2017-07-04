@@ -1,0 +1,7 @@
+c="a computerized tomography scan" 19:0 19:3||r="TeRP"||c="a contrast enhancing complex left renal mass" 19:5 19:11
+c="percocet" 44:4 44:4||r="TrAP"||c="pain" 44:17 44:17
+c="the tumor" 36:18 36:19||r="PIP"||c="gross adenopathy" 36:6 36:7
+c="the tumor" 36:18 36:19||r="PIP"||c="renal vein involvement" 36:9 36:11
+c="a routine follow-up examination" 18:20 18:23||r="TeRP"||c="left side pain" 18:26 18:28
+c="an ultrasound" 18:31 18:32||r="TeRP"||c="a complex left renal mass" 18:35 18:39
+c="an ultrasound" 18:31 18:32||r="TeRP"||c="left side pain" 18:26 18:28

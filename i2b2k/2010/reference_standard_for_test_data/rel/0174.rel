@@ -1,0 +1,5 @@
+c="palpation" 38:11 38:11||r="TeRP"||c="midepigastric tenderness" 38:8 38:9
+c="kub" 46:3 46:3||r="TeRP"||c="multiple dilated loops of small bowel" 46:6 46:11
+c="partial small bowel obstruction" 46:17 46:20||r="PIP"||c="multiple dilated loops of small bowel" 46:6 46:11
+c="metastasis" 19:22 19:22||r="PIP"||c="a recurrence" 19:19 19:20
+c="left colon diverting ileostomy" 19:28 19:31||r="TrAP"||c="recurrent metastasis" 19:33 19:34

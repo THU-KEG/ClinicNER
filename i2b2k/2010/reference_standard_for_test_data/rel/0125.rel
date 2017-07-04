@@ -1,0 +1,67 @@
+c="treatment" 48:4 48:4||r="TrAP"||c="shingles" 48:1 48:1
+c="enoxaparin" 104:9 104:9||r="TrAP"||c="dvt" 104:2 104:2
+c="anticoagulation" 109:16 109:16||r="TrAP"||c="dvt" 109:8 109:8
+c="anticoagulation" 109:16 109:16||r="TrAP"||c="gross gib" 109:21 109:22
+c="anticoagulation" 109:16 109:16||r="TrAP"||c="undetected deep vv thrombosis/pe" 109:28 109:31
+c="pentamidine" 117:8 117:8||r="TrNAP"||c="elev pancreatic enzymes" 117:4 117:6
+c="xrt" 76:6 76:6||r="TrAP"||c="astrocytoma" 76:4 76:4
+c="eeg" 102:0 102:0||r="TeRP"||c="epileptiform activity" 102:5 102:6
+c="eeg" 102:0 102:0||r="TeRP"||c="toxic encephalopathy" 102:9 102:10
+c="cap" 80:3 80:3||r="PIP"||c="hypoxia" 80:7 80:7
+c="previous w/u" 123:3 123:4||r="TeRP"||c="acd" 123:6 123:6
+c="previous w/u" 123:3 123:4||r="TeRP"||c="elev ferritin" 123:8 123:9
+c="previous w/u" 123:3 123:4||r="TeRP"||c="low transferrin saturation" 123:11 123:13
+c="previous w/u" 123:3 123:4||r="TeRP"||c="anemia" 123:1 123:1
+c="anemia" 123:1 123:1||r="PIP"||c="acd" 123:6 123:6
+c="anemia" 123:1 123:1||r="PIP"||c="elev ferritin" 123:8 123:9
+c="anemia" 123:1 123:1||r="PIP"||c="low transferrin saturation" 123:11 123:13
+c="xrt" 17:22 17:22||r="TrAP"||c="gliomatosis cerebri ( grade ii astrocytoma )" 17:9 17:15
+c="cxr" 29:0 29:0||r="TeRP"||c="diffuse b/l infiltrates r > l" 29:2 29:7
+c="ongoing treatment" 89:22 89:23||r="TrAP"||c="astrocytoma - grade ii" 89:1 89:4
+c="u lytes" 125:11 125:12||r="TeRP"||c="prerenal azotemia" 125:14 125:15
+c="ivf" 126:10 126:10||r="TrIP"||c="hyponatremic" 126:4 126:4
+c="ivf" 126:10 126:10||r="TrIP"||c="hyponatremia" 126:1 126:1
+c="ivf" 125:20 125:20||r="TrIP"||c="prerenal azotemia" 125:14 125:15
+c="arf" 125:1 125:1||r="PIP"||c="mildly elevated" 125:4 125:5
+c="therapy" 122:11 122:11||r="TrAP"||c="pcp" 122:13 122:13
+c="repeat cxr" 87:0 87:1||r="TeRP"||c="mild chf" 87:13 87:14
+c="prophylactic dose" 104:18 104:19||r="TrAP"||c="dvt" 104:2 104:2
+c="keppra" 91:4 91:4||r="TrAP"||c="sz px" 91:8 91:9
+c="multiple head ct s" 100:2 100:5||r="TeRP"||c="astrocytoma" 100:11 100:11
+c="cr" 125:3 125:3||r="TeRP"||c="mildly elevated" 125:4 125:5
+c="increasingly hypoxic" 96:19 96:20||r="PIP"||c="somnolent" 96:23 96:23
+c="bactrim" 31:2 31:2||r="TrAP"||c="pcp" 31:9 31:9
+c="hypersensitivity" 116:20 116:20||r="PIP"||c="the rash" 116:5 116:6
+c="yellow sputum" 19:11 19:12||r="PIP"||c="cough" 19:8 19:8
+c="cad" 127:1 127:1||r="PIP"||c="abnl ef" 127:4 127:5
+c="bisacodyl" 156:1 156:1||r="TrAP"||c="constipation" 156:23 156:23
+c="heparin" 104:5 104:5||r="TrAP"||c="dvt" 104:2 104:2
+c="antipsychotics" 96:13 96:13||r="TrAP"||c="agitated" 96:8 96:8
+c="lamotrigine" 92:5 92:5||r="TrNAP"||c="a new rash" 92:20 92:22
+c="100% nrb" 82:19 82:20||r="TrAP"||c="hypoxic respiratory failure" 82:11 82:13
+c="intubation" 78:14 78:14||r="TrAP"||c="somnolence" 78:11 78:11
+c="intubation" 78:14 78:14||r="TrAP"||c="increasing hypoxia" 78:8 78:9
+c="zpak" 19:20 19:20||r="TrWP"||c="yellow sputum" 19:11 19:12
+c="zpak" 19:20 19:20||r="TrWP"||c="cough" 19:8 19:8
+c="restraints" 96:11 96:11||r="TrAP"||c="agitated" 96:8 96:8
+c="a decadron taper" 18:4 18:6||r="TrAP"||c="increasing ocular symptoms" 18:16 18:18
+c="gross hematochezia" 107:6 107:7||r="PIP"||c="concomitant hct drop" 107:12 107:14
+c="bactrim" 175:3 175:3||r="TrCP"||c="hypersensitivity" 175:1 175:1
+c="lamictal" 116:29 116:29||r="TrNAP"||c="hypersensitivity" 116:20 116:20
+c="clinda/primaquine" 117:12 117:12||r="TrAP"||c="elev pancreatic enzymes" 117:4 117:6
+c="hypersensitivity reaction" 111:1 111:2||r="PIP"||c="rash of abdomen and anterior thighs" 111:12 111:17
+c="mi" 42:5 42:5||r="PIP"||c="coronary artery disease" 42:1 42:3
+c="bronchoscopy" 82:2 82:2||r="TeCP"||c="hypoxic respiratory failure" 82:11 82:13
+c="timidar" 17:24 17:24||r="TrAP"||c="gliomatosis cerebri ( grade ii astrocytoma )" 17:9 17:15
+c="ms change" 96:1 96:2||r="PIP"||c="agitated" 96:8 96:8
+c="pentamidine" 116:26 116:26||r="TrAP"||c="the rash" 116:5 116:6
+c="aggressive fluid resusciation" 127:10 127:12||r="TrCP"||c="significant hypoxia" 127:14 127:15
+c="aggressive fluid repletion" 113:22 113:24||r="TrAP"||c="hypotension" 113:20 113:20
+c="bactrim" 116:22 116:22||r="TrCP"||c="hypersensitivity" 116:20 116:20
+c="bactrim" 116:22 116:22||r="TrCP"||c="the rash" 116:5 116:6
+c="bactrim" 79:16 79:16||r="TrAP"||c="pcp" 79:11 79:11
+c="pressors" 113:26 113:26||r="TrAP"||c="hypotension" 113:20 113:20
+c="intubation" 82:15 82:15||r="TrAP"||c="hypoxic respiratory failure" 82:11 82:13
+c="biopsy" 17:7 17:7||r="TeRP"||c="gliomatosis cerebri ( grade ii astrocytoma )" 17:9 17:15
+c="chemotx" 76:8 76:8||r="TrAP"||c="astrocytoma" 76:4 76:4
+c="painful stimuli" 97:10 97:11||r="TeCP"||c="stuporous" 97:6 97:6

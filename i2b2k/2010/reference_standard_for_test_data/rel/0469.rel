@@ -1,0 +1,13 @@
+c="his evaluation" 24:11 24:12||r="TeCP"||c="congestive heart failure" 24:5 24:7
+c="more erythematous" 32:17 32:18||r="PIP"||c="his incision" 32:11 32:12
+c="examination" 47:0 47:0||r="TeCP"||c="the sternal wound" 47:2 47:4
+c="examination" 47:0 47:0||r="TeCP"||c="the wound" 47:14 47:15
+c="examination" 47:0 47:0||r="TeCP"||c="serosanguineous drainage" 47:17 47:18
+c="examination" 47:0 47:0||r="TeCP"||c="a scant amount of thick , yellow pus" 47:20 47:27
+c="the wound" 47:14 47:15||r="PIP"||c="serosanguineous drainage" 47:17 47:18
+c="the wound" 47:14 47:15||r="PIP"||c="a scant amount of thick , yellow pus" 47:20 47:27
+c="intravenous antibiotics" 33:18 33:19||r="TrAP"||c="the wound" 33:8 33:9
+c="markedly diminished function" 25:10 25:12||r="PIP"||c="a severely dilated left ventricle" 25:4 25:8
+c="orthotopic cardiac transplant" 22:13 22:15||r="TrCP"||c="sternal wound infection" 22:20 22:22
+c="microscopic exam" 52:0 52:1||r="TeRP"||c="4+ staph" 52:3 52:4
+c="cardiac exam" 42:0 42:1||r="TeRP"||c="physiologically split s2" 42:15 42:17

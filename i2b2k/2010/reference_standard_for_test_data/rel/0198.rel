@@ -1,0 +1,37 @@
+c="methicillin" 79:14 79:14||r="TrAP"||c="staph. aureus" 79:10 79:11
+c="methicillin" 43:21 43:21||r="TrAP"||c="staph. aureus" 43:19 43:20
+c="methicillin" 43:21 43:21||r="TrAP"||c="gram positive cocci" 43:10 43:12
+c="staph. aureus" 43:19 43:20||r="PIP"||c="gram positive cocci" 43:10 43:12
+c="tylenol" 34:79 34:79||r="TrAP"||c="pain" 34:85 34:85
+c="a lumbar puncture" 85:0 85:2||r="TeRP"||c="cells" 85:11 85:11
+c="picc line" 22:5 22:6||r="TrCP"||c="staph. sepsis" 22:1 22:2
+c="cardiac catheterization" 38:8 38:9||r="TeCP"||c="recurrent angina" 38:5 38:6
+c="cardiac catheterization" 38:8 38:9||r="TeCP"||c="an occluded rca" 38:25 38:27
+c="an echocardiogram" 46:4 46:5||r="TeRP"||c="diffusely hypokinetic" 46:19 46:20
+c="an echocardiogram" 46:4 46:5||r="TeRP"||c="ischemic cardiomyopathy" 46:1 46:2
+c="a stool assay" 87:0 87:2||r="TeRP"||c="clostridium difficile" 87:6 87:7
+c="positive blood cultures" 32:0 32:2||r="PIP"||c="staph. aureus" 32:4 32:5
+c="previous left femoral popliteal bypass" 51:5 51:9||r="TrAP"||c="peripheral vascular disease" 51:1 51:3
+c="anteroseptal hypokinesis" 82:2 82:3||r="PIP"||c="mid and apical akinesis" 82:5 82:8
+c="the picc line site" 42:0 42:3||r="TrCP"||c="erythematous" 42:5 42:5
+c="ambien" 59:5 59:5||r="TrCP"||c="disorientation" 59:3 59:3
+c="methicillin" 32:7 32:7||r="TrAP"||c="staph. aureus" 32:4 32:5
+c="halcyon" 59:7 59:7||r="TrCP"||c="disorientation" 59:3 59:3
+c="the blood cultures" 79:0 79:2||r="TeRP"||c="staph. aureus" 79:10 79:11
+c="neurologic examination" 71:0 71:1||r="TeRP"||c="somnolent" 71:3 71:3
+c="fever" 36:51 36:51||r="PIP"||c="positive blood cultures" 36:43 36:45
+c="fever" 36:51 36:51||r="PIP"||c="an apparent infected wound" 36:29 36:32
+c="positive blood cultures" 36:43 36:45||r="PIP"||c="an apparent infected wound" 36:29 36:32
+c="staph. aureus" 36:47 36:48||r="PIP"||c="positive blood cultures" 36:43 36:45
+c="staph. aureus" 36:47 36:48||r="PIP"||c="fever" 36:51 36:51
+c="turp surgery" 56:6 56:7||r="TrAP"||c="benign prostatic hypertrophy" 56:1 56:3
+c="picc line" 7:3 7:4||r="TrCP"||c="sepsis" 7:0 7:0
+c="the picc line" 36:35 36:37||r="TrCP"||c="an apparent infected wound" 36:29 36:32
+c="the picc line" 36:35 36:37||r="TrCP"||c="positive blood cultures" 36:43 36:45
+c="chest x-ray" 76:0 76:1||r="TeRP"||c="low lung volumes" 76:3 76:5
+c="chest x-ray" 76:0 76:1||r="TeRP"||c="bibasilar opacities" 76:7 76:8
+c="chest x-ray" 76:0 76:1||r="TeRP"||c="heart failure" 76:13 76:14
+c="ekg" 77:0 77:0||r="TeRP"||c="very small p waves" 77:14 77:17
+c="ekg" 77:0 77:0||r="TeRP"||c="q-waves in leads v1 and v2" 77:21 77:26
+c="blood cultures" 43:0 43:1||r="TeRP"||c="gram positive cocci" 43:10 43:12
+c="blood cultures" 43:0 43:1||r="TeRP"||c="staph. aureus" 43:19 43:20

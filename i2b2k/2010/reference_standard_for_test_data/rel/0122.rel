@@ -1,0 +1,15 @@
+c="coumadin" 31:4 31:4||r="TrAP"||c="atrial fibrillation" 31:1 31:2
+c="evaluation" 28:13 28:13||r="TeCP"||c="this constipation" 28:15 28:16
+c="significantly less distended" 86:7 86:9||r="PIP"||c="her pain" 86:11 86:12
+c="a repeat kub" 91:0 91:2||r="TeRP"||c="volvulus" 91:10 91:10
+c="rigid sigmoidoscopy" 85:0 85:1||r="TeRP"||c="obvious mucosal abnormalities" 85:4 85:6
+c="rigid sigmoidoscopy" 85:0 85:1||r="TeRP"||c="mucous like stool" 85:16 85:18
+c="rigid sigmoidoscopy" 85:0 85:1||r="TeRP"||c="a large amount of gas" 85:22 85:26
+c="a ct scan" 84:3 84:5||r="TeRP"||c="volvulus" 84:11 84:11
+c="a repeat kub" 83:5 83:7||r="TeRP"||c="volvulus" 83:12 83:12
+c="ct of the abdomen and pelvis" 76:0 76:5||r="TeRP"||c="dilated colon" 76:7 76:8
+c="ct of the abdomen and pelvis" 76:0 76:5||r="TeRP"||c="a large amount of fluid" 76:10 76:14
+c="electrocardiogram" 73:0 73:0||r="TeRP"||c="sinus bradycardia" 73:2 73:3
+c="electrocardiogram" 73:0 73:0||r="TeRP"||c="digitalis effect" 73:5 73:6
+c="abdominal series" 75:0 75:1||r="TeRP"||c="non-specific dilatation of the large bowel" 75:3 75:8
+c="abdominal series" 75:0 75:1||r="TeRP"||c="ileus" 75:13 75:13

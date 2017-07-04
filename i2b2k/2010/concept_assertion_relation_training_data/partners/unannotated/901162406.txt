@@ -1,0 +1,40 @@
+901162406
+CTMC
+88620362
+098833
+4/14/1991 12:00:00 AM
+Discharge Summary
+Signed
+DIS
+Admission Date :
+04/14/1991
+Report Status :
+Signed
+Discharge Date :
+04/17/1991
+PRINCIPAL DIAGNOSIS :
+VAGINAL CANCER .
+PROCEDURE :
+VAGINAL CYLINDER PLACEMENT 4/15/91 .
+HISTORY OF PRESENT ILLNESS :
+The patient is a 76-year-old woman with a history of multiple medical problems who presented with vaginal bleeding .
+A mass was palpable on vaginal exam and a biopsy was performed which revealed squamous cell carcinoma .
+She underwent treatment with external beam radiation therapy and then presented for a vaginal cylinder boost .
+HOSPITAL COURSE :
+The patient was admitted on 4/14/91 and at that time was noted to have a creatinine of 1.5 .
+After IV hydration , her creatinine returned to normal .
+A vaginal cylinder radiation implant was then inserted and remained in place for 27 hours delivering 2255 centrigray .
+She tolerated this well .
+The implant was removed and she was discharged home on 4/17/91 with plans for follow-up by Dr. Horner .
+She was in good condition upon discharge .
+LL162/6571 AUNI HORNER , M.D. WA44
+D :
+10/05/91
+Batch :
+8999
+Report :
+U5657E11
+T :
+10/09/91
+Dicatated By :
+TIANSHA KOTE , M.D. OZ06

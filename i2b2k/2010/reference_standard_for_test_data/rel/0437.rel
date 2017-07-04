@@ -1,0 +1,69 @@
+c="evaluation" 34:19 34:19||r="TeCP"||c="thrombotic thrombocytopenic purpura" 34:22 34:24
+c="hypertension" 36:12 36:12||r="PIP"||c="cerebrovascular accident" 36:2 36:3
+c="ultrafiltration fluid removal" 92:6 92:8||r="TrAP"||c="her significant volume overload" 92:15 92:18
+c="a video assisted thoracoscopic study of the right lung" 31:9 31:17||r="TeRP"||c="chronic interstitial pneumonitis" 31:20 31:22
+c="a video assisted thoracoscopic study of the right lung" 31:9 31:17||r="TeRP"||c="a bronchiolitis obliterans organizing pneumonia-like reaction" 31:24 31:29
+c="chronic interstitial pneumonitis" 31:20 31:22||r="PIP"||c="a bronchiolitis obliterans organizing pneumonia-like reaction" 31:24 31:29
+c="her dialysis" 93:4 93:5||r="TrIP"||c="her lower extremity edema" 93:13 93:16
+c="fluconazole" 100:4 100:4||r="TrAP"||c="some oral thrush" 100:6 100:8
+c="significant volume removal" 74:30 74:32||r="TrIP"||c="volume overload" 74:13 74:14
+c="significant volume removal" 74:30 74:32||r="TrIP"||c="pulmonary edema" 74:10 74:11
+c="volume overload" 74:13 74:14||r="PIP"||c="pulmonary edema" 74:10 74:11
+c="perianal lesions" 99:18 99:19||r="PIP"||c="herpes simplex virus" 99:22 99:24
+c="an echocardiogram" 26:14 26:15||r="TeRP"||c="wall motion abnormality" 26:23 26:25
+c="her smear" 82:8 82:9||r="TeRP"||c="a few schistocytes" 82:4 82:6
+c="a ct scan of the chest" 27:9 27:14||r="TeRP"||c="bilateral pleural effusions" 27:28 27:30
+c="a ct scan of the chest" 27:9 27:14||r="TeRP"||c="mediastinal lymphadenopathy" 27:25 27:26
+c="a ct scan of the chest" 27:9 27:14||r="TeRP"||c="diffuse alveolar infiltrates at the right base" 27:17 27:23
+c="dialysis" 74:34 74:34||r="TrAP"||c="her renal failure" 74:16 74:18
+c="dialysis" 74:34 74:34||r="TrAP"||c="volume overload" 74:13 74:14
+c="dialysis" 74:34 74:34||r="TrAP"||c="pulmonary edema" 74:10 74:11
+c="her renal failure" 74:16 74:18||r="PIP"||c="volume overload" 74:13 74:14
+c="chest x-ray" 25:0 25:1||r="TeRP"||c="bilateral pulmonary infiltrates" 25:4 25:6
+c="chest x-ray" 25:0 25:1||r="TeRP"||c="increasing pleural effusion" 25:8 25:10
+c="increasing pleural effusion" 25:8 25:10||r="PIP"||c="bilateral pulmonary infiltrates" 25:4 25:6
+c="her rheumatoid factor" 28:16 28:18||r="TeCP"||c="lupus" 28:7 28:7
+c="a bun" 89:8 89:9||r="TeRP"||c="acute renal failure" 89:4 89:6
+c="her ana" 28:11 28:12||r="TeCP"||c="lupus" 28:7 28:7
+c="dialysis" 91:21 91:21||r="TrWP"||c="permanent and non-reversible renal failure" 91:10 91:14
+c="anca" 28:20 28:20||r="TeCP"||c="lupus" 28:7 28:7
+c="dialysis" 91:28 91:28||r="TrAP"||c="permanent and non-reversible renal failure" 91:10 91:14
+c="her prednisone" 87:4 87:5||r="TrAP"||c="the bronchiolitis obliterans organizing pneumonia" 87:12 87:16
+c="the smear" 66:36 66:37||r="TeRP"||c="2+ schistocytes" 66:30 66:31
+c="the smear" 66:36 66:37||r="TeRP"||c="2+ spherocytes" 66:33 66:34
+c="chronic dialysis" 18:5 18:6||r="TrAP"||c="renal failure" 18:2 18:3
+c="diuretics" 90:20 90:20||r="TrAP"||c="increasing volume overload" 90:13 90:15
+c="dialysis" 90:27 90:27||r="TrAP"||c="increasing volume overload" 90:13 90:15
+c="ultrafiltration" 90:29 90:29||r="TrAP"||c="increasing volume overload" 90:13 90:15
+c="her smear" 77:25 77:26||r="TeRP"||c="2+ schistocytes" 77:19 77:20
+c="her smear" 77:25 77:26||r="TeRP"||c="2+ spherocytes" 77:22 77:23
+c="evaluation" 20:25 20:25||r="TeCP"||c="thrombotic thrombocytopenic purpura" 20:27 20:29
+c="evaluation" 20:25 20:25||r="TeCP"||c="bronchiolitis obliterans organizing pneumonia" 20:31 20:34
+c="serax" 126:2 126:2||r="TrAP"||c="insomnia" 126:8 126:8
+c="a right brachial picc line" 96:11 96:15||r="TrCP"||c="uninfected" 96:26 96:26
+c="her ana" 103:10 103:11||r="TeRP"||c="lupus" 103:8 103:8
+c="anca" 103:19 103:19||r="TeCP"||c="lupus" 103:8 103:8
+c="bactrim one double strength" 101:6 101:9||r="TrAP"||c="pneumocystis carinii pneumonia" 101:15 101:17
+c="her high dose steroids" 101:20 101:23||r="TrCP"||c="pneumocystis carinii pneumonia" 101:15 101:17
+c="a fourteen day course of acyclovir" 99:3 99:8||r="TrAP"||c="perianal lesions" 99:18 99:19
+c="a fourteen day course of acyclovir" 99:3 99:8||r="TrAP"||c="herpes simplex virus" 99:22 99:24
+c="her rheumatoid factor" 103:15 103:17||r="TeCP"||c="lupus" 103:8 103:8
+c="levofloxacin" 98:29 98:29||r="TrAP"||c="a klebsiella urinary tract infection" 98:20 98:24
+c="multiple line infections" 95:3 95:5||r="PIP"||c="a confirmed coag. negative staphylococcus line infection" 95:10 95:16
+c="multiple line infections" 95:3 95:5||r="PIP"||c="positive blood cultures" 95:18 95:20
+c="positive blood cultures" 95:18 95:20||r="PIP"||c="a confirmed coag. negative staphylococcus line infection" 95:10 95:16
+c="a chest tube" 31:31 31:33||r="TrAP"||c="chronic interstitial pneumonitis" 31:20 31:22
+c="a chest tube" 31:31 31:33||r="TrAP"||c="a bronchiolitis obliterans organizing pneumonia-like reaction" 31:24 31:29
+c="amphojel bladder irrigation" 98:12 98:14||r="TrAP"||c="a fungal urinary tract infection" 98:5 98:9
+c="a very slow taper" 87:18 87:21||r="TrAP"||c="the bronchiolitis obliterans organizing pneumonia" 87:12 87:16
+c="a chest x-ray" 21:19 21:21||r="TeRP"||c="a patchy infiltrate in the right lung" 21:23 21:29
+c="a creatinine" 89:13 89:14||r="TeRP"||c="acute renal failure" 89:4 89:6
+c="chest ct scans" 74:4 74:6||r="TeRP"||c="pulmonary edema" 74:10 74:11
+c="creatinine" 33:35 33:35||r="TeRP"||c="a rise" 33:32 33:33
+c="repeat chest x-rays" 74:0 74:2||r="TeRP"||c="pulmonary edema" 74:10 74:11
+c="laboratory studies" 66:0 66:1||r="TeRP"||c="2+ schistocytes" 66:30 66:31
+c="laboratory studies" 66:0 66:1||r="TeRP"||c="2+ spherocytes" 66:33 66:34
+c="her ldh" 81:0 81:1||r="TeRP"||c="elevated" 81:14 81:14
+c="solu-medrol" 71:4 71:4||r="TrAP"||c="her hematologic problems" 71:12 71:14
+c="daily plasma exchange" 78:21 78:23||r="TrAP"||c="thrombotic thrombocytopenic purpura" 78:7 78:9
+c="the video assisted thoracoscopic study" 69:0 69:4||r="TeRP"||c="bronchiolitis obliterans organizing pneumonia" 69:12 69:15

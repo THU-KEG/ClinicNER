@@ -1,0 +1,64 @@
+619889567 DH
+7450042
+12554
+9224738
+1/9/2003 12:00:00 AM
+OB Discharge Summary
+Signed
+DIS
+Report Status :
+Signed
+OB EMR L and D
+DISCHARGE SUMMARY
+NAME :
+ADEIDRE AUJERIELLE WHIPPLE
+UNIT NUMBER :
+886-63-46
+ADMISSION DATE :
+20030109
+DISCHARGE DATE :
+20030113
+PRINCIPAL DISCHARGE DIAGNOSIS :
+Vaginal Delivery With First Degree Laceration
+ASSOCIATED DIAGNOSES :
+Advanced Maternal Age ; Anxiety Disorder
+PRINCIPAL PROCEDURE OR OPERATION :
+Spontaneous Vertex Vaginal Delivery
+ASSOCIATED PROCEDURES OR OPERATIONS :
+POSTPARTUM DIAGNOSTIC PROCEDURES :
+None
+POSTPARTUM THERAPEUTIC PROCEDURES :
+None
+HISTORY AND REASON FOR HOSPITALIZATION :
+Active Labor
+PHYSICAL EXAMINATION :
+HEIGHT NORMAL 70 NECK NORMAL BREASTS NORMAL NIPPLES NORMAL CHEST NORMAL COR NORMAL ABDOMEN NORMAL EXTREM NORMAL SKIN NORMAL NODES NORMAL VULVA NORMAL VAGINA NORMAL CERVIX NORMAL OS NORMAL ADNEXAE NORMAL UTERUS NORMAL UTERINE SIZE IN WEEKS NORMAL term
+HOSPITAL COURSE ( include complications if any ) :
+This 37 year old Gravida 1 Para 0000 was admitted to the Naliheall County Memorial Hospital Obstetrical service on 01/09/2003 at 11:29 pm for the indication ( s ) :
+active labor .
+She delivered a 4086 gram male infant on 01/10/2003 at 09:11 am with apgar scores of 8 and 9 at one and five minutes respectively at 40.4 weeks gestation via spontaneous vertex vaginal delivery .
+During her labor she encountered the following complication ( s ) :
+none .
+During her delivery she encountered the following complication ( s ) :
+none .
+Postpartum she encountered the following complication ( s ) :
+none .
+She was discharged on 01/13/2003 at 06:39 pm in good condition .
+DISCHARGE ACTIVITY :
+No Restrictions
+DISCHARGE DIET :
+No Restrictions
+POSTPARTUM DISPOSITION :
+Home Under Care Of Shingle Geabell Hospital
+POSTPARTUM CARE SITE :
+Parklowe Medical Center
+POSTPARTUM RETURN APPOINTMENT ( DAYS ) :
+42
+BREAST FEEDING AT DISCHARGE :
+Yes
+POSTPARTUM MEASLES / MUMPS/RUBELLA VACCINE :
+Not Indicated
+MEDICATION ( S ) ON DISCHARGE :
+Multivitamins And Folate ( Stuart Prenatal With Folate )
+Electronically Signed :
+Pada Center , MD 01/15/2003 7:55:16 AM

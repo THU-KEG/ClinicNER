@@ -1,0 +1,111 @@
+263283549 ELMVH
+80655600
+5177642
+06/01/2005 12:00:00 AM
+s / p repeat c-section for twins
+DIS
+Admission Date :
+06/01/2005
+Report Status :
+Discharge Date :
+06/05/2005
+****** FINAL DISCHARGE ORDERS ******
+DREPSKOTEJESCKOLL , KENDIRIBRANT A 336-86-31-6 R80
+Room :
+NAV0-296
+Service :
+OBS
+DISCHARGE PATIENT ON :
+06/05/05 AT 04:00 PM
+CONTINGENT UPON
+Not Applicable
+WILL D / C ORDER BE USED AS THE D / C SUMMARY :
+YES
+Attending :
+OBSTETRICS SERVICE , ELMVH , M.D.
+DISPOSITION :
+Home
+DISCHARGE MEDICATIONS :
+DOCUSATE SODIUM 100 MG PO BID PRN Constipation HEPARIN 5,000 UNITS SC BID Starting IN AM ( 06/02 ) IBUPROFEN 400-600 MG PO Q6H PRN Pain
+Food / Drug Interaction Instruction
+Take with food
+Alert overridden :
+Override added on 06/01/05 by GLOTZRHALT , SANTDEL L. , M.D. on order for IBUPROFEN PO 400-600 MG Q6H ( ref # 064722153 ) Pt. has a POSSIBLE allergy to Aspirin ; reaction is Unknown .
+Reason for override :
+aware
+OXYCODONE 5-10 MG PO Q3H PRN Pain PRENATAL MULTIVITAMINS ( STUARTNATAL ) 1
+TAB PO QD
+DIET :
+No Restrictions
+ACTIVITY :
+Partial weight-bearing :
+No heavy lifting
+FOLLOW UP APPOINTMENT ( S ) :
+OB 2 weeks , OB 6 weeks ,
+ALLERGY :
+Aspirin
+ADMIT DIAGNOSIS :
+Pregnancy
+PRINCIPAL DISCHARGE DIAGNOSIS ;
+Responsible After Study for Causing Admission ) s / p repeat c-section for twins
+OTHER DIAGNOSIS ;
+Conditions , Infections , Complications , affecting Treatment / Stay
+Pregnancy
+OPERATIONS AND PROCEDURES :
+Primary Anesthesia :
+Spinal Cesarean Status :
+Primary Urgency :
+Scheduled Indications :
+Breech , Multiple gestation , Uterine incision type :
+Transverse Placenta :
+Delivery :
+Spontaneous Condition :
+Normal Procedures :
+PPS , Staff Obstetrician ( supervising ) :
+LOYDCLAUSE , TALI D. , M.D.
+Delivery Delivering Resident / Staff :
+GLOTZRHALT , SANTDEL L. , M.D.
+Assistant Resident :
+BRUESSTHRELKBREUNJESC , JEFFMIEKEM SHAYSHARD , M.D.
+OTHER TREATMENTS / PROCEDURES ( NOT IN O.R. )
+None
+BRIEF RESUME OF HOSPITAL COURSE :
+G7 T2 P0 A4 L2
+Estimated EDC :
+06/30/05
+Maternal transfer :
+No
+Initial newborn exam :
+No observed abnormalities
+Baby 1
+MRN :
+73635900
+Delivery date :
+06/01/05 09:26 AM
+Apgars 8,9
+Weight :
+4lb 6 oz 1985 grams
+Sex :
+Female
+Baby 2
+MRN :
+91752197
+Delivery date :
+06/01/05 09:29 AM
+Apgars 7,9
+Weight :
+4lb 9 oz 2070 grams
+Sex :
+Female Pt underwent an uncomplicated repeat cesarean section for twins ( vtx / br ) .
+She had an uncompliacted postpartum course .
+ADDITIONAL COMMENTS :
+Nothing in the vagina for 6 weeks ( including sex and tampons ) .
+Please call your OB or go to the ED for any of the follwing :
+Fever greater than 101 , Bleeding greater than 2pads / hr for two or more hours , Foul-smelling discharge , New or worsening pain or headache , Or anything else concerning
+DISCHARGE CONDITION :
+Stable
+TO DO / PLAN :
+No dictated summary
+ENTERED BY :
+GLOTZRHALT , SANTDEL L. , M.D. ( YO52 ) 06/05/05 06:14 AM
+****** END OF DISCHARGE ORDERS ******

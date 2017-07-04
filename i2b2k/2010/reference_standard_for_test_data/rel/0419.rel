@@ -1,0 +1,36 @@
+c="duodenal resection" 37:30 37:31||r="TrAP"||c="peptic ulcer disease" 37:24 37:26
+c="decompression" 37:38 37:38||r="TrAP"||c="cervical stenosis" 37:33 37:34
+c="neo-synephrine" 90:27 90:27||r="TrAP"||c="further deterioration in his left sided strength" 90:14 90:20
+c="transcranial dopplers" 82:0 82:1||r="TeRP"||c="abnormalities in the ophthalmic siphon systems" 82:4 82:9
+c="hemodynamic changes" 80:4 80:5||r="PIP"||c="right siphon disease" 80:11 80:13
+c="his blood pressure therapy" 96:4 96:7||r="TrWP"||c="a severe headache" 96:13 96:15
+c="decreased testosterone" 37:17 37:18||r="PIP"||c="impotence" 37:15 37:15
+c="herniorrhaphy" 37:45 37:45||r="TrAP"||c="hernia" 37:41 37:41
+c="several repeat imaging studies" 97:2 97:5||r="TeRP"||c="further demarcation" 97:14 97:15
+c="several repeat imaging studies" 97:2 97:5||r="TeRP"||c="extension of his prior infarct" 97:19 97:23
+c="dwi images" 97:31 97:32||r="TeRP"||c="extension of his prior infarct" 97:19 97:23
+c="dwi images" 97:31 97:32||r="TeRP"||c="further demarcation" 97:14 97:15
+c="dexedrine" 37:13 37:13||r="TrAP"||c="narcolepsy" 37:6 37:6
+c="breath sounds" 52:0 52:1||r="TeRP"||c="course rhonchi" 52:6 52:7
+c="c-spine surgery" 32:3 32:4||r="TrAP"||c="radiculopathy" 32:14 32:14
+c="c-spine surgery" 32:3 32:4||r="TrAP"||c="myelopathy" 32:12 32:12
+c="c-spine surgery" 32:3 32:4||r="TrAP"||c="spinal stenosis" 32:6 32:7
+c="chest x-ray" 74:0 74:1||r="TeRP"||c="degenerative joint disease" 74:3 74:5
+c="chest x-ray" 74:0 74:1||r="TeRP"||c="an ill defined left hemi-diaphragm" 74:7 74:11
+c="chest x-ray" 74:0 74:1||r="TeRP"||c="air space disease" 74:13 74:15
+c="incontinence" 34:11 34:11||r="PIP"||c="urinary and fecal urgencies" 34:6 34:9
+c="a computerized tomography scan" 86:0 86:3||r="TeRP"||c="multiple lacunes" 86:6 86:7
+c="a computerized tomography scan" 86:0 86:3||r="TeRP"||c="proximal middle cerebral artery stem occlusion" 86:23 86:28
+c="a computerized tomography scan" 86:0 86:3||r="TeRP"||c="stenosis" 86:30 86:30
+c="his neurologic exam" 100:4 100:6||r="TeRP"||c="hemiplegia of his left arm" 100:10 100:14
+c="his neurologic exam" 100:4 100:6||r="TeRP"||c="severe hemiparesis of his left leg" 100:16 100:21
+c="his neurologic exam" 100:4 100:6||r="TeRP"||c="mild large fiber sensory loss in his left arm" 100:23 100:31
+c="ekg" 76:0 76:0||r="TeRP"||c="st or t wave changes" 76:7 76:11
+c="e. coli" 25:4 25:5||r="PIP"||c="urinary tract infection" 25:0 25:2
+c="a perfusion , diffusion mr study" 98:4 98:9||r="TeRP"||c="viable penumbra" 98:18 98:19
+c="mri" 87:0 87:0||r="TeRP"||c="subcortical white matter" 87:11 87:13
+c="mri" 87:0 87:0||r="TeRP"||c="basal ganglia infarcts" 87:15 87:17
+c="mra" 87:2 87:2||r="TeRP"||c="subcortical white matter" 87:11 87:13
+c="mra" 87:2 87:2||r="TeRP"||c="basal ganglia infarcts" 87:15 87:17
+c="computerized tomography scan" 97:27 97:29||r="TeRP"||c="extension of his prior infarct" 97:19 97:23
+c="computerized tomography scan" 97:27 97:29||r="TeRP"||c="further demarcation" 97:14 97:15

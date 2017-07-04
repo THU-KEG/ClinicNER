@@ -1,0 +1,47 @@
+308353658 PUMC
+6713187
+996729
+8509316
+02/04/2003 12:00:00 AM
+ED Discharge Summary
+Unsigned
+DIS
+Report Status :
+Unsigned ED DISCHARGE NOTIFICATION / SUMMARY
+A , MIFER
+MRN :
+6713187
+Age :
+37y
+REGISTRATION DATE :
+02/04/2003 01:46 PM
+Provider :
+DAWNMAMARC SEPEAGLE PRELIMINARY REPORT
+PCP notified by MD :
+No - Other explanation
+Discharge Date / Time :
+02/04/2003 16:24
+Discharge Status :
+Discharged
+Condition on Discharge :
+Stable
+Patient States Complaint :
+SYNCOPAL EPISODE
+Diagnosis :
+Volume depletion .
+Bulimia .
+Treatment Rendered :
+Intravenous fluids .
+Laboratories demonstrating normal electrolyte values .
+Psychiatry consultation .
+Discharge Medications :
+None .
+Disposition , Follow up and Instructions to Patient :
+You should continue to follow up with your therapist next week as scheduled .
+You should continue to take adequate food and drink to avoid further episodes of lightheadedness and fainting .
+You should return to the emergency room if you cannot keep down adequate food and drink , if you have thoughts of harming yourself , or if you have other symptoms that concern you .
+PCP Name :
+BELB , RYNA S
+Provider Number :
+57179
+This report was created by SEPEAGLE , DAWNMAMARC 02/04/2003 05:17 PM

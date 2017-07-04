@@ -1,0 +1,61 @@
+125721767
+CTMC
+34028893
+597337
+3/31/2001 12:00:00 AM
+Discharge Summary
+Signed
+DIS
+Admission Date :
+03/31/2001
+Report Status :
+Signed
+Discharge Date :
+PRINCIPAL DIAGNOSIS :
+MYASTHENIA GRAVIS .
+SECONDARY DIAGNOSES :
+1. HYPOTHYROIDISM .
+2. HISTORY OF THYMOMA , STATUS POST RESECTION .
+3. HYPERTENSION .
+4. HISTORY OF COLON CANCER , STATUS POST RESECTION .
+5. BENIGN PROSTATIC HYPERTROPHY .
+6. HYDROCELE .
+OPERATIONS AND PROCEDURES :
+ECHOCARDIOGRAM , CARDIAC CATHETERIZATION , EMG , CT SCAN OF THE CHEST .
+MEDICATIONS :
+Aspirin 325 q.d. ; albuterol nebs 2.5 mg q. 4h ; Colace 100 mg b.i.d. ; heparin 5,000 units subcu b.i.d. ; Synthroid 200 mcg q.d. ; Ocean Spray 2 sprays q. i.d. ; simvastatin 10 mg q. h.s. ; Flovent 220 mcg 2 puffs b.i.d. ; Zantac 150 b.i.d. ; nystatin ointment to the gluteal fold b.i.d. ; Lisinopril 20 mg q.d. ; Mestinon controlled release 180 q. h.s. ; Mestinon 30 mg q. 4h while awake ; prednisone 60 mg p.o. q. IM ; Atrovent nebs 0.5 mg q. i.d.
+DIET :
+No restrictions .
+ACTIVITY :
+As tolerated .
+HOSPITAL COURSE :
+This is a 72-year-old male with a history of thymoma resected in 1996 , chronic obstructive pulmonary disease , hypothyroidism who was transferred from Gobay Hos Memorial Hospital for an myocardial infarction and cardiac catheterization .
+The patient developed shortness of breath at home and the EMTs were called and the patient was found to be in respiratory distress .
+He was transferred to Gobay Hos Memorial Hospital where chest x-ray showed left lower lobe infiltrate and cardiac enzymes were elevated with a CK of 297 , MB fraction of 38 and troponin of 12 .
+The patient was transferred to the medicine service at the Retelk County Medical Center and underwent cardiac catheterization which was negative for disease .
+He continued to complain of shortness of breath with an episode of respiratory failure in the hospital requiring 100% nonrebreather .
+Neurology was consulted for difficulty lifting his arms .
+On consultation the patient admitted to dysphasia and periods of diplopia in the past .
+The patient was found to have weakness in the proximal muscles as well as the capability of the muscles .
+He was started on IV ig and IV Solu-Medrol for a diagnosis of myasthenia gravis given his past history of thymoma .
+He markedly improved after a dose of Mestinon .
+He completed a five-day course of IV ig .
+His work up included acetylcholine esterase , receptor antibodies , thyroglobulin antibody is pending .
+An ANA and rheumatoid factor were negative .
+Sed rate was 58 and repeat 75 .
+EMG studies were performed , the result is pending at the time of this dictation .
+He also had a repeat chest CT which showed a question of recurrence of the thymoma .
+Thoracic Surgery was consulted and recommended repeating the CT scan in six weeks as an outpatient .
+This could represent either recurrence of scar tissue .
+The patient was tapered to p.o. prednisone and tolerated Mestinon 30 mg q. 4h with 180 mg longacting at bedtime .
+Dictated By :
+THYRNCINDE BOTH , M.D. VZ84
+Attending :
+LENNI E. STENT , M.D. UQ5 MX420/8849
+Batch :
+85467
+Index No. EJDFG7458J
+D :
+04/07/01
+T :
+04/10/01

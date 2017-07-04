@@ -1,0 +1,10 @@
+c="orif" 17:0 17:0||r="TrAP"||c="left distal radius fracture" 17:1 17:4
+c="the incisions" 78:10 78:11||r="PIP"||c="erythemia" 78:8 78:8
+c="the incisions" 78:10 78:11||r="PIP"||c="increase in swelling" 78:4 78:6
+c="drugs" 12:8 12:8||r="TrCP"||c="known allergies" 12:5 12:6
+c="lopressor" 49:6 49:6||r="TrIP"||c="his tachycardia" 49:8 49:9
+c="pain medication" 48:18 48:19||r="TrWP"||c="his tachycardia" 48:11 48:12
+c="the procedure" 53:2 53:3||r="TrCP"||c="difficulty" 53:5 53:5
+c="gross deformity left wrist" 35:10 35:13||r="PIP"||c="left elbow , gross deformity swelling over dorsal forearm" 35:0 35:8
+c="his injuries" 45:0 45:1||r="PIP"||c="a left elbow disloaction" 45:5 45:8
+c="an orif" 51:11 51:12||r="TrAP"||c="his left distal radius fracture" 51:14 51:18

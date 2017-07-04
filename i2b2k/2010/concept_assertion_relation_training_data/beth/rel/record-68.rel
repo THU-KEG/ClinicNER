@@ -1,0 +1,10 @@
+c="oxycodone" 63:1 63:1||r="TrAP"||c="pain" 63:18 63:18
+c="acetaminophen" 63:3 63:3||r="TrAP"||c="pain" 63:18 63:18
+c="a diet of thin liquids and soft solids" 49:23 49:30||r="TrAP"||c="his loose teeth" 49:41 49:43
+c="powders" 88:10 88:10||r="TrNAP"||c="incisions" 88:12 88:12
+c="lotions" 88:6 88:6||r="TrNAP"||c="incisions" 88:12 88:12
+c="exertional angina" 19:4 19:5||r="PIP"||c="positive ett" 19:7 19:8
+c="creams" 88:8 88:8||r="TrNAP"||c="incisions" 88:12 88:12
+c="removal" 81:2 81:2||r="TrAP"||c="cataracts" 81:0 81:0
+c="removal" 23:2 23:2||r="TrAP"||c="cataracts" 23:0 23:0
+c="cath" 19:10 19:10||r="TeRP"||c="severe 3vd" 19:12 19:13

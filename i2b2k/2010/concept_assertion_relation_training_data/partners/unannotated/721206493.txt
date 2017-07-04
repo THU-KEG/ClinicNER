@@ -1,0 +1,71 @@
+721206493
+CMC
+70344737
+02/04/2001 12:00:00 AM
+Pleural effusion
+DIS
+Admission Date :
+02/04/2001
+Report Status :
+Discharge Date :
+02/05/2001
+****** DISCHARGE ORDERS ******
+FIGEBREUNQINKITH , GI 243-56-35-5V80
+Room :
+6U-489
+Service :
+ONC
+DISCHARGE PATIENT ON :
+02/05/01 AT 04:00 PM
+CONTINGENT UPON HO evaluation
+WILL D/C ORDER BE USED AS THE D/C SUMMARY :
+YES
+CODE STATUS :
+Full code
+DISPOSITION :
+Home
+DISCHARGE MEDICATIONS :
+LOPRESSOR ( METOPROLOL TARTRATE ) 25 MG PO TID HOLD IF :
+Food / Drug Interaction Instruction
+Take consistently with meals or on empty stomach .
+HCTZ ( HYDROCHLOROTHIAZIDE ) 25 MG PO QD ZOLOFT ( SERTRALINE ) 50 MG PO QD
+Alert overridden :
+Override added on 02/05/01 by :
+POTENTIALLY SERIOUS INTERACTION :
+HYDROCHLOROTHIAZIDE and SERTRALINE HCL
+Reason for override :
+monitor NORTRIPTYLINE ( NORTRIPTYLINE HCL ) 25 MG PO HS
+DIET :
+No Restrictions
+Activity - As tolerated
+RETURN TO WORK :
+Immediately
+FOLLOW UP APPOINTMENT ( S ) :
+Your oncologist , No Known Allergies
+ADMIT DIAGNOSIS :
+breast cancer
+PRINCIPAL DISCHARGE DIAGNOSIS ; Responsible After Study for Causing Admission ) Pleural effusion
+OTHER DIAGNOSIS ; Conditions , Infections , Complications , affecting Treatment / Stay
+HTN NIDDM-DIET TL TONSILECT ATYPICAL CP OPERATIONS AND PROCEDURES :
+OTHER TREATMENTS / PROCEDURES ( NOT IN O.R. ) None
+BRIEF RESUME OF HOSPITAL COURSE :
+50 year old woman with metastatic breast CA with mets to lung and liver , with several days of light chest pressure , and also c/o puffiness in face .
+Got chest CT which ruled out SVC syndrome .
+Is here for rule out MI protocol , and will go home on Wednesday evening after 3rd set of enzymes available ; I told her goal time for going home is around 6 pm .
+She only has minimal c/o chest pressure now and her first set of enzymes was negative .
+Pt r/o for MI .
+Her symptoms most likely 2nd to large pleural effusion that will be addressed as outpatient as per outpatient attending .
+As we have an explanation for DOE , we though that w/u for PE not necessary .
+ADDITIONAL COMMENTS :
+If you have more shortness of breath , please contact your primary care physician / oncologist .
+If you have chest pain , diaphoresis , nausea / vomiting , please return to emergency room .
+No changes were made to your medication regimen .
+DISCHARGE CONDITION :
+Stable
+TO DO / PLAN :
+No medication changes done .
+No dictated summary
+ENTERED BY :
+SKILUCRE , CINEJEANALF NALDDEDE CARLT , M.D. , PH.D. ( BW48 )
+02/05/01 12:50 PM
+****** END OF DISCHARGE ORDERS ******

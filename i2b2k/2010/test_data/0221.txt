@@ -1,0 +1,150 @@
+Admission Date :
+2013-02-18
+Discharge Date :
+2013-02-27
+Date of Birth :
+1934-03-07
+Sex :
+F
+Service :
+MEDICINE
+Allergies :
+Patient recorded as having No Known Allergies to Drugs
+Attending : Karen U.O. Berliner , M.D.
+Chief Complaint : abdominal pain / nausea
+Major Surgical or Invasive Procedure :
+Intubation
+IR guided nephrostomy placement
+History of Present Illness :
+The patient is a 78 y/o WF w/a PMH significant for HTN and afib who presented to an OSH w/ complaints of abd pain and nausea .
+She was found to have a R ureteral stone w/ resultant hydronephrosis and was transferred to Nantucket Cottage Hospital for ureteral stent placement .
+Her INR was found to be elevated when admitted and , in the course of waiting for this to normalize , the patient spiked a temperature to 105 and became hypotensive to the 70s .
+She was bolused w/out effect and had little response to neo so she was changed to levophed , given doses of cipro / vanco / gent and transferred to the CMED CSRU for management .
+In the CMED , urology was consulted and the patient received a R nephrostomy tube .
+However , tube placement was complicated by renal artery puncture , afib , and increased dyspnea .
+She was intubated for this hypoxia and treated with lasix , metoprolol , and diltiazem .
+She was weaned off her pressors on 02-21 and maintained her pressure w/out additional fluid boluses .
+Her sedation was weaned down and she was successfully extubated shortly thereafter .
+UCx grew proteus and her abx were changed to levaquin alone and she remained afebrile for > 24 hr on this regimen .
+She continued to have trouble with afib and required a dilt gtt on the day prior to call-out to control this rhythm but she was transitioned to PO diltiazem and has been in NSR since this time .
+She was restarted on heparin prior to d/c as a bridge to therapeutic coumadin anticoagulation .
+Past Medical History :
+1. HTN
+2. A.fib on Coumadin
+3. Cataract disease
+4. 01-22 closed fracture of radius s/p closed reduction
+5. MV , AV , TV insufficiency
+Social History :
+Single , lives with her daughter , doesn 't smoke , doesn 't drink , worked for bag company
+Family History :
+Brother with " heart trouble " .
+Physical Exam :
+140/66 , 92 , 18 , 96% 2L
+Gen :
+Pleasant obese female in NAD , in wrist restraints
+HEENT :
+EOMI , PERRLA , MM dry , O/P clear
+Lungs : clear anteriorly
+CV :
+RRR , S1/S2 intact , 3/6 SEM at the USB
+Abd :
+S/NT/ND , obese , +BS
+Back :
+R nephrostomy tube in place and draining
+Ext : brace on L wrist , 2+ LE edema
+Neuro : CN 03-31 grossly intact , strength 5/5 bilaterally , AAO to person , place ( hospital in Burlington ) , and time ( 1997-02-23 )
+Pertinent Results :
+CXR 2013-02-21 :
+Right subclavian CV line overlies proximal SVC .
+There is cardiomegaly and tortuosity of the thoracic aorta with small bilateral pleural effusions consistent with CHF .
+No pneumothorax .
+Overall appearances are essentially unchanged since the prior film of 2013-02-20 , apart from removal of the ET tube .
+CT Abd 2013-02-18 :
+1) Moderate to severe right hydroureteronephrosis with two obstructing distal right ureteral stones , 8 mm and 6 mm respectively .
+2) Probable obstructing 5 mm right mid ureteral calculus causing mild hydroureter , though it is difficult to tell definitively if this stone is within or just medial to the right ureter on this CT without IV contrast .
+3) Small bilateral pleural effusions .
+4) Coronary artery calcification .
+ECHO 2013-02-19 :
+1. The left atrium is mildly dilated .
+2. The left ventricular cavity size is normal .
+Due to suboptimal technical quality , a focal wall motion abnormality cannot be fully excluded .
+Overall left ventricular systolic function is normal LVEF > 55% ) .
+3. The right ventricular cavity is dilated .
+Right ventricular systolic function appears depressed .
+4. The aortic valve leaflets ( 3 ) are mildly thickened .
+There is mild aortic valve stenosis .
+5. The mitral valve leaflets are mildly thickened .
+There is severe mitral annular calcification .
+Trivial mitral regurgitation is present .
+6. Moderate to severe [ 3+ ] tricuspid regurgitation is seen .
+There is moderate pulmonary artery systolic hypertension .
+2013-02-18 05:49 PM BLOOD WBC - 36.6 * RBC - 4.29 Hgb - 13.4 Hct - 38.8 MCV - 91 MCH - 31.3 MCHC - 34.6 RDW - 13.2 Plt Ct - 132 *
+2013-02-27 05:17 AM BLOOD WBC - 11.8 * RBC - 3.61 * Hgb - 10.8 * Hct - 32.2 * MCV - 89 MCH - 29.8 MCHC - 33.5 RDW - 13.2 Plt Ct - 346
+2013-02-18 05:49 PM BLOOD PT - 20.6 * PTT - 31.6 INR ( PT )- 3.0
+2013-02-27 05:17 AM BLOOD PT - 15.5 * PTT - 75.0 * INR ( PT )- 1.6
+2013-02-18 05:49 PM BLOOD Glucose - 127 * UreaN - 26 * Creat - 1.7 * Na - 136 K - 3.9 Cl - 103 HCO3 - 20 * AnGap - 17
+2013-02-27 05:17 AM BLOOD Glucose - 97 UreaN - 14 Creat - 1.2 * Na - 144 K - 3.9 Cl - 106 HCO3 - 29 AnGap - 13
+2013-02-22 03:00 AM BLOOD ALT - 52 * AST - 50 * LD ( LDH )- 300 * CK ( CPK )- 41 AlkPhos - 280 * TotBili - 0.8
+2013-02-18 05:49 PM BLOOD Calcium - 7.7 * Phos - 3.3 Mg - 1.1 *
+2013-02-27 05:17 AM BLOOD Calcium - 8.7 Phos - 4.0 Mg - 1.9
+Brief Hospital Course :
+A/P :
+78 year old female with history of HTN , a.fib presenting with ureteral stone , hydronephrosis , and urosepsis .
+She originally had hypotension and a leukocytosis in the ER and was admitted to the CMED CCU .
+In the CMED , urology was consulted and the patient received a R nephrostomy tube .
+However , tube placement was complicated by renal artery puncture , afib , and increased dyspnea .
+She was intubated for this hypoxia and treated with lasix , metoprolol , and diltiazem .
+She was weaned off her pressors on 02-21 and maintained her pressure w/out additional fluid boluses .
+Her sedation was weaned down and she was successfully extubated shortly thereafter .
+UCx grew proteus and her abx were changed to levaquin alone and she remained afebrile for > 24hr on this regimen .
+She continued to have trouble with afib and required a dilt gtt on the day prior to call-out to control this rhythm but she was transitioned to PO diltiazem on the day of call-out .
+1. Sepsis - The patient was septic in the ER and her blood cultures eventually grew proteus .
+Her Bcx remained negative throughout her stay .
+She was treated with levaquin on the floor and will complete a 14d course at rehab .
+She has been afebrile since she was called out to the floor .
+2. Ureteral stone - The patient had a nephrostomy tube placed by IR to relieve her hydronephrosis .
+She was followed by urology during her stay and will see them again 2 wk after d/c for definitive treatment of her nephrolithiasis .
+At this time , urology will coordinate removal of her nephrostomy tube with IR .
+Her nephrostomy tube was draining clear yellow urine at the time of d/c .
+3. a.fib - The patient has a history of atrial fibrillation controlled with beta blockers at home .
+She was treated in the CMED as above .
+Once on the floor , the patient had one episode of afib w/ RVR that responded immediately to IV metoprolol .
+Because of this , the patient 's diltiazem was stopped and she was started on tid metoprolol .
+After this , the patient had no further problems with her rate control .
+She was maintained on a heparin gtt for bridge to coumadin while on the floor after this was cleared by IR and urology .
+She will be d/c w/out her heparin as she is trending upwards with her INR and has no MR Paul Paquettec heart disease .
+She will continue her coumadin at rehab to achieve an INR between 03-22 .
+4. delirium - The patient had troubles with agitation while in the CMED CCU .
+She received prn haldol w/ little effect and improved as her infection cleared .
+Medications on Admission : toprol ( unknown dose ) coumadin 1 mg qhs
+Discharge Medications :
+1. Bisacodyl 5 mg Tablet Sig : Two ( 2 ) Tablet PO DAILY ( Daily ) as needed for constipation .
+2. Docusate Sodium 100 mg Capsule Sig : One ( 1 ) Capsule PO BID ( 2 times a day ) .
+3. Levofloxacin 500 mg Tablet Sig : One ( 1 ) Tablet PO Q24H ( every 24 hours ) for 7 days .
+4. Warfarin 1 mg Tablet Sig : One ( 1 ) Tablet PO HS ( at bedtime ) .
+5. Miconazole Nitrate 2 % Powder Sig : One ( 1 ) Appl Topical TID ( 3 times a day ) .
+6. Ipratropium Bromide 0.02 % Solution Sig : One ( 1 ) neb Inhalation Q6H ( every 6 hours ) as needed .
+7. Metoprolol Tartrate 25 mg Tablet Sig : One ( 1 ) Tablet PO TID ( 3 times a day ) .
+8. Polyvinyl Alcohol 1.4 % Drops Sig : 1-2 Drops Ophthalmic PRN ( as needed ) .
+9. Acetaminophen 325 mg Tablet Sig : 1-2 Tablets PO Q4-6H ( every 4 to 6 hours ) as needed .
+10. Outpatient Lab Work please have your INR checked at the rehab center with a goal of 03-22 .
+Discharge Disposition :
+Extended Care
+Facility :
+Danvers State Hospital & Rehab Center - Beverly
+Discharge Diagnosis :
+Urosepsis
+Nephrolithiasis
+Atrial fibrillation
+Discharge Condition :
+Good
+Discharge Instructions :
+Please take your medications as directed
+Please keep your follow-up appointments
+Followup Instructions :
+Dr. Emma Attar 2013-03-26 10:15 AM
+George Yvonne , MD Phone : 440-401-5366 Date / Time : 2013-03-19 10:40
+Deborah Walter MD 17-478
+Completed by : Richard LYNCH MD 72-568 2013-02-27 @ 1558
+Signed electronically by : DR. Brenda BELL on : WED 2013-04-17 3:18 PM
+( End of Report )

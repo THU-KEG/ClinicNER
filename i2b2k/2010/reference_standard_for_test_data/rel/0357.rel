@@ -1,0 +1,9 @@
+c="motrin" 42:0 42:0||r="TrAP"||c="pain" 42:2 42:2
+c="the procedure" 31:9 31:10||r="TrCP"||c="estimated blood loss" 31:0 31:2
+c="demerol" 41:0 41:0||r="TrAP"||c="pain" 41:2 41:2
+c="symptomatic" 24:9 24:9||r="PIP"||c="endometriosis" 24:6 24:6
+c="distended" 36:11 36:11||r="PIP"||c="gas" 36:23 36:23
+c="depo-provera" 27:5 27:5||r="TrCP"||c="break-through bleeding" 27:11 27:12
+c="danocrine" 25:2 25:2||r="TrIP"||c="pain" 25:9 25:9
+c="danocrine" 25:2 25:2||r="TrIP"||c="the side effects" 25:17 25:19
+c="several laparoscopies" 26:4 26:5||r="TeRP"||c="endometriosis" 26:15 26:15

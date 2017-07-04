@@ -1,0 +1,47 @@
+677168937 RWH
+9049156
+280494
+763694
+11/05/2001 12:00:00 AM
+ED Discharge Summary
+Unsigned
+DIS
+Report Status :
+Unsigned
+ED DISCHARGE NOTIFICATION / SUMMARY
+LOAN , LYKEY
+MRN :
+9049156
+Age :
+54y
+REGISTRATION DATE :
+11/05/2001 11:11 AM
+Provider :
+Kema Cuchkote
+PRELIMINARY REPORT
+Discharge Date / Time :
+11/05/2001 13:38
+Discharge Status :
+Discharged
+Condition on Discharge :
+Stable
+Patient States Complaint :
+SCAPULA PAIN
+Standardized Discharge Instructions :
+The patient was given printed instructions for chest pain ( English ) .
+The patient was given printed instructions for chest wall injury ( English ) .
+Diagnosis :
+Chest wall strain
+Treatment Rendered :
+motrin and tylenol
+Discharge Medications :
+naprosyn 550 mg by mouth twice a day WITH FOOD ; if it hurts your stomach , cut-dose in half and call your doctor .
+Also take tylenol 2 pills every 8 hours for more pain .
+valium for sleep at night .
+Follow up Service :
+if not getting better by the end of this upcoming week , make sure you see a doctor for another check-up at that time
+PCP Name :
+BREUN , ISY R
+Provider Number :
+27732
+This report was created by Cuchkote , Kema 11/05/2001 01:40 PM

@@ -1,0 +1,14 @@
+c="coronary artery bypass graft" 18:16 18:19||r="TrAP"||c="three vessel disease" 18:8 18:10
+c="left ventriculogram" 52:0 52:1||r="TeRP"||c="a mild mitral regurgitation" 52:3 52:6
+c="troponin" 16:9 16:9||r="TeRP"||c="myocardial infarction" 16:4 16:5
+c="limited hemodynamics" 51:0 51:1||r="TeRP"||c="elevated lv and diastolic pressure" 51:3 51:7
+c="total cholesterol" 21:2 21:3||r="TeRP"||c="hypercholesterolemia" 21:0 21:0
+c="the catheterization" 18:2 18:3||r="TeRP"||c="three vessel disease" 18:8 18:10
+c="sulfa" 30:0 30:0||r="TrCP"||c="rash" 30:2 30:2
+c="cardiac catheterization" 45:0 45:1||r="TeRP"||c="three vessel disease in the right dominant system" 45:6 45:13
+c="serial 80-90% stenosis" 50:12 50:14||r="PIP"||c="diffusely diseased in the mid segment" 50:5 50:10
+c="left ventricular ejection fraction" 52:8 52:11||r="TeRP"||c="a mild mitral regurgitation" 52:3 52:6
+c="rest" 14:16 14:16||r="TrIP"||c="the same symptoms" 14:0 14:2
+c="cpk" 16:7 16:7||r="TeRP"||c="myocardial infarction" 16:4 16:5
+c="rest" 13:4 13:4||r="TrIP"||c="her symptoms" 13:0 13:1
+c="lovenox injections" 40:14 40:15||r="TrCP"||c="ecchymosis in mid abdomen" 40:2 40:5

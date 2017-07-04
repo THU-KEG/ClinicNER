@@ -1,0 +1,48 @@
+165342718
+CTMC
+79284819
+181252
+11/30/1993 12:00:00 AM
+Discharge Summary
+Unsigned
+DIS
+Admission Date :
+11/30/1993
+Report Status :
+Unsigned
+Discharge Date :
+12/07/1993
+HISTORY OF PRESENT ILLNESS :
+The patient is a 40 year old woman with end stage renal disease , on hemodialysis since 12/91 .
+This was secondary to polycystic kidneydisease , which was noted since age 12 .
+She is status post cadaveric renal allograft in 03/93 , and she subsequently underwent an early postoperative transplant nephrectomy secondary to rupture .
+He has been having difficult access problems and now has a left upper arm PTFE .
+She had been placed on emergency transplant for this difficult access problem .
+Otherwise , she has been healthy and her last hemodialysis was the day prior to transplant .
+PAST MEDICAL HISTORY :
+Significant for hypertension .
+PAST SURGICAL HISTORY :
+Multiple angio accesses , TAH at age 18 , cadaveric renal allograft in 03/93 , reoperation for bleed followed by transplant nephrectomy .
+MEDICATIONS ON ADMIT :
+Iron , Nephro-Caps , calcium carbonate and Valium .
+HOSPITAL COURSE :
+She was taken to the Operating Room on 11/30/93 where Dr. Tiveloydherdes performed a cadaveric renal allograft to the left iliac fossa which she tolerated well .
+Postoperative course was unremarkable .
+She was started on her immunosuppressive agents as per protocol .
+Her creatinine fell to the normal range early .
+Over several days she continued to make good amounts or urine .
+She was gradually advanced to a regular diet .
+Her prednisone was tapered to a stable dose .
+DISPOSITION :
+Discharge medications were prednisone 30 q.d. , Imuran 120 q.d. , cyclosporin 400 b.i.d. and Pepcid 20 b.i.d. and Colace 100 b.i.d.
+Dicatated By :
+IA A , M.D. AX37
+Attending :
+AE Z. TIVELOYDHERDES , M.D. ZC5 GI592/4-03
+Batch :
+6066
+Index No. VQCUHL4S7Y
+D :
+12/07/93
+T :
+12/08/93

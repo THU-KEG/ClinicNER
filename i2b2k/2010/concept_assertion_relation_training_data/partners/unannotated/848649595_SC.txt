@@ -1,0 +1,59 @@
+848649595 SC
+67857889
+527357
+2/16/2001 12:00:00 AM
+Right Knee Cellulitis
+DIS
+Admission Date :
+02/16/2001
+Report Status :
+Discharge Date :
+02/18/2001
+****** DISCHARGE ORDERS ******
+ZEISRHALTPROT , QUETSHA
+163-40-24-2 D42
+Room :
+51N-392
+Service :
+MED
+DISCHARGE PATIENT ON :
+02/18/01 AT 12:00 PM
+CONTINGENT UPON
+Not Applicable
+WILL D / C ORDER BE USED AS THE D / C SUMMARY :
+YES
+DISPOSITION :
+Home
+DISCHARGE MEDICATIONS :
+TYLENOL ( ACETAMINOPHEN ) 1,000 MG PO Q6H PRN headache KEFLEX ( CEPHALEXIN ) 500 MG PO QID X 10 Days
+DIET :
+No Restrictions Activity - As tolerated
+RETURN TO WORK :
+After Appt with local physician
+FOLLOW UP APPOINTMENT ( S ) :
+Ma Piernreukotefille call to schedule , No Known Allergies
+ADMIT DIAGNOSIS :
+R Knee Cellulitis
+PRINCIPAL DISCHARGE DIAGNOSIS ;
+Responsible After Study for Causing Admission ) Right Knee Cellulitis
+OTHER DIAGNOSIS ;
+Conditions , Infections , Complications , affecting Treatment / Stay
+Right Knee Cellulitis
+OPERATIONS AND PROCEDURES :
+OTHER TREATMENTS / PROCEDURES ( NOT IN O.R. )
+BRIEF RESUME OF HOSPITAL COURSE :
+24 yo m c h / o seminoma now c R knee hemarthroses and cellulitis .
+Trerated and responded to Cefazolin .
+Remained afebrile .
+Right knee cellulitis is much improved and pt remains stable .
+Wil have physical therapy and PCP f / u .
+Pt d / c on Keflex PO .
+ADDITIONAL COMMENTS :
+Please return to Emergency Room or call your doctor , Dr. Tlandbelb at 974-838-1396 if develop fever , chills , worsening of the swelling or of the pain of the right knee , or any other concerning symptoms .
+You &apos;ll have an appointnment to see the Physical therapist as scheduled .
+DISCHARGE CONDITION :
+Stable
+TO DO / PLAN :
+ENTERED BY :
+FREIERMFUSC , SHAIGAYDONA , M.D. , M.DIV ( MD93 ) 02/18/01 11:42 AM
+****** END OF DISCHARGE ORDERS ******

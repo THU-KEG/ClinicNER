@@ -1,0 +1,32 @@
+c="a magnetic resonance angiography of his kidneys" 78:3 78:9||r="TeRP"||c="mild right-sided renal artery stenosis" 78:12 78:16
+c="increased oral intake" 77:17 77:19||r="TrIP"||c="prerenal" 77:7 77:7
+c="electrocardiogram" 20:7 20:7||r="TeRP"||c="peaked t waves" 20:3 20:5
+c="hydration" 77:15 77:15||r="TrAP"||c="prerenal" 77:7 77:7
+c="auscultation" 58:4 58:4||r="TeRP"||c="faint lower lobe crackles on the left" 58:7 58:13
+c="cardiogenic shock" 79:29 79:30||r="PIP"||c="decreased urine output" 79:22 79:24
+c="a cardiac catheterization" 89:2 89:4||r="TeRP"||c="3-vessel disease" 89:7 89:8
+c="a repeat echocardiogram" 88:0 88:2||r="TeRP"||c="a decreased ejection fraction" 88:4 88:7
+c="insulin" 16:11 16:11||r="TrAP"||c="his worsening blood glucose" 16:2 16:5
+c="infection" 83:10 83:10||r="PIP"||c="hypotensive" 83:3 83:3
+c="lidocaine" 84:17 84:17||r="TrAP"||c="sustained ventricular tachycardia" 84:10 84:12
+c="a central line" 84:3 84:5||r="TrCP"||c="sustained ventricular tachycardia" 84:10 84:12
+c="pressors" 93:8 93:8||r="TrAP"||c="cardiogenic shock" 93:5 93:6
+c="transurethral resection of prostate" 30:7 30:10||r="TrAP"||c="benign prostatic hypertrophy" 30:1 30:3
+c="levofloxacin" 98:6 98:6||r="TrAP"||c="a left lower lobe infiltrate" 98:8 98:12
+c="levofloxacin" 98:6 98:6||r="TrAP"||c="a urinary tract infection" 98:14 98:17
+c="a swan-ganz catheter" 95:4 95:6||r="TeRP"||c="a low cardiac output" 95:11 95:14
+c="steroids" 29:9 29:9||r="TrAP"||c="polymyalgia rheumatica" 29:1 29:2
+c="insulin" 27:9 27:9||r="TrAP"||c="diabetes mellitus" 27:1 27:2
+c="an ischemic event" 87:10 87:12||r="PIP"||c="elevated troponins" 87:6 87:7
+c="metformin" 27:11 27:11||r="TrAP"||c="diabetes mellitus" 27:1 27:2
+c="positive blood cultures" 99:3 99:5||r="PIP"||c="staphylococcus aureus" 99:7 99:8
+c="levofloxacin" 99:11 99:11||r="TrIP"||c="staphylococcus aureus" 99:7 99:8
+c="intubation" 100:7 100:7||r="TrAP"||c="hypotensive" 100:4 100:4
+c="intubation" 103:3 103:3||r="TrAP"||c="hypotension" 103:8 103:8
+c="intubation" 103:3 103:3||r="TrAP"||c="ventricular tachycardia" 103:10 103:11
+c="lidocaine" 85:4 85:4||r="TrCP"||c="apneic" 85:9 85:9
+c="pressors" 100:9 100:9||r="TrAP"||c="hypotensive" 100:4 100:4
+c="a lower extremity peripheral angiography" 14:29 14:33||r="TeCP"||c="bilateral foot ulcers" 14:35 14:37
+c="pain in his feet" 17:12 17:15||r="PIP"||c="his foot ulcers" 17:0 17:2
+c="intubation" 85:11 85:11||r="TrAP"||c="apneic" 85:9 85:9
+c="a lidocaine drip" 86:7 86:9||r="TrAP"||c="his nonsustained ventricular tachycardia" 86:0 86:3

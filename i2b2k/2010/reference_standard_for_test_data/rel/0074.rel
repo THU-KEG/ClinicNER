@@ -1,0 +1,19 @@
+c="the patient &apos;s last ultrasound of his aorta" 25:0 25:7||r="TeRP"||c="a l0 cm aneurysm" 25:9 25:12
+c="transient acute renal failure" 23:13 23:16||r="PIP"||c="increasing creatinine" 23:18 23:19
+c="patient &apos;s chest x-ray" 58:0 58:3||r="TeRP"||c="pulmonary edema" 58:10 58:11
+c="a chest x-ray" 56:0 56:2||r="TeRP"||c="some pulmonary edema" 56:4 56:6
+c="an abdominal aortic aneurysm repair" 25:22 25:26||r="TrAP"||c="a l0 cm aneurysm" 25:9 25:12
+c="inderal" 33:6 33:6||r="TrCP"||c="allergic" 33:2 33:2
+c="levels" 49:16 49:16||r="TeCP"||c="elevated" 49:6 49:6
+c="procan" 33:11 33:11||r="TrCP"||c="allergic" 33:2 33:2
+c="cardiac catheterization" 21:16 21:17||r="TeRP"||c="three vessel disease" 21:24 21:26
+c="an echocardiogram" 45:0 45:1||r="TeRP"||c="moderate left ventricular dysfunction" 45:6 45:9
+c="an echocardiogram" 45:0 45:1||r="TeRP"||c="hypokinetic and akinetic areas throughout the left and right ventricle" 45:11 45:20
+c="hypokinetic and akinetic areas throughout the left and right ventricle" 45:11 45:20||r="PIP"||c="moderate left ventricular dysfunction" 45:6 45:9
+c="fluid overload" 43:13 43:14||r="PIP"||c="decreased breath sounds" 43:6 43:8
+c="examination" 20:6 20:6||r="TeRP"||c="abdominal aortic aneurysm" 20:0 20:2
+c="his digoxin" 49:8 49:9||r="TrNAP"||c="elevated" 49:6 49:6
+c="echocardiogram" 21:6 21:6||r="TeRP"||c="poor left ventricular function" 21:11 21:14
+c="his digoxin" 49:0 49:1||r="TrCP"||c="elevated" 49:6 49:6
+c="penicillin" 33:4 33:4||r="TrCP"||c="allergic" 33:2 33:2
+c="ultrasound" 53:0 53:0||r="TeRP"||c="abnormalities" 53:10 53:10

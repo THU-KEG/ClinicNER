@@ -1,0 +1,37 @@
+c="demerol" 93:11 93:11||r="TrIP"||c="his epigastric pain" 93:20 93:22
+c="the pain" 21:3 21:4||r="PIP"||c="knife-like" 21:7 21:7
+c="associated compression atelectasis" 82:6 82:8||r="PIP"||c="bilateral pleural effusion" 82:0 82:2
+c="a follow-up chest x-ray" 112:3 112:6||r="TeRP"||c="infiltrate" 112:22 112:22
+c="high dose dilaudid" 111:6 111:8||r="TrIP"||c="the pain" 111:0 111:1
+c="the cefotaxime" 114:0 114:1||r="TrAP"||c="infection" 114:6 114:6
+c="the ultrasound" 108:0 108:1||r="TeRP"||c="biliary sludge" 108:3 108:4
+c="the ultrasound" 108:0 108:1||r="TeRP"||c="swelling of the body" 108:6 108:9
+c="a prominent pancreas" 79:8 79:10||r="PIP"||c="associated mesenteric stranding" 79:12 79:14
+c="abdominal ct scan" 79:0 79:2||r="TeRP"||c="a prominent pancreas" 79:8 79:10
+c="abdominal ct scan" 79:0 79:2||r="TeRP"||c="associated mesenteric stranding" 79:12 79:14
+c="morphine" 28:19 28:19||r="TrAP"||c="pain" 28:21 28:21
+c="study" 79:6 79:6||r="TeRP"||c="a prominent pancreas" 79:8 79:10
+c="study" 79:6 79:6||r="TeRP"||c="associated mesenteric stranding" 79:12 79:14
+c="an ultrasound" 107:0 107:1||r="TeCP"||c="cholestasis" 107:8 107:8
+c="an ultrasound" 107:0 107:1||r="TeCP"||c="cholangitis" 107:10 107:10
+c="a chest x-ray" 103:0 103:2||r="TeRP"||c="infiltrate" 103:9 103:9
+c="a chest x-ray" 103:0 103:2||r="TeRP"||c="effusion" 103:11 103:11
+c="a ct scan" 99:3 99:5||r="TeRP"||c="a mass in the gallbladder neck" 99:9 99:14
+c="a ct scan" 99:3 99:5||r="TeRP"||c="biliary dilatation" 99:18 99:19
+c="radiation to the lower abdomen" 20:27 20:31||r="PIP"||c="sharp left flank pain" 20:22 20:25
+c="partially collapsed lung" 31:6 31:8||r="PIP"||c="pneumonia" 31:4 31:4
+c="radiation to the left upper quadrant" 110:14 110:19||r="PIP"||c="epigastric pain" 110:11 110:12
+c="morphine" 93:5 93:5||r="TrAP"||c="his epigastric pain" 93:20 93:22
+c="the patient &apos;s epigastric pain" 98:5 98:9||r="PIP"||c="necrosis" 98:18 98:18
+c="the patient &apos;s epigastric pain" 98:5 98:9||r="PIP"||c="abscess" 98:20 98:20
+c="the patient &apos;s epigastric pain" 98:5 98:9||r="PIP"||c="a pancreatic complication" 98:13 98:15
+c="a pancreatic complication" 98:13 98:15||r="PIP"||c="necrosis" 98:18 98:18
+c="a pancreatic complication" 98:13 98:15||r="PIP"||c="abscess" 98:20 98:20
+c="this study" 83:5 83:6||r="TeRP"||c="gallbladder sludge" 83:8 83:9
+c="this study" 83:5 83:6||r="TeRP"||c="cholelithiasis" 83:12 83:12
+c="abdominal ultrasound" 83:0 83:1||r="TeRP"||c="gallbladder sludge" 83:8 83:9
+c="abdominal ultrasound" 83:0 83:1||r="TeRP"||c="cholelithiasis" 83:12 83:12
+c="pain control" 93:0 93:1||r="TrIP"||c="his epigastric pain" 93:20 93:22
+c="palpation at the left lower quadrant" 62:2 62:7||r="TeRP"||c="tender" 62:0 62:0
+c="his pain medication" 95:0 95:2||r="TrAP"||c="his symptoms" 95:15 95:16
+c="dilaudid iv" 95:7 95:8||r="TrAP"||c="his symptoms" 95:15 95:16

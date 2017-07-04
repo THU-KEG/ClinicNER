@@ -1,0 +1,7 @@
+c="aml" 15:7 15:7||t="problem"||a="present"
+c="all" 15:5 15:5||t="problem"||a="present"
+c="afebrile" 14:10 14:10||t="problem"||a="absent"
+c="nausea" 28:8 28:8||t="problem"||a="hypothetical"
+c="further complaints" 19:4 19:5||t="problem"||a="absent"
+c="nausea" 29:8 29:8||t="problem"||a="hypothetical"
+c="neutropenic" 17:5 17:5||t="problem"||a="absent"

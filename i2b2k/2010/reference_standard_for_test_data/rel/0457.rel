@@ -1,0 +1,41 @@
+c="five shocks" 19:32 19:33||r="TrIP"||c="ventricular fibrillation arrest" 19:12 19:14
+c="her heparin" 71:10 71:11||r="TrNAP"||c="a right groin hematoma" 71:16 71:19
+c="right-sided electrocardiograms" 62:0 62:1||r="TeRP"||c="1-mm st elevations in v4" 62:3 62:7
+c="1-mm st elevations in v4" 62:3 62:7||r="PIP"||c="a right ventricular infarct" 62:11 62:14
+c="three stents to the right coronary artery" 22:2 22:8||r="TrCP"||c="a proximal dissection" 22:13 22:15
+c="integrilin" 74:13 74:13||r="TrAP"||c="her coronary artery disease" 74:1 74:4
+c="the sheath" 71:24 71:25||r="TrCP"||c="a right groin hematoma" 71:16 71:19
+c="ativan" 85:10 85:10||r="TrAP"||c="anxiety" 85:12 85:12
+c="electrocardiogram" 70:0 70:0||r="TeRP"||c="evolution of q waves" 70:11 70:14
+c="an electrocardiogram" 83:0 83:1||r="TeRP"||c="st changes" 83:7 83:8
+c="intravenous k-phos" 100:3 100:4||r="TrAP"||c="a low phosphorous" 100:6 100:8
+c="an inferior and right ventricular infarction" 61:38 61:43||r="PIP"||c="1-mm st depressions in i and avl" 61:28 61:34
+c="an inferior and right ventricular infarction" 61:38 61:43||r="PIP"||c="1-mm st elevations in avf and v1" 61:20 61:26
+c="an inferior and right ventricular infarction" 61:38 61:43||r="PIP"||c="2-mm st elevations in lead iii" 61:13 61:18
+c="a sore throat" 93:3 93:5||r="PIP"||c="her atypical chest complaints" 93:12 93:15
+c="ublingual nitroglycerin" 16:33 16:34||r="TrAP"||c="inferior st elevations" 16:10 16:12
+c="ublingual nitroglycerin" 16:33 16:34||r="TrAP"||c="acutely hypotensive" 16:19 16:20
+c="an echocardiogram" 65:0 65:1||r="TeRP"||c="an akinetic inferior wall and right ventricle" 65:8 65:14
+c="an echocardiogram" 65:0 65:1||r="TeRP"||c="mild mitral regurgitation" 65:16 65:18
+c="an aortogram" 24:2 24:3||r="TeRP"||c="a debakey class i aortic ascending aneurysm" 24:8 24:14
+c="nausea" 15:15 15:15||r="PIP"||c="chest pain" 15:11 15:12
+c="waxing and waning left substernal chest pain" 14:19 14:25||r="PIP"||c="radiation to the left shoulder" 14:27 14:31
+c="dopamine" 69:17 69:17||r="TrAP"||c="post catheterization hypotension" 69:9 69:11
+c="initial electrocardiogram" 61:0 61:1||r="TeRP"||c="2-mm st elevations in lead iii" 61:13 61:18
+c="initial electrocardiogram" 61:0 61:1||r="TeRP"||c="1-mm st elevations in avf and v1" 61:20 61:26
+c="initial electrocardiogram" 61:0 61:1||r="TeRP"||c="1-mm st depressions in i and avl" 61:28 61:34
+c="initial electrocardiogram" 61:0 61:1||r="TeRP"||c="an inferior and right ventricular infarction" 61:38 61:43
+c="pain" 82:5 82:5||r="PIP"||c="noncardiac chest pain" 82:11 82:13
+c="pain" 82:5 82:5||r="PIP"||c="her self-extubation" 82:8 82:9
+c="the cardiac catheterization" 21:0 21:2||r="TeRP"||c="a total occlusion of the proximal right coronary artery" 21:4 21:12
+c="the cardiac catheterization" 21:0 21:2||r="TeRP"||c="diffuse right coronary artery disease" 21:14 21:18
+c="intravenous fluids" 69:14 69:15||r="TrAP"||c="post catheterization hypotension" 69:9 69:11
+c="atropine" 17:7 17:7||r="TrIP"||c="bradycardic" 17:3 17:3
+c="intravenous fluids" 17:9 17:10||r="TrIP"||c="bradycardic" 17:3 17:3
+c="further workup" 87:11 87:12||r="TeCP"||c="her aortic ascending aneurysm" 87:1 87:4
+c="catheterization" 74:8 74:8||r="TeCP"||c="her coronary artery disease" 74:1 74:4
+c="a sulfa" 36:3 36:4||r="TrCP"||c="allergy" 36:5 36:5
+c="the catheterization" 24:5 24:6||r="TeRP"||c="a debakey class i aortic ascending aneurysm" 24:8 24:14
+c="a chest x-ray" 60:0 60:2||r="TeRP"||c="an enlarged mediastinum" 60:4 60:6
+c="flumaran" 29:1 29:1||r="TrAP"||c="circulatory problems" 29:4 29:5
+c="a systolic blood pressure" 16:22 16:25||r="TeRP"||c="acutely hypotensive" 16:19 16:20

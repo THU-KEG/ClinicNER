@@ -1,0 +1,24 @@
+402439112
+HLGMC
+0571009
+523915
+9/28/2000 12:00:00 AM
+ED Discharge Summary
+Unsigned
+DIS
+Report Status :
+Unsigned
+ED DISCHARGE NOTIFICATION
+LONGSWALD , NAER
+MRN :
+0571009
+Age :
+88y
+REGISTRATION DATE :
+09/28/2000 02:03 PM
+PRELIMINARY REPORT
+This is to notify you that your patient , LONGSWALD , NAER arrived in the Emergency Department at Heaonboburg Linpack Grant Medical Center on 09/28/2000 02:03 PM .
+The patient presented with a chief complaint of VOMITING .
+Following evaluation and treatment , the patient &apos;s disposition at the end of the visit was ADMITTED AS AN INPATIENT TO HEAONBOBURG LINPACK GRANT MEDICAL CENTER .
+Your patient was admitted under the care of SAP , HU E with a preliminary diagnosis of NAUSEA .
+If you need additional information please call 605-304-8547 .

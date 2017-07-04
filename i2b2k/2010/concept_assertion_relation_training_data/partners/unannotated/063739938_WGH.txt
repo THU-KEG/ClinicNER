@@ -1,0 +1,67 @@
+063739938 WGH
+6502932
+95019
+9899929
+2/11/2003 12:00:00 AM
+OB Discharge Summary
+Signed
+DIS
+Report Status :
+Signed OB EMR L and D
+DISCHARGE SUMMARY
+NAME :
+SYSCO TAMARCE PARA
+UNIT NUMBER :
+838-70-26
+ADMISSION DATE :
+20030211
+DISCHARGE DATE :
+20030213
+PRINCIPAL DISCHARGE DIAGNOSIS :
+Normal Vaginal Delivery ( Labial Lac )
+ASSOCIATED DIAGNOSES :
+Anxiety ; Intrauterine Growth Retardation
+PRINCIPAL PROCEDURE OR OPERATION :
+Spontaneous Vertex Vaginal Delivery
+ASSOCIATED PROCEDURES OR OPERATIONS :
+POSTPARTUM DIAGNOSTIC PROCEDURES :
+None
+POSTPARTUM THERAPEUTIC PROCEDURES :
+None
+OTHER POSTPARTUM THERAPIES :
+Routine Post Partum Care
+HISTORY AND REASON FOR HOSPITALIZATION :
+Early Labor / Rule Out Labor
+PHYSICAL EXAMINATION :
+HEIGHT NORMAL NECK NORMAL nml thyroid BREASTS NORMAL no masses , plans bf NIPPLES NORMAL everted CHEST NORMAL cta bilat COR NORMAL rrr w / o murmur ABDOMEN NORMAL Gravid. FHR Reactive .
+No decels .
+EXTREM NORMAL 1+/1+ , no edema , no varicosities VAGINA NORMAL nml pH , neg wet mount , nml tissue CERVIX NORMAL 3/50/-3 intact OS NORMAL 3/50/-2 UTERUS NORMAL midline .
+UTERINE SIZE IN WEEKS
+NORMAL 38
+HOSPITAL COURSE ( include complications if any ) :
+This 32 year old Gravida 4 Para 1021 was admitted to the Life Valley Medical Center Obstetrical service on 02/11/2003 at 01:10 am for the indication ( s ) :
+early labor / rule out labor .
+She delivered a 3320 gram male infant on 02/11/2003 at 09:46 am with apgar scores of 9 and 9 at one and five minutes respectively at 40.3 weeks gestation via spontaneous vertex vaginal delivery .
+During her labor she encountered the following complication ( s ) :
+none .
+During her delivery she encountered the following complication ( s ) :
+nuchal cord .
+Postpartum she encountered the following complication ( s ) :
+none .
+She was discharged on 02/13/2003 at 11:00 am in good condition .
+DISCHARGE ACTIVITY :
+No Restrictions
+DISCHARGE DIET :
+No Restrictions
+POSTPARTUM DISPOSITION :
+Home With Self-Care ( Routine Discharge )
+POSTPARTUM CARE SITE :
+La Community Hospital
+POSTPARTUM RH IMMUNE GLOBULIN :
+Not Indicated
+POSTPARTUM MEASLES / MUMPS / RUBELLA VACCINE :
+Not Indicated
+MEDICATION ( S ) ON DISCHARGE :
+Multivitamins And Folate
+Electronically Signed :
+Laki Samples , CNM 02/13/2003 3:33:01 PM

@@ -1,0 +1,17 @@
+c="low dose beta blockade" 77:11 77:14||r="TrAP"||c="sinus bradycardia" 77:3 77:4
+c="angiography" 23:0 23:0||r="TeRP"||c="a right dominant system" 23:2 23:5
+c="angiography" 23:0 23:0||r="TeRP"||c="a 40% lesion in the distal left main," 23:7 23:14
+c="angiography" 23:0 23:0||r="TeRP"||c="several tight lesions in the proximal and mid left anterior descending artery" 23:15 23:26
+c="angiography" 23:0 23:0||r="TeRP"||c="a 90% stenosis in the proximal circumflex" 23:29 23:35
+c="drugs" 12:8 12:8||r="TrCP"||c="known allergies" 12:5 12:6
+c="chest x-ray" 58:1 58:2||r="TeRP"||c="pneumothorax" 58:7 58:7
+c="pacing wires" 74:3 74:4||r="TrCP"||c="complication" 74:8 74:8
+c="off pump cabg" 113:5 113:7||r="TrAP"||c="coronary artery disease" 113:0 113:2
+c="chest tubes" 74:0 74:1||r="TrCP"||c="complication" 74:8 74:8
+c="his discharge chest x-ray" 80:0 80:3||r="TeRP"||c="persistent bibasilar atelectasis" 80:5 80:7
+c="his discharge chest x-ray" 80:0 80:3||r="TeRP"||c="tiny pleural effusions" 80:10 80:12
+c="subsequent cardiac catheterization" 22:0 22:2||r="TeRP"||c="severe two vessel coronary artery disease" 22:13 22:18
+c="nuclear myocardial perfusion study" 20:0 20:3||r="TeRP"||c="a moderate fixed defect within the inferior wall" 20:7 20:14
+c="oxycodone - acetaminophen" 98:1 98:3||r="TrAP"||c="pain" 98:18 98:18
+c="his creatinine" 78:3 78:4||r="TeRP"||c="slightly elevated" 78:6 78:7
+c="medical therapy" 66:5 66:6||r="TrIP"||c="pain" 66:2 66:2

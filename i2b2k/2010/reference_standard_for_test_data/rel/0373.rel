@@ -1,0 +1,24 @@
+c="a repeat head ct scan" 89:0 89:4||r="TeRP"||c="the subdural hematoma" 89:12 89:14
+c="a repeat head ct scan" 89:0 89:4||r="TeRP"||c="the subgaleal bleed" 89:19 89:21
+c="radiation" 37:14 37:14||r="PIP"||c="a 1/6 systolic ejection murmur" 37:2 37:6
+c="a small subdural hemorrhage" 88:12 88:15||r="PIP"||c="significant subgaleal bleed" 88:6 88:8
+c="factor 8 bolus" 83:5 83:7||r="TrAP"||c="the intracranial hemorrhage" 83:19 83:21
+c="management" 23:11 23:11||r="TrAP"||c="the increased bleeding" 23:13 23:15
+c="the ptt" 58:5 58:6||r="TeRP"||c="elevation" 58:3 58:3
+c="elevation" 58:3 58:3||r="PIP"||c="inborn coagulopathy" 58:9 58:10
+c="an initial head ct scan" 48:0 48:4||r="TeRP"||c="extracranial soft tissue swelling" 48:7 48:10
+c="his head ultrasound" 90:0 90:2||r="TeRP"||c="interventricular hemorrhage" 90:7 90:8
+c="assessment" 23:9 23:9||r="TeCP"||c="the increased bleeding" 23:13 23:15
+c="bruising" 22:18 22:18||r="PIP"||c="a caput" 22:8 22:9
+c="severe anemia" 66:10 66:11||r="PIP"||c="an initial murmur" 66:2 66:4
+c="coagulopathy workup" 77:9 77:10||r="TeRP"||c="an elevated ptt level" 77:14 77:17
+c="coagulopathy workup" 77:9 77:10||r="TeRP"||c="the subgaleal bleed" 77:5 77:7
+c="phototherapy" 74:12 74:12||r="TrAP"||c="bleeding" 74:5 74:5
+c="critical anemia" 59:3 59:4||r="PIP"||c="the subgaleal hemorrhage" 59:7 59:9
+c="previous right quadriceps intramuscular injection" 47:13 47:17||r="TrCP"||c="small mass" 47:7 47:8
+c="heent" 27:0 27:0||r="TeRP"||c="swelling of the scalp tissue" 27:4 27:8
+c="heent" 27:0 27:0||r="TeRP"||c="ecchymosis" 27:13 27:13
+c="ecchymosis" 27:13 27:13||r="PIP"||c="swelling of the scalp tissue" 27:4 27:8
+c="swelling" 22:16 22:16||r="PIP"||c="a caput" 22:8 22:9
+c="multiple evaluations" 17:12 17:13||r="TeCP"||c="decreased fetal movement" 17:15 17:17
+c="vacuum assisted vaginal delivery" 18:8 18:11||r="TrAP"||c="spontaneous onset of labor" 18:2 18:5

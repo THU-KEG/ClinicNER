@@ -1,0 +1,86 @@
+207132235 SC
+51203606
+132775
+9/20/2000 12:00:00 AM
+ENDOMETRIAL CARCINOMA
+Signed
+DIS
+Admission Date :
+09/20/2000
+Report Status :
+Signed
+Discharge Date :
+09/22/2000
+ADMISSION DIAGNOSIS :
+ENDOMETRIAL CANCER .
+DISCHARGE DIAGNOSIS :
+ENDOMETRIAL CANCER .
+PROCEDURES :
+TOTAL ABDOMINAL HYSTERECTOMY AND BILATERAL SALPINGO-OOPHORECTOMY
+HISTORY OF PRESENT ILLNESS :
+This is a 48-year-old G 3 P 3 who presented to Dr. Fuscmadril &apos;s clinic after having an abnormal pap smear followed by an endometrial biopsy that was suggestive of grade 1 endometrial cancer .
+This is a patient who , over the past year , has had no menses and thought she had become menopausal .
+She then began spotting for several months with some constant brown discharge .
+A pap smear that was obtained by her primary care physician showed an endometrial cell and thus she was referred to a gynecologist for an endometrial biopsy .
+The endometrial biopsy showed grade 1 endometrial cancer .
+A decision was made to proceed with surgical management for this finding .
+PAST MEDICAL HISTORY :
+Migraines .
+ALLERGIES :
+Penicillin .
+PAST SURGICAL HISTORY :
+Two cesarean sections .
+PAST GYN HISTORY :
+Menarche at 13 , regular menses to the age of 46 .
+Then becoming irregular for several years .
+She had her first child at age 21 .
+She has had one normal spontaneous vaginal delivery and two cesarean sections .
+SOCIAL HISTORY :
+The patient was a prior off-and-on smoker but has quit in 01/19 .
+She is married .
+MEDICATIONS ON ADMISSION :
+Imitrex ; Indocin ; Celebrex ; Verapamil for migraines .
+FAMILY HISTORY :
+Mother with colonic polyps .
+She has a maternal uncle and maternal aunt both with colon cancer who have passed away from this disease .
+There was no additional history of breast , ovarian or uterine cancer in her family .
+PHYSICAL EXAMINATION :
+GENERAL :
+She is a well-developed , well-nourished female .
+She is 5 foot 4 inches and 159 pounds .
+BREASTS :
+No masses .
+LUNGS :
+Clear to auscultation .
+HEART :
+Regular rate and rhythm .
+ABDOMEN :
+Soft , mildly obese with Pfannenstiel scar visualized .
+PELVIC :
+Normal introitus , normal appearing cervix , a small , mobile uterus .
+No additional masses or nodules appreciated on exam .
+HOSPITAL COURSE :
+The patient was admitted on the day of her surgery which was 09/20/00 .
+She underwent a TAH-BSO which was uncomplicated .
+Details of the procedure can be found in the operative dictation .
+In short , frozen pathology from the uterus showed that there was a grade 1 cancer with no invasion of the myometrium .
+There was no nodal dissection done at that time .
+The patient tolerated the procedure extremely well and did well during her postoperative course .
+By postoperative day #2 she was eating , ambulating and voiding on her own .
+She decided to now be discharged home at this time .
+She was discharged home with the following medications :
+DISCHARGE MEDICATIONS :
+Percocet ; Colace .
+FOLLOWUP :
+She will have a follow up appointment with Dr. Fuscmadril in four weeks .
+Dictated By :
+ARL STIREDELS , M.D. ZJ05
+Attending :
+EAN L. FUSCMADRIL , M.D. RY2 JE898/7007
+Batch :
+91309
+Index No. DOABVQ3G8W
+D :
+09/22/00
+T :
+09/23/00

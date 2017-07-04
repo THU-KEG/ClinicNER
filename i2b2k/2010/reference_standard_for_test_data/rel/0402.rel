@@ -1,0 +1,31 @@
+c="abdominal computerized tomography scan" 26:8 26:11||r="TeRP"||c="a gastric mass" 26:16 26:18
+c="endoscopy" 27:0 27:0||r="TeRP"||c="gastric carcinoma" 27:4 27:5
+c="the assessment" 58:0 58:1||r="TeRP"||c="poorly differentiated gastric adenocarcinoma" 58:16 58:19
+c="the cancer" 65:3 65:4||r="PIP"||c="a large mass" 65:8 65:10
+c="a previous surgical incision" 62:12 62:15||r="TrCP"||c="a small ventral hernia" 62:2 62:5
+c="the staples" 75:10 75:11||r="TrAP"||c="her wounds" 75:3 75:4
+c="near total thyroidectomy" 19:2 19:4||r="TrCP"||c="hypothyroidism" 19:0 19:0
+c="abdominal exploration" 62:9 62:10||r="TeRP"||c="a small ventral hernia" 62:2 62:5
+c="a urinary tract infection" 82:25 82:28||r="PIP"||c="numerous white cells" 82:20 82:22
+c="near total thyroidectomy" 32:26 32:28||r="TrAP"||c="nodular goiter" 32:30 32:31
+c="her electrocardiogram" 56:0 56:1||r="TeRP"||c="acute ischemic changes" 56:7 56:9
+c="resection" 34:10 34:10||r="TrCP"||c="her relative hypothyroidism" 34:6 34:8
+c="resection" 28:10 28:10||r="TrAP"||c="this carcinoma" 28:12 28:13
+c="examination of her abdomen" 46:0 46:3||r="TeRP"||c="a flat nontender abdomen" 46:5 46:8
+c="examination of her abdomen" 46:0 46:3||r="TeRP"||c="palpable masses" 46:10 46:11
+c="tylenol" 35:8 35:8||r="TrCP"||c="an allergy" 35:5 35:6
+c="thyrolar" 34:4 34:4||r="TrAP"||c="her relative hypothyroidism" 34:6 34:8
+c="her only medication" 34:0 34:2||r="TrAP"||c="her relative hypothyroidism" 34:6 34:8
+c="upper gastrointestinal series" 26:4 26:6||r="TeRP"||c="a gastric mass" 26:16 26:18
+c="resection" 58:23 58:23||r="TrAP"||c="poorly differentiated gastric adenocarcinoma" 58:16 58:19
+c="some dysuria" 82:9 82:10||r="PIP"||c="a urinary tract infection" 82:25 82:28
+c="some difficulties" 76:2 76:3||r="PIP"||c="confusion" 76:5 76:5
+c="a sundowning effect" 76:19 76:21||r="PIP"||c="confusion" 76:5 76:5
+c="a sundowning effect" 76:19 76:21||r="PIP"||c="some difficulties" 76:2 76:3
+c="biopsy" 27:2 27:2||r="TeRP"||c="gastric carcinoma" 27:4 27:5
+c="a subsequent workup" 26:0 26:2||r="TeRP"||c="a gastric mass" 26:16 26:18
+c="repair" 21:15 21:15||r="TrAP"||c="ventral hernia" 21:17 21:18
+c="physical examination" 40:1 40:2||r="TeRP"||c="acute distress" 40:13 40:14
+c="a urine specimen" 82:12 82:14||r="TeCP"||c="some dysuria" 82:9 82:10
+c="a urine specimen" 82:12 82:14||r="TeCP"||c="numerous white cells" 82:20 82:22
+c="a urine specimen" 82:12 82:14||r="TeCP"||c="a urinary tract infection" 82:25 82:28

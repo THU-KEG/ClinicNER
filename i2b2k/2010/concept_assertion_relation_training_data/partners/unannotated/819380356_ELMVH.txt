@@ -1,0 +1,78 @@
+819380356 ELMVH
+41246408
+8044487
+7/1/2005 12:00:00 AM
+TIA
+DIS
+Admission Date :
+07/01/2005
+Report Status :
+Discharge Date :
+07/02/2005
+****** DISCHARGE ORDERS ******
+SHUFFUPHFOUTCH , MARNYCAM S
+067-24-04-2 L32
+Room :
+92I-085
+Service :
+NEU
+DISCHARGE PATIENT ON :
+07/02/05 AT 07:00 PM
+CONTINGENT UPON
+Not Applicable
+WILL D / C ORDER BE USED AS THE D / C SUMMARY :
+YES
+Attending :
+KOTECHIRD , NA RYMOSHE , M.D.
+DISPOSITION :
+Home
+DISCHARGE MEDICATIONS :
+LISINOPRIL 10 MG PO QD
+Override Notice :
+Override added on 07/01/05 by TERP , SO , M.D. on order for KCL IMMEDIATE RELEASE PO ( ref # 01734383 )
+POTENTIALLY SERIOUS INTERACTION :
+LISINOPRIL and POTASSIUM CHLORIDE
+Reason for override :
+will monitor GLIPIZIDE XL 5 MG PO QD AGGRENOX ( ASPIRIN + DIPYRIDAMOLE ) 1 CAPSULE PO BID
+Number of Doses Required ( approximate ) :
+2
+DIET :
+House / Low chol / low sat. fat
+ACTIVITY :
+Resume regular exercise
+FOLLOW UP APPOINTMENT ( S ) :
+Dr. Grippe , neurologist 7/18/05 at 9:00AM scheduled , Dr. Arm , PCP 7/10/05 at 6:15PM scheduled , Sylvwoodaall Health Systems 7/3/05 , 24 hrs after discharge from hospital ,
+ALLERGY :
+NKA
+ADMIT DIAGNOSIS :
+TIA
+PRINCIPAL DISCHARGE DIAGNOSIS ;
+Responsible After Study for Causing Admission ) TIA
+OTHER DIAGNOSIS ;
+Conditions , Infections , Complications , affecting Treatment / Stay
+TIA
+OPERATIONS AND PROCEDURES :
+OTHER TREATMENTS / PROCEDURES ( NOT IN O.R. )
+Head CT , MRI , MRA - negative for hemorrhage , stroke / infarcts
+BRIEF RESUME OF HOSPITAL COURSE :
+54 year-old left-handed male with hx of HTN , DM , hyperlipidemia , CAD presented with left-sided throbbing headache , left blurry vision , left arm numbness and tingling lasting &lt; 12hours , transferred from Oma Hospital Medical Center ED to ELMVH for evaluation .
+MRI / MRA/CT was negative for infarcts or hemorrhage .
+Soon after his admission , he had complete resolution of his symptoms with no deficits .
+We continued his home meds for DM , HTN , hyperlipidemia , and added aggrenox for anti-coagulation .
+His cardiac enzymes were negative x2 and ESR was within normal limits .
+He received an echo here , and will be discharged with a Holter monitor to be brought back 24 hours after he leaves the hospital .
+After discussing with him his risk factors for another TIA / stroke , which included his hx of 8 cig / day x29 yrs , we emphasized that it would be important to stop smoking .
+Incidentally , he reported a 14lb weight loss over the past few months concerning because he wasn &apos;t trying to lose weight .
+He was guaiac negative here , and a CXR was normal .
+We asked him to follow-up with his PCP for this .
+ADDITIONAL COMMENTS :
+Please see your primary physian on the date instructed to get referral for neurology before your Neurology appointment .
+DISCHARGE CONDITION :
+Stable
+TO DO / PLAN :
+1. Neuro - follow-up with stroke clinic neurologist , Dr. Grippe
+2. CVS - follow-up holter and echo results with PCP , Dr. Arm
+No dictated summary
+ENTERED BY :
+ZOCH , YRO N. , M.D. ( HW19 ) 07/02/05 04:01 PM
+****** END OF DISCHARGE ORDERS ******

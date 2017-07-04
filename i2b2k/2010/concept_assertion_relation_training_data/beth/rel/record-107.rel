@@ -1,0 +1,14 @@
+c="prematurity" 91:5 91:5||r="PIP"||c="bradycardia" 91:3 91:3
+c="prematurity" 91:5 91:5||r="PIP"||c="apnea" 91:1 91:1
+c="antibiotics" 90:6 90:6||r="TrAP"||c="sepsis" 90:3 90:3
+c="immunization" 87:13 87:13||r="TrAP"||c="influenza" 87:15 87:15
+c="nystatin powder" 64:15 64:16||r="TrAP"||c="an erythematous perianal rash" 64:5 64:8
+c="caffeine therapy" 46:4 46:5||r="TrIP"||c="apnea" 46:12 46:12
+c="caffeine therapy" 46:4 46:5||r="TrIP"||c="bradycardic events" 46:14 46:15
+c="influenza vaccination" 86:0 86:1||r="TrAP"||c="chronic lung disease" 86:13 86:15
+c="caffeine" 45:17 45:17||r="TrAP"||c="bradycardic spells of prematurity" 45:8 45:11
+c="caffeine" 45:17 45:17||r="TrAP"||c="some apnea" 45:5 45:6
+c="a single phototherapy" 59:19 59:21||r="TrAP"||c="physiologic hyperbilirubinemia" 59:2 59:3
+c="his admission complete blood count" 57:0 57:4||r="TeRP"||c="bands" 57:18 57:18
+c="the cardiovascular examination" 33:0 33:2||r="TeRP"||c="murmurs" 33:10 33:10
+c="stat cesarean section" 12:10 12:12||r="TrAP"||c="fetal bradycardia" 12:14 12:15

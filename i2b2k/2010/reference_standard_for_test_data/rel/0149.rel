@@ -1,0 +1,69 @@
+c="brain hemorrhage" 228:14 228:15||r="PIP"||c="weakness" 228:17 228:17
+c="brain hemorrhage" 228:14 228:15||r="PIP"||c="numbness" 228:19 228:19
+c="brain hemorrhage" 228:14 228:15||r="PIP"||c="facial droop" 228:23 228:24
+c="brain hemorrhage" 228:14 228:15||r="PIP"||c="visual changes" 228:26 228:27
+c="brain hemorrhage" 228:14 228:15||r="PIP"||c="vertigo" 228:29 228:29
+c="brain hemorrhage" 228:14 228:15||r="PIP"||c="loss of coordination" 228:31 228:33
+c="brain hemorrhage" 228:14 228:15||r="PIP"||c="worsened problems with walking" 228:36 228:39
+c="brain hemorrhage" 228:14 228:15||r="PIP"||c="tingling" 228:21 228:21
+c="initial exam" 167:1 167:2||r="TeRP"||c="not oriented to time" 167:6 167:9
+c="initial exam" 167:1 167:2||r="TeRP"||c="somewhat slow" 167:12 167:13
+c="initial exam" 167:1 167:2||r="TeRP"||c="difficulties generating a list of animals" 167:17 167:22
+c="ins / outs" 187:0 187:2||r="TeRP"||c="abnormal" 187:10 187:10
+c="hemorrhage" 154:25 154:25||r="PIP"||c="congophilic angiopathy" 154:28 154:29
+c="a labetalol drip" 174:21 174:23||r="TrAP"||c="initially elevated" 174:17 174:18
+c="seizure activity" 177:4 177:5||r="PIP"||c="a cortical bleed" 177:8 177:10
+c="stroke" 228:12 228:12||r="PIP"||c="weakness" 228:17 228:17
+c="stroke" 228:12 228:12||r="PIP"||c="numbness" 228:19 228:19
+c="stroke" 228:12 228:12||r="PIP"||c="facial droop" 228:23 228:24
+c="stroke" 228:12 228:12||r="PIP"||c="visual changes" 228:26 228:27
+c="stroke" 228:12 228:12||r="PIP"||c="vertigo" 228:29 228:29
+c="stroke" 228:12 228:12||r="PIP"||c="loss of coordination" 228:31 228:33
+c="stroke" 228:12 228:12||r="PIP"||c="worsened problems with walking" 228:36 228:39
+c="stroke" 228:12 228:12||r="PIP"||c="tingling" 228:21 228:21
+c="a mass" 171:7 171:8||r="PIP"||c="a hemorrhage in the r-frontal region" 171:10 171:15
+c="electrolytes" 187:4 187:4||r="TeRP"||c="abnormal" 187:10 187:10
+c="evaluation" 14:14 14:14||r="TeCP"||c="ich" 14:16 14:16
+c="repeat head ct" 156:0 156:2||r="TeRP"||c="significant change" 156:6 156:7
+c="serial scans" 32:52 32:53||r="TeCP"||c="underlying mass" 32:38 32:39
+c="dilantin" 177:23 177:23||r="TrCP"||c="allergy" 177:21 177:21
+c="repeat head ct" 32:4 32:6||r="TeRP"||c="residual deficits;" 32:12 32:13
+c="repeat head ct" 32:4 32:6||r="TeRP"||c="ich in 3rd , 4th , and l-lat ventricle" 32:16 32:24
+c="repeat head ct" 32:4 32:6||r="TeRP"||c="aneurysm" 32:27 32:27
+c="repeat head ct" 32:4 32:6||r="TeRP"||c="underlying mass" 32:38 32:39
+c="repeat head ct" 32:4 32:6||r="TeRP"||c="ich in r-temporal lobe" 32:31 32:34
+c="the sensory exam" 168:9 168:11||r="TeRP"||c="mildly decreased vibration and proprioception in both le" 168:13 168:20
+c="mildly decreased vibration and proprioception in both le" 168:13 168:20||r="PIP"||c="peripheral neuropathy" 168:23 168:24
+c="a walker" 23:20 23:21||r="TrAP"||c="unsteady" 23:12 23:12
+c="his persistently poor memory" 179:30 179:33||r="PIP"||c="dementia" 179:36 179:36
+c="an air / fluid level within the right maxillary sinus" 152:2 152:11||r="PIP"||c="acute sinusitis" 152:14 152:15
+c="repeat head ct" 191:9 191:11||r="TeCP"||c="underlying lesion" 191:34 191:35
+c="repeat head ct" 191:9 191:11||r="TeCP"||c="blood" 191:21 191:21
+c="guaifenesin" 205:0 205:0||r="TrAP"||c="cold symptoms" 205:21 205:22
+c="the electrocardiogram" 160:0 160:1||r="TeRP"||c="non-specific st-t wave abnormalities" 160:16 160:19
+c="a ct" 169:0 169:1||r="TeRP"||c="a new significant r-frontal intraparenchymal hemorrhage in the same location" 169:9 169:18
+c="midodrine" 40:5 40:5||r="TrAP"||c="orthostatic hypotension" 40:1 40:2
+c="keppra" 177:17 177:17||r="TrAP"||c="seizure activity" 177:4 177:5
+c="keppra" 177:17 177:17||r="TrAP"||c="allergy" 177:21 177:21
+c="review of bone windows" 151:0 151:3||r="TeRP"||c="skull base fracture" 151:9 151:11
+c="review of bone windows" 151:0 151:3||r="TeRP"||c="skull bulge" 151:6 151:7
+c="guaifenesin" 220:1 220:1||r="TrAP"||c="cold symptoms" 220:22 220:23
+c="bp" 174:15 174:15||r="TeRP"||c="initially elevated" 174:17 174:18
+c="past intracranial hemorrhages" 166:11 166:13||r="PIP"||c="r-frontal hemorrhage" 166:19 166:20
+c="hba1c" 186:3 186:3||r="TeRP"||c="slightly elevated" 186:7 186:8
+c="hba1c" 186:3 186:3||r="TeRP"||c="borderline dm" 186:11 186:12
+c="slightly elevated" 186:7 186:8||r="PIP"||c="borderline dm" 186:11 186:12
+c="acute blood" 152:18 152:19||r="PIP"||c="acute trauma" 152:28 152:29
+c="contrast ct" 32:44 32:45||r="TeRP"||c="underlying mass" 32:38 32:39
+c="41 x 23 mm acute intraparenchymal hematoma at the right frontal lobe" 154:0 154:11||r="PIP"||c="mild mass effect upon the ipsilateral lateral ventricle" 154:14 154:21
+c="41 x 23 mm acute intraparenchymal hematoma at the right frontal lobe" 154:0 154:11||r="PIP"||c="hemorrhage" 154:25 154:25
+c="pacemaker" 18:21 18:21||r="TrAP"||c="arrhythmia" 18:25 18:25
+c="mental status exam" 226:8 226:10||r="TeRP"||c="memory loss" 226:12 226:13
+c="mental status exam" 226:8 226:10||r="TeRP"||c="dementia" 226:15 226:15
+c="mental status exam" 226:8 226:10||r="TeRP"||c="focal weakness" 226:20 226:21
+c="memory loss" 226:12 226:13||r="PIP"||c="dementia" 226:15 226:15
+c="pacemaker placement" 33:1 33:2||r="TrAP"||c="afibb" 33:6 33:6
+c="pacemaker placement" 33:1 33:2||r="TrAP"||c="arrhythmia" 33:4 33:4
+c="pacemaker placement" 33:1 33:2||r="TrAP"||c="nsvt" 33:13 33:13
+c="sinemet" 35:0 35:0||r="TrAP"||c="pd" 35:14 35:14
+c="this medication" 178:0 178:1||r="TrAP"||c="the bleed" 178:11 178:12

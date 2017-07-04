@@ -1,0 +1,52 @@
+c="a small bowel follow through" 34:9 34:13||r="TeCP"||c="guaiac-positive" 34:6 34:6
+c="heparin" 88:17 88:17||r="TrAP"||c="a-fib." 88:5 88:5
+c="patient &apos;s troponin bump" 84:0 84:3||r="PIP"||c="demand ischemia" 84:10 84:11
+c="his gi bleed" 84:16 84:18||r="PIP"||c="demand ischemia" 84:10 84:11
+c="two-vessel cabg" 42:8 42:9||r="TrAP"||c="coronary artery disease" 42:2 42:4
+c="a small polyp" 71:0 71:2||r="PIP"||c="stigmata" 71:9 71:9
+c="a small polyp" 71:0 71:2||r="PIP"||c="old bleeding" 71:11 71:12
+c="old bleeding" 71:11 71:12||r="PIP"||c="stigmata" 71:9 71:9
+c="the coumadin" 68:40 68:41||r="TrNAP"||c="continued bleeding" 68:33 68:34
+c="lasix" 98:8 98:8||r="TrCP"||c="thrombocytopenia" 98:23 98:23
+c="blood products" 97:21 97:22||r="TrCP"||c="hypervolemic" 97:8 97:8
+c="his diuretics" 97:12 97:13||r="TrCP"||c="hypervolemic" 97:8 97:8
+c="guaiac-positive stool" 24:20 24:21||r="PIP"||c="a low hematocrit" 24:13 24:15
+c="cold biopsies" 72:8 72:9||r="TeCP"||c="another polyp" 72:0 72:1
+c="lasix" 98:31 98:31||r="TrCP"||c="thrombocytopenia" 98:23 98:23
+c="edematous" 70:33 70:33||r="PIP"||c="erosive gastritis of the body" 70:18 70:22
+c="his chest x-ray" 58:0 58:2||r="TeRP"||c="edema" 58:10 58:10
+c="his chest x-ray" 58:0 58:2||r="TeRP"||c="small bilateral effusions" 58:14 58:16
+c="his chest x-ray" 58:0 58:2||r="TeRP"||c="infiltrates" 58:12 58:12
+c="his coumadin" 68:0 68:1||r="TrNAP"||c="the bleeding" 68:8 68:9
+c="an endoclip" 71:14 71:15||r="TrAP"||c="a small polyp" 71:0 71:2
+c="his ekg" 56:0 56:1||r="TeRP"||c="left axis deviation" 56:10 56:12
+c="his ekg" 56:0 56:1||r="TeRP"||c="right bundle branch block" 56:5 56:8
+c="his ua" 57:0 57:1||r="TeRP"||c="10-17 white blood cells" 57:3 57:6
+c="his ua" 57:0 57:1||r="TeRP"||c="trace leukocyte esterase" 57:8 57:10
+c="his ua" 57:0 57:1||r="TeRP"||c="hyaline casts" 57:11 57:12
+c="an eeg" 43:11 43:12||r="TeRP"||c="a recent bleed" 43:24 43:26
+c="an eeg" 43:11 43:12||r="TeRP"||c="gastritis" 43:18 43:18
+c="an eeg" 43:11 43:12||r="TeRP"||c="oozing" 43:20 43:20
+c="an eeg" 43:11 43:12||r="TeRP"||c="his first gi bleed" 43:5 43:8
+c="oozing" 43:20 43:20||r="PIP"||c="gastritis" 43:18 43:18
+c="blood transfusions" 42:49 42:50||r="TrAP"||c="prior gi bleed" 42:45 42:47
+c="a hyperplastic polyp" 74:4 74:6||r="PIP"||c="acute and chronic inflammation" 74:8 74:11
+c="a hyperplastic polyp" 74:4 74:6||r="PIP"||c="erosion" 74:13 74:13
+c="a hyperplastic polyp" 74:4 74:6||r="PIP"||c="reactive epithelial changes" 74:15 74:17
+c="a hyperplastic polyp" 74:4 74:6||r="PIP"||c="dysplasia" 74:20 74:20
+c="general exam" 39:0 39:1||r="TeRP"||c="mildly distended" 39:32 39:33
+c="general exam" 39:0 39:1||r="TeRP"||c="edema" 39:44 39:44
+c="general exam" 39:0 39:1||r="TeRP"||c="any rashes" 39:48 39:49
+c="general exam" 39:0 39:1||r="TeRP"||c="pale mucous membranes" 39:8 39:10
+c="general exam" 39:0 39:1||r="TeRP"||c="left lateral eye deviation" 39:12 39:15
+c="general exam" 39:0 39:1||r="TeRP"||c="nontender" 39:38 39:38
+c="general exam" 39:0 39:1||r="TeRP"||c="2/6 holosystolic murmur" 39:20 39:22
+c="his coumadin" 88:13 88:14||r="TrAP"||c="a-fib." 88:5 88:5
+c="a colonoscopy" 42:56 42:57||r="TeRP"||c="neoplasia" 42:63 42:63
+c="a colonoscopy" 42:56 42:57||r="TeRP"||c="scattered diverticuli" 42:65 42:66
+c="a colonoscopy" 42:56 42:57||r="TeRP"||c="prior gi bleed" 42:45 42:47
+c="the biopsy" 74:0 74:1||r="TeRP"||c="a hyperplastic polyp" 74:4 74:6
+c="the biopsy" 74:0 74:1||r="TeRP"||c="acute and chronic inflammation" 74:8 74:11
+c="the biopsy" 74:0 74:1||r="TeRP"||c="dysplasia" 74:20 74:20
+c="the biopsy" 74:0 74:1||r="TeRP"||c="erosion" 74:13 74:13
+c="the biopsy" 74:0 74:1||r="TeRP"||c="reactive epithelial changes" 74:15 74:17

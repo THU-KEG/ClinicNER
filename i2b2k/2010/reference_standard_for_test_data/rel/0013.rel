@@ -1,0 +1,18 @@
+c="immunization" 99:14 99:14||r="TrAP"||c="influenza" 99:16 99:16
+c="delivery" 19:5 19:5||r="TrAP"||c="preterm labor" 19:7 19:8
+c="repeat cesarean section" 19:16 19:18||r="TrAP"||c="preterm labor" 19:7 19:8
+c="repeat cesarean section" 19:16 19:18||r="TrAP"||c="cervical dilation" 19:10 19:11
+c="intubated" 36:2 36:2||r="TrAP"||c="increased respiratory distress" 36:9 36:11
+c="gentamicin" 66:8 66:8||r="TrAP"||c="sepsis" 66:12 66:12
+c="synagis rsv prophylaxis" 97:3 97:5||r="TrAP"||c="neuromuscular disease" 97:56 97:57
+c="synagis rsv prophylaxis" 97:3 97:5||r="TrAP"||c="airway abnormalities" 97:59 97:60
+c="synagis rsv prophylaxis" 97:3 97:5||r="TrAP"||c="chronic lung disease" 97:67 97:69
+c="cesarean section" 12:17 12:18||r="TrAP"||c="progressive preterm labor" 12:21 12:23
+c="cesarean section" 12:17 12:18||r="TrAP"||c="triplet gestation" 12:25 12:26
+c="feeding advancement" 48:3 48:4||r="TrCP"||c="difficulty" 48:6 48:6
+c="head ultrasound" 70:0 70:1||r="TeRP"||c="intraventricular hemorrhage" 70:9 70:10
+c="a repeat head ultrasound" 71:0 71:3||r="TeRP"||c="periventricular leukomalacia" 71:31 71:32
+c="a repeat head ultrasound" 71:0 71:3||r="TeRP"||c="a slight increase of echogenicity in the caudothalamic groove" 71:11 71:19
+c="a slight increase of echogenicity in the caudothalamic groove" 71:11 71:19||r="PIP"||c="tiny bilateral germinal matrix hemorrhages" 71:24 71:28
+c="surfactant" 36:17 36:17||r="TrAP"||c="increased respiratory distress" 36:9 36:11
+c="ampicillin" 66:6 66:6||r="TrAP"||c="sepsis" 66:12 66:12

@@ -1,0 +1,60 @@
+c="airway protection" 170:5 170:6||r="TrAP"||c="change in mental status" 170:9 170:12
+c="nasal washings" 156:0 156:1||r="TeRP"||c="influenza" 156:3 156:3
+c="s/p l shoulder hemiarthroplasty" 52:1 52:4||r="TrAP"||c="a left humeral fracuture" 52:6 52:9
+c="film" 180:14 180:14||r="TeRP"||c="a new humerus fracture distal to the hardware" 180:5 180:12
+c="vancomycin" 160:3 160:3||r="TrAP"||c="empiric line infection" 160:10 160:12
+c="the pt 's vs" 29:4 29:7||r="TeRP"||c="initial hypertensive" 29:22 29:23
+c="the pt 's vs" 29:4 29:7||r="TeRP"||c="a fever" 29:11 29:12
+c="the pt 's vs" 29:4 29:7||r="TeRP"||c="tachycardia" 29:16 29:16
+c="hd" 41:11 41:11||r="TrAP"||c="esrd" 41:5 41:5
+c="linezolid" 165:12 165:12||r="TrAP"||c="vre infection in the urine" 165:17 165:21
+c="a pea arrest" 52:16 52:18||r="PIP"||c="pe" 52:21 52:21
+c="urine culture" 161:0 161:1||r="TeRP"||c="vre" 161:6 161:6
+c="pe" 53:1 53:1||r="PIP"||c="pea arrest" 53:5 53:6
+c="slightly limited" 186:5 186:6||r="PIP"||c="hypotension" 186:8 186:8
+c="hd" 185:3 185:3||r="TrAP"||c="esrd" 185:1 185:1
+c="fluconazole" 167:5 167:5||r="TrAP"||c="yeast in the urine" 167:7 167:10
+c="an insulin drip" 184:10 184:12||r="TrAP"||c="type 2 dm" 184:1 184:3
+c="chest pain" 172:9 172:10||r="PIP"||c="associated symptoms" 172:27 172:28
+c="patient 's le ulcers" 153:0 153:3||r="PIP"||c="infection" 153:15 153:15
+c="diabetic nephropathy" 41:1 41:2||r="PIP"||c="esrd" 41:5 41:5
+c="flagyl" 168:3 168:3||r="TrAP"||c="c. diff. colitis" 168:6 168:8
+c="fluconazole" 167:16 167:16||r="TrAP"||c="yeast in the urine" 167:7 167:10
+c="hd" 42:4 42:4||r="TrNAP"||c="her illness" 42:10 42:11
+c="hemodialysis" 252:5 252:5||r="TrAP"||c="chronic kidney disease" 252:0 252:2
+c="intubated" 31:6 31:6||r="TrAP"||c="obtunded" 31:2 31:2
+c="echo" 175:0 175:0||r="TeRP"||c="wma" 175:5 175:5
+c="tylenol" 22:19 22:19||r="TrAP"||c="a headache" 22:7 22:8
+c="tylenol" 22:19 22:19||r="TrAP"||c="fevers" 22:10 22:10
+c="ecg" 173:0 173:0||r="TeRP"||c="new diffuse twi in all leads" 173:2 173:7
+c="hd." 19:22 19:22||r="TrCP"||c="overdiuresis" 19:20 19:20
+c="ua" 149:4 149:4||r="TeRP"||c="infection" 149:12 149:12
+c="lp" 149:2 149:2||r="TeRP"||c="infection" 149:12 149:12
+c="hemiarthroplasty" 179:23 179:23||r="TrAP"||c="a left shoulder fracture" 179:18 179:21
+c="a septic component" 20:2 20:4||r="PIP"||c="the hypotension" 20:6 20:7
+c="abdominal ct" 149:6 149:7||r="TeRP"||c="infection" 149:12 149:12
+c="airway protection" 31:8 31:9||r="TrAP"||c="obtunded" 31:2 31:2
+c="cxr" 149:0 149:0||r="TeRP"||c="infection" 149:12 149:12
+c="levoflox" 25:10 25:10||r="TrAP"||c="febrile" 25:5 25:5
+c="levophed" 36:13 36:13||r="TrAP"||c="continued hypotension" 36:15 36:16
+c="esrd" 185:7 185:7||r="PIP"||c="her dm" 185:10 185:11
+c="hd" 185:15 185:15||r="TrAP"||c="esrd" 185:7 185:7
+c="heparin drip" 189:6 189:7||r="TrAP"||c="pe" 189:1 189:1
+c="sepsis protocol" 145:6 145:7||r="TrAP"||c="sepsis" 145:1 145:1
+c="vancomycin" 25:12 25:12||r="TrAP"||c="febrile" 25:5 25:5
+c="hd" 18:9 18:9||r="TrAP"||c="esrd" 18:7 18:7
+c="hypotension" 19:14 19:14||r="PIP"||c="overdiuresis" 19:20 19:20
+c="recent pe" 18:16 18:17||r="PIP"||c="pea arrest" 18:20 18:21
+c="monitor" 197:2 197:2||r="TeCP"||c="infection" 197:6 197:6
+c="recent pe" 144:16 144:17||r="PIP"||c="pea arrest" 144:20 144:21
+c="hd" 144:9 144:9||r="TrAP"||c="esrd" 144:7 144:7
+c="more edematous" 200:4 200:5||r="PIP"||c="an abscess in the area" 200:23 200:27
+c="more edematous" 200:4 200:5||r="PIP"||c="a clot" 200:20 200:21
+c="more edematous" 200:4 200:5||r="PIP"||c="fracture" 200:14 200:14
+c="ultrasound" 201:0 201:0||r="TeRP"||c="clot" 201:2 201:2
+c="urine cx" 134:0 134:1||r="TeRP"||c="vre" 134:6 134:6
+c="necrosis of the heels and posterior calf" 196:6 196:12||r="PIP"||c="dry gangrene of toes bilaterally" 196:0 196:4
+c="pe" 252:15 252:15||r="PIP"||c="s/p pea arrest" 252:17 252:19
+c="the blood" 257:8 257:9||r="TeRP"||c="any bacteria" 257:4 257:5
+c="an infection" 256:12 256:13||r="PIP"||c="low blood pressure" 256:4 256:6
+c="an infection" 256:12 256:13||r="PIP"||c="fevers" 256:8 256:8

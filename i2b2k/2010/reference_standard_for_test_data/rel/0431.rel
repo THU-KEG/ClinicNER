@@ -1,0 +1,9 @@
+c="elective left parietal stereotactic biopsy" 23:5 23:9||r="TeCP"||c="the tumor" 23:11 23:12
+c="motor examination" 42:1 42:2||r="TeRP"||c="a slight weakness of the right dorsi flexion and plantar flexion" 42:16 42:26
+c="head ct" 20:0 20:1||r="TeRP"||c="three lesions in the left parietal region" 20:8 20:14
+c="decadron" 22:17 22:17||r="TrIP"||c="the foot dragging" 22:2 22:4
+c="examination" 37:0 37:0||r="TeRP"||c="any murmurs" 37:8 37:9
+c="examination" 41:0 41:0||r="TeRP"||c="deficient" 41:19 41:19
+c="weakness" 19:16 19:16||r="PIP"||c="dragging of the right leg" 19:10 19:14
+c="the biopsy" 54:2 54:3||r="TeRP"||c="glioblastoma multiforme , grade iii/iii" 54:5 54:9
+c="rehabilitation" 47:33 47:33||r="TrAP"||c="a right sided deficit" 47:8 47:11

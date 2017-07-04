@@ -1,0 +1,96 @@
+897261359 EH
+74234285
+8765417
+5/23/2003 12:00:00 AM
+Atypical chest pain
+DIS
+Admission Date :
+05/23/2003
+Report Status :
+Discharge Date :
+05/25/2003
+****** DISCHARGE ORDERS ******
+MAAGTLANDBELB , CIOLEBOYCENA 737-86-45-0 S77
+Room :
+16U-636
+Service :
+CAR
+DISCHARGE PATIENT ON :
+Memorial Day AT 12:00 PM
+CONTINGENT UPON
+Not Applicable
+WILL D / C ORDER BE USED AS THE D / C SUMMARY :
+YES
+Attending :
+HUYSE , GLAYDSRY N , M.D.
+CODE STATUS :
+Full code
+DISPOSITION :
+Home
+DISCHARGE MEDICATIONS :
+ECASA ( ASPIRIN ENTERIC COATED ) 81 MG PO QD LISINOPRIL 10 MG PO QD
+Override Notice :
+Override added on 05/24/03 by WEERTSBREUNKAYS , LIE SHIRLH , M.D. on order for KCL IMMEDIATE RELEASE PO ( ref # 21307023 )
+POTENTIALLY SERIOUS INTERACTION :
+LISINOPRIL and POTASSIUM CHLORIDE
+Reason for override :
+aware METFORMIN 1,000 MG PO BID PRILOSEC ( OMEPRAZOLE ) 20 MG PO BID ATENOLOL 25 MG PO QD PRAVACHOL ( PRAVASTATIN ) 20 MG PO QHS
+Food / Drug Interaction Instruction
+Avoid grapefruit unless MD instructs otherwise .
+CALCIUM CARB + D ( 500MG ELEM CA + VIT D/200 IU ) 1
+TAB PO BID
+DIET :
+House / ADA 1800 cals / dy
+ACTIVITY :
+Resume regular exercise
+FOLLOW UP APPOINTMENT ( S ) :
+Dr. Ne Brown 08/08/03 scheduled , Ma Piernreukotefille 05/26/03 scheduled , Corjai Study ( Nutrition ) 06/02/03 scheduled ,
+ALLERGY :
+Iv contrast dyes , Avandia ( thiazolidinodione antidiab. )
+ADMIT DIAGNOSIS :
+Atypical Chest Pain
+PRINCIPAL DISCHARGE DIAGNOSIS ;
+Responsible After Study for Causing Admission ) Atypical chest pain
+OTHER DIAGNOSIS ;
+Conditions , Infections , Complications , affecting Treatment / Stay SMOKER HTN ATYP CP ( NEG EXER ECHO ) GERD dm ( diabetes mellitus )
+OPERATIONS AND PROCEDURES :
+Cardiac catherization
+OTHER TREATMENTS / PROCEDURES ( NOT IN O.R. )
+Exercise stress test Lower extremity ultrasound
+BRIEF RESUME OF HOSPITAL COURSE :
+CC :
+Atypical CP 54 yo smoker , hx of hyperlipidemia , htn , DM , TAH / BSO age 48 , and hx of atypical cp .
+She presented in 1999 and stress-ECHO , she exercised 9.5 min without pain , ECHO was nl with no wall motional abn , but EKG showed 1mm ST depressions .
+In 2001 , she again p / w CP and ETT again showed 1mm ST depression , exercised 9min .
+On 5/23/03 , pt p / w worsening R leg &quot; heat &quot; x 2 days , no difficulty ambulating , min pain .
+While waiting for LENI &apos;s in ED , she developed CP , similar to old pain , in low sub-sternal area radiating to left shoulder , no EKG changes .
+An ETT was done--pt exercised 9.5 min and there was 2mm ST depression inferiorly and laterally where persisted for 10 minutes during rest .
+Enzymes flat .
+*** Initial Plan *** ***
+CV isch :
+Pt has sig risk factors for CAD .
+But given no symptoms during exercise x 9.5 min and neg enzymes after exercise , CP is likely not CAD .
+However , she is still at high risk for CAD .
+Will plan for Cath on 5/24 .
+Cont ASA , Lopressor , Zocor .
+*** Vasc :
+LENI &apos;s to rule out DVT of R leg
+*** Endo :
+CZI sliding scale .
+*** Hosp course ***
+Enzymes were flat x3 and pt was ruled out for MI .
+A cardiac catheterization was performed which showed clean coronary arteries .
+Therefore , she pain was not cardiac .
+It is important to note in the future that she physiologically develops 1-2 mm ST depressions during ETT and she reports no pain during ETT .
+She should have Stress MIBI or Stress ECHO if there is suspicion of CAD in to future .
+Lower extremitiy non-invasives were performed for the R leg &quot; heat &quot; which were negative .
+She is discharged on 5/25 .
+ADDITIONAL COMMENTS :
+DISCHARGE CONDITION :
+Stable
+TO DO / PLAN :
+No dictated summary
+ENTERED BY :
+LOUSSKIHNOCE , LIXNAMI , M.D. , PH .D. ( FI08 )
+05/25/03 11:46 AM
+****** END OF DISCHARGE ORDERS ******

@@ -1,0 +1,133 @@
+Admission Date :
+2020-05-23
+Discharge Date :
+2020-05-29
+Date of Birth :
+1955-11-14
+Sex :
+F
+Service :
+MEDICINE
+Allergies :
+Patient recorded as having No Known Allergies to Drugs
+Attending : Sabrina Q. G. King , M.D.
+Chief Complaint : change in mental status
+Major Surgical or Invasive Procedure :
+Intubation
+Central line placement
+History of Present Illness :
+64 F with breast CA s/p mastectomy 17 y ago with local recurrence leading to paralysis of L arm ~ 5-6 y ago .
+Now declining gradually since January ( 30 lbs weight loss , becoming more confused , decreased appetite ).
+Patient declined workup / imaging for mets as outpatient .
+Moving toward home hospice .
+Over the last 2 weeks , husband reports patient becoming increasingly weak , unable to leave bed , confused , unable to feed herself .
+Seen by VNA and noted to be tachycardic and sent to Middleboroughfor evaluation .
+Now sent in to Amesbury by VNA because of asymptomatic sinus tachycardia .
+Transferred here for workup for CNS mets and admission .
+In John , VS - 99.6 , 135 , 122/65 , 20 .
+Neurology evaluated pt and felt to have intact brainstem reflexes but poor prognosis .
+Neurosurg evaluated pt and felt to not be surgical candidate ; recommended dilantin load and decadron .
+Received lorazepam prior to CT scan .
+Intubated for MS changes and lethargy and concern for airway protection .
+Post intubation , hypotensive and started on dopamine and transitioned to levophed .
+Received vancomycin / levafloxacin at OSH .
+Received metronidazole at Ricky in Mediplex Rehab Hospital .
+In CMED CCU , pt. responsive to noxious stimuli only .
+History obtained from husband as above .
+Past Medical History :
+PMHx :
+1. Left breast status post radical mastectomy in 2002 with adjuvant Tamoxifen for five years .
+This was followed by later development of lymphedema and left arm ( distal > proximal ) weakness due to metastatic disease in left axilla ensheathing nerve plexus .
+Treated with course of local XRT in Springfield Municipal Hospital and Tamoxifen .
+Switched to Arimedex in 2019-02-10 due to vaginal bleeding on Tamoxifen .
+Self discontinued Arimedex last month .
+No prior history of intracranial disease .
+2. Metastatic disease in left arm , brachial plexus resulting in left arm paresis , as above
+Social History :
+Married , lives with husband .
+Victoria 't worked since 2008 , prior to that worked in a school cafeteria .
++ children ( husband Gracia 't quantify ).
+Social smoker in her youth .
+Distant smoking history .
+Occasional alcohol use .
+Family History :
+Maternal aunt with breast cancer .
+Mother aged 85 , alive and well .
+Three healthy siblings .
+Father deceased from complications from MS .
+Physical Exam :
+T 99.8
+HR 124
+SBP 135/58
+RR 16
+Ox 100
+Gen :
+Cachectic , lays with eyes closed .
+HEENT :
+Temporal wasting .
+NC/AT .
+Anicteric .
+Mucosa dry .
+Neck :
+Supple .
+Lungs :
+Clear anterolaterally .
+No R/R/W .
+Cardiac :
+Tachycardic , regular .
+S1/S2 .
+No M/R/G .
+Abd :
+Soft , NT , ND , + NABS .
+No rebound or guarding .
+No HSM .
+Extrem :
+Wasted .
+Legs are rigid .
+Pertinent Results :
+Head CT There is diffuse metastatic disease .
+Three discrete lesions are seen within the left frontal , right occipital , and left parietal lobes with significant surrounding vasogenic edema .
+The largest single lesion measures 3.7 x 3.4 cm .
+There is moderate surrounding edema with 10 mm rightward shift of the normally midline structures with associated mass effect on the lateral ventricles .
+The basilar cistern is preserved and there is no uncal herniation .
+The osseous structures are unremarkable .
+The paranasal sinuses and mastoid air cells are well aerated .
+CT torso
+1. Right middle lobe lung nodule , suspicious for metastatic disease .
+2. Right upper lobe lung opacities which appear confluent , most suggestive of infectious etiology , however , cannot entirely exclude metastatic lesions .
+Recommend follow up CT to ensure resolution .
+3. Multiple hypodense liver lesions which are mildly enhancing , most consistent with metastatic disease .
+4. Bilateral small pleural effusion , which certainly could be malignant given today 's findings and history of breast cancer .
+5. No evidence of bony metastases .
+6. Uterine cavity fluid of unclear etiology .
+Brief Hospital Course :
+Metastatic breast CA - Large brain mets with midline shift .
+Intubated for airway protection .
+Treated with IV dilantin and decadron .
+Patient mental status improved slightly .
+After discussion with primary oncologist goals of care where change to comfort .
+Dilantin was stopped .
+Will go home with prn morphine , ativan , and PR decadron .
+Pnuemonia - Possible aspiration .
+Completed a 7 day course of vancomycin and levofloxacin .
+Medications on Admission : none
+Discharge Medications :
+1. Morphine Concentrate 20 mg / mL Solution Sig : 2.5-20 mg PO Q1-2H (  ) as needed for pain .
+Disp :* 30 ml * Refills :* 0 *
+2. Lorazepam 0.5 mg Tablet Sig : 0.5-2 mg PO Q4-6H ( every 4 to 6 hours ) as needed for aggitation / seizure : Please dispense liquid .
+Disp :* 50 ml * Refills :* 0 *
+3. Dexamethasone 4 mg Tablet Sig : Two ( 2 ) Tablet PO Q8H ( every 8 hours ) : please give 8 mg suppository .
+Disp :* 90 suppository * Refills :* 0 *
+Discharge Disposition :
+Home with Service
+Discharge Diagnosis :
+Breast cancer
+Discharge Condition :
+Stable
+Discharge Instructions :
+Please call hospice for questions .
+Followup Instructions : as needed
+Ramirez Mary Lenora MD 74-114
+Completed by : Tony Cervantes MD 43-424 2020-05-29 @ 0951
+Signed electronically by : DR. Patricia Noland on : SAT 2020-05-30 9:10 AM
+( End of Report )

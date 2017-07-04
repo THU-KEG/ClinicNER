@@ -1,0 +1,50 @@
+481168525 WGH
+2223691
+500967
+8206408
+Christmas 12:00:00 AM
+ED Discharge Summary
+Unsigned
+DIS
+Report Status :
+Unsigned
+ED DISCHARGE NOTIFICATION / SUMMARY
+SCOSTGACMARV , HELAVEHARBRASTY
+MRN :
+2223691
+Age :
+30y
+REGISTRATION DATE :
+Christmas 04:18 PM
+Provider :
+ARL STIREDELS
+PRELIMINARY REPORT
+PCP notified by MD :
+E-mail PCP
+Benefits Assigned :
+Y
+Discharge Date / Time :
+12/25/2004 18:37
+Discharge Status :
+Discharged
+Condition on Discharge :
+Stable
+Patient States Complaint :
+PAIN BELOW LT BREAST
+Standardized Discharge Instructions :
+The patient was given printed instructions for chest pain ( English ) .
+Diagnosis :
+Atypical chest pain
+Treatment Rendered :
+Patient had a normal Chest x-ray , normal EKG , normal urine test , normal labs .
+Discharge Medications :
+none
+Follow up Service :
+Please see your PCP and have your echo .
+Disposition , Follow up and Instructions to Patient :
+Return to ER if any worsening of chest pain .
+PCP Name :
+BOUGESLINKEBREUNKOTE , GLAYDSRY N
+Provider Number :
+48951
+This report was created by STIREDELS , ARL 12/25/2004 06:40 PM

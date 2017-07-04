@@ -1,0 +1,138 @@
+Admission Date :
+2014-01-20
+Discharge Date :
+2014-01-21
+Date of Birth :
+1928-01-02
+Sex :
+M
+Service :
+MEDICINE
+Allergies :
+Patient recorded as having No Known Allergies to Drugs
+Attending : Michael V. Hamlett , M.D.
+Chief Complaint :
+Hypoxia
+Major Surgical or Invasive Procedure : none
+History of Present Illness :
+CC : dyspnea
+HPI :
+86 yo man with h/o CVA , CHF , recent episodes of aspiration pneumonia , who p/w dyspnea from his NH .
+Per the pt 's daughter , the patient has had 2-3 episodes of asp pna in the last 2 months , for which he has received IV abx at the NH with apparent resolution of symptoms .
+The daughter says that on the day PTA , when she visited the patient at the NH , he was " having a good day ," more interactive than usual and in good spirits .
+She was called at 430 am today from the NH with the news that the pt was not doing well , and she came to the Deanna to meet up with her father .
+Of note , the patient 's daughter and son-in-law confirm his desire to be DNR/DNI , stating that they want him to be comfortable .
+However , when asked if she thinks he would want comfort measures even if it meant that his respiratory status would worsen , the pt 's daughter says that he would not .
+In particular , she feels that the pt would not want a morphine drip if it would negatively impact his respiratory function .
+ROS : patient unable to communicate at current time
+Past Medical History :
+PMH :
+- DM2 , with mild background diabetic retinopathy
+- CVA x 2 , 1970 and 1996
+- HTN
+- CAD
+- CHF , LVEF unknown
+- PVD , s/p femoral-popliteal bypass
+- renal cell ca , s/p left nephrectomy 1992
+- BPH
+- dementia , since 2000 , baseline MMSE 21/29
+- s/p fall with right hip fx and ORIF
+- moderate R sided macular degeneration
+- Depression
+- s/p right inguinal hernia repair
+Social History :
+Social hx : came to the States 10 yrs ago with his wife .
+Robert a daughter who lives in Wareham .
+Used to work as an engineer at an automobile plant .
+World War II veteran .
+Currently living at Beth Israel Deaconess Hospital-Needham Rehab .
+Asian-speaking only .
+Family History : noncontributory
+Physical Exam :
+Vitals :
+T 102.8
+HR 113
+BP 157/85
+RR 35
+Sat 97% on BIPAP
+10-23
+Gen : frail , elderly caucasian man lying in stretcher , HOB at 45 degrees , breathing in moderate distress with accessory muscle use
+HEENT :
+BIPAP mask in place with no apparent leak , eyes closed , mouth open , no rhinorhea or oral discharge visible
+Neck :
+JVP flat
+CV : difficult to assess heart sounds over respiratory sounds , but appears to have RRR , nl s1 s2 , no murmurs
+Lungs :
+R lower 01-20 with coarse BS and rales ; L side clear ; no wheezing
+Abd : thin , nd , nt , soft , no masses palpable
+Ext : thin , no edema , multiple old well-healed scars on R leg
+Skin : warm and dry , no rash or breakdown noted though could not examine sacrum
+Neuro : reactive to pain , otherwise
+Pertinent Results :
+2014-01-20 05:30 AM BLOOD WBC - 10.9 RBC - 4.63 Hgb - 13.6 * Hct - 40.3 # MCV - 87 MCH - 29.3 MCHC - 33.7 RDW - 14.0 Plt Ct - 393 #
+2014-01-20 05:30 AM BLOOD Neuts - 82.6 * Lymphs - 14.5 * Monos - 2.2 Eos - 0.2 Baso - 0.4
+2014-01-20 02:08 PM BLOOD PT - 13.2 PTT - 27.4 INR ( PT )- 1.2
+2014-01-20 05:30 AM BLOOD Plt Ct - 393 #
+2014-01-20 05:30 AM BLOOD Glucose - 334 * UreaN - 22 * Creat - 0.9 Na - 144 K - 5.0 Cl - 108 HCO3 - 25 AnGap - 16
+2014-01-20 02:08 PM BLOOD CK ( CPK )- 275 *
+2014-01-20 05:30 AM BLOOD ALT - 15 AST - 22 LD ( LDH )- 254 * CK ( CPK )- 398 * AlkPhos - 125 * TotBili - 0.5
+2014-01-20 02:08 PM BLOOD CK-MB - 9 cTropnT - 0.08 *
+2014-01-20 05:30 AM BLOOD cTropnT - 0.05 *
+2014-01-20 05:30 AM BLOOD CK-MB - 7
+2014-01-20 05:30 AM BLOOD Albumin - 3.2 * Calcium - 9.3 Phos - 4.2 Mg - 1.8
+ABG s:
+2014-01-20 10:46 PM BLOOD Type - ART pO2 - 148 * pCO2 - 129 * pH - 7.03 * calHCO3 - 37 * Base XS - -1
+2014-01-20 11:49 AM BLOOD Type - ART PEEP - 5 FiO2 - 60 pO2 - 75 * pCO2 - 56 * pH - 7.29 * calHCO3 - 28 Base XS - 0 Intubat - NOT INTUBA Comment - BIPAP
+2014-01-20 10:46 PM BLOOD Glucose - 114 * Lactate - 1.8 K - 4.8
+2014-01-20 11:49 AM BLOOD Lactate - 3.0 * K - 5.1
+2014-01-20 11:49 AM BLOOD freeCa - 1.19
+CXR :
+IMPRESSION :
+Focal consolidation in the medial aspect of the right lower lung
+Brief Hospital Course :
+This 86 yo man with h/o CVA , CHF , recent episodes of aspiration pneumonia , presented with dyspnea from his NH , likely from new RLL pneumonia .
+He was started on Zosyn and Vanco for his presumed aspiration , " hospital " aquired PNA .
+PE was considered but less likely given his fevers and clear pneumonia on CXR .
+He was supported on BIPAP for his respiratory status .
+An ABG was attempted in the Deanna however it was limited by pt discomfort .
+ABG on arrival to the ICU was 7.29/56/75 .
+He was continued on BIPAP .
+Blood cultures and sputum cultures were sent .
+Over the course of the day he continued to decline .
+He was given some prn Morphine for comfort .
+In the evening of the day of admission he was noted to be increasingly somnolent .
+A repeat ABG was performed which was 7.03/129/148 .
+His family was notified that he was doing worse and came in to visit him .
+It was his family 's wish that he be made comfortable .
+Based upon this wish the BIPAP was removed and he was placed on nasal cannula .
+He was written for a morphine drip however he expired before this could be initiated .
+Secondary issues
+Elevated lactate :
+This was concerning for early sepsis given RLL PNA .
+His blood pressures remained elevated and he was hydrated with NS conservatively , given h/o CHF and dyspnea .
+DM2 :
+He was covered with a Insulin drip while unstable
+CV :
+CAD :
+He was not taking any PO medications per Hunt Center Rehab so all medications were held .
+Medications on Admission :
+Meds :
+- Paxil
+- Terazosin
+- Glucophage
+- Glyburide
+- Atenolol
+- Imdur
+Discharge Disposition :
+Expired
+Discharge Diagnosis :
+Pneumonia
+Discharge Condition : expired
+Discharge Instructions :
+N/A
+Followup Instructions :
+N/A
+Daniel Monica MD 55-804
+Completed by : Sheri John MD 30-456 2014-01-21 @ 0659
+Signed electronically by : DR. Meredith Davis on : Sandra 2014-03-13 1:53 PM
+( End of Report )

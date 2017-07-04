@@ -1,0 +1,95 @@
+578255201 EH
+85935173
+7407364
+10/29/2003 12:00:00 AM
+acute inferior MI
+DIS
+Admission Date :
+10/29/2003
+Report Status :
+Discharge Date :
+10/31/2003
+****** DISCHARGE ORDERS ******
+JESCBULLSSUBE , SHALL 402-31-92-9 U09
+Room :
+44W-464
+Service :
+MED
+DISCHARGE PATIENT ON :
+Halloween AT 01:00 PM
+CONTINGENT UPON
+Not Applicable
+WILL D / C ORDER BE USED AS THE D / C SUMMARY :
+YES
+Attending :
+NEDERIFT , NY EUNRI , M.D.
+CODE STATUS :
+Full code
+DISPOSITION :
+Home
+DISCHARGE MEDICATIONS :
+ECASA ( ASPIRIN ENTERIC COATED ) 81 MG PO QD Starting Today ( 10/31 ) FOLATE ( FOLIC ACID ) 1 MG PO QD ZESTRIL ( LISINOPRIL ) 10 MG PO QD Starting Today ( 10/31 ) MVI THERAPEUTIC ( THERAPEUTIC MULTIVITAMINS ) 1 TAB PO QD
+Alert overridden :
+Override added on 10/29/03 by KIH , SAEMARG DYA , M.D.
+POTENTIALLY SERIOUS INTERACTION :
+SIMVASTATIN and NIACIN , VIT. B-3
+Reason for override :
+aware PLAVIX ( CLOPIDOGREL ) 75 MG PO QD X 30 Days Starting IN AM ( Halloween )
+Alert overridden :
+Override added on 10/29/03 by KIH , SAEMARG DYA , M.D.
+POTENTIALLY SERIOUS INTERACTION :
+NAPROXEN and CLOPIDOGREL BISULFATE
+Reason for override :
+aware ATENOLOL 75 MG PO QD Starting Today ( Halloween ) LIPITOR ( ATORVASTATIN ) 40 MG PO QD Starting Today ( 10/31 )
+Alert overridden :
+Override added on 10/30/03 by :
+POTENTIALLY SERIOUS INTERACTION :
+NIACIN , VIT. B-3 and ATORVASTATIN CALCIUM
+Reason for override :
+aware
+DIET :
+House / Low chol / low sat. fat
+ACTIVITY :
+Walking as tolerated
+FOLLOW UP APPOINTMENT ( S ) :
+Dr. Ritahellna Em on 11/6 scheduled , Dr. Amine Guaytreftscost ( cardiology ) in 3-5 weeks ( 433-5066 ) scheduled ,
+ALLERGY :
+Shellfish
+ADMIT DIAGNOSIS :
+chest pain
+PRINCIPAL DISCHARGE DIAGNOSIS ;
+Responsible After Study for Causing Admission ) acute inferior MI
+OTHER DIAGNOSIS ;
+Conditions , Infections , Complications , affecting Treatment / Stay hypertension , hypercholesterolemia ,
+OA OPERATIONS AND PROCEDURES :
+OTHER TREATMENTS / PROCEDURES ( NOT IN O.R. )
+None
+BRIEF RESUME OF HOSPITAL COURSE :
+53 yo M with h / o hyperchol , HTN , tobacco use , FH heart disease p / w 3 wks chest pressure .
+Chest pressure initially approx 1x / day , usually in AM not associated with any activity .
+Described as bilateral , radiating to both arms , assoc with sweats and lasting 2-4 minutes .
+In last week , has become more intense and more frequent .
+3 days pta , occurred in AM with strenuous activity and lasted most of day .
+Night pta kept awake with pain overnight , so to ER in AM where EKG sig for TWI in inf and lat leads , VSS , PE unrevealing , CXR showing NAD , enzymes flat x 2 , LFTs WNL , CBC WNL .
+Pt had stress MIBI 8/00 that was completely normal ( 12 minutes exercise ) .
+1/6 PM , pt had 1 slight episode of same chest pressure .
+EKG during event showed increasing TWI inferiorly and slight STE in II .
+Pt started on heparin ( guaiac neg ) , plavix loaded , and integrilin .
+Given dose of zantac / solumedrol/benadryl for h / o shellfish allergy .
+Cards consulted and pt made NPO for planned AM cath .
+At 5 AM another chest pressure episode with EKG showing 2-3 mm STE in III and aVF .
+IV TNG made pain free .
+In cath , 60-70% RCA stenosis stented to zero .
+Pt stable after cath and lytes / hct stable in AM .
+Pt asymptomatic overnight and discharged on zestril , ECASA , atenolol , lipitor .
+TSH , Hgb A1C pending on d / c.
+ADDITIONAL COMMENTS :
+Please attempt to quit smoking .
+DISCHARGE CONDITION :
+Stable
+TO DO / PLAN :
+No dictated summary
+ENTERED BY :
+KIH , SAEMARG DYA , M.D. ( OA87 )
+10/31/03 09:59 AM
+****** END OF DISCHARGE ORDERS ******

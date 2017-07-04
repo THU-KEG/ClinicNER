@@ -1,0 +1,42 @@
+c="tracheostomy" 155:2 155:2||r="TrCP"||c="complication" 155:5 155:5
+c="zosyn" 154:12 154:12||r="TrAP"||c="aspiration" 154:9 154:9
+c="zosyn" 154:12 154:12||r="TrAP"||c="mrsa pneumonia" 154:4 154:5
+c="mrsa pneumonia" 154:4 154:5||r="PIP"||c="aspiration" 154:9 154:9
+c="linazolid" 154:23 154:23||r="TrIP"||c="fevers" 154:27 154:27
+c="linazolid" 154:23 154:23||r="TrIP"||c="decreased pulmonary secretions" 154:29 154:31
+c="linazolid" 154:23 154:23||r="TrAP"||c="mrsa pneumonia" 154:4 154:5
+c="linazolid" 154:23 154:23||r="TrAP"||c="aspiration" 154:9 154:9
+c="levo" 154:16 154:16||r="TrAP"||c="aspiration" 154:9 154:9
+c="levo" 154:16 154:16||r="TrAP"||c="mrsa pneumonia" 154:4 154:5
+c="vanc" 154:14 154:14||r="TrAP"||c="aspiration" 154:9 154:9
+c="vanc" 154:14 154:14||r="TrAP"||c="mrsa pneumonia" 154:4 154:5
+c="congestion" 146:4 146:4||r="PIP"||c="edema" 146:6 146:6
+c="bisacodyl" 174:1 174:1||r="TrAP"||c="constipation" 174:32 174:32
+c="colostomy" 21:3 21:3||r="TrAP"||c="ulcerative colitis" 21:0 21:1
+c="cva" 24:0 24:0||r="PIP"||c="right sided weakness" 24:3 24:5
+c="serial ct head" 165:0 165:2||r="TeRP"||c="decreased blood" 165:4 165:5
+c="chronic microvascular infarction" 120:20 120:22||r="PIP"||c="decreased attenuation in the periventricular and subcortical white matter" 120:5 120:13
+c="intubated" 150:0 150:0||r="TrAP"||c="desats" 150:4 150:4
+c="non-contrast head ct" 92:0 92:2||r="TeRP"||c="a small amount of hemorrhage" 92:6 92:10
+c="subarachnoid hemorrhage" 182:0 182:1||r="PIP"||c="bilateral intraventricular hemorrhage" 182:3 182:5
+c="magnesium hydroxide" 175:1 175:2||r="TrAP"||c="consitpation" 175:26 175:26
+c="nasogastric tube placement" 64:25 64:27||r="TrCP"||c="extreme head tilting to the right" 64:7 64:12
+c="intubation" 64:23 64:23||r="TrCP"||c="extreme head tilting to the right" 64:7 64:12
+c="noncontrast cervical spine ct" 62:0 62:3||r="TeRP"||c="minimally displaced and comminuted fractures through the left c7 and t1 transverse processes" 62:7 62:19
+c="sedated" 150:2 150:2||r="TrAP"||c="desats" 150:4 150:4
+c="sclerosis" 71:3 71:3||r="PIP"||c="opacification of the visualized left mastoid air cells and mastoid tip" 71:5 71:15
+c="biapical lung scarring" 70:0 70:2||r="PIP"||c="mild bronchiectasis" 70:4 70:5
+c="pneumonia" 139:29 139:29||r="PIP"||c="right upper lobe consolidation" 139:23 139:26
+c="contrast - enhanced mri of the brain" 105:18 105:24||r="TeCP"||c="an intraventricular mass" 105:10 105:12
+c="contrast - enhanced mri of the brain" 105:18 105:24||r="TeCP"||c="an atypically located blood clot" 105:4 105:8
+c="the previous study" 123:18 123:20||r="TeRP"||c="a small amount of blood layering in both lateral ventricles" 123:2 123:11
+c="coumadin" 19:4 19:4||r="TrAP"||c="atrial fibrillation" 19:0 19:1
+c="cataract surgery" 25:3 25:4||r="TrAP"||c="cataracts" 25:0 25:0
+c="ativan" 163:4 163:4||r="TrAP"||c="agitation" 163:8 163:8
+c="haldol" 163:2 163:2||r="TrAP"||c="agitation" 163:8 163:8
+c="ct head" 152:0 152:1||r="TeRP"||c="sah" 152:5 152:5
+c="significant radiographic change" 139:19 139:21||r="PIP"||c="right upper lobe consolidation" 139:23 139:26
+c="trauma" 135:7 135:7||r="PIP"||c="rib fx" 135:4 135:5
+c="portable supine chest radiograph" 139:0 139:3||r="TeRP"||c="edema" 139:7 139:7
+c="portable supine chest radiograph" 139:0 139:3||r="TeRP"||c="right upper lobe consolidation" 139:23 139:26
+c="portable supine chest radiograph" 139:0 139:3||r="TeRP"||c="significant radiographic change" 139:19 139:21

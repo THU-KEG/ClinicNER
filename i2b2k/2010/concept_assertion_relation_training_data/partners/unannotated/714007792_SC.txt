@@ -1,0 +1,66 @@
+714007792 SC
+46125090
+233723
+8/22/2002 12:00:00 AM
+L breast CA , s / p L mastectomy
+DIS
+Admission Date :
+08/22/2002
+Report Status :
+Discharge Date :
+08/23/2002
+****** DISCHARGE ORDERS ******
+SOSTRE , MADDLENEFRANNIK P. 851-92-00-3 G25
+Room :
+98X-906
+Service :
+OSS
+DISCHARGE PATIENT ON :
+08/23/02 AT 12:00 PM
+CONTINGENT UPON
+Not Applicable
+WILL D / C ORDER BE USED AS THE D / C SUMMARY :
+YES
+Attending :
+WORK , SANI , M.D.
+DISPOSITION :
+Home w/ services
+DISCHARGE MEDICATIONS :
+COLACE ( DOCUSATE SODIUM ) 100 MG PO BID PERCOCET 1-2 TAB PO Q4H PRN pain
+DIET :
+No Restrictions Activity - As tolerated
+RETURN TO WORK :
+Not Applicable
+FOLLOW UP APPOINTMENT ( S ) :
+Dr. Work 5-10 days , call office tommorow for an appointment ,
+ALLERGY :
+Sulfa
+ADMIT DIAGNOSIS :
+L breast CA
+PRINCIPAL DISCHARGE DIAGNOSIS ; Responsible After Study for Causing Admission ) L breast CA , s / p L mastectomy
+OTHER DIAGNOSIS ; Conditions , Infections , Complications , affecting Treatment / Stay none
+OPERATIONS AND PROCEDURES :
+08/22/02 BREUTZFREIERM , VIENNEE , M.D. LEFT MASTECTOMY
+OTHER TREATMENTS / PROCEDURES ( NOT IN O.R. )
+None
+BRIEF RESUME OF HOSPITAL COURSE :
+43 year old woman with previous history of L breast mass which an iinitial biopsy demonstrated to be Invasive ductal CA and DCIS .
+Sentinal node biopsy at that time demonstrated negative nodes .
+The margins of the initial excison werepositive in the anterior and posterior margin .
+Now patient presents for L mastectomy .
+Pateint underwent the procedure without complication .
+Patient was d&apos;cd to PACU and then to floor .
+On floor pain was well controled with percocet , patient voided without difficulty , and was taking PO without nausea or vomiting at time of discharge .
+Patient discharged and instructed to followup with Dr. Work in 5-10 days .
+ADDITIONAL COMMENTS :
+1. Continue all preop medications
+2. Dressing may be removed 2 days after operation
+3. No driving on percocet
+DISCHARGE CONDITION :
+Satisfactory
+TO DO / PLAN :
+follow up with Dr. Work
+No dictated summary
+ENTERED BY :
+PASCOUGH , SQUALENELLFORD , M.D. ( LM92 ) 08/23/02 10:15 AM
+****** END OF DISCHARGE ORDERS ******

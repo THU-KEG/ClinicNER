@@ -1,0 +1,30 @@
+c="nebs" 125:10 125:10||r="TrAP"||c="copd" 125:2 125:2
+c="2l/nc" 23:15 23:15||r="TrAP"||c="hypoxic respiratory distress" 23:9 23:11
+c="echo" 86:0 86:0||r="TeRP"||c="mildly dilated" 86:6 86:7
+c="steroids" 125:8 125:8||r="TrAP"||c="copd" 125:2 125:2
+c="continued home regimen" 145:3 145:5||r="TrAP"||c="depression" 145:1 145:1
+c="bb" 139:5 139:5||r="TrAP"||c="a fib" 139:1 139:2
+c="hypercarbia" 120:11 120:11||r="PIP"||c="intermittent somnolence" 120:8 120:9
+c="iv lasix" 118:4 118:5||r="TrAP"||c="respiratory distress" 118:15 118:16
+c="ap chest" 106:2 106:3||r="TeRP"||c="mild pulmonary edema" 106:10 106:12
+c="insulin" 144:3 144:3||r="TrAP"||c="dm" 144:1 144:1
+c="mvr" 19:11 19:11||r="TrAP"||c="moderate as" 19:7 19:8
+c="insulin" 40:4 40:4||r="TrAP"||c="dm 2" 40:1 40:2
+c="supplemental o2" 20:17 20:18||r="TrAP"||c="worsening chf/volume overload" 20:7 20:9
+c="cri" 136:10 136:10||r="PIP"||c="dm" 136:12 136:12
+c="cri" 136:10 136:10||r="PIP"||c="renal insufficiency" 136:1 136:2
+c="bipap" 118:18 118:18||r="TrAP"||c="respiratory distress" 118:15 118:16
+c="ekg" 131:9 131:9||r="TeCP"||c="cad" 131:2 131:2
+c="increased" 103:6 103:6||r="PIP"||c="pulmonary artery diastolic hypertension" 103:8 103:11
+c="chf" 117:22 117:22||r="PIP"||c="her repiratory failure" 117:12 117:14
+c="the pressure gradient" 105:15 105:17||r="TeRP"||c="increased" 105:24 105:24
+c="the end-diastolic pulmonic regurgitation velocity" 103:0 103:4||r="TeRP"||c="pulmonary artery diastolic hypertension" 103:8 103:11
+c="the end-diastolic pulmonic regurgitation velocity" 103:0 103:4||r="TeRP"||c="increased" 103:6 103:6
+c="right ventricular systolic function" 93:0 93:3||r="TeRP"||c="depressed" 93:5 93:5
+c="coumadin" 141:5 141:5||r="TrNAP"||c="elevated inr" 141:2 141:3
+c="iv morphine" 118:10 118:11||r="TrAP"||c="respiratory distress" 118:15 118:16
+c="tte" 121:0 121:0||r="TeRP"||c="moderate ms" 121:8 121:9
+c="tte" 121:0 121:0||r="TeRP"||c="moderate as" 121:5 121:6
+c="tte" 121:0 121:0||r="TeRP"||c="mod pulm htn" 121:11 121:13
+c="acetazolamide" 118:7 118:7||r="TrAP"||c="respiratory distress" 118:15 118:16
+c="dsypnea" 19:24 19:24||r="PIP"||c="increased work of breathing" 19:26 19:29

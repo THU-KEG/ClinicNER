@@ -1,0 +1,110 @@
+057594022 DH
+1859819
+724509
+515882
+7/12/2001 12:00:00 AM
+Discharge Summary
+Signed
+DIS
+Report Status :
+Signed
+DISCHARGE SUMMARY
+NAME :
+BLEICHYORKSCRUP , RYLA A
+UNIT NUMBER :
+724-42-43
+ADMISSION DATE :
+07/12/2001
+DISCHARGE DATE :
+07/17/2001
+DATE OF ADMISSION :
+7/12/01
+DATE OF DISCHARGE :
+7/17/01
+DOB :
+05/23/79
+PRINCIPAL DIAGNOSIS :
+Choledocholithiasis .
+PRINCIPAL PROCEDURE :
+Laparoscopic cholecystectomy .
+ASSOCIATED PROCEDURES :
+ERCP .
+HISTORY OF PRESENT ILLNESS :
+The patient is a 22 year-old woman previously healthy who presented to our ED who presented with three week history of intermittent right upper quadrant pain .
+As the patient &apos;s symptoms were worsening , she brought herself to the ED .
+She denies any nausea and vomiting or diarrhea .
+The pain localizes to the right upper quadrant and seems to radiate to the back .
+There are no associated fevers or chills .
+There is no dysuria .
+There is no CVA tenderness .
+Her last menstrual period was three weeks ago .
+PAST MEDICAL HISTORY :
+None .
+PAST SURGICAL HISTORY :
+None .
+MEDICATIONS :
+None .
+SOCIAL HISTORY :
+No smoking , no alcohol .
+PHYSICAL EXAMINATION :
+The patient was in no acute distress .
+Temperature was 98 degrees .
+Heart rate was 92 .
+Blood pressure was 122/81 .
+Cardiac was regular rate and rhythm .
+Lungs were clear to auscultation bilaterally .
+Abdomen had positive bowel sounds , was soft .
+There was right upper quadrant tenderness , no guarding and no rebound .
+Extremities warm with no edema .
+LABS :
+Sodium 137 , potassium 3.7 , chloride 104 , CO2 27.9 .
+BUN 13 , creatinine .6 .
+White count was 10.3 , hematocrit of 38.8 .
+Platelets were 343 .
+Coags were within normal limits .
+HCG was negative .
+LFTs T-bili .3 , direct bili .2 .
+Alk / phos 75 .
+SGOT 72 .
+SGPT 180 .
+Amylase 102 , lipase 2.8 .
+Ultrasound of the right upper quadrant was negative sonographic Murphy &apos;s sign , positive cholelithiasis , positive choledocholithiasis ( 1.5 cm stone in the common bile duct ) .
+No gallbladder wall thickening and positive intrahepatic ductal dilatation .
+HOSPITAL COURSE :
+The patient was admitted .
+She was made NPO .
+She received Unasyn for prophylaxis against cholangitis .
+On 7/12/01 the patient underwent ERCP .
+Cholangiogram showed multiple large stones in the common bile duct and common hepatic duct as well as the gallbladder .
+She underwent endoscopic sphincterotomy then , with removal of multiple and numerous common bile duct and common hepatic duct stones ( greater than 40 ) .
+There were apparently no large stones seen to be remaining in the duct .
+Post ERCP , the patient was still kept on antibiotics .
+Her amylase and lipase slightly increased to 138 and 2 respectively .
+She did not have any fevers , nor did her white count change .
+She was allowed to eat on hospital day #2 after ERCP and tolerated this well .
+LFTs were followed .
+There was no acute change in her bilirubin or alkaline phosphatase .
+On 7/16/01 the patient was taken to the operating room and a laparoscopic cholecystectomy was performed .
+At that operation a slightly edematous gallbladder was found as well as a dilated cystic duct .
+This gallbladder was removed without complications .
+The patient tolerated the procedure well and was transferred back to the floor in stable condition .
+The patient was discharged to home on postoperative day #1 .
+Her pain was well controlled with Percocet .
+She was tolerating PO intake .
+CONDITION ON DISCHARGE :
+Stable .
+MEDICATIONS ON DISCHARGE :
+Percocet one to two tablets PO q 4 hours prn and Colace 100 mgs PO tid .
+FOLLOW UP :
+In the General Surgery Clinic in two weeks .
+SONLE BE , M.D.
+DICTATING FOR :
+NONOK F. BE , M.D.
+TR :
+vl
+DD :
+07/20/2001
+TD :
+07/22/2001 1:28 P
+cc :
+SONLE BE , M.D. CLECAR DRIPPS , M.D. NONOK F. BE , M.D.

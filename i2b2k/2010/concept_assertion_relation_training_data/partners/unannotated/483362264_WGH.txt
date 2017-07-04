@@ -1,0 +1,52 @@
+483362264 WGH
+8688778
+282588
+635972
+8/27/2001 12:00:00 AM
+ED Discharge Summary
+Unsigned
+DIS
+Report Status :
+Unsigned
+ED DISCHARGE NOTIFICATION / SUMMARY
+KOTESCHOELL , GEORGMACLAIRE
+MRN :
+8688778
+Age :
+35y
+REGISTRATION DATE :
+08/27/2001 02:18 PM
+Provider :
+NICATE GUIRREPOLLE
+PRELIMINARY REPORT
+PCP notified by
+MD :
+E-mail
+PCP Benefits Assigned :
+Y
+Discharge Date / Time :
+08/27/2001 16:42
+Discharge Status :
+Discharged
+Condition on Discharge :
+Stable
+Patient States Complaint :
+LEFT ELBOW
+Standardized Discharge Instructions :
+The patient was given printed instructions for sprains , fractures and bruises ( English ) .
+The patient was given printed instructions for non-steroidal anti-inflammatory drugs ( English ) .
+Diagnosis :
+Left elbow sprain
+Treatment Rendered :
+examination , x-rays
+Discharge Medications :
+Motrin 800 mg - take one every 6 hours with meals , as needed for pain
+Disposition , Follow up and Instructions to Patient :
+Ice , no heavy activity / lifting .
+No kickboxing until re-evaluated by primary care physician .
+Return if increasing pain , swelling , erythema , fevers .
+PCP Name :
+TADL , QUESZUCENOVE M
+Provider Number :
+34717
+This report was created by GUIRREPOLLE , NICATE 08/27/2001 04:43 PM

@@ -1,0 +1,41 @@
+c="ischemia of his kidneys" 49:10 49:13||r="PIP"||c="atn" 49:7 49:7
+c="ischemia of his kidneys" 49:10 49:13||r="PIP"||c="renal failure" 49:2 49:3
+c="renal failure" 49:2 49:3||r="PIP"||c="atn" 49:7 49:7
+c="ffp transfusions" 48:33 48:34||r="TrAP"||c="coagulopathic" 48:24 48:24
+c="ffp transfusions" 48:33 48:34||r="TrAP"||c="a resultant pulmonary edema" 48:37 48:40
+c="coagulopathic" 48:24 48:24||r="PIP"||c="a resultant pulmonary edema" 48:37 48:40
+c="re-exploration" 47:10 47:10||r="TeRP"||c="hematoma" 47:20 47:20
+c="re-exploration" 47:10 47:10||r="TeRP"||c="active bleeding" 47:23 47:24
+c="re-exploration" 47:10 47:10||r="TeRP"||c="a coagulopathy" 47:7 47:8
+c="hepatitis c" 7:4 7:5||r="PIP"||c="hepatocellular carcinoma" 7:0 7:1
+c="large amounts of intravenous valium" 54:9 54:13||r="TrAP"||c="his seizures" 54:16 54:17
+c="large amounts of intravenous valium" 54:9 54:13||r="TrAP"||c="seizures" 54:6 54:6
+c="re-exploration" 21:0 21:0||r="TeCP"||c="bleeding" 21:2 21:2
+c="persistent platelet transfusions" 52:6 52:8||r="TrAP"||c="thrombocytopenia" 52:3 52:3
+c="his operation" 46:0 46:1||r="TrWP"||c="severe coagulopathy" 46:5 46:6
+c="hepatocellular carcinoma" 28:30 28:31||r="PIP"||c="hepatitis c" 28:24 28:25
+c="the seizure" 56:1 56:2||r="PIP"||c="a large bleed from his tongue" 56:11 56:16
+c="tegretol" 54:24 54:24||r="TrAP"||c="seizures" 54:6 54:6
+c="tegretol" 54:24 54:24||r="TrAP"||c="his seizures" 54:16 54:17
+c="ffp" 51:5 51:5||r="TrWP"||c="coagulopathy" 51:11 51:11
+c="dilantin" 54:26 54:26||r="TrAP"||c="seizures" 54:6 54:6
+c="dilantin" 54:26 54:26||r="TrAP"||c="his seizures" 54:16 54:17
+c="daily transfusions" 51:2 51:3||r="TrWP"||c="coagulopathy" 51:11 51:11
+c="blood" 51:7 51:7||r="TrAP"||c="coagulopathy" 51:11 51:11
+c="bleeding from his nasopharynx" 56:33 56:36||r="PIP"||c="his continued coagulopathy" 56:28 56:30
+c="a rise in his alpha feta protein" 24:10 24:16||r="PIP"||c="hepatocellular carcinoma" 24:25 24:26
+c="a biopsy of his liver" 24:18 24:22||r="TeRP"||c="hepatocellular carcinoma" 24:25 24:26
+c="transfusions" 23:22 23:22||r="TrCP"||c="hepatitis c" 23:14 23:15
+c="transfusions" 23:22 23:22||r="TrCP"||c="a previous trauma" 23:24 23:26
+c="platelets" 46:24 46:24||r="TrAP"||c="severe coagulopathy" 46:5 46:6
+c="upper gastrointestinal bleeding" 56:46 56:48||r="PIP"||c="his continued coagulopathy" 56:28 56:30
+c="ffp" 46:19 46:19||r="TrAP"||c="severe coagulopathy" 46:5 46:6
+c="sutured" 56:20 56:20||r="TrAP"||c="a large bleed from his tongue" 56:11 56:16
+c="pitressin" 58:4 58:4||r="TrWP"||c="the gastrointestinal bleeding" 58:9 58:11
+c="large amounts of blood" 48:28 48:31||r="TrAP"||c="coagulopathic" 48:24 48:24
+c="large amounts of blood" 48:28 48:31||r="TrAP"||c="a resultant pulmonary edema" 48:37 48:40
+c="endoscopy" 57:0 57:0||r="TeCP"||c="bleeding" 57:6 57:6
+c="endoscopy" 57:0 57:0||r="TeCP"||c="a diffuse duodenitis" 57:13 57:15
+c="hepatitis c" 17:4 17:5||r="PIP"||c="hepatocellular carcinoma" 17:0 17:1
+c="packed red blood cells" 46:11 46:14||r="TrAP"||c="severe coagulopathy" 46:5 46:6
+c="chemo-embolization" 43:5 43:5||r="TrAP"||c="his hepatocellular carcinoma" 43:7 43:9

@@ -1,0 +1,80 @@
+373348761 SC
+74290530
+340769
+1/11/1995 12:00:00 AM
+Discharge Summary
+Signed
+DIS
+Admission Date :
+01/11/1995
+Report Status :
+Signed
+Discharge Date :
+01/15/1995
+ADMISSION DIAGNOSIS :
+RIGHT ADNEXAL MASS , PERSISTENT , COMPLEX .
+ASSOCIATED DIAGNOSES :
+HISTORY OF BREAST CARCINOMA ON TAMOXIFEN .
+ADMISSION MEDICATIONS :
+Tamoxifen one p.o. q. day .
+HISTORY OF PRESENT ILLNESS :
+The patient is a 52-year-old , gravida 1 , with a history of breast cancer , diagnosed in 01/93 , which was treated with surgery , radiation therapy , and Tamoxifen .
+The patient &apos;s surgeons for removal of her breast carcinoma were Dr. Pour and Dr. Like of Sko Gerb Timp Valley Health .
+In 06/94 , the patient had a pelvic ultrasound which showed a thickened endometrial stripe , and endometrial biopsy showed proliferative endometrium .
+Ultrasound also showed a 1-cm. left ovarian cyst .
+When a follow-up ultrasound was performed in 11/94 , it was noted to be 2.5 cm. and complex with an endometrial stripe that was 13 mm. , and biopsy subsequently showed proliferative endometrium .
+A CA-125 measured at 20 .
+PAST MEDICAL HISTORY :
+As per History of Present Illness .
+PAST SURGICAL HISTORY :
+As per History of Present Illness .
+PAST OBSTETRICAL HISTORY :
+Spontaneous vaginal delivery x one .
+PAST GYNECOLOGICAL HISTORY :
+Her mammogram in 08/94 was normal .
+ADMISSION MEDICATIONS :
+As noted .
+ALLERGIES :
+No known drug allergies .
+HABITS :
+Smoked in the past .
+SOCIAL HISTORY :
+She is divorced and has one son who is 17 years old .
+PHYSICAL EXAMINATION :
+She has a blood pressure of 108/68 and a weight of 122 pounds .
+She appears well and pleasant .
+Skin is normal .
+Nodes are not palpated in the anterior cervical or axillary regions or groin .
+Breasts are without masses .
+The patient is status post left lumpectomy .
+Lungs are clear to auscultation .
+Heart shows a regular rate and rhythm with no murmurs , gallops , or rubs .
+Abdomen is flat with good muscle tone and no mass .
+Pelvic exam shows no introital lesions , normal vagina and cervix , and a uterus that has no descent and is retroverted and slightly enlarged .
+The adnexa are not well felt .
+Rectal exam is without masses and guaiac-negative .
+LABORATORY DATA :
+Laboratory examination prior to admission showed normal chemistries , a hematocrit revealing borderline anemia at 35.4% , and a white count of 7.5 with 40% lymphocytosis and 51% neutrophils .
+HOSPITAL COURSE :
+The patient wished to continue Tamoxifen chemotherapy and , therefore , strongly desired a definitive surgical diagnosis .
+She , therefore , was admitted for and underwent total abdominal hysterectomy and bilateral salpingo-oophorectomy on 1/11/95 with findings of a serous cyst adenoma of the left ovary and an otherwise normal pelvis .
+This diagnosis was made on frozen pathology .
+The patient &apos;s postoperative course was completely unremarkable , and she was advanced to a regular diet and discharged to home on postoperative day #4 to follow up with Dr. Asquarcelmes .
+She had a Pfannenstiel skin incision with a subcuticular closure , and this did not require staple removal .
+DISCHARGE MEDICATIONS :
+Ferro-Sequels .
+Tylox .
+Dictated By :
+DENELLEHOA N. SERA , M.D. DC01
+Attending :
+CLECAR SERA , M.D. CR5 AJ399/6013
+Batch :
+3618
+Index No. CNIMSI26FN
+D :
+Martin Luther King Day
+T :
+01/17/95
+CC :
+1. CLECAR SERA , M.D. EB9
+2. NAEYRIESHAUN N. POUR , M.D. DT14

@@ -1,0 +1,26 @@
+c="her mi" 75:20 75:21||r="PIP"||c="the pain" 75:22 75:23
+c="tylenol" 102:3 102:3||r="TrAP"||c="pain" 102:5 102:5
+c="ett" 68:0 68:0||r="TeRP"||c="ischemia" 68:11 68:11
+c="stent to rca" 64:9 64:11||r="TrAP"||c="inferior stemi" 64:3 64:4
+c="laparotomy" 64:36 64:36||r="TeCP"||c="endometriosis" 64:32 64:32
+c="levoxyl" 100:1 100:1||r="TrAP"||c="hypothyroidism" 100:3 100:3
+c="her chest burning" 94:4 94:6||r="PIP"||c="gerd" 94:0 94:0
+c="nexium" 104:4 104:4||r="TrAP"||c="gerd-" 104:3 104:3
+c="maalox" 77:12 77:12||r="TrIP"||c="cp" 77:0 77:0
+c="maalox" 77:12 77:12||r="TrIP"||c="burning" 77:2 77:2
+c="ekg" 88:0 88:0||r="TeRP"||c="old twi iii" 88:2 88:4
+c="l oophorectomy" 64:38 64:39||r="TrAP"||c="endometriosis" 64:32 64:32
+c="mibi" 68:2 68:2||r="TeRP"||c="ischemia" 68:11 68:11
+c="synarel" 100:5 100:5||r="TrAP"||c="endometriosis" 100:7 100:7
+c="lidocaine" 77:14 77:14||r="TrIP"||c="burning" 77:2 77:2
+c="lidocaine" 77:14 77:14||r="TrIP"||c="cp" 77:0 77:0
+c="ett" 93:0 93:0||r="TeRP"||c="ischemia" 93:7 93:7
+c="stent to rca" 90:8 90:10||r="TrAP"||c="recent inferior stemi" 90:2 90:4
+c="pain" 75:2 75:2||r="PIP"||c="the pain" 75:10 75:11
+c="pain" 75:2 75:2||r="PIP"||c="her mi" 75:15 75:16
+c="the pain" 75:10 75:11||r="PIP"||c="her mi" 75:15 75:16
+c="ntg" 77:17 77:17||r="TrIP"||c="burning" 77:2 77:2
+c="ntg" 77:17 77:17||r="TrIP"||c="cp" 77:0 77:0
+c="mibi" 93:1 93:1||r="TeRP"||c="ischemia" 93:7 93:7
+c="tte" 64:13 64:13||r="TeRP"||c="inferobasal hk" 64:21 64:22
+c="nitroglycerin" 32:28 32:28||r="TrAP"||c="chest pain" 32:42 32:43

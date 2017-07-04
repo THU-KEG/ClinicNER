@@ -1,0 +1,121 @@
+337483886
+CTMC
+59100048
+219781
+03/30/1993 12:00:00 AM
+Discharge Summary
+Signed
+DIS
+Admission Date :
+03/30/1993
+Report Status :
+Signed
+Discharge Date :
+04/10/1993
+PRINCIPAL DIAGNOSIS :
+1. PNEUMONIA .
+SECONDARY DIAGNOSES :
+2. CONGESTIVE HEART FAILURE .
+3. HYPERTENSION .
+4. DIABETES MELLITUS .
+5. RULE OUT MYOCARDIAL INFARCTION .
+6. CHRONIC OBSTRUCTIVE PULMONARY DISEASE .
+7. BENIGN PROSTATIC HYPERTROPHY .
+HISTORY OF PRESENT ILLNESS :
+This is a 77 year old man with chronic obstructive pulmonary disease , dysproteinemia , question of multiple myeloma , hypertension , mitral regurgitation , who presented with a one week history of malaise with cough productive of rust-colored sputum and fever .
+Five days before admission , he noted increased shortness of breath and productive cough .
+He reported fevers , sweats , chills .
+Temperature was as high as 103 .
+He also reported a heaviness across his entire chest and &quot; hard to breath &quot; until two days before admission .
+At that time , his shortness of breath worsened and his sputum became rusty-colored .
+He was seen at Vassdiysey Medical Center one day before admission and was diagnosed with pneumonia and sent home with Biaxin .
+He had taken two doses of Biaxin and came to the Emergency Room by ambulance when his symptoms had not improved .
+He reported dyspnea on exertion at 20 yards at baseline with wheezing .
+He also reported two pillow orthopnea and paroxysmal nocturnal dyspnea .
+He denied peripheral edema .
+He has bilateral calf claudication after walking two blocks .
+He has a known tuberculosis and asbestosis exposure .
+His last negative PPD was greater than one year ago .
+PAST MEDICAL HISTORY :
+Significant for chronic obstructive pulmonary disease , hypertension , mitral regurgitation , peripheral vascular disease with carotid stenosis , diabetes mellitus , hiatal hernia , peptic ulcer disease , benign prostatic hypertrophy , dysproteinemia , status post bone marrow biopsy in 11/92 , glaucoma , status post appendectomy .
+MEDICATIONS ON ADMISSION :
+At the time of admission , the patient was on Chlorpropamide 250 mg b.i.d. , Cimetidine 400 mg b.i.d. , Isosorbide 20 mg t.i.d. , Aspirin 325 mg q.d. , Nifedipine XL 60 mg q.d. , Betoptic , Metamucil b.i.d. , Biaxin 500 mg b.i.d. for two doses , Tylenol , Prazosin 1 mg q.d.
+He denied any known drug allergies .
+SOCIAL HISTORY :
+He is married with five children and lives in Ertla with his wife .
+He is a retired electronics worker at the Pkwy , Pidsnews , Alaska 77015 .
+HABITS :
+He has a greater than 100 pack year smoking history and quit 9 to 10 years ago .
+He denied use of alcohol for 8 to 9 years .
+FAMILY HISTORY :
+Significant for rheumatic heart disease , prostate cancer , lung cancer .
+PHYSICAL EXAMINATION :
+He was an older man in slight distress with chills .
+Vital signs :
+Blood pressure 150/70 .
+Heart rate 86 .
+Temperature 98 .
+Oxygen saturation 89% on room air .
+HEENT was significant for mild erythema of the oropharynx without exudate .
+Neck was supple with full range of motion without lymphadenopathy or jugular venous distention .
+Lungs revealed rales at the bases bilaterally with egophony at the left axilla .
+Cardiac examination revealed tachycardia with regular rate and rhythm with a III / VI holosystolic murmur which radiated to the carotids and a III / VI diastolic murmur .
+Abdomen was soft , non-tender , distended with active bowel sounds .
+There was no splenomegaly .
+The liver edge was palpable 8 cm below the right costal margin .
+There were no masses .
+Rectal examination revealed trace edema bilaterally to the mid shins without clubbing , cyanosis .
+Peripheral pulses were 2+ .
+Neurological examination was nonfocal with stocking gloves sensory deficit .
+Reflexes were 1+ bilaterally with downgoing toes .
+LABORATORY DATA :
+Laboratory on admission included a sodium of 131 , potassium of 3.9 , chloride 98 , bicarbonate 24 , BUN 11 , creatinine 0.9 , glucose 153 , LDH 141 , normal liver function test .
+Total protein 8.1 .
+Albumin 2.8 .
+Calcium 7.4 .
+Cholesterol 114 .
+Triglycerides 63 .
+White blood count was 8.6 with hematocrit of 33.6 , platelets 141,000 with 76% polys , 8% bands , 7% lymphocytes , 7% monocytes .
+An MCV was 90 .
+An arterial blood gas on 2 liters of oxygen revealed pH 7.42 , pCO2 36 , pO2 of 57 with an oxygen saturation of 90% .
+HOSPITAL COURSE :
+The patient was started on Ceftriaxone .
+He continued to feel very weak with increased shortness of breath and dyspnea on exertion .
+He was started on Solu-Medrol on the second hospital day .
+His respiratory status continued to deteriorate after his Solu-Medrol was discontinued and he was switched to Prednisone .
+On the evening of the fourth hospital day , he had an episode of extreme respiratory distress that required 100% face mask .
+A chest x-ray showed pulmonary edema with questions about worsening pneumonia as well .
+He ruled out for myocardial infarction .
+An echocardiogram revealed a mildly thickened and calcified aortic valve with increased strength valvular velocity , mild aortic valve stenosis , mild concentric left ventricular hypertrophy with normal systolic function and an ejection fraction of 65% and normal systolic left ventricular function .
+There were no regional wall motion abnormalities .
+After talking with the patient &apos;s Hematologist , it was found that his bone marrow biopsy had been suggestive of multiple myeloma .
+Both serum and urine protein electrophoresis revealed biclonal gammopathy with M-spikes noted in the beta and gamma regions .
+He underwent a skeletal series which showed suspicious myelomatous lesions in the scapula and proximal humeri bilaterally .
+There was extensive degenerative disk disease with multiple vacuum phenomenon throughout the lumbosacral spine .
+There was also facet osteoarthritis at L4 to L5 and L5 to S1 .
+Sputum cytology has been sent and one specimen came back with cells which were suspicious for malignancy .
+The patient was seen by the Pulmonary Service to help with further evaluation of his abnormal sputum cytology .
+Sputum specimens were negative for acid fast bacilli and his PPD was negative .
+He had some renal insufficiency which was felt to be secondary to dehydration with decreased intravascular volume despite peripheral edema .
+He was diuresed with Lasix .
+His Ceftriaxone was eventually discontinued and his steroids were tapered and he was switched to Augmentin for ten days .
+DISPOSITION :
+CONDITION ON DISCHARGE :
+He was discharged home in stable condition .
+FOLLOW-UP CARE :
+He was instructed to follow-up with his outpatient physician , Dr. Walking , at the Chorlasonmor Normooreanks Tioutsocin General Hospital at Uingno Dar as well as his VLH Hematologist .
+He was also instructed to follow-up with the Urology Clinic at Retelk County Medical Center in one to two weeks for further evaluation of his benign prostatic hypertrophy .
+He was scheduled to come back as an outpatient for bronchoscopy to be arranged by the Pulmonary Service .
+MEDICATIONS ON DISCHARGE :
+At the time of discharge , the patient was on Albuterol Inhaler 2 puffs q.i.d. , Atrovent 2 puffs q.i.d. , Nifedipine XL 60 mg q.d. , Axid 150 mg b.i.d. , Metamucil 1 pkg q.d. , Isordil 20 mg t.i.d. , Lasix 40 mg q.d. , Prazosin 1 mg q.d. , Chlorpropamide 250 mg b.i.d. , Augmentin 500 mg t.i.d. , Prednisone taper 10 mg x one day , then 5 mg x two days , then discontinue , Betoptic eye drops 0.5% one drop b.i.d. , Artificial Tears 1 drop q.i.d.
+Dicatated By :
+CA PARKINSON , M.D. QC84
+Attending :
+LYNA WALKING , M.D. FS14 BQ197/7410
+Batch :
+8006
+Index No. AMHS9W51LO
+D :
+08/01/93
+T :
+08/05/93

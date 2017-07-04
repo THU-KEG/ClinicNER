@@ -1,0 +1,15 @@
+c="the procedure" 54:3 54:4||r="TrCP"||c="any complications" 54:7 54:8
+c="local excision" 49:18 49:19||r="TrAP"||c="a mixed mesodermal cancer at the vaginal apex" 49:7 49:14
+c="lysis" 52:22 52:22||r="TrAP"||c="adhesions" 52:24 52:24
+c="an apicovaginal lesion" 27:3 27:5||r="PIP"||c="recurrent tumor" 27:8 27:9
+c="an examination" 27:0 27:1||r="TeRP"||c="an apicovaginal lesion" 27:3 27:5
+c="total abdominal hysterectomy-bilateral salpingo-oophorectomy" 25:16 25:19||r="TrAP"||c="a mixed mesodermal cancer" 25:24 25:27
+c="a mixed mesodermal cancer" 25:24 25:27||r="PIP"||c="vaginal apex recurrence" 25:31 25:33
+c="her heent examination" 38:13 38:15||r="TeRP"||c="anicteric sclerae" 38:17 38:18
+c="her heent examination" 38:13 38:15||r="TeRP"||c="slightly relaxed inferoorbital wall" 38:24 38:27
+c="frozen section analysis" 67:14 67:16||r="TeRP"||c="tumor" 67:12 67:12
+c="percocet" 64:7 64:7||r="TrAP"||c="pain" 64:11 64:11
+c="a computerized tomography scan" 28:0 28:3||r="TeRP"||c="a central recurrence" 28:8 28:10
+c="excision" 29:4 29:4||r="TrAP"||c="her local cancer recurrence" 29:6 29:9
+c="biopsy" 28:12 28:12||r="TeRP"||c="this lesion" 28:14 28:15
+c="lysis" 23:13 23:13||r="TrAP"||c="adhesions" 23:15 23:15

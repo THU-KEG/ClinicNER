@@ -1,0 +1,18 @@
+c="a 3.0 x 23 mm duet" 67:9 67:14||r="TrIP"||c="the rca occlusion" 67:0 67:2
+c="the electrocardiogram" 54:0 54:1||r="TeRP"||c="small qwaves in 3 and f" 54:11 54:16
+c="the electrocardiogram" 54:0 54:1||r="TeRP"||c="st depression in 1 , l and v2 and 3" 54:27 54:36
+c="the electrocardiogram" 54:0 54:1||r="TeRP"||c="st elevation in 2 , 3 , and f." 54:18 54:26
+c="post stent dilatation" 67:16 67:18||r="TrIP"||c="the rca occlusion" 67:0 67:2
+c="angioplasty" 33:28 33:28||r="TrAP"||c="acute inferior myocardial infarction" 33:10 33:13
+c="rv infarct" 72:15 72:16||r="PIP"||c="a clear a wave" 72:4 72:7
+c="cardiac catheterization" 33:24 33:25||r="TeCP"||c="acute inferior myocardial infarction" 33:10 33:13
+c="chest discomfort" 35:10 35:11||r="PIP"||c="shortness of breath" 35:14 35:16
+c="disoriented" 73:9 73:9||r="PIP"||c="quite confused" 73:6 73:7
+c="aggrastat" 39:2 39:2||r="TrIP"||c="pain" 39:9 39:9
+c="an electrocardiogram" 37:0 37:1||r="TeRP"||c="acute inferior myocardial infarction" 37:3 37:6
+c="an echocardiogram" 74:0 74:1||r="TeRP"||c="inferoposteriorakinesis" 74:18 74:18
+c="an echocardiogram" 74:0 74:1||r="TeRP"||c="hypokinesis" 74:20 74:20
+c="the rv tracing" 72:9 72:11||r="TeRP"||c="a clear a wave" 72:4 72:7
+c="cardiac catheterization" 38:16 38:17||r="TeCP"||c="the chest pain" 38:5 38:7
+c="right heart catheterization" 68:2 68:4||r="TeCP"||c="rv infarct" 68:10 68:11
+c="percutaneous intervention of the rca" 63:7 63:11||r="TrCP"||c="complications" 63:19 63:19

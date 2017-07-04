@@ -1,0 +1,20 @@
+c="a percutaneous transluminal coronary angioplasty of the right coronary artery" 14:20 14:29||r="TrAP"||c="prior myocardial infarction" 14:16 14:18
+c="staples" 118:6 118:6||r="TrAP"||c="incision" 118:4 118:4
+c="steri-strips" 122:6 122:6||r="TrAP"||c="right saphenous vein graft site" 122:0 122:4
+c="saphenous vein graft to the diagonal" 125:31 125:36||r="TrAP"||c="coronary artery disease" 125:1 125:3
+c="saphenous vein graft to om2" 125:25 125:29||r="TrAP"||c="coronary artery disease" 125:1 125:3
+c="coronary artery bypass grafting" 125:7 125:10||r="TrAP"||c="coronary artery disease" 125:1 125:3
+c="saphenous vein graft to om1" 125:19 125:23||r="TrAP"||c="coronary artery disease" 125:1 125:3
+c="lima to the lad" 125:14 125:17||r="TrAP"||c="coronary artery disease" 125:1 125:3
+c="electrocardiograms" 25:0 25:0||r="TeRP"||c="inverted t waves in v5 and v6" 25:3 25:9
+c="the catheterization" 75:3 75:4||r="TeRP"||c="obstructive disease" 75:10 75:11
+c="the catheterization" 75:3 75:4||r="TeRP"||c="70 percent serial lesion" 75:15 75:18
+c="the catheterization" 75:3 75:4||r="TeRP"||c="70 percent lesions" 75:31 75:33
+c="the catheterization" 75:3 75:4||r="TeRP"||c="nonobstructive disease" 75:37 75:38
+c="electrocardiogram" 70:0 70:0||r="TeRP"||c="flattened t waves in the lateral leads" 70:15 70:21
+c="electrocardiogram" 70:0 70:0||r="TeRP"||c="q wave in 2 , 3 , and f" 70:5 70:13
+c="chest ct" 68:0 68:1||r="TeRP"||c="gallstones" 68:9 68:9
+c="a peak ck" 24:12 24:14||r="TeRP"||c="an nst emi" 24:8 24:10
+c="enzymes" 20:18 20:18||r="TeRP"||c="an myocardial infarction" 20:14 20:16
+c="electrocardiograms" 20:20 20:20||r="TeRP"||c="an myocardial infarction" 20:14 20:16
+c="a troponin" 24:18 24:19||r="TeRP"||c="an nst emi" 24:8 24:10

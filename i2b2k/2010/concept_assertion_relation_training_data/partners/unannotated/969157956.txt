@@ -1,0 +1,37 @@
+969157956
+OMH
+4499101
+90388/1886
+7/3/1995 12:00:00 AM
+Discharge Summary
+Unsigned
+DIS
+Report Status :
+Unsigned
+ADMISSION DATE :
+7-3-95
+DISCHARGE DATE :
+7-3-95
+HISTORY OF PRESENT ILLNESS :
+The patient is an 82 year old male who came to the emergency room with an incarcerated right inguinal hernia .
+The patient has a history of previous appendectomy with an incision that went down into this same area .
+The hernia could not be reduced in the emergency room .
+The patient was admitted to the hospital therefore .
+PHYSICAL EXAMINATION :
+On physical examination , there was a tender mass in the right groin .
+The physical examination was otherwise noncontributory .
+LABORATORY DATA :
+Noncontributory .
+HOSPITAL COURSE :
+On the morning after the patient &apos;s admission , an operation was carried out under local anesthetic .
+The patient was found to have recurrence at the internal ring from previous inguinal herniorrhaphy .
+The operation was carried out under local anesthetic , which the patient tolerated well .
+The patient was discharged home in stable condition later on the same day .
+ONGNIQUE D. STABLE , M.D.
+TR :
+ev / bmot
+DD :
+7-20-95
+TD :
+07/22/95
+CC :

@@ -1,0 +1,29 @@
+740856208
+OMH
+2051748
+875243
+3/22/2005 12:00:00 AM
+ED Discharge Summary
+Unsigned
+DIS
+Report Status :
+Unsigned
+ED DISCHARGE NOTIFICATION
+SLIGH , ANNEE
+MRN :
+2051748
+Age :
+84y
+REGISTRATION DATE :
+03/22/2005 12:25 PM
+PRELIMINARY REPORT
+This is to notify you that your patient , SLIGH , ANNEE arrived in the Emergency Department at Oaksgekesser/ Memorial Hospital on 03/22/2005 12:25 PM .
+The patient presented with a chief complaint of SOB NEARY SYNCOPY .
+Following evaluation and treatment , the patient &apos;s disposition at the end of the visit was admitted as an inpatient to Oaksgekesser/ Memorial Hospital .
+The patient &apos;s preliminary admitting physician is TLANDFLENT , MAREN and the preliminary admitting diagnosis is PRE SYNCOPE , R / O MI .
+Please note this information may have been updated on the inpatient unit .
+If you need additional information please call 598-754-5083 .
+PCP Name :
+COFFMULKE , BIELLE R
+Provider Number :
+07261

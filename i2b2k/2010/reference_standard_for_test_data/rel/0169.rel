@@ -1,0 +1,28 @@
+c="w/aztreonam" 31:3 31:3||r="TrAP"||c="recent uti" 31:0 31:1
+c="cpr" 23:18 23:18||r="TrCP"||c="pleuritic chest pain" 23:2 23:4
+c="a recent fungal infection" 160:14 160:17||r="PIP"||c="a diffuse erythematous rash" 160:2 160:5
+c="digoxin" 151:8 151:8||r="TrNAP"||c="high levels" 151:13 151:14
+c="nebs" 155:3 155:3||r="TrAP"||c="copd" 155:0 155:0
+c="lasix" 149:12 149:12||r="TrAP"||c="edema" 149:15 149:15
+c="lasix" 149:12 149:12||r="TrAP"||c="peripheral edema" 149:6 149:7
+c="level" 151:19 151:19||r="TeCP"||c="high levels" 151:13 151:14
+c="rash" 163:11 163:11||r="PIP"||c="a drug reaction" 163:1 163:3
+c="a repeat echo" 150:3 150:5||r="TeCP"||c="focal wall motion abnormality" 150:17 150:20
+c="pigtail catheter placement" 20:6 20:8||r="TrAP"||c="pleural effusions" 20:10 20:11
+c="tracheostomy" 20:4 20:4||r="TrAP"||c="pleural effusions" 20:10 20:11
+c="an id reaction" 160:10 160:12||r="PIP"||c="a diffuse erythematous rash" 160:2 160:5
+c="an id reaction" 160:10 160:12||r="PIP"||c="a recent fungal infection" 160:14 160:17
+c="this echo" 150:11 150:12||r="TeRP"||c="focal wall motion abnormality" 150:17 150:20
+c="amio" 156:4 156:4||r="TrAP"||c="paf" 156:0 156:0
+c="amiodarone" 151:6 151:6||r="TrAP"||c="high levels" 151:13 151:14
+c="ros" 22:1 22:1||r="TeRP"||c="poorly" 22:6 22:6
+c="ros" 22:1 22:1||r="TeRP"||c="nausea" 22:8 22:8
+c="ros" 22:1 22:1||r="TeRP"||c="diarrhea" 22:11 22:11
+c="ecg" 55:0 55:0||r="TeRP"||c="w/pac 's" 55:6 55:7
+c="ecg" 55:0 55:0||r="TeRP"||c="twi in v1-6" 55:12 55:14
+c="b-blocker" 156:7 156:7||r="TrAP"||c="paf" 156:0 156:0
+c="w/vanc" 32:3 32:3||r="TrAP"||c="mrsa pna" 32:0 32:1
+c="tah" 28:2 28:2||r="TrAP"||c="pmr" 28:0 28:0
+c="tracheobronchoplasty" 20:2 20:2||r="TrAP"||c="pleural effusions" 20:10 20:11
+c="imaging" 144:0 144:0||r="TeRP"||c="the pleural effusions" 144:3 144:5
+c="pigtail cath drain" 143:4 143:6||r="TrAP"||c="pleural effusion" 143:0 143:1

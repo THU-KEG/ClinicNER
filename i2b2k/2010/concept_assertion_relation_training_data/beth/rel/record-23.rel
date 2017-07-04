@@ -1,0 +1,7 @@
+c="hyper-cvad" 15:19 15:19||r="TrAP"||c="aml" 15:7 15:7
+c="hyper-cvad" 15:19 15:19||r="TrAP"||c="all" 15:5 15:5
+c="all" 15:5 15:5||r="PIP"||c="aml" 15:7 15:7
+c="a new chemotherapy protocol" 15:14 15:17||r="TrAP"||c="aml" 15:7 15:7
+c="a new chemotherapy protocol" 15:14 15:17||r="TrAP"||c="all" 15:5 15:5
+c="compazine" 28:1 28:1||r="TrAP"||c="nausea" 28:8 28:8
+c="anzemet" 29:1 29:1||r="TrAP"||c="nausea" 29:8 29:8

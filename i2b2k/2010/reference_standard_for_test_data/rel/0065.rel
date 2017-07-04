@@ -1,0 +1,39 @@
+c="chest x-ray" 100:0 100:1||r="TeRP"||c="congestive heart failure" 100:10 100:12
+c="chest x-ray" 100:0 100:1||r="TeRP"||c="low lung volumes" 100:3 100:5
+c="her symptoms" 129:18 129:19||r="PIP"||c="a viral upper respiratory infection" 129:26 129:30
+c="a trial of 80/20 mixed helium/oxygen" 115:3 115:8||r="TrAP"||c="the stridor" 115:11 115:12
+c="discomfort" 123:39 123:39||r="PIP"||c="lower extremity edema" 123:32 123:34
+c="electrocardiogram" 101:0 101:0||r="TeRP"||c="sinus tachycardia" 101:2 101:3
+c="electrocardiogram" 101:0 101:0||r="TeRP"||c="intermittent q wave in iii;" 101:11 101:15
+c="electrocardiogram" 101:0 101:0||r="TeRP"||c="a wavy baseline" 101:16 101:18
+c="recent exacerbation" 14:10 14:11||r="PIP"||c="asthma" 14:5 14:5
+c="review of systems" 66:0 66:2||r="TeRP"||c="lower extremity edema" 66:6 66:8
+c="her sputum culture" 129:12 129:14||r="TeRP"||c="the gram-positive cocci" 129:8 129:10
+c="her pco2" 111:29 111:30||r="TeCP"||c="more hypercarbic" 111:25 111:26
+c="upper respiratory symptoms" 15:7 15:9||r="PIP"||c="increasing dyspnea" 15:14 15:15
+c="upper respiratory symptoms" 15:7 15:9||r="PIP"||c="shortness of breath" 15:19 15:21
+c="upper respiratory symptoms" 15:7 15:9||r="PIP"||c="marked wheezing" 15:27 15:28
+c="captopril" 121:4 121:4||r="TrAP"||c="hypertension" 121:6 121:6
+c="shortness of breath" 76:12 76:14||r="PIP"||c="moderate distress" 76:8 76:9
+c="levofloxacin" 129:5 129:5||r="TrAP"||c="the gram-positive cocci" 129:8 129:10
+c="an echocardiogram" 122:2 122:3||r="TeRP"||c="a hyperdynamic left ventricular" 122:6 122:9
+c="an echocardiogram" 122:2 122:3||r="TeRP"||c="significant valvular disease" 122:18 122:20
+c="worsening lower extremity edema" 38:17 38:20||r="PIP"||c="a vega problem" 38:24 38:26
+c="prednisone" 42:6 42:6||r="TrCP"||c="mild hypertension" 42:1 42:2
+c="her arterial blood gas" 25:6 25:9||r="TeRP"||c="a respiratory acidosis" 25:11 25:13
+c="lasix" 123:24 123:24||r="TrAP"||c="lower extremity edema" 123:32 123:34
+c="this edema" 88:7 88:8||r="PIP"||c="somewhat tender" 88:4 88:5
+c="her wheezing" 69:12 69:13||r="PIP"||c="chest tightness" 69:3 69:4
+c="dyazide" 38:33 38:33||r="TrAP"||c="worsening lower extremity edema" 38:17 38:20
+c="dyazide" 38:33 38:33||r="TrAP"||c="a vega problem" 38:24 38:26
+c="physical examination" 75:0 75:1||r="TeRP"||c="afebrile" 75:3 75:3
+c="serial creatine kinases" 119:8 119:10||r="TeRP"||c="myocardial infarction" 119:5 119:6
+c="white sputum" 16:10 16:11||r="PIP"||c="a cough" 16:3 16:4
+c="metformin" 126:8 126:8||r="TrAP"||c="her steroid-induced diabetes" 126:11 126:13
+c="a pco2" 25:15 25:16||r="TeRP"||c="a respiratory acidosis" 25:11 25:13
+c="levofloxacin" 129:33 129:33||r="TrAP"||c="her symptoms" 129:18 129:19
+c="levofloxacin" 129:33 129:33||r="TrAP"||c="a viral upper respiratory infection" 129:26 129:30
+c="hip repair" 43:6 43:7||r="TrAP"||c="hypoplastic left lower extremity" 43:1 43:4
+c="norvasc" 121:13 121:13||r="TrAP"||c="hypertension" 121:6 121:6
+c="heart failure" 17:34 17:35||r="PIP"||c="elevated jugular venous distention" 17:37 17:40
+c="heart failure" 17:34 17:35||r="PIP"||c="rales" 17:42 17:42

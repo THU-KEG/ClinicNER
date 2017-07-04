@@ -1,0 +1,120 @@
+1191042
+Admission Date :
+2015-04-21
+Discharge Date :
+2015-04-29
+Date of Birth :
+2015-04-21
+Sex :
+M
+Service :
+CMED
+HISTORY :
+Baby Daniel Holman was born at 39 and 3/7 weeks gestation ( EDC 2015-04-25 ).
+His mother is a 31-year-old female gravida 2 , para 1 , now 2 .
+Prenatal screens : blood type A positive , antibody negative , rubella immune , RPR nonreactive , hepatitis B surface antigen negative , GBS unknown .
+He was born by repeat C-section .
+There was artificial rupture of membranes was performed at the delivery .
+Amniotic fluid was clear .
+Mother received epidural and spinal anesthesia .
+Baby was vigorous at birth and received routine DR Johnson .
+Apgars were 9 and 9 at 1 and 5 minutes .
+He was transferred to the newborn nursery for further care .
+In the newborn nursery he was started on PO feedings on demand .
+He was noted to be large for gestational age with a weight of 4525 grams .
+His d-sticks were greater than 80 .
+At 5 hours of life he was noted to have grunting and flaring and E.C. Bovell consult was done .
+He was in mild respiratory distress and a diagnosis of transient tachypnea of the newborn was made .
+He was observed in the nursery for progression of symptoms .
+At 16 hours of life he was noted to have increased work of breathing with tachypnea , flaring and grunting .
+He was also noted to have axillary temperature of 100.4 and a rectal temperature of 100.9 .
+At this point CMED was consulted again and he was transferred to the CMED triage for further care .
+PHYSICAL EXAMINATION :
+Birth weight of 4525 grams which is greater than 90th percentile ; length 54 cm which is greater than 90th percentile ; head circumference 37 cm which is greater than 90th percentile .
+D-sticks of 117 .
+Large for gestational age appearance of an infant with tachypnea , grunting and flaring .
+HEENT : Anterior fontanel open and flat .
+Bilateral red reflexes .
+Patent nares .
+Mild flaring .
+Neck supple .
+Clavicles stable .
+RESPIRATORY : Tachypneic with mild retractions , increased work of breathing , clear and equal breath sounds .
+CARDIOVASCULAR : Normal rate and rhythm .
+Normal S1 and S2 without murmur .
+Brachial pulses equal femoral pulses and are 2+ .
+ABDOMEN : Soft , nontender , nondistended .
+No hepatosplenomegaly .
+Patent anus .
+Umbilical stump dry .
+GENITALIA : Normal male .
+Testes distended bilaterally .
+NEUROLOGIC : Alert and crying .
+Normal tone and neonatal reflexes .
+EXTREMITIES : Warm and pink .
+Moves all extremities well .
+Hips stable .
+Skin pink and capillary refill less than 2 seconds .
+Spine straight and no abnormalities .
+SUMMARY OF HOSPITAL COURSE BY SYSTEMS :
+RESPIRATORY : The infant was placed on CPAP on admission to the CMED and remained on CPAP until day of life 2 at which time he weaned to nasal cannula and then subsequently to room air on day of life 3 .
+He has remained on room air since that time and has had no issues with apnea or desaturation since being on room air .
+Initial chest x-ray in the CMED showed haziness in the left lower lobe and patchy areas on the right side consistent with concerns for pneumonia .
+The infant was treated for pneumonia from admission to the CMED .
+CARDIOVASCULAR : The infant has maintained stable cardiovascular status with normal heart rates and blood pressures and no murmurs .
+FLUIDS , ELECTROLYTES AND NUTRITION : The infant was started on IV fluids on admission to the CMED .
+Electrolytes were measured on day of life 2 and were stable at that time .
+No further electrolytes have been measured .
+Enteral feedings were initiated on day of life 3 and the infant has been ad lib PO feeding on demand since that time .
+His discharge weight is 4180 grams .
+GASTROINTESTINAL :
+Bilirubin level was peaked on day of life 4 to 10.9/0.3 .
+He has required no phototherapy .
+HEMATOLOGY : Hematocrit was done on admission to the CMED .
+Hematocrit was 41 , platelet count of 404,000 .
+No further hematocrit or platelets have been measured .
+Blood typing has been done on this infant .
+The baby 's blood type is B negative , antibody negative .
+INFECTIOUS DISEASE : CBC and blood culture were screened on admission .
+CBC was benign with 22,000 whites , 80 poly 's, 0 bands , 15 lymphs .
+Ampicillin and gentamycin were initiated on admission and an LP was done due to the clinical issues of respiratory distress and fever on admission to the CMED .
+CSF showed white count of 7 , reds 4 , protein 119 , glucose 69 .
+The infant was treated for 7 days of presumed pneumonia with ampicillin and gentamycin .
+Antibiotics were discontinued on the evening of 2015-04-28 .
+NEUROLOGY : The infant has maintained a normal neurologic examination .
+SENSORY : Hearing screen was performed with automated auditory brain stem responses and the results was the infant passing in both ears .
+PSYCHOSOCIAL : A Arbour Hospital social worker has been involved with the family .
+The contact social worker can be reached at ( 374 ) 419-2007 .
+There are no active ongoing issues at this time .
+CONDITION ON DISCHARGE :  Good .
+DISCHARGE DISPOSITION :
+Home with the parents .
+NAME OF PRIMARY PEDIATRICIAN :
+Dr. Gene Hardy from Webster Pediatrics .
+Telephone No. : ( 309 ) 642-6861 fax ( 515 ) 568-6798 .
+CARE RECOMMENDATIONS :
+1. Ad lib PO feedings of Similac 20 cal / oz with iron .
+2. Medications : None .
+3. State newborn screen was sent on 2015-04-24 and results are pending .
+4. Immunizations received : Hepatitis B vaccine was given on  2015-04-25 .
+5. Immunizations Recommended :
+6. Synagis RSV prophylaxis should be considered from November through March for infants who meet any of the following three criteria .
+A. Born at less than 32 weeks gestation .
+B. Born between 32 and 35 weeks gestation with two of the following :
+daycare during the RSV season a smoker in the household , neuromuscular disease , airway abnormalities , or school age siblings
+C. with chronic lung disease .
+7. Influenza immunization is recommended annually in the fall for all infants once they reach 6 months of age .
+Before this age and for the first 24 months of the child 's life , immunization against influenza is recommended for household contacts and out of home caregivers .
+DISCHARGE DIAGNOSES :
+1. Presumed pneumonia , treated .
+2. Large for gestational age term male .
+3. Respiratory distress , resolved .
+4. Mild hyperbilirubinemia , resolving .
+Claudia Ernest , MD 50AAD
+Dictated By : Stan C. Haaz , M.D.
+MEDQUIST36
+D : 2015-04-28 23:50:08
+T : 2015-04-29 02:50:40
+Job #: 76623
+Signed electronically by : DR. Maria L Ulabarro on : WED 2015-04-29 2:21 PM
+( End of Report )

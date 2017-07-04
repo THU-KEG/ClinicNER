@@ -1,0 +1,62 @@
+305038693
+FIH
+7533178
+42028/zym4
+326068
+5/3/1994 12:00:00 AM
+CHOLANGIOCARCINOMA .
+Unsigned
+DIS
+Report Status :
+Unsigned
+ADMISSION DATE :
+05-03-94
+DISCHARGE DATE :
+05-04-94
+PRINCIPAL DIAGNOSIS :
+Cholangiocarcinoma .
+ASSOCIATED DIAGNOSIS :
+1. Biliary obstruction .
+2. hypertension .
+3. peptic ulcer disease .
+ADVERSE DRUG REACTIONS :
+None .
+CLINICAL INFECTIONS :
+None .
+SPECIAL PROCEDURES AND OPERATIONS :
+05/03/94 :
+Recannulization of biliary stent .
+DISPOSITION :
+The patient will follow up with Dr. Post .
+HISTORY OF PRESENT ILLNESS :
+The patient is a 76 year old white male with a history of a cholangiocarcinoma who is status post a hepatojejunostomy and cholecystectomy in 12/92 .
+Since that time he has had numerous episodes of biliary obstruction and had a biliary tube placed percutaneously for drainage .
+The day prior to admission his biliary tube stopped draining .
+He was brought into the hospital for attempted recannulization .
+PHYSICAL EXAMINATION :
+Lungs were clear to auscultation bilaterally .
+Sclerae were anicteric .
+Heart had regular rate and rhythm without murmurs .
+Abdomen was soft with good bowel sounds , no tenderness .
+He was mildly distended .
+He had a biliary tube in his right upper quadrant which was not draining bile .
+LABORATORY DATA :
+Noncontributory .
+HOSPITAL COURSE :
+The patient was seen by the interventional radiologist , who recannulized his biliary stent .
+He was then brought to the floor for observation .
+He did well overnight and was discharged the next day .
+CONDITION ON DISCHARGE :
+Afebrile with stable vital signs , tolerating a regular diet .
+His biliary tube was draining freely .
+He had no abdominal pain .
+A WALL , M.D.
+DICTATING FOR :
+DEIDA K. ENRICHTER LA AREKE , M.D.
+TR :
+mry / bmot
+DD :
+05-05-94
+TD :
+05/07/94
+CC :

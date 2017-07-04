@@ -1,0 +1,9 @@
+c="elective coronary artery bypass grafting" 17:17 17:21||r="TrAP"||c="three vessel disease" 17:8 17:10
+c="a lasix drip" 73:19 73:21||r="TrAP"||c="decreased urine output" 73:12 73:14
+c="packed red blood cells" 78:16 78:19||r="TrAP"||c="a low hematocrit" 78:21 78:23
+c="auscultation" 95:5 95:5||r="TeRP"||c="sternal click" 95:8 95:9
+c="diuresis" 73:23 73:23||r="TrAP"||c="decreased urine output" 73:12 73:14
+c="head , eyes , ears , nose and throat examination" 55:0 55:9||r="TeRP"||c="atraumatic" 55:13 55:13
+c="a cardiac catheterization" 17:3 17:5||r="TeRP"||c="three vessel disease" 17:8 17:10
+c="stress echocardiogram" 16:0 16:1||r="TeRP"||c="akinesis of distal inferior wall and apex" 16:15 16:21
+c="stress echocardiogram" 16:0 16:1||r="TeRP"||c="hypokinesis of distal anterior wall" 16:9 16:13

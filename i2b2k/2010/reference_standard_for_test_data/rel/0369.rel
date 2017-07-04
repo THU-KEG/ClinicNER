@@ -1,0 +1,42 @@
+c="mb" 98:23 98:23||r="TeRP"||c="myocardial damage" 98:36 98:37
+c="ck" 98:18 98:18||r="TeRP"||c="myocardial damage" 98:36 98:37
+c="demand ischemia" 103:6 103:7||r="PIP"||c="acute hematocrit drop" 103:10 103:12
+c="demand ischemia" 103:6 103:7||r="PIP"||c="the myocardial infarction" 103:0 103:2
+c="mb index" 98:28 98:29||r="TeRP"||c="myocardial damage" 98:36 98:37
+c="aspirin" 95:12 95:12||r="TrNAP"||c="further bleeding" 95:24 95:25
+c="ekg" 99:6 99:6||r="TeRP"||c="loss of r wave progression" 99:8 99:12
+c="ekg" 99:6 99:6||r="TeRP"||c="q waves in leads iii" 99:17 99:21
+c="ekg" 99:6 99:6||r="TeRP"||c="avf" 99:23 99:23
+c="ekg" 77:0 77:0||r="TeRP"||c="st wave inversions" 77:11 77:13
+c="ekg" 77:0 77:0||r="TeRP"||c="early r wave progression" 77:15 77:18
+c="gastritis" 93:27 93:27||r="PIP"||c="medium hiatal hernia" 93:0 93:2
+c="gastritis" 93:27 93:27||r="PIP"||c="barrett's esophagus" 93:4 93:5
+c="gastritis" 93:27 93:27||r="PIP"||c="erosion of the gastroesophageal junction" 93:7 93:11
+c="gastritis" 93:27 93:27||r="PIP"||c="granularity" 93:13 93:13
+c="gastritis" 93:27 93:27||r="PIP"||c="congestion of the antrum" 93:17 93:20
+c="erythema" 93:15 93:15||r="PIP"||c="gastritis" 93:27 93:27
+c="tachycardia" 97:11 97:11||r="PIP"||c="transfusion reaction episode" 97:1 97:3
+c="telemetry" 101:7 101:7||r="TeRP"||c="arrhythmia" 101:5 101:5
+c="ibuprofen" 15:16 15:16||r="TrAP"||c="pain" 15:23 15:23
+c="radioactive iodine ablation" 32:5 32:7||r="TrAP"||c="hyperthyroid disease" 32:1 32:2
+c="levoxyl" 32:12 32:12||r="TrAP"||c="hypothyroid" 32:10 32:10
+c="serial enzymes" 98:13 98:14||r="TeRP"||c="myocardial damage" 98:36 98:37
+c="ct scan of the head" 76:0 76:4||r="TeRP"||c="hemorrhage" 76:7 76:7
+c="ct scan of the head" 76:0 76:4||r="TeRP"||c="edema" 76:9 76:9
+c="single mental status change" 115:1 115:4||r="PIP"||c="blood transfusion reaction" 115:11 115:13
+c="anti-coagulation" 110:23 110:23||r="TrNAP"||c="risk of gastrointestinal bleeding" 110:27 110:30
+c="coffee ground material" 86:9 86:11||r="PIP"||c="emesis" 86:2 86:2
+c="warfarin" 13:27 13:27||r="TrAP"||c="pulmonary embolism" 13:13 13:14
+c="ekg" 98:0 98:0||r="TeRP"||c="sinus tachycardia" 98:8 98:9
+c="stool guaiac" 26:5 26:6||r="TeRP"||c="trace positive" 26:8 26:9
+c="duodenitis" 94:22 94:22||r="PIP"||c="erosions in the antrum and pre-pyloric region" 94:0 94:6
+c="duodenitis" 94:22 94:22||r="PIP"||c="granularity" 94:8 94:8
+c="duodenitis" 94:22 94:22||r="PIP"||c="erythema" 94:10 94:10
+c="duodenitis" 94:22 94:22||r="PIP"||c="congestion of the anterior bulb and posterior bulb" 94:12 94:19
+c="tachycardia" 103:15 103:15||r="PIP"||c="blood transfusion reaction" 103:18 103:20
+c="tachycardia" 103:15 103:15||r="PIP"||c="the myocardial infarction" 103:0 103:2
+c="anteroseptal myocardial infarction" 99:26 99:28||r="PIP"||c="loss of r wave progression" 99:8 99:12
+c="anteroseptal myocardial infarction" 99:26 99:28||r="PIP"||c="q waves in leads iii" 99:17 99:21
+c="anteroseptal myocardial infarction" 99:26 99:28||r="PIP"||c="avf" 99:23 99:23
+c="paroxysmal atrial fibrillation" 39:1 39:3||r="PIP"||c="pulmonary embolism" 39:8 39:9
+c="coumadin regimen" 15:32 15:33||r="TrAP"||c="pain" 15:23 15:23

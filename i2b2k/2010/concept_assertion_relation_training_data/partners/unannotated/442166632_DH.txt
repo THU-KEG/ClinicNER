@@ -1,0 +1,62 @@
+442166632 DH
+2177885
+62660
+244279
+9/13/2002 12:00:00 AM
+OB Discharge Summary
+Signed
+DIS
+Report Status :
+Signed
+OB EMR L and D
+DISCHARGE SUMMARY
+NAME :
+YAM MELCGERLE
+UNIT NUMBER :
+672-54-57
+ADMISSION DATE :
+20020913
+DISCHARGE DATE :
+20020915
+PRINCIPAL DISCHARGE DIAGNOSIS :
+Normal Vaginal Delivery
+ASSOCIATED DIAGNOSES :
+Abnormal Pap Test , history of ; Depression , history of
+PRINCIPAL PROCEDURE OR OPERATION :
+Spontaneous Vertex Vaginal Delivery
+HISTORY AND REASON FOR HOSPITALIZATION :
+Active Labor
+PHYSICAL EXAMINATION :
+HEIGHT NORMAL HEENT NORMAL MOUTH NORMAL NECK NORMAL thyroid non palpable BREASTS NORMAL soft , no masses NIPPLES NORMAL everted CHEST NORMAL lungs clear COR NORMAL rrr , no murmer ABDOMEN soft , gravid term mod ctxns EFW 6lb , ceph EXTREM NORMAL no edema , SKIN cooking oil burns on neck and chest NODES NORMAL non palpable VULVA NORMAL no lesions VAGINA CERVIX 3-4/100/-1/vtx ADNEXAE NORMAL UTERUS NORMAL non tender UTERINE SIZE IN WEEKS NORMAL term
+HOSPITAL COURSE ( include complications if any ) :
+This 24 year old Gravida 4 Para 3003 was admitted to the Naliheall County Memorial Hospital Obstetrical service on 09/13/2002 at 12:24 pm for the indication ( s ) :
+active labor .
+She delivered a 3462 gram male infant on 09/13/2002 at 03:37 pm with apgar scores of 9 and 9 at one and five minutes respectively at 39.4 weeks gestation via spontaneous vertex vaginal delivery .
+During her labor she encountered the following complication ( s ) :
+none .
+During her delivery she encountered the following complication ( s ) :
+none .
+Postpartum she encountered the following complication ( s ) :
+.
+She was discharged on 09/15/2002 at 04:03 pm in good condition .
+DISCHARGE ORDERS ( medications instructions to patient , follow-up care ) :
+DISCHARGE ACTIVITY :
+No Restrictions
+DISCHARGE DIET :
+No Restrictions
+POSTPARTUM DISPOSITION :
+Home With Self-Care ( Routine Discharge )
+POSTPARTUM CARE SITE :
+Burnrise Memorial Hospital
+POSTPARTUM RETURN APPOINTMENT ( DAYS ) :
+42
+BREAST FEEDING AT DISCHARGE :
+No
+POSTPARTUM RH IMMUNE GLOBULIN :
+Not Indicated
+POSTPARTUM MEASLES / MUMPS/RUBELLA VACCINE :
+Not Indicated
+MEDICATION ( S ) ON DISCHARGE :
+Multivitamins And Folate ; Ferrous Sulfate Capsules ( Mol Iron )
+Electronically Signed :
+Eseyniel Care , CNM 09/15/2002 4:05:41 PM

@@ -1,0 +1,58 @@
+420033129 YC
+87142319
+129591
+12/12/1996 12:00:00 AM
+Discharge Summary
+Signed
+DIS
+Admission Date :
+12/12/1996
+Report Status :
+Signed
+Discharge Date :
+12/16/1996
+PRINCIPAL DIAGNOSIS :
+STATUS POST TOTAL ABDOMINAL HYSTERECTOMY AND BILATERAL SALPINGO-OOPHORECTOMY .
+ASSOCIATED DIAGNOSIS :
+1) MENORRHAGIA .
+2) PELVIC PAIN .
+3) ENDOMETRIOSIS .
+PRINCIPAL PROCEDURE :
+TAH-BSO .
+HISTORY / REASON FOR HOSPITALIZATION :
+The patient is a 42 year old gravida II , para I female with a long history of menorrhagia and pelvic pain .
+She also has a history of endometriosis that is symptomatic .
+She used Danocrine for approximately nine months and was pain free , but was unable to tolerate the side effects .
+She is status post several laparoscopies in the past with which she was diagnosed with endometriosis .
+She has recently been on Depo-Provera and has had episodes of break-through bleeding for six weeks at a time .
+She desired surgical therapy .
+HOSPITAL COURSE :
+On 12/12/96 she had an uncomplicated total abdominal hysterectomy and bilateral salpingo-oophorectomy .
+Estimated blood loss was 100 cc and she tolerated the procedure well .
+On postop day number one she was afebrile and doing well with a PCA for pain control .
+On postop day number two she was also afebrile and had not passed any flatus yet .
+She was ambulating frequently .
+Her hematocrit was 34.2 and stable from her preoperative value .
+On postop day number three her abdomen was noted to be distended with a few bowel sounds and she still had not passed gas .
+The patient decreased the amount of Demerol she was using and supplemented with Tylenol and continued her frequent ambulation .
+On postop day number four she had passed flatus and was feeling much better .
+She was discharged to home in good condition on the following medications .
+DISCHARGE MEDICATIONS :
+Demerol for pain .
+Motrin for pain .
+Colace stool softener .
+DISPOSITION :
+The patient should follow-up with Dr. Side in two weeks .
+Dictated By :
+IEDEARC SIDE , M.D. LB28
+Attending :
+MITERY D. LOSS , M.D. CB51 II795/2112
+Batch :
+42100
+Index No. ZMFX3O4G1
+D :
+01/04/97
+T :
+01/06/97
+CC :
+1. MITERY D. LOSS , M.D. NT11

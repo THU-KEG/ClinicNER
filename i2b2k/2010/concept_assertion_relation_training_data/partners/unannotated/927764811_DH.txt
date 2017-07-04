@@ -1,0 +1,53 @@
+927764811 DH
+7496987
+244794
+3998679
+7/2/2005 12:00:00 AM
+Discharge Summary
+Unsigned
+DIS
+Report Status :
+Unsigned
+DISCHARGE SUMMARY
+NAME :
+STOCK , LEAMA C
+UNIT NUMBER :
+077-49-14
+ADMISSION DATE :
+07/02/2005
+DISCHARGE DATE :
+07/03/2005
+DIAGNOSIS :
+Left hand cellulitis .
+HISTORY OF PRESENT ILLNESS :
+Ms. Stock is a 53-year-old right-hand dominant female , who go a scratch by a cat approximately four days ago and had progressive cellulitis all the way down to her elbow and her left upper extremity .
+She was placed on oral Augmentin , which improves ?? INAUDIBLE ?? , but then seen in the clinic by Dr. Stable , who admitted her for IV antibiotics and observation .
+PHYSICAL EXAMINATION :
+The patient &apos;s left upper extremity was swollen and mildly tender , but with no decreased range of motion except in her MCPs .
+Her capillary refill was brisk and she was otherwise neurovascularly intact .
+An aspiration was attempted in the office with no major fluid pockets found .
+HOSPITAL COURSE :
+The patient was admitted to the hospital and taken to the orthopedic floor for observation mobilization and pain control .
+She was placed in an Orthoplast resting splint and kept her hand elevated .
+She was placed in Unasyn .
+On hospital day #1 , after a whole night of IV antibiotics and elevation , the patient &apos;s left hand improved markedly .
+Her erythema decreased and most of the cellulitis has had disappeared .
+The patient was kept in hospital for full 24 hours of IV antibiotics and discharged home with Oral Augmentin x10 days .
+She will follow up with Dr. Stable in one week .
+DISCHARGE INSTRUCTIONS :
+The patient will follow up with Dr. Stable in one week .
+She will keep the hand elevated in a splint .
+In case of increasing pain , swelling , redness purulent changes , fevers or chills , the patient should return to emergency room and is aware of this .
+The patient was discharged home with some Percocet and oral Augmentin .
+The patient was discharged home in stable condition and all her questions were answered prior to discharge .
+SHAWNCY STABLE , M.D.
+DICTATING FOR :
+_____________________________ SHAWNCY STABLE , M.D.
+TR :
+yq
+DD :
+07/05/2005
+TD :
+07/06/2005 9:50 A 244794
+cc :
+SHAWNCY STABLE , M.D.

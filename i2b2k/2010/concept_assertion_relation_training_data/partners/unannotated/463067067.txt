@@ -1,0 +1,93 @@
+463067067
+FIH
+7339944
+31403/p8v6
+363828
+1/6/1994 12:00:00 AM
+LEFT LUNG ATELECTASIS WITH CHRONIC OBSTRUCTIVE PULMONARY
+Unsigned
+DIS
+Report Status :
+Unsigned
+ADMISSION DATE :
+01/06/94
+DISCHARGE DATE :
+02/17/94
+PRINCIPAL DIAGNOSIS :
+Left lung atelectasis with chronic obstructive pulmonary disease .
+ASSOCIATED DIAGNOSIS :
+Bilateral mastectomy treated with radiation therapy and chemotherapy .
+PRINCIPAL PROCEDURE :
+1/13/94 - flexible bronchoscopy with biopsy , mediastinoscopy and biopsy , left pleural biopsy with excision of redundant left lower lobe emphysematous bullae ( reduction pneumoplasty ) .
+ASSOCIATED PROCEDURES :
+2/14/94 - tracheostomy .
+HISTORY OF PRESENT ILLNESS :
+Mrs. Scarv is a 70 year old female who presented with a two and a half year history of dyspnea and progressively worsening exercise tolerance .
+Her work up included a cardiac catheterization which showed moderate disease and pulmonary function tests which showed an FEV1 of .93 and a DLCO of 5.12 .
+Her x-rays and CT scans showed progressive infiltrate in the left lower lobe .
+She underwent bronchoscopy on 1/6/94 by the Pulmonary Service .
+She was admitted post-bronchoscopy because of dyspnea and pain .
+PAST MEDICAL HISTORY :
+( 1 ) hysterectomy .
+( 2 ) colonic polypectomy .
+( 3 ) Bilateral mastectomy treated with radiation therapy and chemotherapy .
+MEDICATIONS ON ADMISSION :
+prednisone 10 mg q.d. , atenolol 25 mg q.d. , Cytotec 10 mg q.d. , Zantac 150 mg b.i.d.
+PHYSICAL EXAMINATION ON ADMISSION :
+respirations 22 , pulse 96 , systolic pressure 100 , head , eyes , ears , nose , throat examination :
+sclerae nonicteric , PERRL , mucous membranes not cyanotic , neck was supple , carotids were 2+ without bruits .
+The heart exam revealed a normal Sl and S2 regular rate and rhythm , no murmurs .
+Chest :
+decreased breath sounds at left base , crackles at both bases .
+The abdomen was soft and non-tender , no masses .
+Extremities :
+slight cyanosis of fingers , no peripheral edema .
+ADMISSION LABORATORY DATA :
+Room air blood gas 54/26/7.48 .
+Electrolytes notable for potassium 4.2 , BUN 28 , creatinine 1.0 , hematocrit 44.4 , white blood count 8.6 , chest X-ray post biopsy :
+tiny left apical pneumothorax without interval change .
+HOSPITAL COURSE :
+Early in through her hospitalization her electrocardiograms remained unchanged and she ruled out for myocardial infarction by enzymes .
+Her oxygen saturations remained 88-93 percent on four liters of nasal prong oxygen .
+Upon review of her computerized tomography scan there was demonstration of progressive collapse of her left lower lobe with a mass like effect adjacent to the atelectasis .
+There were two large mediastinal nodes and needle biopsy of the left lobe lesion was non-diagnostic .
+She was referred for tissue diagnosis and on 1/13/94 was brought to the operating room .
+She underwent flexible bronchoscopy with mediastinoscopy .
+These were negative for tumor and a mini left thoracotomy was performed with pleural biopsy .
+Intraoperatively there was a large emphysematous portion of the left lung which prohibited her left lower lobe to fully expand .
+It was decided to perform reduction pneumoplasty .
+This proceeded uneventfully .
+She was extubated and stable with a good airway and good oxygen saturation .
+However , upon transferring her from the operating room bed to the stretcher she had an arrest .
+This appeared to be respiratory in origin .
+She was placed back on the operating room table and cardiopulmonary resuscitation was begun .
+Pressors were given and she quickly responded with a return in blood pressure and heart rate .
+Her blood pressure remained unstable requiring large amounts of pressors .
+X-rays showed no pneumothorax and there was no bleeding from her chest tubes .
+She was therefore transferred up to the Respiratory Intensive Care Unit .
+Early in her postoperative course her pulmonary artery pressures were quite high , 70/30 .
+Her wedge pressure was 20 and there were no electrocardiogram changes .
+She ruled out for myocardial infarction .
+She developed a picture consistent with right heart failure with pulmonary hypertension and require nitric oxide administration .
+This improved her right heart function with lower PA pressures .
+She developed a right pleural effusion which required chest tube placement to remove 1200 ccs of straw-colored fluid .
+She remained fully ventilated with marginal hemodynamic status on Levophed , dobutamine and nitric oxide .
+Ultimately she was able to be weaned off of her Levophed as well as her nitric oxide .
+However , because of persistent episodes of right heart failure , dobutamine was started .
+This improved her cardiac function .
+She failed to wean from the ventilator and on 2/14/94 was brought to the operating room for a tracheostomy .
+She had a complicated course from an Infectious Disease standpoint with multiple positive cultures including sputum positive for Pseudomonas cepacia , blood cultures which were positive for Streptococcus milleri .
+The right pleural fluid was also positive for Streptococcus milleri .
+She had Citrobacter from her sinuses with evidence of sinusitis .
+She was treated with multiple courses of broad spectrum antibiotics .
+Given her protracted postoperative course the family uniformly decided to withdraw all support and initiate comfort measures only .
+This was discussed with the Respiratory Intensive Care Unit staff .
+Her support was withdrawn and she expired on 2/17/94 at 9:00 p.m.
+The patient &apos;s family was notified .
+RIELLEUS LARGE , M.D.
+TR :
+siw / bmot
+DD :
+02/17/94
+TD :
+02/19/94

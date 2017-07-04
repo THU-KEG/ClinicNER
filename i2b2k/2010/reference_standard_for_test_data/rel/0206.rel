@@ -1,0 +1,15 @@
+c="his x-rays" 49:0 49:1||r="TeRP"||c="advanced osteoarthritis of his right hip" 49:3 49:8
+c="his vital signs" 56:4 56:6||r="TeRP"||c="afebrile" 56:2 56:2
+c="dulcolax" 85:6 85:6||r="TrAP"||c="constipation" 85:14 85:14
+c="peri-colace" 85:0 85:0||r="TrAP"||c="constipation" 85:14 85:14
+c="lower extremity noninvasive ultrasounds" 70:5 70:8||r="TeRP"||c="deep venous thrombosis in the lower extremities" 70:17 70:23
+c="his incision" 67:0 67:1||r="PIP"||c="erythema" 67:10 67:10
+c="tylenol" 78:0 78:0||r="TrAP"||c="pain" 78:9 78:9
+c="milk of magnesia" 79:0 79:2||r="TrAP"||c="constipation" 79:10 79:10
+c="vital signs" 66:9 66:10||r="TeRP"||c="afebrile" 66:7 66:7
+c="irritable" 45:4 45:4||r="PIP"||c="a 10-degree fixed flexion contracture" 45:6 45:10
+c="percocet" 81:0 81:0||r="TrAP"||c="pain" 81:15 81:15
+c="radiation" 37:28 37:28||r="TrAP"||c="the non-small-cell lung cancer" 37:30 37:33
+c="chemotherapy" 37:26 37:26||r="TrAP"||c="the non-small-cell lung cancer" 37:30 37:33
+c="evaluation" 29:18 29:18||r="TeCP"||c="his right hip pain" 29:20 29:23
+c="a right total hip replacement" 51:32 51:36||r="TrAP"||c="severe osteoarthritis of the right hip" 51:6 51:11

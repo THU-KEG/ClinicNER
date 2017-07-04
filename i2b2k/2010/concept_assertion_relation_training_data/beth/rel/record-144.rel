@@ -1,0 +1,42 @@
+c="his gamma glutamyl transferase" 54:20 54:23||r="TeRP"||c="a confirmatory elevation" 54:16 54:18
+c="his neurological examination" 65:0 65:2||r="TeRP"||c="atraumatic" 65:12 65:12
+c="his neurological examination" 65:0 65:2||r="TeRP"||c="a hematoma" 65:17 65:18
+c="a computerized axial tomography scan of his head" 66:0 66:7||r="TeRP"||c="any extra or intracranial hemorrhage" 66:14 66:18
+c="his brachytherapy" 67:15 67:16||r="TrAP"||c="his prostate cancer" 67:18 67:20
+c="his brachytherapy" 67:15 67:16||r="TrCP"||c="rectal bleeding" 67:10 67:11
+c="verapamil" 48:7 48:7||r="TrAP"||c="mildly tachycardiac" 48:14 48:15
+c="rapid ventricular response" 46:16 46:18||r="PIP"||c="atrial fibrillation" 46:13 46:14
+c="magnetic resonance cholangiopancreatography" 57:0 57:2||r="TeRP"||c="biliary dilatation" 57:9 57:10
+c="magnetic resonance cholangiopancreatography" 57:0 57:2||r="TeRP"||c="any obstructing pancreatic mass" 57:13 57:16
+c="an magnetic resonance cholangiopancreatography" 56:19 56:22||r="TeCP"||c="a partial biliary obstruction" 56:9 56:12
+c="chronic hepatic vascular congestion" 58:15 58:18||r="PIP"||c="dilated hepatic veins" 58:11 58:13
+c="chronic hepatic vascular congestion" 58:15 58:18||r="PIP"||c="a slightly irregular contour of the liver" 58:3 58:9
+c="a slightly irregular contour of the liver" 58:3 58:9||r="PIP"||c="dilated hepatic veins" 58:11 58:13
+c="systolic blood pressures" 40:10 40:12||r="TeRP"||c="mildly hypotensive" 40:7 40:8
+c="a cardiac catheterization" 52:9 52:11||r="TeCP"||c="the patient 's heart failure" 52:22 52:26
+c="echocardiogram" 35:0 35:0||r="TeRP"||c="moderate dilated left atrium" 35:2 35:5
+c="echocardiogram" 35:0 35:0||r="TeRP"||c="atrioseptal defect" 35:8 35:9
+c="echocardiogram" 35:0 35:0||r="TeRP"||c="severe global left ventricular hypokinesis" 35:11 35:15
+c="echocardiogram" 35:0 35:0||r="TeRP"||c="severe left ventricular systolic function" 35:17 35:21
+c="echocardiogram" 35:0 35:0||r="TeRP"||c="moderately dilated right ventricle" 35:23 35:26
+c="chest x-rays" 51:0 51:1||r="TeRP"||c="congestive heart failure" 51:5 51:7
+c="his congestive heart failure" 60:14 60:17||r="PIP"||c="vascular congestion" 60:11 60:12
+c="an irregular hepatic contour" 55:17 55:20||r="PIP"||c="underlying chronic liver disease" 55:27 55:30
+c="electrocardiogram" 34:0 34:0||r="TeRP"||c="atrial fibrillation" 34:2 34:3
+c="electrocardiogram" 34:0 34:0||r="TeRP"||c="rapid ventricular response" 34:5 34:7
+c="electrocardiogram" 34:0 34:0||r="TeRP"||c="atrial flutter" 34:9 34:10
+c="atrial fibrillation" 34:2 34:3||r="PIP"||c="rapid ventricular response" 34:5 34:7
+c="atrial fibrillation" 34:2 34:3||r="PIP"||c="atrial flutter" 34:9 34:10
+c="abnormal liver function tests" 54:1 54:4||r="TeRP"||c="an isolated , elevated alkaline phosphatase" 54:9 54:14
+c="abnormal liver function tests" 54:1 54:4||r="TeRP"||c="a confirmatory elevation" 54:16 54:18
+c="an ultrasound of the right upper quadrant" 55:0 55:6||r="TeRP"||c="any cholelithiasis" 55:10 55:11
+c="an ultrasound of the right upper quadrant" 55:0 55:6||r="TeRP"||c="cholecystitis" 55:13 55:13
+c="an ultrasound of the right upper quadrant" 55:0 55:6||r="TeRP"||c="an irregular hepatic contour" 55:17 55:20
+c="barium" 23:6 23:6||r="TrCP"||c="allergy" 23:4 23:4
+c="the patient 's hypotension" 43:7 43:10||r="PIP"||c="his rapid ventricular response" 43:16 43:19
+c="the patient 's hypotension" 43:7 43:10||r="PIP"||c="right heart failure" 43:21 43:23
+c="argon laser therapy" 68:6 68:8||r="TrAP"||c="his rectal bleeding" 68:13 68:15
+c="abnormal septal motion" 36:10 36:12||r="PIP"||c="right ventricular volume overload" 36:15 36:18
+c="repeat argon laser therapy" 68:28 68:31||r="TrAP"||c="his rectal bleeding" 68:13 68:15
+c="his heart rate" 48:9 48:11||r="TeRP"||c="mildly tachycardiac" 48:14 48:15
+c="cpap" 21:42 21:42||r="TrAP"||c="obstructive sleep apnea" 21:38 21:40

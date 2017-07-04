@@ -1,0 +1,97 @@
+522222575
+FIH
+2197819
+73072/3686
+877333
+8/15/1993 12:00:00 AM
+Discharge Summary
+Unsigned
+DIS
+Report Status :
+Unsigned
+ADMISSION DATE :
+8-15-93
+DISCHARGE DATE :
+9-19-93
+HISTORY OF PRESENT ILLNESS :
+The patient is a 78 year old male with dysphagia who was found to have endoscopically two nodules in the esophagus , biopsy of which showed small cell carcinoma .
+Recently , he has complained of pain radiating down the left leg and work up had shown absent left knee jerk .
+Plain films of the lumbosacral spine showed some scoliosis with blastic changes around L3 .
+The bone marrow biopsy was positive for metastatic carcinoma .
+The patient was admitted for further evaluation .
+PHYSICAL EXAMINATION :
+On physical examination on admission , the blood pressure was 164/90 , pulse 88 , respirations 20 .
+PAST MEDICAL HISTORY :
+Note :
+past medical history included hypertension , treated by Cardizem .
+The patient also has a history of degenerative joint disease .
+He had an episode of chest pain but ruled out for myocardial infarction .
+On physical examination , vital signs were as above .
+The head , eyes , ears , nose , throat examination was within normal limits , neck was supple , lungs were clear to auscultation and percussion .
+The abdomen was benign with no masses felt .
+Cardiovascular exam :
+grade I / VI systolic ejection murmur at the right upper sternal border , single S1 , S2 .
+The rectal examination showed guaiac negative stool .
+Extremities :
+within normal limits .
+The neurological examination showed an absent left knee jerk .
+Cerebellar function was normal .
+LABORATORY DATA :
+significant for a sodium of 140 , potassium 3.9 , chloride 105 , BUN and creatinine 21 and 1.5 , LDH 732 , SGOT 84 , alkaline phosphatase 145 , bilirubin 0.3 , calcium 10 , albumen 4.1 , globulin 3.9 , white blood count 8.9 , hematocrit 43.3 , 62 polys , 26 lymphs , 9 monos , 1 eo , 2 basos , prothrombin time 9.8/10.0 , partial thromboplastin time 31.8 .
+During this admission , an upper gastrointestinal and small bowel follow-through on 9-5-93 was normal .
+A computerized tomography scan of the chest showed diffuse esophageal wall thickening , dilatation of the esophagus with air fluid levels and no evidence of mediastinitis and some air space disease in a medial segment of the right middle lobe .
+Bone scan showed multiple regions of abnormally increased activity in the dorsal spine and lumbar vertebrae , as well as a right anterior fourth rib , consistent with metastases .
+A magnetic resonance imaging study of the brain showed no definite evidence of metastatic deposits .
+There was microvascular disease .
+A computerized tomography scan of the abdomen showed multiple low density lesions within the liver , consistent with metastatic disease and a 1.5 centimeter low thoracic paraesophageal lymph node , pathological .
+Spleen , pancreas and kidneys were within normal limits .
+A magnetic resonance imaging study of the brain showed no metastases .
+The magnetic resonance imaging study of the spine showed extensive bony metastases .
+There was no evidence of spinal cord compression on magnetic resonance imaging study , though there was evidence of pressure on the L4 nerve root .
+HOSPITAL COURSE :
+The patient was admitted and he was started on chemotherapy and radiation therapy to the L4 spine region .
+The first course of chemotherapy was given from 8-19-93 through 8-21-93 .
+This was VP-16 150 mg daily x three and cisplatin 60 mg daily x three with Zofran 11 mg on three occasions as an antiemetic and each dose of cisplatin was preceded by 12.5 grams of Decadron .
+The chemotherapy was well tolerated but did result in febrile neutropenia .
+Granulocyte colony stimulating factor was added .
+Thus white blood count dropped to 0.6 minimum on 8-27 , with platelet count of 63,000 but with granulocyte colony stimulating factor support and antibiotics for febrile neutropenia , white blood count recovered .
+Actually the lowest white blood count was 0.5 on 8-31-93 .
+On that occasion , platelet count was as low as 17,000 .
+By 9-8-93 , the white blood count was back up to 16.2 .
+The patient &apos;s course was complicated by severe pain and intractable nausea and vomiting and severe substernal pain .
+He is on MS Contin and also on Duragesic patch .
+He continued to have nausea and vomiting .
+The patient was seen in consultation by Dr. Signs of Gastroenterology .
+Eventually , a PICC line was inserted and he was given central total parenteral nutrition because of severe anorexia during radiation therapy .
+Two weeks passed without a bowel movement because of the lack of intake and eventually that resolved .
+It was felt that endoscopy would be of value .
+A central venous line was placed on 8-29-93 .
+After neutropenia resolved by 9-2-93 with white blood count rising to 2.2 and platelet count to 28,000 , endoscopy became feasible .
+This was done on 9-4-93 and there were inflammatory exudates , ulcerations , and granulation tissue in the middle and distal third of the esophagus , but the tumor polypoid masses had completely disappeared .
+Cytologic brushings of the ulcerated areas were positive for cancer cells but deep biopsies were negative .
+The patient was treated with fluconazole in case there was any Monilia , although biopsy did not confirm the presence of Monilia .
+Gradually during the hospitalization , the sternal pain improved , as did the pain in the left hip and the patient became able to ambulate somewhat .
+He was making progress and accordingly , a second course of chemotherapy was given at lower dose .
+He received VP-16 100 mg daily x three , 9-12 , 9-13 and 9-14-93 , and cisplatin 40 mg daily x three on that same date with Zofran 10 mg.
+The only problem was some recurrent nausea .
+The radiation therapy was finally finished on the day of discharge , 9-19-93 , at which point the patient was able to take fluids and food but was still occasionally vomiting .
+His white blood count was in the range of 53,000 because Neupogen had been started with his second cycle of chemotherapy and will be continued until it is clear that he has passed the nadir of any neutropenia to be expected from this cycle of chemotherapy .
+DISCHARGE DIAGNOSIS :
+1. metastatic small cell cancer of esophageal origin to liver and bone ,
+2. severe ulcerations of the esophagus at sites of prior tumor ,
+3. intractable nausea and vomiting ,
+4. pain syndrome , largely resolved ,
+5. hypertension .
+MEDICATIONS ON DISCHARGE :
+Prilosec 20 mg PO qa.m. , Senokot one to two tablets PO q.day as needed , Colace 100 mg PO b.i.d. , Microstatin 100,000 units swish and swallow four times a day , Darvocet-N 100 1 PO q4h prn pain , Cardizem 240 mg PO q.day , Neupogen 300 mg subcutaneously q.day x ten days , depending on trend of blood counts , Compazine 10 mg PO q6h prn nausea , PICC line flushes , 200 units of heparin twice daily .
+The patient will need complete blood count , differential and platelet count twice weekly on Monday and Thursday , and fax it to 463-8992 .
+The patient is on diet as tolerated .
+There will be plans to do additional chemotherapy in the future if the patient improves sufficiently .
+GUABENFRANDA D. FOLEY , M.D.
+TR :
+hh / bmot
+DD :
+9-19-93
+TD :
+09/19/93
+CC :

@@ -1,0 +1,52 @@
+801499036
+FIH
+3380885
+04891/6516
+412982
+06/06/1993 12:00:00 AM
+Discharge Summary
+Unsigned
+DIS
+Report Status :
+Unsigned
+ADMISSION DATE :
+06-06-93
+DISCHARGE DATE :
+06-07-93
+HISTORY OF PRESENT ILLNESS :
+The patient is a 68 year old male status post three and a half cycles of adjuvant EAP chemotherapy .
+He had a good response to preoperative therapy and negative nodes , and is admitted for the final portion of his postoperative cycles .
+His chemotherapy the week before was decreased because the white blood count dropped to 2.8 .
+In the interim , the white blood count rose again to 4.2 with a hematocrit of 30.5 , platelet count of 196 thousand .
+PHYSICAL EXAMINATION :
+On physical examination on admission , the blood pressure was 146/80 , weight 146 , temperature 98.6 , and pulse of 92 .
+The skin was normal .
+The neck was supple .
+The cardiac examination demonstrated single S1 , S2 , no murmurs .
+The lungs were clear .
+The abdominal examination was within normal limits .
+The extremities were normal .
+The neurological examination was nonfocal .
+LABORATORY DATA :
+The creatinine was 1.3 and dropping to 1.1 .
+The bilirubin was 0.2 , SGOT 20 , magnesium of 1.4 .
+The white blood count was 4.0 , platelet count 190 , with 62% polys .
+HOSPITAL COURSE :
+The patient was treated with Adriamycin 25 mg , Cis-platinum 40 mg , preceded by Mannitol 12.5 grams intravenous bolus , and Zofran 11 mg on two occasions given as an antiemetic .
+The chemotherapy was well tolerated .
+DOCTORS DISCHARGE ORDERS :
+1. Intravenous chemotherapy ,
+2. adenocarcinoma of the distal esophagus ,
+3. mild hypomagnesemia .
+SPECIAL PROCEDURES AND OPERATIONS :
+Intravenous antibiotics chemotherapy .
+MEDICATIONS ON DISCHARGE :
+Slow-Mag 2 tablets PO bid , Ativan 1 mg sublingually q4h prn nausea .
+GUABENFRANDA D. PO , M.D.
+TR :
+ff / bmot
+DD :
+06-07-93
+TD :
+06/09/93
+CC :

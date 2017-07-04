@@ -1,0 +1,21 @@
+c="the ekg" 65:13 65:14||r="TeRP"||c="the changes" 65:9 65:10
+c="lower extremity non-invasives" 26:10 26:12||r="TeRP"||c="a lower left saphenous vein thrombosis" 26:2 26:7
+c="evaluation" 66:12 66:12||r="TeCP"||c="micro calcifications in the right breast" 66:14 66:19
+c="a vaginal hysterectomy" 17:14 17:16||r="TrAP"||c="uterine prolapse" 17:19 17:20
+c="further intervention" 26:32 26:33||r="TrAP"||c="a lower left saphenous vein thrombosis" 26:2 26:7
+c="percocet" 71:23 71:23||r="TrAP"||c="pain" 71:25 71:25
+c="an ekg" 63:2 63:3||r="TeRP"||c="an old inferior myocardial infarction" 63:9 63:13
+c="pain" 21:8 21:8||r="PIP"||c="her problem" 21:11 21:12
+c="examination" 49:0 49:0||r="TeRP"||c="s3" 49:8 49:8
+c="examination" 49:0 49:0||r="TeRP"||c="s4" 49:10 49:10
+c="examination" 49:0 49:0||r="TeRP"||c="a grade ii/vi holosystolic murmur" 49:13 49:17
+c="examination" 53:0 53:0||r="TeRP"||c="a right upper mid small breast mass" 53:2 53:8
+c="a total vaginal hysterectomy" 69:3 69:6||r="TrCP"||c="complications" 69:16 69:16
+c="examination" 45:0 45:0||r="TeRP"||c="right axillary and right posterior axillary skin tags" 45:2 45:9
+c="examination" 45:0 45:0||r="TeRP"||c="crusted lesions" 45:11 45:12
+c="a mammogram" 17:32 17:33||r="TeRP"||c="a suspicious lesion" 17:27 17:29
+c="evaluation" 17:25 17:25||r="TeCP"||c="a suspicious lesion" 17:27 17:29
+c="a pushing forward of her uterus" 18:11 18:16||r="PIP"||c="patient &apos;s problem" 18:0 18:2
+c="a mammogram" 62:15 62:16||r="TeRP"||c="a left upper quadrant large calcified fibroadenoma" 62:19 62:25
+c="a mammogram" 62:15 62:16||r="TeRP"||c="right upper mid area of calcification" 62:27 62:32
+c="a chest x-ray" 62:7 62:9||r="TeRP"||c="infiltrates" 62:13 62:13

@@ -1,0 +1,58 @@
+300423900
+PUOMC
+7191549
+32395/a42u
+265407
+12/4/1995 12:00:00 AM
+MAINTENANCE CHEMOTHERAPY .
+Unsigned
+DIS
+Report Status :
+Unsigned
+ADMISSION DATE :
+12/4/95
+DISCHARGE DATE :
+12/8/95
+His date of birth is 11/7/32 .
+PRINCIPAL DIAGNOSIS :
+maintenance chemotherapy .
+ASSOCIATED DIAGNOSES :
+malignant fibrous histiocytoma of duodenum , metastases to liver , anemia .
+PRINCIPAL PROCEDURE :
+intravenous chemotherapy 12/4/95 through 12/8/95 .
+DISCHARGE ORDERS :
+Ativan 1 mg or Trilafon 4 mg q 4 hours prn nausea , Carafate one gram q.i.d.
+PRESENT ILLNESS :
+This 63-year-old man had a mass in the duodenum , discovered in 02/95 .
+A leiomyosarcoma was resected after embolization of the splenic artery .
+However , it could not be completely excised , moreover the tumor metastasized to the liver was discovered on follow up scan in 06/95 .
+He has been receiving chemotherapy since then .
+PHYSICAL EXAMINATION :
+He generally looks well .
+Vital signs are normal .
+The skin is intact .
+His head , eyes , ears , nose , throat is clear .
+The neck is without adenopathy .
+Chest clear .
+Heart without gallop .
+Abdomen without mass .
+Extremities without edema .
+Neurological examination intact .
+LABORATORY EXAMINATION :
+hematocrit 33 , white count 4.4 , with 28% monos and 30% polys and bands .
+Platelets 253 thousand .
+Creatinine 0.6 , SGOT 52 , bilirubin 0.5 .
+COURSE IN HOSPITAL :
+The patient was hydrated well and given Adriamycin 27 mg and DTIC 450 mg daily for four days .
+He also got ifosfamide 3.6 grams a day with mesna .
+He tolerated treatment well and was discharged in good condition .
+FOLLOWUP :
+by private physician .
+LENNI BREUTZOLN , M.D.
+TR :
+by / bmot
+DD :
+12/10/95
+TD :
+12/13/95
+CC :

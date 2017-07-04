@@ -1,0 +1,19 @@
+c="blood sugars" 22:21 22:22||r="TeRP"||c="slow to increase" 22:25 22:27
+c="treatment" 136:19 136:19||r="TrAP"||c="his depression" 136:21 136:22
+c="treatment" 136:19 136:19||r="TrAP"||c="suicidal ideation" 136:25 136:26
+c="suicidal ideation" 136:25 136:26||r="PIP"||c="his depression" 136:21 136:22
+c="neutra-phos" 118:8 118:8||r="TrCP"||c="hyperphosphatemic" 118:3 118:3
+c="insulin overdosing" 20:10 20:11||r="PIP"||c="attempted suicide" 20:7 20:8
+c="further evaluation" 136:16 136:17||r="TeCP"||c="his depression" 136:21 136:22
+c="further evaluation" 136:16 136:17||r="TeCP"||c="suicidal ideation" 136:25 136:26
+c="a very low ciwa scale" 101:16 101:20||r="TeCP"||c="dt s;" 101:10 101:11
+c="telemetry" 90:0 90:0||r="TeRP"||c="sinus tachycardia" 90:6 90:7
+c="glucose repletion" 93:18 93:19||r="TrIP"||c="very hypoglycemic" 93:5 93:6
+c="glucose repletion" 93:18 93:19||r="TrIP"||c="overdosing on insulin" 93:11 93:13
+c="overdosing on insulin" 93:11 93:13||r="PIP"||c="very hypoglycemic" 93:5 93:6
+c="insulin" 22:40 22:40||r="TrCP"||c="slow to increase" 22:25 22:27
+c="further management" 137:23 137:24||r="TrAP"||c="his impulsive behaviors" 137:26 137:28
+c="a diazepam ciwa scale prophylaxis" 101:4 101:8||r="TrAP"||c="dt s;" 101:10 101:11
+c="attempted suicide" 105:10 105:11||r="PIP"||c="increased stressors" 105:37 105:38
+c="attempted suicide" 105:10 105:11||r="PIP"||c="overdose" 105:13 105:13
+c="his insulin" 105:15 105:16||r="TrCP"||c="overdose" 105:13 105:13

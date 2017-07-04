@@ -1,0 +1,37 @@
+Admission Date :
+2011-09-18
+Discharge Date :
+2011-09-26
+Date of Birth :
+1962-05-08
+Sex :
+F
+Service :
+CMED CCU
+Allergies :
+Sulfonamides / Zithromax / Floxin / Penicillins / Neurontin / Demerol / Morphine Sulfate / Ativan
+Attending : James I Schultz , M.D.
+Chief Complaint : see dc summary
+Major Surgical or Invasive Procedure : see dc summary
+History of Present Illness : see dc summary
+Past Medical History : see dc summary
+Social History : see dc summary
+Family History : see dc summary
+Physical Exam : see dc summary
+Pertinent Results : see dc summary
+Brief Hospital Course : see dc summary
+Medications on Admission : see dc summary
+Discharge Medications :
+Change :
+Pyridium 200 mg po three times a day for UTI symptoms x 2 days .
+Discharge Disposition :
+Home with Service
+Discharge Diagnosis : see dc summary
+Discharge Condition : see dc summary
+Discharge Instructions : see dc summary
+Followup Instructions : see dc summary
+Janine Karina MD 98-439
+Completed by :
+Harvey Aaron MD 37-052 2011-09-26 @ 1232
+Signed electronically by : DR. Stephen Williams on : SAT 2011-10-08 9:45 AM
+( End of Report )

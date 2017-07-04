@@ -1,0 +1,76 @@
+901751538 
+CTMC 
+71624078 
+425615 
+2/3/1992 12:00:00 AM 
+Discharge Summary 
+Signed 
+DIS 
+Admission Date : 
+02/03/1992 
+Report Status : 
+Signed 
+Discharge Date : 
+02/07/1992 
+PRINCIPAL DIAGNOSIS : 
+STERNAL WOUND INFECTION . 
+SECONDARY DIAGNOSES : 
+STATUS POST ORTHOTOPIC CARDIAC TRANSPLANT . 
+INSULIN DEPENDENT DIABETES MELLITUS . 
+DILATED CARDIOMYOPATHY . 
+HISTORY OF PRESENT ILLNESS : 
+The patient is a 48-year-old white man who is 20 days status post orthotopic cardiac transplant who was readmitted for sternal wound infection . 
+He has insulin dependent diabetes mellitus and a history of a dilated cardiomyopathy . 
+He had progressive symptoms of congestive heart failure which led to his evaluation of his cardiac transplant in March of 1991 . 
+Preoperatively , he had a severely dilated left ventricle with markedly diminished function . 
+His post transplant course was initially complicated by hyperglycemia and seizure on postoperative day number one . 
+He was , however , extubted without difficulty and after that did quite well . 
+He had a predischarge biopsy . 
+He felt well at home without fevers , chills or rigors . 
+There were no rashes . 
+He had no chest pain or shortness of breath . 
+When he was seen on 2/3 in the Transplant Clinic , his incision was noted to be more erythematous . 
+He was referred to the Surgical Clinic where the wound was opened and the patient was admitted for intravenous antibiotics . 
+PHYSICAL EXAMINATION : 
+On admission revealed a middle aged man in no distress . 
+Blood pressure was 152/88 . 
+Heart rate 90 . 
+Respiratory rate 14 . 
+HEENT exam was within normal limits . 
+Neck was without bruits . 
+Lungs were clear bilaterally . 
+Cardiac exam showed a normal PMI , regular rate and rhythm , normal S1 , physiologically split S2 . 
+There was an S4 . 
+There were no murmurs or rubs . 
+Abdomen was benign . 
+Extremities were 2+ pedal edema to the knees . 
+Examination of the sternal wound showed an opened area in the mid region of the wound with serosanguineous drainage and a scant amount of thick , yellow pus . 
+There was no induration . 
+LABORATORY DATA : 
+On admission revealed a white blood cell count of 9.46 with 89% polys , 2% bands , 7% lymphocytes , 2% monocytes . 
+Cyclosporin A level on admission was 179 . 
+Microscopic exam showed 4+ Staph . 
+HOSPITAL COURSE : 
+The patient was admitted and pancultured . 
+He was treated with vancomycin and ceftazidime while awaiting wound cultures . 
+He had dressing changes twice a day . 
+Surgery was consulted and followed him while he was in house . 
+Cyclosporin levels were followed and his sugars were followed with a sliding scale . 
+During the first two days , he required 14 and 22 units of additional coverage . 
+However , by day three he required no additional insulin coverage . 
+On the day prior to discharge , his intravenous antibiotics were discontinued and he was begun on tetracycline . 
+DISPOSITION : 
+The patient was discharged home in stable condition . 
+MEDICATIONS : 
+On discharge included tetracycline , 250 mg po q.i.d. ; cyclosporin , 325 mg po b.i.d. ; prednisone , 30 mg po q day ; Bactrim DS , one po q.o.d. ; diltiazem , 30 mg po q.i.d. ; Mycostatin , 15 cc swish and swallow q.i.d. ; Lasix , 40 mg po q day ; Colace , 100 mg po q.i.d. ; Carafate , 1 gram po q.i.d. ; Imuran , 50 mg po t.i.d. ; NPH insulin , 44 units and 10 units of regular q a.m. ; NPH , 22 units and 8 units of regular q p.m. 
+PM296/2413 RI SEEN , M.D. MC0 
+D : 
+02/26/92 
+Batch : 
+4373 
+Report : 
+O8919E48 
+T : 
+02/27/92 
+Dicatated By : 
+SUSHA I. RHIM , M.D. 

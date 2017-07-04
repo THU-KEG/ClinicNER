@@ -1,0 +1,30 @@
+339460011
+PUOMC
+5569091
+946797
+6020656
+4/14/2004 12:00:00 AM
+ED Discharge Summary
+Unsigned
+DIS
+Report Status :
+Unsigned
+ED DISCHARGE NOTIFICATION
+AKOTE , RALPRI
+MRN :
+5569091
+Age :
+77y
+REGISTRATION DATE :
+04/14/2004 02:47 PM
+PRELIMINARY REPORT
+This is to notify you that your patient , AKOTE , RALPRI arrived in the Emergency Department at Ph University Of Medical Center on 04/14/2004 02:47 PM .
+The patient presented with a chief complaint of SOB , FEVER .
+Following evaluation and treatment , the patient &apos;s disposition at the end of the visit was ADMITTED AS AN INPATIENT TO PH UNIVERSITY OF MEDICAL CENTER .
+The patient &apos;s preliminary admitting physician is CHIRD , GRAJORD C and the preliminary diagnosis is PNA .
+Please note this information may have been updated on the inpatient unit .
+If you need additional information please call 639-873-2993 .
+PCP Name :
+FTLOYD , LETTE D
+Provider Number :
+49622

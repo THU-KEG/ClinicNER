@@ -1,0 +1,79 @@
+712485163
+HLGMC
+8634097
+28531/9v89
+9/8/1994 12:00:00 AM
+MYOCARDIAL INFARCTION .
+Unsigned
+DIS
+Report Status :
+Unsigned
+ADMISSION DATE :
+9/8/94
+DISCHARGE DATE :
+9/10/94
+PRINCIPAL DIAGNOSIS :
+Myocardial infarction .
+ASSOCIATED DIAGNOSIS :
+Coronary artery disease .
+2. Hiatal hernia .
+3. Anxiety .
+SPECIAL PROCEDURES AND OPERATIONS :
+1. Coronary angioplasty ( 9/9/94 ) .
+DOCTORS DISCHARGE ORDERS AND MEDICATIONS :
+1. Zantac , 150 mg. , po , b.i.d.
+2. Isordil , 10 mg. , po , t.i.d.
+3. Ecotrin , 325 mg. , po , qD.
+4. Nitroglycerin , 0.4 mg. , sublingual , prn.
+HISTORY OF PRESENT ILLNESS :
+Mr. Little is a 53 year old male who is under the care of Dr. Royendchaelmares , at Hend Geadcoastcar Hospital , with the diagnosis of coronary artery disease .
+He has a history of an old inferior myocardial infarction .
+He was well until three days prior to admission , when he developed an episode of shoulder and arm pain , with minimal exertion .
+The night prior to admission , he slept well , but the following day , he had a prolonged episode of chest pain .
+He went to the Emergency Ward of Hend Geadcoastcar Hospital , where was found , on electrocardiogram , to have a right bundle branch block , and ST-segment elevations in the inferior and apical leads .
+He was treated with intravenous Streptokinase , intravenous heparin , intravenous nitroglycerin .
+He had a brief episode of bradycardia and hypotension , which responded to atropine and dopamine .
+He had some ventricular ectopy that responded to Xylocaine .
+He did well , without recurrent chest pain , congestive heart failure , or further arrhythmias .
+He ruled in for myocardial infarction , with a peak CPK of 660 units , 16% mB .
+An echocardiogram revealed an ejection fraction of 52% .
+He had cardiomegaly .
+He underwent an exercise tolerance test with Thallium , where he exercised for 2 minutes .
+The test was positive .
+Coronary angiography was performed on Sep 8 , which demonstrated a mean pulmonary capillary wedge pressure of 7 millimeters of mercury .
+There was a 30% stenosis of the main left coronary artery .
+There was a 50% stenosis of the left anterior descending .
+The circumflex artery had a total occlusion .
+His right coronary artery had a severe 95% stenosis .
+The left ventricle has normal size , and an ejection fraction of 65% .
+His PAST MEDICAL HISTORY is remarkable for an old Q-wave myocardial infarction .
+He has a hiatus hernia .
+He had prior surgery for hernia .
+PHYSICAL EXAMINATION revealed a pleasant man in no acute distress .
+His blood pressure was 120/60 millimeters of mercury .
+His pulse was regular at 68 beats per minute .
+The jugular venous pressure was normal .
+The carotids were normal .
+The chest was clear .
+His cardiac examination revealed an apical impulse that was not displaced .
+The first sound was normal .
+The second sound was normally split .
+He had no murmurs and no gallops .
+Examination of the abdomen was benign .
+Examination of the extremities showed no ______________ .
+He had good pulses bilaterally .
+His electrocardiogram reveals sinus bradycardia , a right bundle branch block , and non-specific ST-T wave abnormalities .
+HOSPITAL COURSE :
+The patient was admitted to the Medical Service .
+On 9/9/94 , he underwent successful coronary angioplasty of the two lesions in the right coronary artery , with an excellent result .
+He had no post-percutaneous transluminal coronary angioplasty complications .
+He was discharged stable , and was advised to get a follow-up appointment with Dr. Saha Royendchaelmares at Hend Geadcoastcar Hospital .
+RENLAN N. FYFEZEIS , M.D.
+TR :
+ywj / bmot
+DD :
+9/12/94
+TD :
+09/13/94
+CC :
+Medical Records , to Dr. Saha Royendchaelmares , and to Ms. Rashard Kotehuie .

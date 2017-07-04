@@ -1,0 +1,153 @@
+649008161
+CTMC
+07519742
+1990961
+8/24/2004 12:00:00 AM
+hypoglycemia , RLL pneumonia
+DIS
+Admission Date :
+08/24/2004
+Report Status :
+Discharge Date :
+08/29/2004
+****** DISCHARGE ORDERS ******
+COND , TOILD 281-36-91-1 Z69
+Room :
+16R-186
+Service :
+MED
+DISCHARGE PATIENT ON :
+08/29/04 AT 12:00 M
+CONTINGENT UPON
+Home services
+WILL D / C ORDER BE USED AS THE D / C SUMMARY :
+YES
+Attending :
+FONG , CONEY N. , M.D.
+CODE STATUS :
+No CPR / No defib / No intubation / No pressors /
+DISPOSITION :
+Home w/ services
+DISCHARGE MEDICATIONS :
+ECASA ( ASPIRIN ENTERIC COATED ) 81 MG PO QD COLACE ( DOCUSATE SODIUM ) 100 MG PO BID PROZAC ( FLUOXETINE HCL ) 60 MG PO QD
+Alert overridden :
+Override added on 08/25/04 by BURHAYTH , MALICHARLEAR DIVERE , M.D.
+POTENTIALLY SERIOUS INTERACTION :
+LEVOFLOXACIN and FLUOXETINE HCL
+Reason for override :
+will monitor FOLATE ( FOLIC ACID ) 5 MG PO TID
+Instructions :
+from investigational pharmacy
+LOPID ( GEMFIBROZIL ) 600 MG PO BID Starting IN AM ( 08/25 )
+Override Notice :
+Override added on 08/25/04 by BURHAYTH , MALICHARLEAR DIVERE , M.D. on order for ZOCOR PO ( ref # 47460377 )
+SERIOUS INTERACTION :
+GEMFIBROZIL and SIMVASTATIN
+POTENTIALLY SERIOUS INTERACTION :
+GEMFIBROZIL and SIMVASTATIN
+Reason for override :
+aware
+ZESTRIL ( LISINOPRIL ) 40 MG PO QD LOPRESSOR ( METOPROLOL TARTRATE ) 75 MG PO BID
+HOLD IF :
+sbp &lt; 100 , HR &lt; 55
+Food / Drug Interaction Instruction
+Take consistently with meals or on empty stomach .
+MYSOLINE ( PRIMIDONE ) 50 MG PO QD INSULIN 70/30 ( HUMAN ) 12 UNITS SC QAM HOLD IF :
+NPO
+Number of Doses Required ( approximate ) :
+1
+LEVOFLOXACIN 250 MG PO QD X 3 Days Starting Tomorrow ( 08/29 )
+Food / Drug Interaction Instruction
+Administer iron products a minimum of 2 hours before or after a levofloxacin or ciprofloxacin dose dose If on tube feeds , please cycle ( hold 1 hr before to 2 hr after )
+Take 2 hours before or 2 hours after dairy products .
+Override Notice :
+Override added on 08/25/04 by BURHAYTH , MALICHARLEAR DIVERE , M.D. on order for PROZAC PO ( ref 71481921 )
+POTENTIALLY SERIOUS INTERACTION :
+LEVOFLOXACIN and FLUOXETINE HCL
+Reason for override : will monitor ATORVASTATIN 20 MG PO QD
+Alert overridden :
+Override added on 08/28/04 by :
+SERIOUS INTERACTION :
+GEMFIBROZIL and ATORVASTATIN CALCIUM
+POTENTIALLY SERIOUS INTERACTION :
+GEMFIBROZIL and ATORVASTATIN CALCIUM
+Reason for override :
+aware
+PRILOSEC ( OMEPRAZOLE ) 20 MG PO QD LASIX ( FUROSEMIDE ) 20 MG PO QD
+DIET :
+House / ADA 2100 cals / day / Low saturated fat low cholesterol / Renal diet &lt; FDI &lt;
+ACTIVITY :
+walking only with walker
+FOLLOW UP APPOINTMENT ( S ) :
+Monaha Jesc as scheduled ,
+ALLERGY :
+NKA
+ADMIT DIAGNOSIS :
+syncope
+PRINCIPAL DISCHARGE DIAGNOSIS ; Responsible After Study for Causing Admission ) hypoglycemia , RLL pneumonia
+OTHER DIAGNOSIS ; Conditions , Infections , Complications , affecting Treatment / Stay DM ( diabetes mellitus ) CRI ( chronic renal dysfunction ) HTN ( hypertension ) hypercholesterolemia ( elevated cholesterol ) elevated triglycerides ( elevated triglycerides ) prostate CA ( prostate cancer ) OA ( unspecified or generalized OA ) meniere &apos;s dz ( menieres disease ) essential tremor ( tremor ) atypical chest pain ( atypical chest pain ) CAD ( coronary artery disease ) gout ( gout ) cva ( cerebrovascular accident ) pacemaker ( pacemaker ) PUD ( peptic ulcer disease ) UGIB ( upper GI bleeding)
+OPERATIONS AND PROCEDURES :
+OTHER TREATMENTS / PROCEDURES ( NOT IN O.R. )
+none
+BRIEF RESUME OF HOSPITAL COURSE :
+79M DM , CRI , Meniere &apos;s , admitted for ? mechanical fall , FS = 31 , cough x2mos .
+Pt states he had mechanical fall today due to his Meniere &apos;s .
+Found by VNA , FS = 31 .
+Has been in &quot; renal diet study &quot; x3wks , eating mainly only fruits / vegetables , but taking same dose insulin .
+Unable to check own FS due to essential tremor , AH checks FS Qmo and had not been by until today .
+Also has had mildly productive cough x2mos , no F / C , N / Vx1 .
+V / S :
+88% RA -&gt; 95% ( 5L ) .
+D-Dimer &gt; 4000 .
+ECG :
+V-paced .
+CXR :
+negative .
+V / Q ( prelim ) :
+indeterminate .
+A / P :
+1) ? Syncope .
+Ruled out for MI and no events on telemetry .
+Will be sent home on same regimen of asa , zestril , lopressor , atorvastatin .
+Holding lasix for now because was prerenal on admit .
+Can restart as outpatient .
+2) Hypoglycemia , ? secondary to decreased PO intake due to &quot; renal diet study . &quot;
+Have been following glucoses .
+Per request of pcp , have changed insulin regimen to 70/30 at 12 units q am .
+Pt will need close monitor of fbs by ah .
+3) Hypoxia .
+Await final V / Q scan read .
+RLL rhonchi , start Levo for ? CAP .
+4) Renal .
+Acute on chronic renal failure on admit with creat 4.0 but now down to 3.1 this am -- near baseline .
+Hold Lasix and can restart as outpatient if desired by pcp .
+AG metabolic acidosis on admission likely secondary to uremia .
+AG 12 today on day of discharge .
+5) CAD .
+Continue ASA , B-B , ACE-I , statin .
+6) Prophylaxis with PPI .
+7) Dispo - Pt is likely unable to thrive at home alone .
+He has no family but is refusing placement , and he is unable to afford assisted living .
+Pt reported on discharge that he wants to try to make it at home one last time .
+If unable , then he will agree to placement .
+Have had long discussions with pt and pcp about this matter and all in agreement .
+He will receive max home support with AH and home health aide .
+Pharmacy will be filling meds .
+8) Heme -- Pt had decreased Hct on admit of 26 and required one transfusion of pRBCs .
+Hct bumped but continued to trend down to 27 on day of discharge .
+Anemia likely secondary to chronic disease , and pt will have Hct checked on Tuesday , August 31st with result faxed to pcp .
+9) DNR / DNI .
+ADDITIONAL COMMENTS :
+Pt will be very difficult to maintain at home and will need close supervision by AH and other outpatient support .
+For AH -- Pt needs Hct and Chem 7 checked on 9/2/04 .
+Results should be faxed to Monaha Jesc at Sade Medical Center at Retelk County Medical Center -- 177-395-9503 .
+If problem , need to call FLFDMC at 795-648-9919 .
+Also pt needs to have fbs checked by AH with results called to PCP if &gt; 250 .
+DISCHARGE CONDITION :
+Fair
+TO DO / PLAN :
+in instructions No dictated summary
+ENTERED BY :
+FYFEOBVI , CICI CLAIREA , M.D. ( YW821 )
+08/29/04 10:58 AM
+****** END OF DISCHARGE ORDERS ******

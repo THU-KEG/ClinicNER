@@ -1,0 +1,118 @@
+027264339 EH
+05874950
+6387628
+12/30/2005 12:00:00 AM
+NSTEMI
+DIS
+Admission Date :
+12/30/2005
+Report Status :
+Discharge Date :
+01/01/2006
+****** DISCHARGE ORDERS ******
+DALEIS , NASU 478-78-96-2 H77
+Room :
+0D-575
+Service :
+CAR
+DISCHARGE PATIENT ON :
+01/01/06 AT 02:00 PM
+CONTINGENT UPON
+Not Applicable
+WILL D / C ORDER BE USED AS THE D / C SUMMARY :
+YES
+Attending :
+RASH , LYNLE ROLAA , M.D. , B.CH .
+CODE STATUS :
+Full code
+DISPOSITION :
+Home
+DISCHARGE MEDICATIONS :
+ECASA ( ASPIRIN ENTERIC COATED ) 325 MG PO QD ATENOLOL 25
+MG PO BID HOLD IF :
+sbp &lt; 100 , hr &lt; 55 DEPAKOTE ( DIVALPROEX SODIUM ) 250 MG PO TID PROZAC ( FLUOXETINE HCL ) 20 MG PO QD LEVOXYL ( LEVOTHYROXINE SODIUM ) 175 MCG PO QD ARICEPT ( DONEPEZIL HCL ) 10 MG PO QD
+Number of Doses Required ( approximate ) :
+10 PLAVIX ( CLOPIDOGREL ) 75 MG PO QD Starting IN AM ON New Years Day ( New Years Day ) ASACOL ( MESALAMINE TABLET ) 800 MG PO BID LIPITOR ( ATORVASTATIN ) 20 MG PO QD
+Alert overridden :
+Override added on 01/01/06 by :
+POTENTIALLY SERIOUS INTERACTION :
+NIACIN , VIT. B-3 and ATORVASTATIN CALCIUM
+Reason for override :
+will monitor NITROGLYCERIN 1/150 ( 0.4 MG ) 1 TAB SL Q5MIN X 3 doses PRN Chest Pain
+DIET :
+House / Low chol / low sat. fat
+ACTIVITY :
+Resume regular exercise
+FOLLOW UP APPOINTMENT ( S ) :
+Dr Memory 490-8123 2-3 wks , Dr Rash ( Nangtoterlow Valley Hospital ) 01/06/06 scheduled , Dr Memory , RAMMCO 1 wk ,
+ALLERGY :
+QUININE ADMIT DIAGNOSIS :
+NSTEMI
+PRINCIPAL DISCHARGE DIAGNOSIS ;
+Responsible After Study for Causing Admission ) NSTEMI
+OTHER DIAGNOSIS ;
+Conditions , Infections , Complications , affecting Treatment / Stay AF , CAD , H / O PROSTATE CA / H / O THYROID CA / HYPOTHYROIDISM / COLITIS / H / O COLON CA S / P PARTIAL COLECTOMY
+OPERATIONS AND PROCEDURES :
+cardiac catheterization New Years Eve
+OTHER TREATMENTS / PROCEDURES ( NOT IN O.R. ) none
+BRIEF RESUME OF HOSPITAL COURSE :
+CC :
+SSCP x45 min
+HPI :
+77M with cardiac RF of former tobacco use who was woken by an episode of SSCP on the day of admission .
+Non radiating , no associated SOB / N/V / D/LH .
+Resolved in ambulance after NTG SL x2 , and aspirin .
+In ED normotensive , given lovenox , lopressor 25 po and NTP per cards attending .
+No EKG changes , troponin 1.07. ROS :
+recent colitis with bloody diarrhea , just finished prednisone taper , started asacol .
++ fatigue x5-6 wks .
+PMH :
+colitis s / p R hemicolectomy 2002 , +recent flare of bloody diarrhea , started on asacol and just finished prednisone taper .
+hypothyroidism s / p RAI for follicular thyroid CA / h / o bradycardia with BB / atypical CP / B12 deficiency / PAF ( none x15 yrs ) / memory problems-dementia ( nl MRI / MRA )
+Meds :
+levoxyl 175 / atenolol 12.5 / asa 81 / aricept 10 / depakote 250 tid / prozac 20
+EXAM :
+AF VSS LCTA b / l s1 , s2 2 + pulses bilat
+LABS :
+troponin 1.07 CKMB 4 , CK 100
+*** HOSPITAL COURSE ***
+1 ) CV :
+ISCH :
+Troponin increased to 2.27 with second set of cardiac markers .
+Changed from lovenox to heparin in anticipation of cath .
+Put on ASA , statin , BB .
+Cath on New Years Eve showed just 30% LAD lesion , no intervention done .
+This was interpreted in the setting of the patient &apos;s troponin leak as likely s / p autolysed clot .
+Was given plavix 300 , ASA and atenolol 25 bid .
+Will follow up for out patient adenosine MIBI and if positive in LAD territory , consider elective cath .
+PUMP :
+no s / sx
+CHF ENDO :
+continued home synthroid for hypothyroidism .
+TSH checked this admission was normal .
+PSYCH :
+continued home meds for depression / behaviour problems
+GI :
+h / o colon CA and colitis .
+Guaiac neg , asymptomatic this admission , continued home asacol .
+Per pt &apos;s wishes GI follow up arranged .
+ID :
+spiked to 101 on night of admission ( prior to cath ) and to 102 on night of 12/31 .
+Blood and urine cultures unremarkable .
+CXR negative .
+ESR ( checked d / t concern about temporal arteritis ) was 63 .
+No ABX were given .
+DERM :
+on day of discharge pt noted pink itchy macular rash well demarcated along lines of underwear .
+He had slept in his underwear and noted his wife had recently changed detergents .
+This rash was felt to be contact dermatitis and we recommended OTC benadryl for itching and changing back to old detergent .
+FC ADDITIONAL COMMENTS :
+Continue regular exercise , follow up in 2-3 weeks for a stress test with Dr Rash .
+DISCHARGE CONDITION :
+Stable
+TO DO / PLAN :
+No dictated summary
+ENTERED BY :
+SAPREOS , STERMI , M.D. ( WA48 )
+New Years Day 01:33 PM
+****** END OF DISCHARGE ORDERS ******

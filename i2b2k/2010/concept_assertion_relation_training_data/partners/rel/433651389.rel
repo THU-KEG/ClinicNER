@@ -1,0 +1,42 @@
+c="some erythema" 105:16 105:17||r="PIP"||c="the wound" 105:11 105:12
+c="a neurological examination" 101:0 101:2||r="TeRP"||c="abnormality" 101:8 101:8
+c="levofloxacin" 26:37 26:37||r="TrAP"||c="nafcillin sensitive staphylococcus aureus cellulitis of the right leg" 26:21 26:29
+c="vascular examination" 75:0 75:1||r="TeRP"||c="1+ carotid impulses" 75:5 75:7
+c="vascular examination" 75:0 75:1||r="TeRP"||c="transmitted cardiac murmurs" 75:17 75:19
+c="urinalysis" 94:0 94:0||r="TeRP"||c="trace microscopic hematuria" 94:2 94:4
+c="urinalysis" 94:0 94:0||r="TeRP"||c="1+ bacteria" 94:15 94:16
+c="a course of nafcillin" 26:32 26:35||r="TrAP"||c="nafcillin sensitive staphylococcus aureus cellulitis of the right leg" 26:21 26:29
+c="a cervical spine series" 101:20 101:23||r="TeRP"||c="degenerative joint disease" 101:26 101:28
+c="a cervical spine series" 101:20 101:23||r="TeRP"||c="obvious fracture" 101:31 101:32
+c="treatment" 25:8 25:8||r="TrAP"||c="a right lower extremity cellulitis" 25:10 25:14
+c="medications" 78:15 78:15||r="TrCP"||c="quite sedated" 78:7 78:8
+c="head ct scan" 93:0 93:2||r="TeRP"||c="bleed" 93:10 93:10
+c="the patient &apos;s extremity examination" 77:0 77:4||r="TeRP"||c="a small ulcer" 77:14 77:16
+c="the patient &apos;s extremity examination" 77:0 77:4||r="TeRP"||c="erythema of the right calf" 77:8 77:12
+c="erythema of the right calf" 77:8 77:12||r="PIP"||c="a small ulcer" 77:14 77:16
+c="a leg ulcer" 67:5 67:7||r="PIP"||c="cellulitis" 67:9 67:9
+c="her agitation" 99:9 99:10||r="PIP"||c="infection" 99:16 99:16
+c="her agitation" 99:9 99:10||r="PIP"||c="her metabolic condition" 99:23 99:25
+c="neurological examination" 78:0 78:1||r="TeRP"||c="quite sedated" 78:7 78:8
+c="echocardiogram" 36:9 36:9||r="TeRP"||c="mitral regurgitation" 36:1 36:2
+c="prolonged antibiotics" 106:10 106:11||r="TrNAP"||c="infection" 106:19 106:19
+c="the heart examination" 71:0 71:2||r="TeRP"||c="a sustained pmi" 71:8 71:10
+c="a ct scan of the head" 98:7 98:12||r="TeRP"||c="acute bleed" 98:16 98:17
+c="cholestatic picture" 117:23 117:24||r="PIP"||c="mildly elevated alkaline phosphatase" 117:16 117:19
+c="cholestatic picture" 117:23 117:24||r="PIP"||c="elevated bilirubins" 117:9 117:10
+c="argumentative" 97:11 97:11||r="PIP"||c="uncooperative with procedures" 97:17 97:19
+c="argumentative" 97:11 97:11||r="PIP"||c="confused" 97:13 97:13
+c="skin examination" 67:0 67:1||r="TeRP"||c="cellulitis" 67:9 67:9
+c="skin examination" 67:0 67:1||r="TeRP"||c="a leg ulcer" 67:5 67:7
+c="near complete obliteration of the second heart sound" 71:23 71:30||r="PIP"||c="a two out of six high pitched murmur" 71:32 71:39
+c="abdominal examination" 76:0 76:1||r="TeRP"||c="organomegaly" 76:14 76:14
+c="abdominal examination" 76:0 76:1||r="TeRP"||c="non-tender" 76:9 76:9
+c="abdominal examination" 76:0 76:1||r="TeRP"||c="non-distended" 76:11 76:11
+c="abdominal examination" 76:0 76:1||r="TeRP"||c="masses" 76:17 76:17
+c="her multiple medications" 99:18 99:20||r="TrCP"||c="her agitation" 99:9 99:10
+c="chronic steroids" 40:6 40:7||r="TrAP"||c="temporal arteritis" 40:3 40:4
+c="a lumbar puncture" 98:19 98:21||r="TeRP"||c="xanthrochromasia" 98:47 98:47
+c="the patient &apos;s admission chest x-ray" 92:0 92:5||r="TeRP"||c="infiltrate" 92:8 92:8
+c="the patient &apos;s admission chest x-ray" 92:0 92:5||r="TeRP"||c="congestive heart failure" 92:11 92:13
+c="antibiotics" 106:3 106:3||r="TrNAP"||c="infection" 106:19 106:19
+c="a head scan" 101:12 101:14||r="TeRP"||c="bleed" 101:18 101:18

@@ -1,0 +1,12 @@
+c="motrin" 64:1 64:1||r="TrAP"||c="pain" 64:7 64:7
+c="transverse colectomy" 25:0 25:1||r="TrAP"||c="tumor" 25:3 25:3
+c="tylenol" 62:1 62:1||r="TrAP"||c="pain" 62:7 62:7
+c="oral pain medications" 60:30 60:32||r="TrIP"||c="pain" 60:26 60:26
+c="an epidural" 56:4 56:5||r="TrAP"||c="pain control" 56:9 56:10
+c="transverse colectomy" 53:19 53:20||r="TrAP"||c="tumor" 53:22 53:22
+c="colonoscopy" 29:19 29:19||r="TeRP"||c="diverticulitis" 29:10 29:10
+c="colonoscopy" 29:19 29:19||r="TeCP"||c="colon cancer" 29:16 29:17
+c="pca" 56:7 56:7||r="TrAP"||c="pain control" 56:9 56:10
+c="exam" 44:1 44:1||r="TeRP"||c="afebrile" 44:4 44:4
+c="the procedure" 54:3 54:4||r="TrCP"||c="complications" 54:10 54:10
+c="dulcolax" 66:1 66:1||r="TrAP"||c="constipation" 66:9 66:9

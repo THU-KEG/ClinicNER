@@ -1,0 +1,75 @@
+626884358
+CTMC
+45413045
+510666
+10/9/1991 12:00:00 AM
+Discharge Summary
+Unsigned
+DIS
+Admission Date :
+10/09/1991
+Report Status :
+Unsigned
+Discharge Date :
+10/11/1991
+PRINCIPLE DIAGNOSIS :
+ENDOMETRIAL ADENOCARCINOMA .
+HISTORY OF PRESENT ILLNESS :
+The patient is a 58-year-old gravida III , para III massively obese white female with Stage II-A adenocarcinoma of the endometrium who was admitted for placement of a vaginal cylinder .
+In 04/91 , the patient developed post menopausal bleeding .
+On 8/7/91 , a fractional dilatation and curettage was performed at Clinchring Health Center which shoed FIGO I / III adenocarcinoma of the endometrium .
+Physical examination was consistent with clinical Stage I-A disease .
+A preoperative chest x-ray was negative .
+Preoperative liver function tests were negative except for an elevated alkaline phosphatase and LDH .
+On 08/23/91 , she underwent a total abdominal hysterectomy with bilateral salpingo-oophorectomy and omental biopsy .
+Histology showed a well differentiated minimally invasive adenocarcinoma of the endometrium , Grade I / III .
+There was extension into the top of the posterior endocervix involving the epitheleal tissue only .
+The tubes , ovaries , omentum and cytology were all negative .
+She therefore had pathologic Stage II-A disease .
+Radiation therapy to the vaginal apex with a vaginal cylinder was recommended and accepted .
+PAST MEDICAL HISTORY :
+Hypertension .
+Paralyzed right arm since birth .
+PAST SURGICAL HISTORY :
+Status post appendectomy .
+MEDICATIONS :
+On admission included a diuretic and antihypertensive .
+ALLERGIES :
+ASPIRIN CAUSES HAND SWELLING AND A RASH .
+PHYSICAL EXAMINATION :
+On admission revealed a massively obese white female in no acute distress .
+There was no palpable lymphadenopathy .
+Chest was clear .
+Cardiac exam revealed a regular rate and rhythm .
+Abdomen is obese , soft and nontender and without hepatosplenomegaly .
+There was fungal infection under the large abdominal pannus .
+Pelvic exam showed normal external genitalia .
+The vaginal mucosa was benign appearing .
+There was a well healed vaginal cuff .
+There were no palpable abnormalities on rectovaginal exam .
+HOSPITAL COURSE :
+The patient was admitted on 10/9/91 .
+A CC WANG vaginal cylinder was placed in the Radiotherapy Department without difficulty .
+The patient was then transferred to her hospital room and the implant was loaded with 55 mg radium equivalent of cesium 137 .
+The implant was left in place for 50 hours and delivered a dose of 6000 Cgy to the vagina .
+The patient tolerated her admission well .
+On 10/11/91 , the implant was removed without difficulty .
+The patient was discharged to home in good condition .
+DISPOSITION :
+The patient was discharged home in stable condition .
+MEDICATIONS :
+On discharge included vaginal douches with half strength hydrogen peroxide b.i.d.
+She will see Dr. Goodpasture in follow-up in two weeks .
+________________________________ DG052/1418 REST N. GOODPASTURE , M.D. KJ50
+D :
+10/11/91
+Batch :
+0539
+Report :
+C8055M50
+T :
+Columbus Day
+Dicatated By :
+RA SHUFFPER , M.D.
+cc :
+1. CA SHUFF , M.D.

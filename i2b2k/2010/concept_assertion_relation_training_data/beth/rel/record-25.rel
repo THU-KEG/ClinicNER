@@ -1,0 +1,35 @@
+c="a ct scan with po contrast" 47:0 47:5||r="TeRP"||c="dilation of intrahepatic common bile duct" 47:7 47:12
+c="white blood cell" 62:11 62:13||r="TeRP"||c="an elevation" 62:8 62:9
+c="his creatinine levels" 83:0 83:2||r="TeRP"||c="the prerenal kidney failure" 83:18 83:21
+c="the ascites" 75:9 75:10||r="PIP"||c="svt" 75:15 75:15
+c="the fractional excretion of sodium" 83:7 83:11||r="TeRP"||c="the prerenal kidney failure" 83:18 83:21
+c="nodularity in the common bile duct" 53:6 53:11||r="PIP"||c="cholangiocarcinoma" 53:16 53:16
+c="midodrine" 80:2 80:2||r="TrAP"||c="this condition" 80:7 80:8
+c="exploration of the abdomen" 55:1 55:4||r="TeRP"||c="significant nodularity of the liver" 55:6 55:10
+c="exploration of the abdomen" 55:1 55:4||r="TeRP"||c="advanced cirrhosis" 55:13 55:14
+c="significant nodularity of the liver" 55:6 55:10||r="PIP"||c="advanced cirrhosis" 55:13 55:14
+c="nodularities in the common bile duct" 17:0 17:5||r="PIP"||c="cholangiocarcinoma" 17:15 17:15
+c="fractional excretion of sodium" 67:0 67:3||r="TeRP"||c="a prerenal etiology" 67:9 67:11
+c="cholangiogram" 60:0 60:0||r="TeRP"||c="leakage at the anastomosis site" 60:10 60:14
+c="culture" 77:3 77:3||r="TeCP"||c="the ascites" 77:5 77:6
+c="culture" 77:3 77:3||r="TeRP"||c="any organism" 77:10 77:11
+c="gram stain" 77:0 77:1||r="TeCP"||c="the ascites" 77:5 77:6
+c="gram stain" 77:0 77:1||r="TeRP"||c="any organism" 77:10 77:11
+c="surgical interventions" 17:29 17:30||r="TrAP"||c="nodularities in the common bile duct" 17:0 17:5
+c="surgical interventions" 17:29 17:30||r="TrAP"||c="cholangiocarcinoma" 17:15 17:15
+c="somatostatin" 80:0 80:0||r="TrAP"||c="this condition" 80:7 80:8
+c="endoscopic retrograde cholangiopancreatography" 57:8 57:10||r="TeRP"||c="region nodularity" 57:0 57:1
+c="pathology" 57:20 57:20||r="TeCP"||c="region nodularity" 57:0 57:1
+c="a hepaticojejunostomy" 58:8 58:9||r="TrAP"||c="malignancy" 58:5 58:5
+c="previous studies" 47:17 47:18||r="TeRP"||c="dilation of intrahepatic common bile duct" 47:7 47:12
+c="cholangiogram" 51:4 51:4||r="TeRP"||c="a distal stricture of the common bile duct" 51:9 51:16
+c="chest x-ray" 46:0 46:1||r="TeRP"||c="minimal left base atelectasis" 46:3 46:6
+c="chest x-ray" 46:0 46:1||r="TeRP"||c="elevation of left hemidiaphragm" 46:8 46:11
+c="elevation of left hemidiaphragm" 46:8 46:11||r="PIP"||c="minimal left base atelectasis" 46:3 46:6
+c="white blood cell count" 75:4 75:7||r="TeCP"||c="the ascites" 75:9 75:10
+c="intravenous albumin" 79:0 79:1||r="TrAP"||c="prerenal azotemia" 79:5 79:6
+c="rectal exam" 36:0 36:1||r="TeRP"||c="masses" 36:4 36:4
+c="a chest x-ray" 65:0 65:2||r="TeRP"||c="any pneumonia" 65:7 65:8
+c="hepaticojejunostomy" 98:4 98:4||r="TrAP"||c="psc" 98:0 98:0
+c="distentions of the abdomen" 70:9 70:12||r="PIP"||c="accumulation of ascitic fluid" 70:15 70:18
+c="endoscopic retrograde cholangiopancreatography" 17:8 17:10||r="TeRP"||c="nodularities in the common bile duct" 17:0 17:5

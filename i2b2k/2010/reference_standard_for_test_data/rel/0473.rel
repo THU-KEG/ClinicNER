@@ -1,0 +1,20 @@
+c="completely cultured" 40:4 40:5||r="TeCP"||c="the pseudomonas" 40:17 40:18
+c="a chest x-ray" 33:0 33:2||r="TeRP"||c="diffuse bilateral alveolar infiltrates" 33:4 33:7
+c="the ekg" 34:0 34:1||r="TeRP"||c="non-specific st-t wave changes" 34:15 34:18
+c="a new trach" 38:28 38:30||r="TrCP"||c="the air leak" 38:22 38:24
+c="a sputum culture" 22:5 22:7||r="TeRP"||c="pseudomonas" 22:9 22:9
+c="antibiotics" 22:19 22:19||r="TrWP"||c="pseudomonas" 22:9 22:9
+c="anti-candida regimen" 42:5 42:6||r="TrAP"||c="his urinary tract infection" 42:8 42:11
+c="anti-candida regimen" 42:5 42:6||r="TrAP"||c="yeast" 42:13 42:13
+c="yeast" 42:13 42:13||r="PIP"||c="his urinary tract infection" 42:8 42:11
+c="an exotic bleeding work up" 43:10 43:14||r="TeCP"||c="hemoptysis" 43:5 43:5
+c="an exotic bleeding work up" 43:10 43:14||r="TeCP"||c="wegner &apos;s" 43:19 43:20
+c="an exotic bleeding work up" 43:10 43:14||r="TeCP"||c="goodpasture &apos;s" 43:22 43:23
+c="the sputum gram stain" 35:0 35:3||r="TeRP"||c="a few polys" 35:5 35:7
+c="the sputum gram stain" 35:0 35:3||r="TeRP"||c="organisms" 35:10 35:10
+c="manipulation of the tracheal tube" 38:12 38:16||r="TrAP"||c="the air leak" 38:22 38:24
+c="antibiotic coverage" 40:10 40:11||r="TrAP"||c="the pseudomonas" 40:17 40:18
+c="transfusion" 48:9 48:9||r="TrAP"||c="substantially further hemoptysis" 48:2 48:4
+c="ultrasound" 46:8 46:8||r="TeRP"||c="a dvt" 46:5 46:6
+c="asthma" 21:33 21:33||r="PIP"||c="chronic obstructive pulmonary disease" 21:27 21:30
+c="adult respiratory distress syndrome" 21:18 21:21||r="PIP"||c="progressive respiratory failure" 21:14 21:16

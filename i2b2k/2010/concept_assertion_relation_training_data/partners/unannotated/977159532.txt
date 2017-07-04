@@ -1,0 +1,83 @@
+977159532
+CTMC
+66232708
+800550
+4/26/1990 12:00:00 AM
+Discharge Summary
+Unsigned
+DIS
+Admission Date :
+04/26/1990
+Report Status :
+Unsigned
+Discharge Date :
+05/05/1990
+DISCHARGE DIAGNOSIS :
+CORONARY ARTERY DISEASE .
+HISTORY OF PRESENT ILLNESS :
+Patient presented here for coronary artery bypass grafting .
+She is a 70 year old white woman in good general health until November l990 when she developed sudden shortness of breath and was taken to Vassdiysey Medical Center .
+At that time , she was diagnosed with pneumonia but was also thought to have significant coronary artery disease and underwent catheterization which showed significant three vessel disease after a positive exercise tolerance test .
+She was admitted to the Retelk County Medical Center on 04/12 for coronary artery bypass grafting but was discharged because of fever and a probable upper respiratory infection .
+She returned on 6/May for elective coronary artery bypass grafting .
+PAST MEDICAL HISTORY :
+Significant for non-Insulin dependent diabetes for eight years , hypertension , renal stones , and pneumonia .
+She denies angina , shortness of breath , dyspnea on exertion , or paroxysmal nocturnal dyspnea .
+PAST SURGICAL HISTORY :
+Cesarean section and wisdom teeth removal .
+CURRENT MEDICATIONS :
+She comes in on Captopril 25 mg t.i.d. , Hygroton 50 mg q.d. , Cardizem 60 mg t.i.d. , K-Dur 20 q.d. , Nitrol Patch 2.5 mg q.p.m. , and Glucotrol 20 mg p.o. b.i.d.
+ALLERGIES :
+She has no known drug allergies .
+She has never smoked .
+FAMILY HISTORY :
+Significant for coronary artery disease in both her mother and father .
+REVIEW OF SYSTEMS :
+Generally non-contributory except for question of hyperthyroidism .
+PHYSICAL EXAMINATION :
+She was a pleasant 70 year old woman in no apparent distress .
+HEENT :
+Benign .
+Her throat was without erythema or exudate .
+NECK :
+Supple .
+LUNGS :
+Clear .
+CARDIAC :
+Regular rate and rhythm with a II / VI systolic ejection murmur heard best at the right second intercostal space .
+ABDOMEN :
+Soft and non-tender with bowel sounds .
+There were no palpable masses .
+EXTREMITIES :
+Benign .
+Distal pulses were intact .
+NEUROLOGICAL :
+Showed a symmetric face and a grip 5/5 bilaterally .
+RECTAL :
+Guaiac negative with no masses .
+LABORATORY EXAMINATION :
+On admission were a sodium of l46 , potassium 4.8 , chloride of l06 , and bicarbonate of 30 .
+Her BUN was 26 , creatinine l.2 , and blood glucose was l45 .
+Her cholesterol was 384 .
+Her PT was l2.9 and PTT was 27.l .
+Her urinalysis showed 5-8 white blood cells , 2-5 red blood cells , trace bacteria , 3+ granular casts , and 2+ squamous cells .
+Her chest X-Ray was within normal limits with a calcified aortic knob .
+Her EKG showed normal sinus rhythm at 85 .
+HOSPITAL COURSE :
+Without notable complications and she was discharged to her daughter &apos;s house on 05/05 .
+DISPOSITION :
+She will be followed up with Arnsperni Health .
+________________________________
+DX608/0614 TOMEDANKELL D. FLOWAYLES , JR , M.D. CD0
+D :
+05/04/90
+Batch :
+1068
+Report :
+O6756S61
+T :
+05/06/90
+Dicatated By :
+ELDJOH CHYS , M.D.
+cc :
+GENEAROCKTEMP RY HEALTH SURGICAL GROUP

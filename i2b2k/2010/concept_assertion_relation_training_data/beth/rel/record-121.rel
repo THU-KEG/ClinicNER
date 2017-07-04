@@ -1,0 +1,29 @@
+c="the surrounding edema" 93:14 93:16||r="PIP"||c="developing hydrocephalus" 93:5 93:6
+c="suppression of the fourth ventricle" 93:20 93:24||r="PIP"||c="the surrounding edema" 93:14 93:16
+c="suppression of the fourth ventricle" 93:20 93:24||r="PIP"||c="developing hydrocephalus" 93:5 93:6
+c="cortisone drops" 15:18 15:19||r="TrAP"||c="an ear ache" 15:2 15:4
+c="flattening of the right nasolabial fold ( mild )" 66:9 66:17||r="PIP"||c="decreased excursion of the right mouth" 66:2 66:7
+c="generalized weakness" 28:18 28:19||r="PIP"||c="at least two bleeding episodes" 28:3 28:7
+c="a subacute pontine hemorrhage" 106:7 106:10||r="PIP"||c="familial cavernous hemangiomas" 106:1 106:3
+c="gabapentin" 109:1 109:1||r="TrAP"||c="paresthesias" 109:7 109:7
+c="cardiovascular exam" 47:0 47:1||r="TeRP"||c="murmurs" 47:10 47:10
+c="cardiovascular exam" 47:0 47:1||r="TeRP"||c="rubs" 47:12 47:12
+c="cardiovascular exam" 47:0 47:1||r="TeRP"||c="gallops" 47:14 47:14
+c="her physical examination" 99:0 99:2||r="TeRP"||c="the subtle left hand weakness" 99:10 99:14
+c="her physical examination" 99:0 99:2||r="TeRP"||c="right facial weakness" 99:16 99:18
+c="areas of restricted diffusion" 89:3 89:6||r="PIP"||c="infarction" 89:9 89:9
+c="sensory deafferentation" 100:9 100:10||r="PIP"||c="severely ataxic" 100:3 100:4
+c="subacute blood products in the mid to low pons" 83:6 83:14||r="PIP"||c="recent hemorrhage into a cavernous angioma" 83:16 83:21
+c="crossing pontine cerebellar fibers" 100:17 100:20||r="PIP"||c="severely ataxic" 100:3 100:4
+c="rapid alternating movements" 71:3 71:5||r="TeRP"||c="slow on the left" 71:7 71:10
+c="rapid alternating movements" 71:3 71:5||r="TeRP"||c="trouble isolating individual finger movements" 71:14 71:18
+c="finger tapping" 71:0 71:1||r="TeRP"||c="slow on the left" 71:7 71:10
+c="finger tapping" 71:0 71:1||r="TeRP"||c="trouble isolating individual finger movements" 71:14 71:18
+c="head ct" 24:5 24:6||r="TeRP"||c="a 1.5 cm diameter hyperdense mass in the pons" 24:8 24:16
+c="the sound of static" 22:6 22:9||r="PIP"||c="progressively worse" 22:3 22:4
+c="meniere 's disease" 19:35 19:37||r="PIP"||c="dizziness" 19:15 19:15
+c="meniere 's disease" 19:35 19:37||r="PIP"||c="decreased hearing" 19:24 19:25
+c="meniere 's disease" 19:35 19:37||r="PIP"||c="static in her ears" 19:30 19:33
+c="mri of the brain" 81:0 81:3||r="TeRP"||c="multiple foci susceptibility artifact within the brain" 81:5 81:11
+c="the subacute pontine hemorrhage" 94:8 94:11||r="PIP"||c="significant change in size" 94:3 94:6
+c="reflexes" 74:0 74:0||r="TeRP"||c="clonus at the ankles bilaterally" 74:10 74:14

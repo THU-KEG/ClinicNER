@@ -1,0 +1,23 @@
+c="an lp" 80:8 80:9||r="TeCP"||c="respiratory distress" 80:18 80:19
+c="an lp" 80:8 80:9||r="TeCP"||c="fever" 80:21 80:21
+c="ampicillin" 80:0 80:0||r="TrAP"||c="fever" 80:21 80:21
+c="gentamycin" 80:2 80:2||r="TrAP"||c="fever" 80:21 80:21
+c="gentamycin" 82:13 82:13||r="TrAP"||c="pneumonia" 82:9 82:9
+c="ampicillin" 82:11 82:11||r="TrAP"||c="pneumonia" 82:9 82:9
+c="increased work of breathing" 29:10 29:13||r="PIP"||c="flaring" 29:17 29:17
+c="increased work of breathing" 29:10 29:13||r="PIP"||c="grunting" 29:19 29:19
+c="increased work of breathing" 29:10 29:13||r="PIP"||c="tachypnea" 29:15 29:15
+c="pneumonia" 62:24 62:24||r="PIP"||c="haziness in the left lower lobe" 62:7 62:12
+c="pneumonia" 62:24 62:24||r="PIP"||c="patchy areas on the right side" 62:14 62:19
+c="tachypneic" 42:2 42:2||r="PIP"||c="mild retractions" 42:4 42:5
+c="increased work of breathing" 42:7 42:10||r="PIP"||c="tachypneic" 42:2 42:2
+c="increased work of breathing" 42:7 42:10||r="PIP"||c="mild retractions" 42:4 42:5
+c="initial chest x-ray" 62:0 62:2||r="TeRP"||c="patchy areas on the right side" 62:14 62:19
+c="initial chest x-ray" 62:0 62:2||r="TeRP"||c="haziness in the left lower lobe" 62:7 62:12
+c="initial chest x-ray" 62:0 62:2||r="TeRP"||c="pneumonia" 62:24 62:24
+c="a weight" 24:10 24:11||r="TeRP"||c="large for gestational age" 24:5 24:8
+c="tachypnea" 35:9 35:9||r="PIP"||c="grunting" 35:11 35:11
+c="tachypnea" 35:9 35:9||r="PIP"||c="flaring" 35:13 35:13
+c="grunting" 26:10 26:10||r="PIP"||c="flaring" 26:12 26:12
+c="immunization" 107:15 107:15||r="TrAP"||c="influenza" 107:17 107:17
+c="mild respiratory distress" 27:3 27:5||r="PIP"||c="transient tachypnea of the newborn" 27:10 27:14

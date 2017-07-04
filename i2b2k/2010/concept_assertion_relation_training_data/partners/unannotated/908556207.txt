@@ -1,0 +1,111 @@
+908556207
+PUOMC
+2249928
+329869
+928201
+1/8/1998 12:00:00 AM
+RULE OUT MYOCARDIAL INFARCTION .
+Unsigned
+DIS
+Report Status :
+Unsigned
+DISCHARGE SUMMARY
+NAME :
+SIEWMARV , LEOA
+UNIT NUMBER :
+390-36-80
+ADMISSION DATE :
+01/08/1998
+DISCHARGE DATE :
+01/21/98
+PRINCIPAL DIAGNOSIS :
+Rule out myocardial infarction .
+ASSOCIATED DIAGNOSIS :
+1. Coronary artery disease .
+2. Hypertension .
+3. Chronic renal failure .
+4. Polycystic kidney disease .
+ADVERSE DRUG REACTIONS :
+None .
+CLINICAL INFECTIONS :
+None .
+HISTORY OF PRESENT ILLNESS :
+Leoa Siewmarv is a 60-year-old woman admitted with abdominal pain and electrocardiogram changes .
+The patient was admitted with abdominal discomfort , nausea , vomiting , and anterior electrocardiogram changes .
+PAST MEDICAL HISTORY :
+1. Polycystic kidney disease leading to end-stage renal disease , on dialysis for approximately 7 years .
+2. History of coronary artery disease status post coronary artery bypass graft earlier this year .
+3. History of congestive heart failure .
+4. History of hypertension .
+5. Peripheral vascular disease status post left femoral popliteal bypass graft with with competent by wound dehiscence ?
+6. Line sepsis most recently secondary to Enterococcus and Klebsiella .
+7. Klebsiella bacteremia thought to be secondary to infected cyst .
+8. Status post excision of right thigh AV graft .
+9. History of parathyroidectomy .
+10. Status post carotid endarterectomy .
+11. History of anemia .
+12. Status post right femoral AV graft with wound breakdown .
+13. Fungal sepsis secondary to graft infection .
+14. History of depression and anxiety .
+PHYSICAL EXAMINATION ON ADMISSION :
+Blood pressure 120/80 , heart rate 74 , respirations 18 .
+Skin :
+Left groin wound which was dressed .
+HEENT :
+Anicteric .
+Neck supple .
+Lungs :
+Decreased breath sounds .
+Cardiac :
+S1 , S2 , II / VI systolic ejection murmur .
+Abdomen :
+Good bowel sounds , benign .
+Extremities :
+No edema .
+LABORATORY DATA ON ADMISSION :
+Potassium 5.6 , BUN 39 , creatinine 3.9 , hematocrit 37.6 , calcium 9.6 which corrected to 11.2 , phosphorus 6.6 .
+ELECTROCARDIOGRAM :
+Bundle branch block and ST depression in V1-V3 .
+IMPRESSION :
+Electrocardiogram changes and prior history of coronary artery disease made her management necessarily cautious .
+She made progress , despite her overall medical status .
+She was dialyzed for - 2 L .
+She was ruled out for a myocardial infarction .
+Her Vancomycin level was checked and was 9.8 .
+She was subsequently re-dosed with 750 mg. on the 13th .
+On heparin , her PTT was monitored .
+The patient remained stable .
+She refused blood draws and was somewhat difficult to manage in the absence of any end points and any ability to monitor her bloods .
+The heparin was continued empirically for 48 hours .
+She continued to have labile electrocardiogram changes .
+Her enzymes were all negative .
+Based on this , she was managed conservatively .
+The heparin was stopped on the 01/10/98 .
+She was observed overnight .
+She remained stable .
+She was dialyzed on 01/11/98 prior to transfer .
+There were a number of medication changes that were made , including her Isordil being increased to 30 mg. PO t.i.d. and Pravachol 20 mg. PO q.d. added .
+MEDICATIONS ON DISCHARGE :
+Isordil 30 mg. PO t.i.d.
+Pravachol 20 mg. PO q.d.
+PhosLo 2 tabs PO t.i.d. with meals .
+Ecotrin 325 mg. PO q.d.
+Vitamin B complex 1 PO q.d.
+Nephro Caps 1 PO q.d.
+Floxin 200 mg. PO q.d.
+Prilosec 20 mg. PO q.d.
+Captopril 12.5 mg. PO t.i.d.
+Lopressor 50 mg. PO b.i.d.
+Ritalin 5 mg. PO q a.m.
+Paxil 20 mg. PO b.i.d.
+Ativan 0.5 mg. PO q h.s. p.r.n.
+Haldol 0.5 mg. PO q h.s. p.r.n.
+ICECA RHALTKAAISPEHBREUN , M.D.
+TR :
+bt
+DD :
+01/11/1998
+TD :
+01/11/1998 1:20 P
+cc :
+ICECA RHALTKAAISPEHBREUN , M.D. edited 02/05/98 nv

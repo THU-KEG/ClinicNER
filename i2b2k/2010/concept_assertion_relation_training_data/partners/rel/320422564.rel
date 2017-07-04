@@ -1,0 +1,5 @@
+c="endoscopic retrograde cholangiopancreatography" 27:7 27:9||r="TeRP"||c="dilated ducts" 27:12 27:13
+c="interventional radiology" 27:19 27:20||r="TrCP"||c="dilated ducts" 27:12 27:13
+c="the intact drain" 64:9 64:11||r="TrAP"||c="bilious material" 64:13 64:14
+c="porcine valve" 19:4 19:5||r="TrAP"||c="aortic stenosis" 19:1 19:2
+c="partial colectomy" 16:6 16:7||r="TrAP"||c="rectal carcinoma" 16:1 16:2

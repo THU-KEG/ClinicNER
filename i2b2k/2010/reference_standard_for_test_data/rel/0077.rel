@@ -1,0 +1,34 @@
+c="iv narcan" 26:4 26:5||r="TrCP"||c="combative" 26:28 26:28
+c="iv narcan" 26:4 26:5||r="TrCP"||c="agitated" 26:30 26:30
+c="given 1:1 sitter" 121:13 121:15||r="TrAP"||c="suicidal ideation" 121:17 121:18
+c="ekg" 56:0 56:0||r="TeRP"||c="borderline qt" 56:9 56:10
+c="ekg" 56:0 56:0||r="TeRP"||c="j pt elevtation" 56:15 56:17
+c="unresponsiveness" 107:1 107:1||r="PIP"||c="todrug overdose" 107:7 107:8
+c="drugs" 12:8 12:8||r="TrCP"||c="known allergies" 12:5 12:6
+c="his elevated fs" 124:12 124:14||r="PIP"||c="glycosuria" 124:19 124:19
+c="bacteria" 70:7 70:7||r="TeRP"||c="few" 70:9 70:9
+c="oxycontin" 107:11 107:11||r="TrCP"||c="unresponsiveness" 107:1 107:1
+c="oxycontin" 107:11 107:11||r="TrCP"||c="todrug overdose" 107:7 107:8
+c="qtc" 56:12 56:12||r="TeRP"||c="borderline qt" 56:9 56:10
+c="narcotics" 105:12 105:12||r="TrAP"||c="chronic lbp" 105:9 105:10
+c="his atenolol" 120:7 120:8||r="TrAP"||c="hypertension" 120:1 120:1
+c="his antibiotics" 117:3 117:4||r="TrAP"||c="a transiet aspiration episode" 117:12 117:15
+c="unconscious" 114:22 114:22||r="PIP"||c="aspiration pneumonia" 114:14 114:15
+c="chronic narcotics" 19:10 19:11||r="TrAP"||c="low back pain" 19:6 19:8
+c="insulin coverage" 124:28 124:29||r="TrAP"||c="diabetes" 124:10 124:10
+c="insulin coverage" 124:28 124:29||r="TrAP"||c="his elevated fs" 124:12 124:14
+c="his cardiac enzymes" 109:0 109:2||r="TeRP"||c="elevated ck" 109:5 109:6
+c="his cardiac enzymes" 109:0 109:2||r="TeRP"||c="mi" 109:17 109:17
+c="verapamil" 120:10 120:10||r="TrAP"||c="hypertension" 120:1 120:1
+c="charcoal" 32:5 32:5||r="TrCP"||c="aspiration pna" 32:18 32:19
+c="seizure" 108:11 108:11||r="PIP"||c="post-ictal state" 108:13 108:14
+c="ards" 114:12 114:12||r="PIP"||c="aspiration pneumonia" 114:14 114:15
+c="iv levofloxacin" 32:9 32:10||r="TrAP"||c="aspiration pna" 32:18 32:19
+c="iv metronidazole" 32:14 32:15||r="TrAP"||c="aspiration pna" 32:18 32:19
+c="fe studies" 129:10 129:11||r="TeRP"||c="anemia of chronic disease" 129:14 129:17
+c="fe studies" 129:10 129:11||r="TeRP"||c="borderline anemia" 129:7 129:8
+c="his paxil" 121:7 121:8||r="TrAP"||c="depression" 121:1 121:1
+c="fingerstick check" 124:21 124:22||r="TeCP"||c="his elevated fs" 124:12 124:14
+c="fingerstick check" 124:21 124:22||r="TeCP"||c="glycosuria" 124:19 124:19
+c="tox screen" 107:17 107:18||r="TeRP"||c="(+) bnz" 107:14 107:15
+c="bnzodzpn" 64:0 64:0||r="TeRP"||c="pos" 64:2 64:2

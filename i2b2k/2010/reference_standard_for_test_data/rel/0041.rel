@@ -1,0 +1,13 @@
+c="her prior echocardiogram" 75:5 75:7||r="TeRP"||c="a small myocardial infarction" 75:12 75:15
+c="end-stage renal failure" 13:6 13:8||r="PIP"||c="type 1 diabetes" 13:11 13:13
+c="myocardial infarction" 25:7 25:8||r="PIP"||c="coronary artery disease" 25:1 25:3
+c="her electrocardiogram" 69:0 69:1||r="TeRP"||c="some loss of her r wave progression laterally" 69:11 69:18
+c="her electrocardiogram" 69:0 69:1||r="TeRP"||c="specific st changes" 69:4 69:6
+c="an echocardiogram" 74:8 74:9||r="TeRP"||c="slightly depressed left ventricular systolic function" 74:14 74:19
+c="an echocardiogram" 74:8 74:9||r="TeRP"||c="severe posterior wall hypokinesis" 74:21 74:24
+c="hemodialysis" 26:6 26:6||r="TrAP"||c="end-stage renal disease" 26:1 26:3
+c="amoxicillin" 28:2 28:2||r="TrCP"||c="allergies" 28:0 28:0
+c="codeine" 28:4 28:4||r="TrCP"||c="allergies" 28:0 28:0
+c="coronary artery bypass surgery" 16:14 16:17||r="TrAP"||c="myocardial infarction" 16:4 16:5
+c="physical examination" 42:0 42:1||r="TeRP"||c="acute distress" 42:12 42:13
+c="ganciclovir" 60:11 60:11||r="TrNAP"||c="cytomegalovirus" 60:19 60:19

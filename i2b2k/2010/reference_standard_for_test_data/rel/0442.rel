@@ -1,0 +1,27 @@
+c="a lateral decubitus film" 81:14 81:17||r="TeRP"||c="an enlarged left pleural effusion" 81:3 81:7
+c="acute shortness of breath" 19:8 19:11||r="PIP"||c="chest pressure" 19:13 19:14
+c="chest pressure" 19:13 19:14||r="PIP"||c="his typical angina" 19:21 19:23
+c="5-vessel coronary artery bypass graft" 12:19 12:23||r="TrAP"||c="coronary artery disease" 12:13 12:15
+c="thoracentesis" 84:6 84:6||r="TrIP"||c="the left pleural effusion" 84:16 84:19
+c="right heart catheterization" 21:1 21:3||r="TeRP"||c="elevated right-sided and left-sided filling pressures" 21:11 21:16
+c="pericardiocentesis" 78:9 78:9||r="TrWP"||c="a trivial / physiologic pericardial effusion" 78:0 78:5
+c="a transthoracic echocardiogram" 14:6 14:8||r="TeRP"||c="a new , moderate-to-large sized pericardial effusion" 14:11 14:17
+c="the pericardial drain" 79:0 79:2||r="TrCP"||c="any difficulty" 79:6 79:7
+c="the pericardial fluid bag" 80:0 80:3||r="TrCP"||c="any difficulty" 80:7 80:8
+c="a baseline creatinine" 29:5 29:7||r="TeCP"||c="chronic renal insufficiency" 29:1 29:3
+c="paroxysmal nocturnal dyspnea" 18:10 18:12||r="PIP"||c="a new two to three-pillow orthopnea" 18:3 18:8
+c="indomethacin" 74:13 74:13||r="TrAP"||c="post pericardiotomy syndrome" 74:15 74:17
+c="the study" 78:14 78:15||r="TeCP"||c="a trivial / physiologic pericardial effusion" 78:0 78:5
+c="follow-up transthoracic echocardiogram" 16:3 16:5||r="TeRP"||c="a slightly large effusion" 16:10 16:13
+c="a chest x-ray" 84:0 84:2||r="TeRP"||c="the left pleural effusion" 84:16 84:19
+c="chest x-ray" 63:0 63:1||r="TeRP"||c="a large left pleural effusion" 63:5 63:9
+c="drained" 83:17 83:17||r="TrAP"||c="fluid" 83:15 83:15
+c="pericardial fluid analysis" 60:0 60:2||r="TeRP"||c="an exudative etiology" 60:6 60:8
+c="his pericardial drain pouch" 75:17 75:20||r="TrAP"||c="serosanguineous fluid" 75:14 75:15
+c="a pulmonary capillary wedge pressure" 22:16 22:20||r="TeRP"||c="tamponade physiology" 22:34 22:35
+c="a right atrial pressure" 22:24 22:27||r="TeRP"||c="tamponade physiology" 22:34 22:35
+c="a repeat echocardiogram" 88:2 88:4||r="TeRP"||c="a trivial / physiologic pericardial effusion" 88:7 88:12
+c="an electrocardiogram" 62:3 62:4||r="TeRP"||c="low voltage in the limb leads" 62:18 62:23
+c="oxygen saturations" 87:8 87:9||r="TeCP"||c="any shortness of breath" 87:2 87:5
+c="5-vessel coronary artery bypass graft" 24:7 24:11||r="TrAP"||c="coronary artery disease" 24:1 24:3
+c="pericardiocentesis" 20:10 20:10||r="TrAP"||c="persistent and symptomatic pericardial effusion" 20:12 20:16

@@ -1,0 +1,6 @@
+c="vomiting" 44:6 44:6||t="problem"||a="hypothetical"
+c="head trauma" 35:0 35:1||t="problem"||a="present"
+c="nausea" 44:4 44:4||t="problem"||a="hypothetical"
+c="headache" 44:8 44:8||t="problem"||a="hypothetical"
+c="other concerns" 44:16 44:17||t="problem"||a="hypothetical"
+c="visual / mental status changes" 44:10 44:14||t="problem"||a="hypothetical"

@@ -1,0 +1,125 @@
+160501719 YC
+36008663
+1485109
+6/15/2005 12:00:00 AM
+NSTEMI
+DIS
+Admission Date :
+06/15/2005
+Report Status :
+Discharge Date :
+06/17/2005
+****** DISCHARGE ORDERS ******
+GROKOTE , TRUCA 299-40-55-6 B72
+Room :
+66U-176
+Service :
+CAR
+DISCHARGE PATIENT ON :
+06/17/05 AT 04:00 PM
+CONTINGENT UPON
+Attending evaluation
+WILL D / C ORDER BE USED AS THE D / C SUMMARY :
+YES
+Attending :
+REISE , NIFFNA , M.D. , M.P.H.
+DISPOSITION :
+Home
+DISCHARGE MEDICATIONS :
+ECASA ( ASPIRIN ENTERIC COATED ) 325 MG PO QD PEPCID ( FAMOTIDINE ) 20 MG PO BID FOLATE ( FOLIC ACID ) 1 MG PO QD ZESTRIL ( LISINOPRIL ) 20 MG PO QD
+HOLD IF :
+sbp &lt; 100
+Override Notice :
+Override added on 06/15/05 by PREHEWHYTEKUDZ , LENELYN LINKATE , M.D. , M.P.H. on order for KCL IV ( ref # 26155900 )
+POTENTIALLY SERIOUS INTERACTION :
+LISINOPRIL and POTASSIUM CHLORIDE
+Reason for override :
+following
+Previous override information :
+Override added on 06/15/05 by PREHEWHYTEKUDZ , LENELYN LINKATE , M.D. , M.P.H. on order for KCL IMMEDIATE RELEASE PO ( ref # 55617810 )
+POTENTIALLY SERIOUS INTERACTION :
+LISINOPRIL and POTASSIUM CHLORIDE
+Reason for override :
+following NORVASC ( AMLODIPINE ) 10 MG PO QD
+HOLD IF :
+SBP &lt; 100
+Food / Drug Interaction Instruction
+Avoid grapefruit unless MD instructs otherwise .
+Alert overridden :
+Override added on 06/15/05 by PREHEWHYTEKUDZ , LENELYN LINKATE , M.D. , M.P.H. on order for NORVASC PO ( ref # 54713682 )
+Pt. has a PROBABLE allergy to NIFEDIPINE ; reaction is GINGIVITIS .
+Reason for override :
+pt takes at home IMDUR ( ISOSORBIDE MONONIT. ( SR ) ) 90 MG PO QD
+HOLD IF :
+SBP &lt; 100
+Food / Drug Interaction Instruction
+Give on an empty stomach ( give 1hr before or 2hr after food ) ATORVASTATIN 80 MG PO QD
+Instructions :
+acute coronary syndrome PLAVIX ( CLOPIDOGREL ) 75 MG PO QD MAALOX-TABLETS QUICK DISSOLVE / CHEWABLE 1-2 TAB PO Q6H PRN Upset Stomach ATENOLOL 50 MG PO QD METFORMIN 850 MG PO BID Starting Today ( 06/17 )
+DIET :
+House / Low chol / low sat. fat
+DIET :
+2 gram Sodium
+ACTIVITY :
+Resume regular exercise
+FOLLOW UP APPOINTMENT ( S ) :
+Dr. Gram , Leigh 2-4 weeks ,
+ALLERGY :
+NIFEDIPINE
+ADMIT DIAGNOSIS :
+MI
+PRINCIPAL DISCHARGE DIAGNOSIS ;
+Responsible After Study for Causing Admission ) NSTEMI
+OTHER DIAGNOSIS ;
+Conditions , Infections , Complications , affecting Treatment / Stay diabetes ( diabetes mellitus ) CAD s / p CABG in 1989 hypertension hypercholesterolemia PVD ( peripheral vascular disease ) hyperhomocysteinemia ( hyperhomocysteinemia ) basal cell cancer ( basal cell carcinoma ) h / o colon polyps
+OPERATIONS AND PROCEDURES :
+OTHER TREATMENTS / PROCEDURES ( NOT IN O.R. )
+cardiac catheterization ETT-MIBI
+BRIEF RESUME OF HOSPITAL COURSE :
+62 yo M ho DM , CAD , PVD , HTN , elev chol , s / p CABG x 4 and stent to SVG ( 2003 ) presents w intermittent Left sided CP at rest- pain started 3 days ago , worse w exertion , no SO , no diaphoresis - on night PTA had episode of CP at rest , resolved before presentation .
+No orthopnea no PND , last echoin 2003 WNL .
+In ED , had elev trop and dynamic EKG changes , given lopressor , plavix , hep gtt - admitted for NSTEMI/ cardiac catheterization .
+EKG :
+NSR , Tw I 1 , L , v4-v6 , new since 6/25 , pseudonormal of iii , F-
+CXR :
+neg
+Trop 0.88 -&gt; 0.15
+HOSPITAL COURSE :
+Pt was admitted to cardiology service , underwent 48 ours of heparin therapy and went for cardiac catheterization .
+His cardiac cath was sig for complex anatomy w diffuse disease including diffuse 100% lesions in the SVG grafts to PDA and MARG1 , as well as 60% lesion in LIMA to LAD .
+Given the difficult anatomy and unsure location of culprit lesion , pt underwent ETT-MIBI post-cardiac catheterization to localize area of possible ischemia .
+Pt exercised 9 minutes on modified Bruce w only mild chest pressure at very end of test .
+Images cw mild reversibilty at PDA territory cw diffuse lesion in SVG to PDA .
+A / P :
+64 yo M known CAD , s / p CABG and PCI in &apos;03 presents w NSTEMI in settin of EKG changes s / p cardiac cath and ETT MIBI positive for diffuse disease w mild reversibility in PDA territory cw 100% lesion in SVG .
+Pt was able to exercise 9 minutes on ETT w only mild symptoms .
+He was discharged w plan to medically manage is CAD .
+CV :
+- Medical Management &gt; surgical intervention given complicated anatomy , difficult PCI and relatively good exercise tolerance .
+- asa , plavix , increased atenolol to 50 QD , statin , ace , ImDur .
+- Aggressive control of diabetes , diet , and exercise .
+Increased Metformin in 850 mg PO BID
+- Pt will schedule appt to see Dr. Gram his PCP in 2 weeks to start Cardiac Rehab -repeat echocardiogram periodically to monitor ejection fraction given risk of ischemic cardiomyopathy
+END :
+metformin held peri-cath .
+Briefly given mucomyst and IVF hydration .
+Creatine stable throughout .
+Put on insulin sliding scale -Restart metformin 850 mg Po BID -check HgbA1c every 4-6 months
+RENAL :
+Cr normal Discharged to home in stable condition
+ADDITIONAL COMMENTS :
+FU with your PCP and cardiologist .
+Would continue cardiac diet , exercise and have your blood pressure , cholesterol and diabetes closely managed by your PCP .
+DISCHARGE CONDITION :
+Stable
+TO DO / PLAN :
+1. Increase your atenolol to 50 QD
+2. Increase your metformin to 850 Po BID
+3. Diet , exercise , strict diabetes control
+4. Follow-up with your PCP in 2 weeks
+5. Continue all your other medications .
+No dictated summary
+ENTERED BY :
+COUNT , ELL M. , M.D. , PH.D. ( QA069 )
+06/17/05 11:58 AM
+****** END OF DISCHARGE ORDERS ******

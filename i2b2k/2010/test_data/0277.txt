@@ -1,0 +1,193 @@
+Admission Date :
+2017-06-16
+Discharge Date :
+2017-07-27
+Date of Birth :
+1959-03-24
+Sex :
+M
+Service :
+MEDICINE
+Allergies :
+Patient recorded as having No Known Allergies to Drugs
+Attending : Andre K. Young , M.D.
+Chief Complaint :
+Fever , tachycardia
+Major Surgical or Invasive Procedure :
+None
+History of Present Illness :
+Patient is a 58 year old male with a recent admission for abdominal pain s/p negative exploratory laparotomy for suspected intussuception now returns on day of discharge with fever and tachycardia .
+Patient has a history for terrible vasculopathy s/p recent right BKA with dry gangrene of the distal stump .
+Patient 's last admission was significant for a negative ex-lap .
+Post-operatively , his course was complicated by respiratory distress necessitating an urgent return to the ICU and was intubated .
+After multuple failed attempts at extubation , the patient was trached .
+Patient then did well on a trach mask and was transferred to rehab on the day of admission but now returns with tachycardia to the 120 's , and fever to 102 degrees F .
+Past Medical History :
+PVD s/p multiple failed femoral distal bypass
+Diabetes mellitus
+CAD s/p CABG 2003 s/p
+ex lap 05-23
+Physical Exam :
+T 101 HR 120 BP 144/90 RR 18 SpO2 99% on 70% TM
+Moderately distressed
+Coarse breath sounds b/l
+Tachycardic , nl S1 and S2
+Abd soft , NT/ND
+Right AKA stump with dry gangrene
+Left lower extremity warm and well-perfused
+Pertinent Results :
+MRI HEAD :
+The diffusion images demonstrate no evidence of slow diffusion to indicate acute infarct .
+There is moderate prominence of ventricles and sulci , inappropriate for the patient 's age .
+There is no midline shift , mass effect , hydrocephalus , or territorial infarct .
+Following gadolinium , no evidence of abnormal parenchymal , vascular , or meningeal enhancement seen .
+Gastric biopsy : negative for H. pylori .
+Brief Hospital Course :
+The patient was re-admitted to the surgical service and taken to the CMED .
+A chest x-ray on admission showed effusions consistent with CHF along with overlying pnumonia .
+Urine cultures were significant for Klebsiella UTI and sputum cultures were significant for MRSA .
+He was placed on vancomycin , levofloxacin and fluconazole .
+He underwent PICC line placement on 06-18 .
+A trach collar was placed on 06-19 .
+GI was consulted for colonoscopy .
+Patient was transferred to the floor on 06-20 .
+He was seen by respiratory therapy and suctioned continually throughout his hospital course .
+His respiratory status improved .
+He tolerated his trach collar , and tube feeds at goal .
+The fluconazole was discontinued .
+On 06-21 the patient was seen by physical therapy .
+A nutrition consult was obtained on 06-22 .
+He underwent a failed bedside swallow study .
+Based on a chest x-ray that showed a small hydro-pneumothorax on the left lower lobe of the lung , a thoracic surgery consult was obtained , though no specific interventions were warranted at the time .
+On 06-23 the patient 's tube feed were changed from Respalor to Deliver 2.0 to give increased calories .
+On 06-25 , urine cultures grew out VRE , and a C diff was negative .
+He experienced low grade fevers .
+He was pan-cultured on 06-26 for continued fevers .
+On 06-27 , his nutrition regimen was changed to Deliver 2.0 at 70 cc / hr with 15 g ProMod .
+On 06-28 , the patient experienced PVC 's .
+An EKG showed ST segment depression along the lateral pre-cordial leads .
+Serial enzymes showed mild elevation of troponins .
+A cardiology consult was obtained .
+The cardiology service simply recommended increasing the beta-blockade and maximizing the patient 's electrolyte status .
+On 06-29 , the patient was transferred to the medical service .
+Pt 's vancomycin was stopped after 14 days of treatment .
+HIV test was found to be negative .
+MRI head was obtained to further w/u patient 's apparent cognitive decline .
+MRI showed prominent sulci and enlarged ventricles abnormal for the patient 's age .
+Due to concerns for dementia , neurology consult was obtained .
+Neurology felt that the patient 's cognitive symptoms were consistent w/ metabolic encephalopathy due to his multiple medical problems .
+They felt that his mental status would improve as his health improved .
+Underlying dementia was possible but difficult to assess with an overlying delerium .
+The patient continued to pull out his doboff tube .
+Pt had EGD performed to evaluate his poor nutritional status .
+He was found to have a large gastric ulcer and high dose PPI was started .
+The gastric biopsy and the serology were both negative for H. pylori .
+PEG placement was unsuccessful by GI due to the patient 's anantomy .
+07-05 the patient had a J tube placed in interventional radiology for nutritional support .
+He was re-started on tube feeds .
+07-06 patient failed a repeat swallow evaluation due to discoordinated swallow .
+07-07 the patient was taken for colonoscopy and found to have a normal colon to cecum .
+07-12 the patient was found to be C diff positive and was started on 14 day course of Flagyl .
+On 07-18 , as his mental status improved , he did well at the bed side swall evaluation .
+On 07-19 , he underwent video swallow evaluation and was able to tolerate ground consistent food and thin liquids .
+His meds should be crushed and mixed with puree thick liquid .
+He has gained 30 lb since the tubefeed was initiated ( 70 lb to 100 lb ) during this admission .
+He will still need to be on tubefeed to support his nutrition until he is cleared by a nutritionist .
+In terms of his mental status , he continued to improve steadily over the last few weeks of his hospital stay .
+He was more alert and engaged with activity .
+He did much better with PT and OT at the end after his mental status improved .
+As noted above , his mental status change was likely toxic-metabolic from acute infection .
+He started to develop more pain around the right stump since 07-17 .
+He was seen by the vascular surgery who felt that he is too medically sick and malnourished to have surgery at this time .
+He will follow up with Dr. Javier as outpatient .
+Initially , his pain was controlled with titrating up the Oxycontin .
+However , it was titrated too quickly from 10 mg bid to 30 mg bid .
+He then developed urinary retention requiring foley placement .
+After he passed the video swallowing , he was tolerating ground consistent solids .
+On 07-24 , he had an emesis x 1 , and had aspiration pneumonia ( + interstital markings on the left on CXR , fever , leukocytosis ) .
+His Flagyl course was extended , and Vanc / Levo were added .
+His sputum showed many GPC which later grew Staph aureus .
+Given his recent MRSA pneumonia , he will be treated with 2 week course of Vanc / Levo / Flagyl .
+He was seen by the pain service who recommended to discontinue Oxycontin , and start Neurontin , MSIR , and lidocaine patch in addition to the standing Tylenol .
+On 07-25 , his J-tube was noted to be obstructed but was able to be flushed by IR on 07-26 .
+Tubefeed was resumed without any difficulty since .
+Since oxycontin was discontinued , the foley was removed on 07-27 and was able to void without any difficulty .
+Medications on Admission :
+Lopressor 50 mg BID
+percocet
+nebulizer
+lipitor
+klonopin 0.5 mg TID
+RISS
+heparin sc
+lasix 40 mg TID
+prevacid
+milk of mag
+multivitamin
+papain
+zinc
+Discharge Medications :
+1. Albuterol - Ipratropium 103-18 mcg / Actuation Aerosol Sig : 02-19 Puffs Inhalation Q6H ( every 6 hours ) as needed .
+2. Multivitamins Tablet , Chewable Sig : One ( 1 ) Cap PO DAILY ( Daily ) .
+3. Magnesium Hydroxide 400 mg / 5 mL Suspension Sig : Thirty ( 30 ) ML PO Q6H ( every 6 hours ) as needed .
+4. Ipratropium Bromide 0.02 % Solution Sig : One ( 1 ) Inhalation Q6H ( every 6 hours ) .
+5. Heparin Sodium ( Porcine ) 5,000 unit / mL Solution Sig : One ( 1 ) Injection TID ( 3 times a day ) .
+6. Atorvastatin Calcium 20 mg Tablet Sig : One ( 1 ) Tablet PO DAILY ( Daily ) .
+7. Papain - Urea 830,000-10 unit -% Spray , Non-Aerosol Sig : One ( 1 ) Appl Topical DAILY ( Daily ) .
+8. Insulin Regular Human 100 unit / mL Solution Sig : Sliding scale Injection ASDIR ( AS DIRECTED ) : See the sliding scale .
+9. Zinc Sulfate 220 mg Capsule Sig : One ( 1 ) Capsule PO DAILY ( Daily ) .
+10. Ascorbic Acid 500 mg Tablet Sig : One ( 1 ) Tablet PO BID ( 2 times a day ) .
+11. Metoprolol Tartrate 50 mg Tablet Sig : One ( 1 ) Tablet PO BID ( 2 times a day ) .
+12. Aspirin 81 mg Tablet , Chewable Sig : One ( 1 ) Tablet , Chewable PO DAILY ( Daily ) .
+13. Clopidogrel Bisulfate 75 mg Tablet Sig : One ( 1 ) Tablet PO DAILY ( Daily ) .
+14. Metronidazole 500 mg Tablet Sig : One ( 1 ) Tablet PO TID ( 3 times a day ) for 6 days : Last day 2017-07-25 .
+15. Acetaminophen 325 mg Tablet Sig : Two ( 2 ) Tablet PO Q6H ( every 6 hours ) .
+16. Olanzapine 5 mg Tablet Sig : One ( 1 ) Tablet PO DAILY ( Daily ) as needed for confusion .
+17. Protonix 40 mg Tablet , Delayed Release ( E.C. ) Sig : One ( 1 ) Tablet , Delayed Release ( E.C. ) PO twice a day .
+18. Morphine Sulfate 15 mg Tablet Sig : 1-2 Tablets PO Q4-6H ( every 4 to 6 hours ) as needed .
+19. Levofloxacin 500 mg Tablet Sig : One ( 1 ) Tablet PO Q24H ( every 24 hours ) : Last day 08-07 .
+20. Vancomycin HCl in Dextrose 1 g / 200 mL Piggyback Sig : One ( 1 ) Intravenous Q 12H ( Every 12 Hours ) : Last day 08-07 .
+21. Gabapentin 300 mg Capsule Sig : One ( 1 ) Capsule PO TID ( 3 times a day ) .
+22. Lidocaine 5 %( 700 mg / patch ) Adhesive Patch , Medicated Sig : One ( 1 ) Adhesive Patch , Medicated Topical QD (  ) .
+23. Morphine Sulfate 2 mg / mL Syringe Sig : 02-19 Injection Q12H ( every 12 hours ) as needed .
+24. Prochlorperazine 10 mg Tablet Sig : One ( 1 ) Tablet PO Q6H ( every 6 hours ) as needed .
+Discharge Disposition :
+Extended Care
+Facility :
+Mediplex Rehab Hospital - Lawrence
+Discharge Diagnosis :
+Primary :
+1) Gangrenous leg
+2) Urinary tract infection
+3) MRSA pneumonia
+4) Failure to thrive and weight loss
+5) Altered mental status
+6) Gastric ulcer
+7) C.diff colitis
+Secondary :
+1) Coronary artery disease
+2) Anemia
+3) Congestive heart failure
+4) Peripheral vascular disease
+5) Diabetes mellitus
+6) Hypertension
+Discharge Condition :
+Hemodynamically stable , pt doing much better with physical therapy , passed video swallow evaluation tolerating po .
+Discharge Instructions :
+Patient needs to take all of the medications as directed .
+Patient needs to continue the tube feed nutrition until re-assessed by the nutrionist .
+He can also take oral food as directed below .
+He needs to seek medical attention if he develops fever , chills , nausea , vomiting , worsening pain , worsening wound , or any other concerning symptoms .
+Followup Instructions :
+Please follow up with Dr. Cynthia Kabzinski ( 672-3879 ) on 2017-08-08
+10:45
+Provider :
+Sarah , Santo S. Isom
+SURGERY
+Where :
+VASCULAR SURGERY
+Date / Time : 2017-08-08 10:45
+Vernon Karen MD 28-960
+Completed by : Marquita Sherry MD 09-161 2017-07-27 @ 1440
+Signed electronically by : DR. Frank Z.K. Delgado on : Maxine 2017-07-27 3:37 PM
+( End of Report )

@@ -1,0 +1,19 @@
+c="vanco" 94:6 94:6||r="TrAP"||c="his presumed aspiration" 94:8 94:10
+c="vanco" 94:6 94:6||r="TrAP"||c="" hospital " aquired pna" 94:12 94:16
+c="orif" 39:8 39:8||r="TrAP"||c="right hip fx" 39:4 39:6
+c="dyspnea" 93:18 93:18||r="PIP"||c="rll pneumonia" 93:26 93:27
+c="dm2" 30:1 30:1||r="PIP"||c="mild background diabetic retinopathy" 30:4 30:7
+c="iv abx" 21:26 21:27||r="TrAP"||c="asp pna" 21:13 21:14
+c="iv abx" 21:26 21:27||r="TrAP"||c="symptoms" 21:35 21:35
+c="lvef" 34:3 34:3||r="TeCP"||c="chf" 34:1 34:1
+c="cxr" 95:13 95:13||r="TeRP"||c="clear pneumonia" 95:10 95:11
+c="drugs" 12:8 12:8||r="TrCP"||c="known allergies" 12:5 12:6
+c="left nephrectomy" 36:6 36:7||r="TrAP"||c="renal cell ca" 36:1 36:3
+c="his blood pressures" 112:0 112:2||r="TeRP"||c="elevated" 112:4 112:4
+c="rll pna" 111:7 111:8||r="PIP"||c="early sepsis" 111:4 111:5
+c="baseline mmse" 38:6 38:7||r="TeCP"||c="dementia" 38:1 38:1
+c="moderate distress" 59:18 59:19||r="PIP"||c="accessory muscle use" 59:21 59:23
+c="bipap mask" 61:0 61:1||r="TrCP"||c="apparent leak" 61:6 61:7
+c="femoral-popliteal bypass" 35:4 35:5||r="TrAP"||c="pvd" 35:1 35:1
+c="zosyn" 94:4 94:4||r="TrAP"||c="his presumed aspiration" 94:8 94:10
+c="zosyn" 94:4 94:4||r="TrAP"||c="" hospital " aquired pna" 94:12 94:16

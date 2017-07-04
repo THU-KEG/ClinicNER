@@ -1,0 +1,57 @@
+c="jvp" 60:2 60:2||r="TeRP"||c="elevated" 60:4 60:4
+c="ct scan" 117:8 117:9||r="TeRP"||c="ground glass opacities" 117:11 117:13
+c="ground glass opacities" 117:11 117:13||r="PIP"||c="an underlying infectious process" 117:17 117:20
+c="replacement" 122:14 122:14||r="TrAP"||c="abnormal tfts" 122:6 122:7
+c="left radical nephrectomy" 40:12 40:14||r="TrAP"||c="metastatic renal cell carcinoma" 40:1 40:4
+c="predominantly sclerotic lesion" 110:7 110:9||r="PIP"||c="interval periosteal new bone formation" 110:11 110:15
+c="renal cell carcinoma of chromophobe type" 41:3 41:8||r="PIP"||c="carter nuclear grade" 41:10 41:12
+c="avastin" 45:16 45:16||r="TrCP"||c="proteinuria" 45:12 45:12
+c="bibasilar pneumonia" 114:1 114:2||r="PIP"||c="community-acquired pneumonia" 114:8 114:9
+c="sutent" 47:9 47:9||r="TrCP"||c="mild renal insufficiency" 47:2 47:4
+c="drugs" 12:8 12:8||r="TrCP"||c="known allergies" 12:5 12:6
+c="l femur xray" 110:1 110:3||r="TeRP"||c="predominantly sclerotic lesion" 110:7 110:9
+c="l femur xray" 110:1 110:3||r="TeRP"||c="interval periosteal new bone formation" 110:11 110:15
+c="mild posterior mitral valve prolapse" 108:0 108:4||r="PIP"||c="mild mitral regurgitation" 108:6 108:8
+c="further evaluation" 99:27 99:28||r="TeCP"||c="bilateral pleural effusions" 99:6 99:8
+c="further evaluation" 99:27 99:28||r="TeCP"||c="cardiac insufficiency" 99:12 99:13
+c="further evaluation" 99:27 99:28||r="TeCP"||c="volume overload" 99:17 99:18
+c="bilateral pleural effusions" 99:6 99:8||r="PIP"||c="cardiac insufficiency" 99:12 99:13
+c="bilateral pleural effusions" 99:6 99:8||r="PIP"||c="volume overload" 99:17 99:18
+c="bilateral le doppler" 93:1 93:3||r="TeRP"||c="deep venous thrombosis in the lower extremities bilaterally" 93:10 93:17
+c="gentle hydration" 130:13 130:14||r="TrIP"||c="prerenal component" 130:8 130:9
+c="cardiac enzymes" 20:22 20:23||r="TeCP"||c="chest pain" 20:13 20:14
+c="an echocardiogram" 20:25 20:26||r="TeCP"||c="chest pain" 20:13 20:14
+c="creatinine" 129:4 129:4||r="TeCP"||c="renal insufficiency" 129:1 129:2
+c="a pharmacological stress test" 20:28 20:31||r="TeCP"||c="chest pain" 20:13 20:14
+c="recent ct scan" 125:0 125:2||r="TeRP"||c="destruction of l femoral neck" 125:4 125:8
+c="levaquin" 168:13 168:13||r="TrAP"||c="a pneumonia" 168:15 168:16
+c="sutent" 122:9 122:9||r="TrCP"||c="abnormal tfts" 122:6 122:7
+c="an antibiotic" 168:10 168:11||r="TrAP"||c="a pneumonia" 168:15 168:16
+c="a mild cough" 25:2 25:4||r="PIP"||c="non-productive" 25:10 25:10
+c="cxray" 94:1 94:1||r="TeRP"||c="new bibasilar consolidations" 94:5 94:7
+c="cxray" 94:1 94:1||r="TeRP"||c="bilateral small pleural effusion" 94:12 94:15
+c="an xray of the l femur" 126:2 126:7||r="TeRP"||c="an acute fracture" 126:12 126:14
+c="docusate sodium" 150:1 150:2||r="TrAP"||c="constipation" 150:25 150:25
+c="cxr" 31:0 31:0||r="TeRP"||c="bibasilar consolidations" 31:2 31:3
+c="morphine" 152:1 152:1||r="TrAP"||c="pain" 152:24 152:24
+c="imodium" 132:6 132:6||r="TrAP"||c="diarrhea" 132:13 132:13
+c="sorafenib" 19:22 19:22||r="TrAP"||c="metastatic rcc" 19:8 19:9
+c="avastin" 19:20 19:20||r="TrAP"||c="metastatic rcc" 19:8 19:9
+c="sutent" 132:11 132:11||r="TrCP"||c="diarrhea" 132:13 132:13
+c="sutent monotherapy" 19:27 19:28||r="TrAP"||c="metastatic rcc" 19:8 19:9
+c="lomotil" 132:8 132:8||r="TrAP"||c="diarrhea" 132:13 132:13
+c="scattered ground glass opacities involving the right lung" 102:8 102:15||r="PIP"||c="an infectious process" 102:19 102:21
+c="an echocardiogram" 99:21 99:22||r="TeCP"||c="volume overload" 99:17 99:18
+c="an echocardiogram" 99:21 99:22||r="TeCP"||c="bilateral pleural effusions" 99:6 99:8
+c="an echocardiogram" 99:21 99:22||r="TeCP"||c="cardiac insufficiency" 99:12 99:13
+c="sutent" 113:9 113:9||r="TrAP"||c="metastatic rcc" 113:6 113:7
+c="a staging ct scan torso" 121:2 121:6||r="TeRP"||c="significant increase in tumor burden" 121:10 121:14
+c="sutent" 120:4 120:4||r="TrNAP"||c="acute infection" 120:12 120:13
+c="sutent" 120:4 120:4||r="TrAP"||c="metastatic rcc" 120:1 120:2
+c="left radical nephrectomy" 19:12 19:14||r="TrAP"||c="metastatic rcc" 19:8 19:9
+c="further ros" 28:0 28:1||r="TeRP"||c="mild sob" 28:3 28:4
+c="echo" 107:1 107:1||r="TeRP"||c="mild symmetric left ventricular hypertrophy" 107:5 107:9
+c="an infectious etiology" 105:19 105:21||r="PIP"||c="new jejunal wall thickening" 105:1 105:4
+c="an infectious etiology" 105:19 105:21||r="PIP"||c="persistent distal ileal wall thickening" 105:6 105:10
+c="an infectious etiology" 105:19 105:21||r="PIP"||c="diffuse mesenteric stranding" 105:12 105:14
+c="tree-in-eric nodular opacities" 102:4 102:6||r="PIP"||c="an infectious process" 102:19 102:21

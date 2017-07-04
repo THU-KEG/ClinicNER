@@ -1,0 +1,105 @@
+610047337
+FIH
+7583062
+45498/m288
+968450
+12/17/1993 12:00:00 AM
+RECURRENT LIPOSARCOMA .
+Unsigned
+DIS
+Report Status :
+Unsigned
+ADMISSION DATE :
+12-17-93
+DISCHARGE DATE :
+1-6-94
+PRINCIPAL DIAGNOSIS :
+Recurrent liposarcoma .
+ASSOCIATED DIAGNOSIS :
+Cardiomyopathy , history of arrhythmia , prostate nodule , hypertension , arthritis , status post appendectomy .
+HISTORY OF PRESENT ILLNESS :
+The patient is a 77 year old male with a history of hypertension , arrhythmias , and enlarged heart with recurrent liposarcoma .
+The patient was well until 1990 when he developed fatigue , weight loss , and right upper quadrant pain and was found to have a large liposarcoma in his retroperitoneum that was 18x12 cm in size , which was resected .
+The patient did well until mid 1991 when a computerized tomography scan showed recurrent massed found to be differentiated liposarcoma , grade III / III .
+He received radiation therapy at 5,000 rads at cyclotron , followed by exploration , resection of tumor , and a right colectomy in 7-2-92 .
+The tumor involved the right iliac fossa along the posterior abdominal wall and right lower pole of the kidney , but no liver involvement .
+The patient again did well until April 1993 when he felt increased fatigue .
+Over the past two weeks , he had increased nausea and vomiting with poor PO intake with increasing right upper quadrant pain extending to his right flank .
+He was admitted for reexcision of his current liposarcoma .
+PAST MEDICAL HISTORY :
+The past medical history includes
+1. enlarged heart ,
+2. arrhythmia ,
+3. prostate nodule ,
+4. hypertension ,
+5. arthritis ,
+6. status post appendectomy .
+MEDICATIONS ON ADMISSION :
+Capoten 25 mg PO tid , Aldactazide 1 mg PO qid , digoxin .25 mg PO qd , Motrin prn , Demerol prn .
+ALLERGIES :
+The patient has no known drug allergies .
+PHYSICAL EXAMINATION :
+On physical examination , he is an elderly gentleman in no acute distress .
+He had a blood pressure of 164/90 , pulse rate of 60 , respiratory rate of 16 , and afebrile at 97 degrees Fahrenheit .
+The skin was without lesions , warm , and well perfused .
+The HEENT exam revealed extra ocular movements which were full , sclerae which were anicteric , and a benign oropharynx .
+His throat was without erythema .
+The neck was supple , with full range of movement , with no evidence of lymphadenopathy .
+The coronary exam revealed a regular rate and rhythm , with a I / VI systolic ejection murmur .
+The lungs were clear to auscultation bilaterally .
+His abdomen revealed a firm right upper quadrant , and right lower quadrant which were questionable for tumor .
+The remainder of the exam was soft , nontender , nondistended , with positive bowel sounds .
+On extremity exam , he had 1+ pitting edema to the ankle , but was without clubbing or cyanosis .
+On neurological examination , he was alert and oriented .
+The cranial nerves II-XII were grossly intact .
+He had normal symmetric deep tendon reflexes .
+Strength and sensory were grossly intact .
+LABORATORY DATA :
+On laboratory studies , he had a sodium of 134 , potassium of 3.5 , chloride of 94 , bicarbonate of 32.4 , calcium of 9.5 , phosphorus of 2.5 , BUN and creatinine of 20 and 1.2 , glucose of 127 .
+The total protein was 6.1 , albumin was 3.4 , globulin 2.7 , and direct bilirubin of 0.2 , with a total bilirubin of 0.7 .
+The alkaline phosphatase was 108 .
+The serum amylase was 55 , and lipase was 15 .
+The digoxin level was 1.1 .
+On complete blood count , he had a white blood count of 6.5 , hematocrit of 39.4 , hemoglobin of 12.4 , platelet count of 317 , MCV of 18 .
+He had normal coags with a prothrombin time of 10.1/10.3 , and a partial thromboplastin time of 26.5 .
+His urinalysis was negative .
+Radiologic studies revealed a chest X-ray with elevation of the right hemidiaphragm with atelectasis at the right base .
+An upper gastrointestinal revealed narrowing and effacement of the mucosal folds involving the second part of the duodenum suggestive of extrinsic compression and involvement by tumor .
+There was no evidence of significant obstruction at this level .
+There was displacement and irregularity of the inferior portion of the stomach suggesting tumor involvement .
+A mesenteric arteriogram revealed a large retroperitoneal mass in the right side of the abdomen .
+The mass distorts the regional anatomy , displacing the liver superiorly and antrally toward the left .
+The right kidney is displaced medially and rotated approximately 90 degrees .
+The inferior vena cava is displaced antrally and medially .
+The mass does not receive its arterial supply from the hepatic arteries .
+No major arterial or venous encasement is present .
+The portal vein , although stretched in places , it does not encase .
+The vena cava is patent , displaced , but not thrombosed or encased .
+There were no major arterial abnormalities .
+The electrocardiogram revealed normal sinus rhythm at a rate of 68 beats per minute , with first degree AV block , with a mild intraventricular conduction delay , with poor R-wave progression consistent with anteroseptal myocardial infarction , clockwise rotation or chronic obstructive pulmonary disease .
+There were non-specific ST-T wave abnormalities .
+PRINCIPAL PROCEDURE :
+Exploratory laparotomy , resection of retroperitoneal liposarcoma , partial right hepatectomy , partial left hepatectomy , cholecystectomy , excision of part of the diaphragm , right nephrectomy and right adrenalectomy ; this was done on 12-23-93 .
+HOSPITAL COURSE :
+On 12-23-93 , the patient underwent the described resection of his recurrent liposarcoma .
+He tolerated general anesthesia and the resection without difficulty .
+The patient was admitted to the Post Anesthesia Care Unit overnight and was transferred to the floor the next day .
+Due to the extensiveness of the resection .
+The patient &apos;s postoperative course was slow .
+However , it was not marked by any major complications .
+By the day of discharge , he was stable , afebrile , and taking good PO , which included three cans of Ensure per day .
+The patient was ambulating and voiding without difficulty .
+DOCTORS DISCHARGE ORDERS :
+The patient was given a prescription for ferrous gluconate 300 mg PO tid , and was also given a prescription for Percocet for pain .
+The patient was also given a prescription for Ensure for which he is to take three cans per day to supplement his diet .
+He had scheduled follow up in Dr. Strength &apos;s office .
+LI ZINE , M.D.
+DICTATING FOR :
+FEDE STRENGTH , M.D.
+TR :
+ms / bmot
+DD :
+1-9-94
+TD :
+01/11/94
+CC :

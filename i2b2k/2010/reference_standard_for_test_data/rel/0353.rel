@@ -1,0 +1,33 @@
+c="ctropnt" 80:0 80:0||r="TeRP"||c="acute mi" 80:7 80:8
+c="ct scan" 94:5 94:6||r="TeRP"||c="new intracraneal bleeding" 94:11 94:13
+c="vancomycin" 103:8 103:8||r="TrIP"||c="aspiration pneumonia" 103:16 103:17
+c="urine cx" 105:0 105:1||r="TeRP"||c="citrobacter freundi" 105:5 105:6
+c="pump" 116:0 116:0||r="TeRP"||c="lower extremity edema" 116:5 116:7
+c="fevers" 107:1 107:1||r="PIP"||c="high wbc" 107:7 107:8
+c="fevers" 107:1 107:1||r="PIP"||c="pneumonia" 107:11 107:11
+c="sepsis" 125:3 125:3||r="PIP"||c="fevers" 125:8 125:8
+c="sepsis" 125:3 125:3||r="PIP"||c="high blood count" 125:10 125:12
+c="statin" 123:6 123:6||r="TrAP"||c="stroke" 123:1 123:1
+c="hd" 93:21 93:21||r="TrAP"||c="cri" 93:19 93:19
+c="vent" 19:23 19:23||r="TrAP"||c="chronic respiratory failure" 19:19 19:21
+c="hd" 165:6 165:6||r="TrAP"||c="end stage renal disease" 165:1 165:4
+c="ck" 119:4 119:4||r="TeCP"||c="cad" 119:0 119:0
+c="plavix" 123:8 123:8||r="TrAP"||c="stroke" 123:1 123:1
+c="hemodyalisis" 113:3 113:3||r="TrAP"||c="esrd" 113:1 113:1
+c="1 l ns" 23:14 23:16||r="TrAP"||c="hypotensive" 23:5 23:5
+c="cefepime" 103:6 103:6||r="TrIP"||c="aspiration pneumonia" 103:16 103:17
+c="broad spectrum antibiotics" 103:2 103:4||r="TrIP"||c="aspiration pneumonia" 103:16 103:17
+c="mb" 119:8 119:8||r="TeCP"||c="cad" 119:0 119:0
+c="vancomycin" 106:11 106:11||r="TrAP"||c="gram positive infections" 106:7 106:9
+c="hd" 19:29 19:29||r="TrAP"||c="esrd" 19:27 19:27
+c="febrile" 102:1 102:1||r="PIP"||c="a high wbc" 102:4 102:6
+c="aspirin" 123:4 123:4||r="TrAP"||c="stroke" 123:1 123:1
+c="his sputum" 105:8 105:9||r="TeRP"||c="acinetobacter baummani" 105:11 105:12
+c="rhythm" 115:0 115:0||r="TeRP"||c="tachycardic" 115:5 115:5
+c="flagyl" 103:10 103:10||r="TrIP"||c="aspiration pneumonia" 103:16 103:17
+c="drugs" 12:8 12:8||r="TrAP"||c="known allergies" 12:5 12:6
+c="x ray" 117:0 117:1||r="TeRP"||c="some pulmonary edema" 117:3 117:5
+c="urine cx" 104:0 104:1||r="TeRP"||c="gram negative rods" 104:5 104:7
+c="urine cx" 104:0 104:1||r="TeRP"||c="> 100 k enterobacter cloacae" 104:8 104:12
+c="hd" 42:2 42:2||r="TrAP"||c="cri" 42:0 42:0
+c="intial ct" 108:8 108:9||r="TeRP"||c="sinus infections" 108:3 108:4

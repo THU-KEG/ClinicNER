@@ -1,0 +1,42 @@
+649953363_e
+FIH
+8723483
+249112
+912397
+12/19/2000 12:00:00 AM
+ED Discharge Summary
+Unsigned
+DIS
+Report Status :
+Unsigned
+ED DISCHARGE NOTIFICATION / SUMMARY
+UPH , JIM
+MRN :
+8723483
+Age :
+57y
+REGISTRATION DATE :
+12/19/2000 02:48 PM
+Provider :
+Asha Vengloan
+PRELIMINARY REPORT
+Benefits Assigned :
+Y
+Discharge Date / Time :
+12/19/00 6:13:06 PM
+Discharge Status :
+Discharged
+Patient States Complaint :
+SOB
+Diagnosis :
+COPD exacerbation ( emphysema )
+Treatment Rendered :
+Prednisone , nebulizers .
+Chest x-ray shows question of a pulmonary nodule in the right lower lobe which may be cancer .
+Discharge Medications :
+Prednisone 60 mg daily for 4 days .
+Continue inhalers as prescribed .
+Disposition , Follow up and Instructions to Patient :
+Call Dr. Linketerf tomorrow and make an appointment for follow-up on the lung nodule .
+THIS IS VERY IMPORTANT .
+This report was created by Vengloan , Asha 12/19/2000 06:15 PM

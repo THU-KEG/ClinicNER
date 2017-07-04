@@ -1,0 +1,23 @@
+c="the imaging" 22:4 22:5||r="TeRP"||c="carcinoma" 22:15 22:15
+c="the imaging" 22:4 22:5||r="TeRP"||c="adenomatosis" 22:17 22:17
+c="the imaging" 22:4 22:5||r="TeRP"||c="a fistula" 22:7 22:8
+c="the imaging" 22:4 22:5||r="TeRP"||c="adjacent inflammatory change" 22:10 22:12
+c="a fistula" 22:7 22:8||r="PIP"||c="carcinoma" 22:15 22:15
+c="a fistula" 22:7 22:8||r="PIP"||c="adenomatosis" 22:17 22:17
+c="adjacent inflammatory change" 22:10 22:12||r="PIP"||c="a fistula" 22:7 22:8
+c="some workup" 14:9 14:10||r="TeCP"||c="bilateral upper quadrant pain" 14:17 14:20
+c="transfusion" 61:4 61:4||r="TrAP"||c="blood loss" 61:1 61:2
+c="a hida scan" 19:0 19:2||r="TeRP"||c="filling of the gallbladder" 19:10 19:13
+c="the mrcp" 23:3 23:4||r="TeRP"||c="a mass" 23:6 23:7
+c="treatment" 13:10 13:10||r="TrAP"||c="adenocarcinoma" 13:12 13:12
+c="evaluation" 13:8 13:8||r="TeCP"||c="adenocarcinoma" 13:12 13:12
+c="a transfusion of packed red blood cells" 39:10 39:16||r="TrAP"||c="low hematocrits" 39:6 39:7
+c="an epidural catheter" 37:8 37:10||r="TrAP"||c="the patient 's pain" 37:0 37:3
+c="a mrcp" 21:12 21:13||r="TeRP"||c="an enhanced thickened gallbladder wall" 21:16 21:20
+c="a mrcp" 21:12 21:13||r="TeRP"||c="chronic cholecystitis" 21:23 21:24
+c="an enhanced thickened gallbladder wall" 21:16 21:20||r="PIP"||c="chronic cholecystitis" 21:23 21:24
+c="a cat scan of the abdomen" 16:0 16:5||r="TeRP"||c="air-fluid levels in the gallbladder" 16:7 16:11
+c="this biopsy" 26:0 26:1||r="TeRP"||c="adenocarcinoma" 26:7 26:7
+c="the epidural" 38:2 38:3||r="TrCP"||c="a hypotension" 38:12 38:13
+c="the colonoscopy" 25:0 25:1||r="TeRP"||c="two polyps" 25:3 25:4
+c="tylenol" 66:1 66:1||r="TrAP"||c="pain" 66:12 66:12

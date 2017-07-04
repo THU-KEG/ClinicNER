@@ -1,0 +1,78 @@
+197872734 YC
+31718754
+563219
+12/29/2000 12:00:00 AM
+term pregnancy , delivered
+DIS
+Admission Date :
+12/29/2000
+Report Status :
+Discharge Date :
+New Years Day
+****** DISCHARGE ORDERS ******
+FREIERMDREPS , RI
+219-54-31-1 V00
+Room :
+ADF4-470
+Service :
+OBS
+DISCHARGE PATIENT ON :
+New Years Day AT 04:00 PM
+CONTINGENT UPON
+Not Applicable
+WILL D / C ORDER BE USED AS THE D / C SUMMARY :
+YES
+DISPOSITION :
+Home
+DISCHARGE MEDICATIONS :
+ACETAMINOPHEN 500-1000 MG PO Q4-6H PRN DOCUSATE SODIUM 100 MG PO BID PRN IBUPROFEN 200-600 MG PO Q4-6H PRN PAIN LABETALOL ( LABETALOL HCL ) 200 MG PO BID
+Food / Drug Interaction Instruction
+Give with meals
+DIET :
+No Restrictions
+Activity - As tolerated
+RETURN TO WORK :
+Not Applicable
+FOLLOW UP APPOINTMENT ( S ) :
+dr. piernca 6 wks ,
+No Known Allergies
+ADMIT DIAGNOSIS :
+Spontaneous vaginal delivery
+PRINCIPAL DISCHARGE DIAGNOSIS ;
+Responsible After Study for Causing Admission )
+term pregnancy , delivered
+OTHER DIAGNOSIS ;
+Conditions , Infections , Complications , affecting Treatment / Stay
+OPERATIONS AND PROCEDURES :
+Vaginal delivery :
+Spontaneous Placenta :
+Delivery :
+Spontaneous Condition :
+Normal Staff Obstetrician ( supervising ) :
+PIERNCA , REEAN ESHUNDRI , M.D. Delivery
+OTHER TREATMENTS / PROCEDURES ( NOT IN O.R. )
+BRIEF RESUME OF HOSPITAL COURSE :
+G5 T2 P0 A2 L2 Estimated
+EDC :
+01/07/01
+Indications for induction :
+Hypertension , Diabetes , ,Other - macrosomia Maternal transfer :
+No
+Initial newborn exam :
+No observed abnormalities
+Baby 1 MRN :
+95305225
+Delivery date :
+12/30/00 01:20 AM
+Apgars 8,9
+Weight :
+6lb 10 oz 3005 grams
+Sex :
+Male
+ADDITIONAL COMMENTS :
+DISCHARGE CONDITION :
+Stable
+TO DO / PLAN :
+ENTERED BY :
+SPYRES , NACLAMOLL KARINE , M.D. ( KD1 ) 01/01/01 03:35 PM
+****** END OF DISCHARGE ORDERS ******

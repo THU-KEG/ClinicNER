@@ -1,0 +1,5 @@
+c="percocet" 66:1 66:1||r="TrAP"||c="pain" 66:8 66:8
+c="thrombolytic therapy" 16:16 16:17||r="TrAP"||c="an acute inferior myocardial infarction" 16:7 16:11
+c="catheterization" 18:2 18:2||r="TeRP"||c="mitral regurgitation" 18:16 18:17
+c="catheterization" 18:2 18:2||r="TeRP"||c="insufficiency" 18:19 18:19
+c="catheterization" 18:2 18:2||r="TeRP"||c="hypokinesis" 18:21 18:21

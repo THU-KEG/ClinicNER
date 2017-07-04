@@ -1,0 +1,31 @@
+c="an ecg" 24:2 24:3||r="TeRP"||c="new st depressions in v1-v4" 24:11 24:15
+c="ekg" 94:19 94:19||r="TeRP"||c="st depressions in v1-v4" 94:21 94:24
+c="an echo" 108:0 108:1||r="TeRP"||c="wall motion abnormalities" 108:10 108:12
+c="morphine" 102:6 102:6||r="TrIP"||c="her chest pain" 102:0 102:2
+c="coumadin" 109:26 109:26||r="TrAP"||c="her afib" 109:16 109:17
+c="blindness" 36:0 36:0||r="PIP"||c="macular degeneration" 36:2 36:3
+c="cardioversion" 109:14 109:14||r="TrAP"||c="her afib" 109:16 109:17
+c="leukocytosis-" 123:1 123:1||r="PIP"||c="mild elevated wbc" 123:4 123:6
+c="lasix" 121:5 121:5||r="TrAP"||c="weight gain" 121:7 121:8
+c="lasix" 121:5 121:5||r="TrAP"||c="shortness of breath" 121:10 121:12
+c="ekg" 28:0 28:0||r="TeRP"||c="sinus brady" 28:2 28:3
+c="ekg" 28:0 28:0||r="TeRP"||c="old lad and new st depressions in v1-v4" 28:6 28:13
+c="docusate sodium" 135:1 135:2||r="TrAP"||c="constipation" 135:24 135:24
+c="acute mi" 116:28 116:29||r="PIP"||c="pulmonary edema" 116:22 116:23
+c="pulmonary edema" 116:22 116:23||r="PIP"||c="bilateral crackles at bases and midlungs" 116:0 116:5
+c="pulmonary edema" 116:22 116:23||r="PIP"||c="elevated jvp" 116:7 116:8
+c="pulmonary edema" 116:22 116:23||r="PIP"||c="trace bilateral ankle edema" 116:10 116:13
+c="pulmonary edema" 116:22 116:23||r="PIP"||c="diffuse opacities" 116:18 116:19
+c="her cxr" 120:0 120:1||r="TeRP"||c="mild pulm edema" 120:6 120:8
+c="cxr" 116:16 116:16||r="TeRP"||c="diffuse opacities" 116:18 116:19
+c="exam" 27:0 27:0||r="TeRP"||c="murmur" 27:7 27:7
+c="exam" 27:0 27:0||r="TeRP"||c="bibasilar crackles" 27:9 27:10
+c="wbc 's" 125:0 125:1||r="TeRP"||c="few bacteria" 125:3 125:4
+c="lasix" 120:15 120:15||r="TrAP"||c="mild pulm edema" 120:6 120:8
+c="bactrim" 126:5 126:5||r="TrNAP"||c="afebrile" 126:14 126:14
+c="lasix" 145:1 145:1||r="TrAP"||c="shortness of breath" 145:19 145:21
+c="lasix" 145:1 145:1||r="TrAP"||c="wheezing" 145:23 145:23
+c="maalox" 144:1 144:1||r="TrAP"||c="indigestion" 144:23 144:23
+c="lasix" 146:3 146:3||r="TrAP"||c="weight gain" 146:8 146:9
+c="lasix" 146:3 146:3||r="TrAP"||c="shortness of breath" 146:11 146:13
+c="slight worsening" 72:2 72:3||r="PIP"||c="the still mild pulmonary edema" 72:5 72:9

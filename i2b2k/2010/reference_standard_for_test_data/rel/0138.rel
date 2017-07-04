@@ -1,0 +1,17 @@
+c="the chest x-ray" 32:5 32:7||r="TeRP"||c="bilateral densities" 32:9 32:10
+c="bilateral densities" 32:9 32:10||r="PIP"||c="aspiration pneumonia" 32:20 32:21
+c="gross hematuria" 39:14 39:15||r="PIP"||c="prostatic hypertrophy" 39:11 39:12
+c="cultures" 32:1 32:1||r="TeRP"||c="positive" 32:3 32:3
+c="on physical examination" 26:0 26:2||r="TeRP"||c="dyspneic" 26:12 26:12
+c="on physical examination" 26:0 26:2||r="TeRP"||c="chronically and acutely ill" 26:7 26:10
+c="on physical examination" 26:0 26:2||r="TeRP"||c="coarse rales in both bases" 26:18 26:22
+c="on physical examination" 26:0 26:2||r="TeRP"||c="mildly febrile" 26:14 26:15
+c="clindamycin intravenous" 35:5 35:6||r="TrIP"||c="his fever" 35:13 35:14
+c="clindamycin intravenous" 35:5 35:6||r="TrIP"||c="cough" 35:18 35:18
+c="clindamycin intravenous" 35:5 35:6||r="TrIP"||c="choking" 35:20 35:20
+c="clindamycin intravenous" 35:5 35:6||r="TrIP"||c="intermittently many coarse rales in his base" 35:23 35:29
+c="the wbc" 31:5 31:6||r="TeRP"||c="mild elevation" 31:2 31:3
+c="cefuroxime intravenous" 35:8 35:9||r="TrIP"||c="his fever" 35:13 35:14
+c="cefuroxime intravenous" 35:8 35:9||r="TrIP"||c="cough" 35:18 35:18
+c="cefuroxime intravenous" 35:8 35:9||r="TrIP"||c="choking" 35:20 35:20
+c="cefuroxime intravenous" 35:8 35:9||r="TrIP"||c="intermittently many coarse rales in his base" 35:23 35:29

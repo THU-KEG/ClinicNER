@@ -1,0 +1,73 @@
+210974938
+FIH
+4139381
+98764/u6tl
+722206
+5/30/1993 12:00:00 AM
+INTRAVENOUS CHEMOTHERAPY .
+Unsigned
+DIS
+Report Status :
+Unsigned
+ADMISSION DATE :
+5-30-93
+DISCHARGE DATE :
+6-2-93
+PRINCIPAL DIAGNOSIS :
+INTRAVENOUS CHEMOTHERAPY .
+ASSOCIATED DIAGNOSIS :
+LEFT UPPER LOBE LARGE CELL CARCINOMA OF THE LUNG .
+ADVERSE DRUG REACTIONS :
+None .
+CLINICAL INFECTIONS :
+None
+SPECIAL PROCEDURES AND OPERATIONS :
+Intravenous chemotherapy .
+HISTORY OF PRESENT ILLNESS :
+The patient is a 63 year old woman with a history of mixed adenocarcinoma and large cell carcinoma of the left upper lobe of the lung who is being admitted for Neoadjuvant chemotherapy with Cisplatinum , 5-FU and Velban .
+Her history has been well documented in her previous notes .
+Briefly , she was originally diagnosed in April 1993 with lung carcinoma .
+Bronchoscopy and mediastinoscopy revealed an unresectable mediastinal tumor with the left tracheobronchial angle node positive for cancer , and the right paratracheal node positive for anthracosis .
+Formal pathology revealed a poorly differentiated adenocarcinoma with focal giant cells .
+Bone scan , head CT and other staging studies were all negative for evidence of metastatic disease .
+The patient is being treated with preoperative neoadjuvant chemotherapy using 5 FU , Vinblastine , Cisplatinum and concomitant radiation therapy .
+She is now admitted for her second course of that therapy .
+PHYSICAL EXAMINATION :
+temperature 98.9 , pulse 82 , respirations 20 .
+HEENT :
+pupils equal , round , reactive to light and accommodation , extra ocular movements were intact .
+Sclera were anicteric .
+The oropharynx was clear .
+The neck was supple without JVD .
+The lungs showed decreased breath sounds at the right base , otherwise were clear .
+The cardiac exam showed a regular rate and rhythm with a I / VI systolic ejection murmur .
+Abdomen was soft and nontender , without masses or hepatosplenomegaly .
+Rectal exam was guaiac negative .
+Extremities were without clubbing , cyanosis or edema .
+Neurologic exam revealed a resting tremor in the right arm and hand .
+LABORATORY DATA :
+white blood count 6.2 , hemoglobin 12.4 , hematocrit 36.1 , platelet count 265,000 .
+The liver function tests were within normal limits .
+BUN 8 , creatinine 0.9 .
+HOSPITAL COURSE :
+The patient was admitted to the Oncology Service on Founder &apos;s 7 and received intravenous chemotherapy with a 72 hour continuous infusion of 5-FU , Vinblastine on day 1 and day 3 , and Cisplatinum on day 1 .
+She tolerated the chemotherapy well with mild nausea and vomiting .
+She had mild increase in her hypertension during the hospitalization , likely secondary to fluid overload .
+She also had some modest anemia , at the time of discharge her hematocrit was 30.9 .
+Overall there were no unanticipated side effects of this chemotherapy .
+Following her recovery from chemotherapy , she will proceed to surgical resection .
+DISCHARGE DIAGNOSIS :
+Intravenous chemotherapy for lung cancer .
+DOCTORS DISCHARGE ORDERS :
+Slo-Mag one tab p.o. b.i.d. Stelazine 2 mg. p.o. q.d. Ativan 1 mg p.o. or s.l. q. 4-6 hr. p.r.n. nausea .
+WORK DISABILITY AND PROBABLE DURATION , COMPLETE .
+Followup will be with Dr. Guabenfranda Day in his office .
+CA SHUFF , M.D.
+TR :
+ds / bmot
+DD :
+6-2 93
+TD :
+06/04/93
+CC :
+GUABENFRANDA DAY , M.D.

@@ -1,0 +1,28 @@
+100007275
+OMH
+4153022
+539937
+1/4/2001 12:00:00 AM
+ED Discharge Summary
+Unsigned
+DIS
+Report Status :
+Unsigned
+ED DISCHARGE NOTIFICATION
+RHALTDEALBBREUTZ , STA
+MRN :
+4153022
+Age :
+94y
+REGISTRATION DATE :
+01/04/2001 07:21 PM
+PRELIMINARY REPORT
+This is to notify you that your patient , RHALTDEALBBREUTZ , STA arrived in the Emergency Department at Oaksgekesser/ Memorial Hospital on 01/04/2001 07:21 PM .
+The patient presented with a chief complaint of PNEUMONIA .
+Following evaluation and treatment , the patient &apos;s disposition at the end of the visit was ADMITTED AS AN INPATIENT TO OAKSGEKESSER/ MEMORIAL HOSPITAL .
+Your patient was admitted under the care of TUBBOLM , LISSWHITI N with a preliminary diagnosis of PNEUMONIA .
+If you need additional information please call 598-754-5083 .
+PCP Name :
+AJESC , DARLMA MARGEA L
+Provider Number :
+63669

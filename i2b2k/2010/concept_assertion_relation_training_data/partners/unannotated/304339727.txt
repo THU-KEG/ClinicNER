@@ -1,0 +1,43 @@
+304339727
+TGCHO
+4811337
+714049
+04/17/2004 12:00:00 AM
+ED Discharge Summary
+Unsigned
+DIS
+Report Status :
+Unsigned
+ED DISCHARGE NOTIFICATION / SUMMARY
+CHAFFBREUNGLOTZ , ARI
+MRN :
+4811337
+Age :
+54y
+REGISTRATION DATE :
+04/17/2004 01:37 PM
+Provider :
+Roli Kotenell
+PRELIMINARY REPORT
+Benefits Assigned :
+N
+Discharge Date / Time :
+04/17/2004 19:43
+Discharge Status :
+Transferred Condition on Discharge :
+Stable
+Patient States Complaint :
+SI
+Diagnosis :
+major depression / cocaine abuse , etoh abuse .
+COBRA Form :
+Y Accepting / TGCHO
+Admitting Physician :
+dr needs
+Receiving Institution :
+c.akde hospital
+PCP Name :
+LAUEJIG , LISEE J
+Provider Number :
+39707
+This report was created by Kotenell , Roli 04/17/2004 07:44 PM

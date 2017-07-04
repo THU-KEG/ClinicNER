@@ -1,0 +1,9 @@
+c="palpation llq" 35:6 35:7||r="TeRP"||c="tender" 35:4 35:4
+c="a ct scan of his abdomen / pelvis" 58:22 58:29||r="TeRP"||c="retroperitoneal hemorrhage" 58:36 58:37
+c="new perinephric fluid" 58:11 58:13||r="PIP"||c="mild hydronephrosis" 58:8 58:9
+c="abdominal pain" 18:24 18:25||r="PIP"||c="sudden onset left-sided abdominal pain" 18:27 18:31
+c="his ultrasound" 58:5 58:6||r="TeRP"||c="mild hydronephrosis" 58:8 58:9
+c="his ultrasound" 58:5 58:6||r="TeRP"||c="new perinephric fluid" 58:11 58:13
+c="hd" 22:2 22:2||r="TrAP"||c="esrd" 22:0 22:0
+c="glomerulonephritis" 22:8 22:8||r="PIP"||c="esrd" 22:0 22:0
+c="hd" 30:11 30:11||r="TrAP"||c="esrd" 30:9 30:9

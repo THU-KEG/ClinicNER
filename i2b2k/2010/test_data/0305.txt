@@ -1,0 +1,23 @@
+Admission Date :
+2016-11-02
+Discharge Date :
+2016-11-15
+Date of Birth :
+1938-06-17
+Sex :
+M
+Service :
+CARDIOTHORACIC SURGERY
+ADDENDUM :
+The patient had INR of 3.2 that came back on date of discharge .
+Please hold dose of warfarin on the night of the 16 , and please recheck INR on 2016-11-16 and dose warfarin appropriately for INR of 2 to 2.5.
+Dolly K. Reyes , M.D.
+04-100
+Dictated By : Todd N. Brannon , M.D.
+MEDQUIST36
+D : 2016-11-15 11:54
+T : 2016-11-15 11:02
+JOB #: 75150
+Signed electronically by :
+DR. Dolly N Wardlaw on : TUE 2016-12-27 5:21 PM
+( End of Report )

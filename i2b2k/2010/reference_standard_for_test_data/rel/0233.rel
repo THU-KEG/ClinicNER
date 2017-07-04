@@ -1,0 +1,11 @@
+c="coiling" 91:0 91:0||r="TrAP"||c="left carotid artery aneurysm" 91:6 91:9
+c="angiocele" 53:0 53:0||r="PIP"||c="hematoma" 53:4 53:4
+c="a stent placement" 91:2 91:4||r="TrAP"||c="left carotid artery aneurysm" 91:6 91:9
+c="coiling" 39:3 39:3||r="TrCP"||c="complications" 39:8 39:8
+c="stent placement" 86:6 86:7||r="TrAP"||c="left carotid ophthalmic aneurysm" 86:9 86:12
+c="coiling" 86:4 86:4||r="TrAP"||c="left carotid ophthalmic aneurysm" 86:9 86:12
+c="stent placement" 39:5 39:6||r="TrCP"||c="complications" 39:8 39:8
+c="a coiling" 38:13 38:14||r="TrAP"||c="the left carotid ophthalmic aneurysm" 38:19 38:23
+c="stent placement" 38:16 38:17||r="TrAP"||c="the left carotid ophthalmic aneurysm" 38:19 38:23
+c="angio site" 74:0 74:1||r="PIP"||c="bleeding" 74:10 74:10
+c="angio site" 74:0 74:1||r="PIP"||c="drainage" 74:12 74:12

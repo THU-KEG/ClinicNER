@@ -1,0 +1,80 @@
+831471289
+OMH
+0515320
+33912
+3/29/1997 12:00:00 AM
+STATUS POST INFERIOR MYOCARDIAL INFARCTION .
+Unsigned
+DIS
+Report Status :
+Unsigned
+DISCHARGE SUMMARY
+NAME :
+CA , NISANT
+UNIT NUMBER :
+396-80-40
+ADMISSION DATE :
+03/29/97
+DISCHARGE DATE :
+04/04/97
+PRINCIPAL DIAGNOSIS :
+Status post inferior myocardial infarction .
+ASSOCIATED DIAGNOSIS :
+Heart failure secondary to volume overload .
+Hypertension .
+PRINCIPAL PROCEDURE :
+Right coronary artery angioplasty on 4/2/97 times two .
+HISTORY OF PRESENT ILLNESS :
+The patient is an 82 year old male transferred to Oaksgekesser/ Memorial Hospital to Monlidel Medical Center where he was admitted on 03/25/97 with angina .
+He did not respond to nitroglycerin at home .
+He ruled in for a inferior myocardial infarction and was treated with TPA .
+A cardiac catheterization on 3/29/97 showed a 95% native RCA lesion , 60% proximal RCA lesion , 70% RM II lesion and left ventricular ejection fraction of approximately 45% .
+His cardiac risk factors include hypertension , no elevated cholesterol , no diabetes mellitus , no tobacco use .
+His cardiac history is notable for status post percutaneous transluminal coronary angioplasty 10 years ago at the Seasesmunriceis- Hospital where no details were known .
+On 03/25/97 the patient awoke at 9 a.m. with chest discomfort , he took one sublingual nitroglycerin without relief , called 911 , emergency medical technicians found him hypertensive and bradycardic , treated with Atropine .
+In the emergency room he was ruling in for a myocardial infarction with CPK &apos;s which peaked at 938 with 16% MB .
+His echocardiogram on 03/26/97 showed an LVEF of 45% with hypokinesis of the inferior wall and apex .
+The inferior and septal portions of the apex were mildly aneurysmal .
+There was moderate mitral regurgitation , no pericardial effusion .
+PAST MEDICAL HISTORY :
+Recurrent left pleural effusion , work up has included chest tube placement and a biopsy revealed reactive mesothelium , no evidence of cancer of mesothelioma .
+Also underwent a subtotal gastrectomyin 1960 for apparently benign reasons .
+he has peptic ulcer disease .
+MEDICATIONS :
+On transfer IV Heparin , Ecotrin , Lopressor 25 mg. po bid , Colace , Carafate and nitroglycerin .
+PHYSICAL EXAMINATION :
+Showed an elderly male in no apparent distress .
+BP170/70 , heart rate of 60 .
+Lungs clear to auscultation .
+Heart regular rate and rhythm , 1/6 systolic ejection murmur .
+The abdomen was soft , non-tender , nondistended , positive bowel sounds .
+Extremities with sheaths in the right groin .
+Left pulse is 2+ without bruits .
+LABORATORY DATA :
+Potassium 4 , BUN 15 , creatinine 1.1. WBC of 8.4 with hematocrit of 30.3 and platelet count of 244 .
+EKG &apos;s showed Q &apos;s in I , L , V3-V6 and Q &apos;s in II , III and F , sinus bradycardia at 59 .
+HOSPITAL COURSE AND TREATMENT :
+The patient was amditted to Eepagewood Medical Center cardiac access on 3/29/97 .
+The patient remained stable over the course of the next 3 days .
+He remained on Heparin during that time .
+He underwent cardiac catheterization on 4/2/97 during which time a 40% ostial RCA lesion was seen , a 60% proximal RCA lesion seen and a 90% mid RCA lesion was seen .
+The percutaneous transluminal coronary angioplasty was performed of the proximal and mid RCA lesions using a 3 mm .
+Ranger balloon .
+There were no complications .
+Post procedure the patient appeared to have a small amount of pulmonary edema which was treated with one dose of IV Lasix .
+He diuresed well and was subsequently stable .
+He was discharged in good condition on 4/4/97 with plans to follow up with his referring physician , Dr. Ri Tlandmaul at Monlidel Medical Center .
+he will also follow up with Dr. Renlan Fyfezeis .
+Of note during the patient &apos;s hospitalization he was enrolled in a Phase IV study of new contrast agents and tolerated the procedure well .
+The patient was discharged on Ecotrin one po qd , Lopressor 25 mg. po bid , Isordil 20 mg. po tid , Ticlid 250 mg. po bid times four weeks .
+Captopril 50 mg. po tid , nitroglycerin prn .
+The patient will make an appointment with his primary care physician .
+RENLAN FYFEZEIS , M.D.
+TR :
+psz
+DD :
+04/30/97
+TD :
+05/01/97 8:43
+Acc :
+RENLAN N FYFEZEIS , M.D. Dr. Ri Miengre Tlandmaul - Ktonvillesy Hospital 703 Khi Lane , Stam , Missouri .

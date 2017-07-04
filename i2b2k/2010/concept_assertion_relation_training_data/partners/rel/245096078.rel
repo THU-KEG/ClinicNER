@@ -1,0 +1,49 @@
+c="her electrocardiogram" 123:7 123:8||r="TeRP"||c="t wave inversions in the lateral leads" 123:10 123:16
+c="gentamicin" 92:11 92:11||r="TrAP"||c="klebsiella pneumoniae" 92:3 92:4
+c="gentamicin" 92:11 92:11||r="TrAP"||c="bug" 92:19 92:19
+c="klebsiella pneumoniae" 92:3 92:4||r="PIP"||c="bug" 92:19 92:19
+c="fluconazol" 98:13 98:13||r="TrAP"||c="the thrush" 98:18 98:19
+c="fluids administered" 111:15 111:16||r="TrIP"||c="any problems" 111:24 111:25
+c="magnetic resonance imaging studies" 88:6 88:9||r="TeRP"||c="infarction in bilateral basis pontis , mid brain , the superior cerebellar areas , left thalamus , bilateral temporal lobes medially and inferiorly and left posterior communicating artery" 88:12 88:39
+c="a small intimal tear" 73:0 73:3||r="PIP"||c="sequelae" 73:16 73:16
+c="fluid restriction" 141:5 141:6||r="TrIP"||c="low sodium" 141:0 141:1
+c="antibiotics" 98:26 98:26||r="TrAP"||c="the thrush" 98:18 98:19
+c="ultrasound guidance" 93:10 93:11||r="TeRP"||c="a left pleural effusion" 93:0 93:3
+c="ultrasound guidance" 93:10 93:11||r="TeRP"||c="empyema" 93:23 93:23
+c="gentamicin" 140:6 140:6||r="TrCP"||c="low potassium" 140:0 140:1
+c="sputum" 92:0 92:0||r="TeRP"||c="klebsiella pneumoniae" 92:3 92:4
+c="her electrocardiogram" 125:4 125:5||r="TeRP"||c="congestive heart failure" 125:17 125:19
+c="an angiogram" 21:0 21:1||r="TeRP"||c="thrombosis at the mid basilar artery" 21:7 21:12
+c="oral antibiotics" 136:8 136:9||r="TrIP"||c="left lower lobe pneumonia" 136:0 136:3
+c="a right upper quadrant ultrasound" 102:0 102:4||r="TeRP"||c="common bile duct dilatation" 102:11 102:14
+c="a right upper quadrant ultrasound" 102:0 102:4||r="TeRP"||c="active cholecystitis" 102:16 102:17
+c="a right upper quadrant ultrasound" 102:0 102:4||r="TeRP"||c="gallstones" 102:6 102:6
+c="discharge hematocrit" 139:2 139:3||r="TeRP"||c="anemia" 139:0 139:0
+c="discharge hematocrit" 139:2 139:3||r="TeRP"||c="iron deficient" 139:7 139:8
+c="tylenol" 131:108 131:108||r="TrAP"||c="pain" 131:116 131:116
+c="ancef" 92:13 92:13||r="TrAP"||c="klebsiella pneumoniae" 92:3 92:4
+c="ancef" 92:13 92:13||r="TrAP"||c="bug" 92:19 92:19
+c="her hematocrit" 104:7 104:8||r="TeRP"||c="a steady decline" 104:3 104:5
+c="computerized tomography scans" 88:2 88:4||r="TeRP"||c="infarction in bilateral basis pontis , mid brain , the superior cerebellar areas , left thalamus , bilateral temporal lobes medially and inferiorly and left posterior communicating artery" 88:12 88:39
+c="this hospitalization" 104:10 104:11||r="TrIP"||c="a steady decline" 104:3 104:5
+c="coronary artery disease" 24:8 24:10||r="PIP"||c="angina" 24:14 24:14
+c="an increase" 123:20 123:21||r="PIP"||c="t wave inversions in the lateral leads" 123:10 123:16
+c="her systolic blood pressure" 74:25 74:28||r="TeRP"||c="an acute drop" 74:21 74:23
+c="her anemia" 105:7 105:8||r="PIP"||c="anemia" 105:12 105:12
+c="her anemia" 105:7 105:8||r="PIP"||c="chronic disease" 105:14 105:15
+c="her anemia" 105:7 105:8||r="PIP"||c="hypoproliferation" 105:17 105:17
+c="this hospitalization" 110:7 110:8||r="TrNAP"||c="low sodiums" 110:4 110:5
+c="a chest x-ray" 90:0 90:2||r="TeRP"||c="a progressing left lower lobe infiltrate" 90:4 90:9
+c="basilar artery stenosis" 133:0 133:2||r="PIP"||c="basilar thrombosis" 133:4 133:5
+c="basilar artery stenosis" 133:0 133:2||r="PIP"||c="&quot; top of the basilar &quot; syndrome" 133:7 133:13
+c="ck &apos;s" 67:0 67:1||r="TeRP"||c="mildly elevated" 67:3 67:4
+c="this antibiotic regimen" 91:12 91:14||r="TrWP"||c="fevers" 91:9 91:9
+c="an magnetic resonance imaging study" 19:0 19:4||r="TeRP"||c="aneurysm" 19:11 19:11
+c="an magnetic resonance imaging study" 19:0 19:4||r="TeRP"||c="basilar artery disease" 19:6 19:8
+c="the angiogram" 73:11 73:12||r="TeRP"||c="a small intimal tear" 73:0 73:3
+c="nystatin swish and spit" 96:21 96:24||r="TrAP"||c="bad thrush" 96:3 96:4
+c="a chest x-ray" 68:0 68:2||r="TeRP"||c="some left lower lobe atelectasis" 68:4 68:8
+c="these two drugs" 92:23 92:25||r="TrAP"||c="bug" 92:19 92:19
+c="these two drugs" 92:23 92:25||r="TrAP"||c="klebsiella pneumoniae" 92:3 92:4
+c="electrocardiogram" 66:3 66:3||r="TeRP"||c="st depression in v4 to v6" 66:10 66:15
+c="the ldh" 123:23 123:24||r="TeRP"||c="an increase" 123:20 123:21

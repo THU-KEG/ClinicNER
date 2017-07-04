@@ -1,0 +1,61 @@
+796077689
+SH
+67408706
+4/12/1992 12:00:00 AM
+Discharge Summary
+Signed
+DIS
+Admission Date :
+04/12/1992
+Report Status :
+Signed
+Discharge Date :
+04/13/1992
+DEATH SUMMARY
+PRINCIPAL DIAGNOSIS :
+UROSEPSIS .
+SECONDARY DIAGNOSIS :
+METASTATIC PROSTATE CARCINOMA .
+IDENTIFICATION DATA :
+The patient is a 63-year-old black gentleman with end stage metastatic prostate carcinoma who was admitted for terminal care .
+HISTORY OF PRESENT ILLNESS :
+The patient was a 60-year-old black gentleman with a history of refractory end stage metastatic prostate carcinoma .
+He was admitted on 4/12/92 with hypotension , metabolic acidosis , shortness of breath , cold clammy extremities and decreased mental status .
+LABORATORY DATA :
+On admission included a sodium of 136 .
+Potassium 5.5. Chloride 103 .
+Bicarb 9 .
+BUN 73 with a creatinine of 5.6 .
+He had a blood gas performed in the Emergency Room which demonstrated a pH of 6.99 , pCO2 of 15 , pO 2226 , O2 saturation of 99% .
+ALT 387 .
+AST 592 .
+LDH 1072 .
+Alkalinephosphatase 156 .
+Bilirubin 0.7 and 0.4 respectively .
+White bloodcell count was 13.4 .
+Hematocrit 23 .
+Platelet count 59,000 .
+Differential revealed 78 polys , 5 bands , 4 lymphs , 11 monocytes .
+HOSPITAL COURSE :
+The patient was admitted with what appeared to be sepsis with DIC .
+He was hypotensive with metabolic acidosis .
+He was DNR at the time of admission and was admitted for comfort care .
+He was started on a morphine sulfate drip .
+He was given a dose of gentamicin and at 12:05 a.m. on 4/13/92 was noted to be unresponsive .
+He was without spontaneous respirations or pulse .
+As per his request , he was DNR and no attempt at resuscitation was made .
+The patient was pronounced dead .
+CAUSE OF DEATH :
+UROSEPSIS IN A PATIENT WHO HAD METASTATIC PROSTATE CARCINOMA .
+KL341/4686OVYRN
+MEDRO ISCHIRD , M.D. NS4
+D :
+04/26/92
+Batch :
+1917
+Report :
+Y7497W52
+T :
+04/28/92
+Dictated By :
+CH SEPE , M.D.

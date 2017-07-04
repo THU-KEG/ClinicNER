@@ -1,0 +1,45 @@
+216451163 PUMC
+5642194
+612016
+023084
+10/18/2001 12:00:00 AM
+ED Discharge Summary
+Unsigned
+DIS
+Report Status :
+Unsigned
+ED DISCHARGE NOTIFICATION / SUMMARY
+ZEISRHALTPROT , QUETSHA
+MRN :
+5642194
+Age :
+40y
+REGISTRATION DATE :
+10/18/2001 09:18 AM
+Provider :
+BIRI WEERTLUC PRELIMINARY REPORT
+Discharge Date / Time :
+10/18/2001 10:09
+Discharge Status :
+Discharged
+Condition on Discharge :
+Stable
+Patient States Complaint :
+BACK PIAN Standardized
+Discharge Instructions :
+The patient was given printed instructions for back pain ( English ) .
+Diagnosis :
+back pain
+Treatment Rendered :
+evaluation
+Discharge Medications :
+ibuoprofen 800 every 6-8 hrs as needed skelaxin 800mg for muscle relaxation vicodin 1 tab po every 4-6 hrs for severe pain
+Follow up Service :
+please call your primary care doctor on monday for follow up next week .
+Disposition , Follow up and Instructions to Patient :
+take medication as directed , return for severe or significantly worsening symptoms , weakness or loss of sensation work restrictions as written on accompanying form .
+PCP Name :
+ASQUARCELMES , NOROBEBER
+Provider Number :
+20599
+This report was created by WEERTLUC , BIRI 10/18/2001 10:23 AM

@@ -1,0 +1,31 @@
+c="the extra ocular movements" 76:0 76:3||r="TeRP"||c="mild terminal nystagmus" 76:7 76:9
+c="the heel-shin-test" 89:0 89:1||r="TeRP"||c="slightly clumsy bilaterally" 89:3 89:5
+c="the light reflex" 77:0 77:2||r="TeRP"||c="slightly slow" 77:4 77:5
+c="glipizide" 46:15 46:15||r="TrAP"||c="diabetes mellitus" 46:6 46:7
+c="mb fraction" 129:14 129:15||r="TeRP"||c="too low" 129:16 129:17
+c="carotid noninvasives" 112:0 112:1||r="TeRP"||c="minimal carotid disease" 112:3 112:5
+c="echocardiogram" 127:31 127:31||r="TeCP"||c="embolic strokes" 127:19 127:20
+c="retinal lesion" 120:10 120:11||r="PIP"||c="small wedge-shaped visual field defect in right eye" 120:0 120:7
+c="serial creatinine kinase with mb fractions" 129:4 129:9||r="TeRP"||c="too low" 129:16 129:17
+c="carotid noninvasives" 127:22 127:23||r="TeCP"||c="embolic strokes" 127:19 127:20
+c="magnetic resonance imaging angiogram" 110:6 110:9||r="TeRP"||c="subacute right lateral occipital lobe infarction" 110:18 110:23
+c="magnetic resonance imaging angiogram" 110:6 110:9||r="TeRP"||c="decreased flow related enhancement in the left posterior communicating artery" 110:25 110:34
+c="holter electrocardiogram" 127:28 127:29||r="TeCP"||c="embolic strokes" 127:19 127:20
+c="transcranial dopplers" 127:25 127:26||r="TeCP"||c="embolic strokes" 127:19 127:20
+c="chest x-ray" 107:0 107:1||r="TeCP"||c="congestive heart failure" 107:7 107:9
+c="chest x-ray" 107:0 107:1||r="TeCP"||c="pneumonia" 107:4 107:4
+c="head magnetic resonance imaging study" 110:0 110:4||r="TeRP"||c="subacute right lateral occipital lobe infarction" 110:18 110:23
+c="head magnetic resonance imaging study" 110:0 110:4||r="TeRP"||c="decreased flow related enhancement in the left posterior communicating artery" 110:25 110:34
+c="the studies" 127:9 127:10||r="TeCP"||c="embolic strokes" 127:19 127:20
+c="intravenous heparin" 127:5 127:6||r="TrAP"||c="embolic strokes" 127:19 127:20
+c="a computerized tomography scan" 109:0 109:3||r="TeRP"||c="right lower occipital low-density area" 109:5 109:9
+c="echocardiogram" 121:0 121:0||r="TeRP"||c="segmental left ventricular dysfunction" 121:2 121:5
+c="the echocardiogram" 124:6 124:7||r="TeRP"||c="clots" 124:3 124:3
+c="the systolic blood pressure" 134:8 134:11||r="TeRP"||c="a hypotensive episode" 134:4 134:6
+c="cardiac medications" 45:5 45:6||r="TrIP"||c="new episodes" 45:12 45:13
+c="electrocardiogram" 108:0 108:0||r="TeRP"||c="q-waves in leads ii , iii and avf" 108:2 108:9
+c="overall left ventricle systolic function" 122:0 122:4||r="TeRP"||c="moderately impaired" 122:5 122:6
+c="myocardial infarction" 27:16 27:17||r="PIP"||c="coronary artery disease" 27:11 27:13
+c="his regular cardiac medications" 134:19 134:22||r="TrCP"||c="a hypotensive episode" 134:4 134:6
+c="this moving sense" 131:0 131:2||r="PIP"||c="a mild vestibular dysfunction" 131:12 131:15
+c="this moving sense" 131:0 131:2||r="PIP"||c="the stroke" 131:22 131:23

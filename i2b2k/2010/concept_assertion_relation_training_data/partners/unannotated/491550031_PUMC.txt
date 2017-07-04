@@ -1,0 +1,50 @@
+491550031 PUMC
+7258999
+122832
+328042
+1/19/2001 12:00:00 AM
+ED Discharge Summary
+Unsigned
+DIS
+Report Status :
+Unsigned
+ED DISCHARGE NOTIFICATION / SUMMARY
+RHALTSAP , KANDDESS
+MRN :
+7258999
+Age :
+43y
+REGISTRATION DATE :
+01/19/2001 01:11 AM
+Provider :
+Left Sumchirdkaysmavveindreps PRELIMINARY REPORT
+Benefits Assigned :
+Y
+Discharge Date / Time :
+01/19/2001 02:59
+Discharge Status :
+Discharged
+Condition on Discharge :
+Stable
+Patient States Complaint :
+MVA
+Diagnosis :
+1.) Cervical spine whiplash
+2.) Sacral contusion
+3.) Left hand sprain
+Treatment Rendered :
+Head , C-spine , and Abd CT scans normal .
+Trauma series unremarkable
+Discharge Medications :
+Motrin 400-600 mg po three times a day with meals
+Follow up Service :
+It is recommended that you receive follow-up care in the Surgical Clinic if you notice fever , chills , nausea , vomiting , dizziness , or intense headaches .
+To schedule an appt. , please call ( 085 ) 062-8570 between 8a.m. and 4:30p.m. Monday-Friday .
+If you have a managed care plan , check with your PCP before making this appt .
+Disposition , Follow up and Instructions to Patient :
+Stable
+PCP Name :
+NONE , PHYSICIAN
+Provider Number :
+44824
+This report was created by Sumchirdkaysmavveindreps , Yertrey 01/19/2001 03:17 AM

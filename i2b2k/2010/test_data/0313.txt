@@ -1,0 +1,277 @@
+Admission Date :
+2016-03-22
+Discharge Date :
+2016-04-04
+Date of Birth :
+1940-06-17
+Sex :
+F
+Service :
+MEDICINE
+Allergies :
+Morphine
+Attending : Michael I. Miller , M.D.
+Chief Complaint : s/p Fall
+Major Surgical or Invasive Procedure : s/p right hip ORIF
+s/p intubation
+History of Present Illness :
+75 yo F with CAD s/p MI x4 ( s/p LAD stent  '09 and RCA stent x 2 in  '00 and  '04 ) , CHF with EF 55% , PAF , Inducible Vtach s/p AICD placement , sick sinus syndrome s/p pacer and COPD with restrictive lung disease .
+Per daughter , pt was in her USOH until two days prior to admission when she was noted to have a superficial ulcerations on her foot with erythema .
+Pt was taken to Bridgewater Chelsea Soldier 's Home Hospital and started on unasyn IV .
+Pt awoke later that night and felt unsteady on her feet and sustained a mechanical fall .
+Per daughter , pt did not note chest pain , tachycardia , had a good PO intake and no noted seizure activity .
+Pt was in severe " back pain " as per daughter which was treated with dilaudid .
+CT of the neck revealed a possible C1 fracture and the X-ray at the OSH revealed intratrochanteric fracture of the right femur .
+Pt was subsequently transferred to Hallmark Health System for orthopaedic evaluation .
+In Monica at Hallmark Health System , pt was seen by the Trauma service where a CT of the neck revealed no fracture ( however , the c-collar was maintained secondary to pain ) .
+The orthopaedic service recommended emergent repair of the intratrochanteric fracture secondary to instability .
+The Monica stay was complicated by runs of afib to 133 requiring IV lopressor .
+ROS :
+Pt is very SOB at baseline , not on home ox , no CP at rest , no LE edema , no PND , stable orthopnea ( 2 pillows ) .
+Pt ambulates 10 feet with significant fatigue as per daughter .
+( ? dec in exercise tolerance ) .
+CMED CCU change include discontinuation of coumadin secondary to inc risk of upper GI bleed .
+Digoxin , Norvasc and Imdur was also discontinued .
+HPI :
+75 yo F with CAD s/p stenting , VT , SSS s/p pacer , COPD , presented to OSH 2016-03-21 with foot ulceration .
+Started on unasyn , in hospital suffered mech. fall with hip fx .
+Transferred to Hallmark Health System 03-22 .
+Medically eval not high risk surgery , preop beta blocker given .
+ORIF with repair of neck fracture 2016-03-23 .
+Expected prolonged extubation course given COPD history , as with colon CA resection surgery .
+In PM extubated , transferred to floor 2016-03-23 .
+Late 03-23 found with afib and RVR , given beta blocker with min. response , started dilt. drip .
+Received 2 mg dilaudid for pain o/n .
+This AM with respiratory failure , continued tachycardia on dilt. gtt .
+Transferred to unit and urgently intubated ( labs below. )
+Of note , a NGT by Xray was not in correct position ? lungs -> possibly used for medication administration this AM .
+Past Medical History :
+1. CAD s/p LAD stent in ' 98 + RCA stet in ' 00 with repeat RCA stent in ' 04 .
+Last cath in 9-04
+2. PAF
+3. DM
+4. Sick sinus syndrome s/p pacer placement in ' 98
+5. Depression
+6. COPD ( no PFT available )
+7. Chronic restrictive lung disease ( no PFT available )
+8. HTN
+9. Hyperlipidemia
+10. Obesity
+11. s/p TAH
+12. s/p colonic resection secondary to perforation s/p polypectomy
+13. Inducible Vtach on EP study with AICD placement 11-01
+14. CHF
+15. Upper GI bleed
+Physical Exam :
+VS :
+HR : 133
+BP : 110/80
+Gen : sedated but A+O x3
+HEENT : cervical collar in place
+CV : tachycardia
+Chest : CTA bilaterally
+Abd : + BS , soft , NT , ND , BS +
+Ext : no peripheral edema , R leg shortened and rotated , + cellulitis
+Pertinent Results :
+2016-03-22 02:45 AM
+WBC - 12.7 * RBC - 4.32 HGB - 10.5 * HCT - 33.2 * MCV - 77 * MCH - 24.2 * MCHC - 31.5 RDW - 15.4
+2016-03-22 02:45 AM
+NEUTS - 90.5 * LYMPHS - 5.1 * MONOS - 3.7 EOS - 0.6 BASOS - 0.2
+2016-03-22 02:45 AM
+HYPOCHROM - 3+ POIKILOCY - 1+ MICROCYT - 2+
+2016-03-22 02:45 AM
+PLT COUNT - 324
+2016-03-22 02:45 AM
+PT - 13.6 PTT - 25.2 INR ( PT )- 1.2
+2016-03-22 02:45 AM
+GLUCOSE - 191 * UREA N - 14 CREAT - 0.6 SODIUM - 141 POTASSIUM - 3.5 CHLORIDE - 101 TOTAL CO2 - 28 ANION GAP - 16
+2016-03-22 02:45 AM
+CALCIUM - 8.8 PHOSPHATE - 4.4 MAGNESIUM - 1.9
+2016-03-22 11:25 AM URINE
+COLOR - Yellow APPEAR - Clear SP Barajas - 1.020
+2016-03-22 11:25 AM URINE
+BLOOD - LG NITRITE - NEG PROTEIN - NEG GLUCOSE - 250 KETONE - NEG BILIRUBIN - NEG UROBILNGN - NEG PH - 6.5
+LEUK - NEG
+2016-03-22 11:25 AM URINE
+RBC - 0-2 WBC - 04-02 BACTERIA - OCC YEAST - NONE EPI - 0
+2016-03-22 11:25 AM URINE
+HYALINE - 3 *
+2016-03-22 11:25 AM
+CK ( CPK )- 178 *
+2016-03-22 11:25 AM
+CK-MB - 7
+2016-03-22 04:45 PM
+D-DIMER - 1748 *
+2016-03-22 04:45 PM
+CK ( CPK )- 153 *
+2016-03-22 04:45 PM
+CK-MB - 5 cTropnT -< 0.01
+' 00 TTE :
+EF 50-55% ; mild to moderate MR , left atrium is moderately dilated , trace AR
+10-02 :
+Cardiac catheterization : inferior , posterobasilar hypokinesis , 1 + MR , EF 48% , mid RCA 50% , distal RCA 40% , mid LAD 50% , OM3 diffusely diseased s/p stenting of RCA with drug eluting stent with 10% residual flow .
+2016-03-22 CXR : moderate cardiomegaly without CHF , no effusions , left retrocardiac opacity consistent with atelectasis vs. consolidation
+2016-03-22 CT c-spine :
+1) No evidence of fracture of the cervical spine .
+No definite fracture of C1 is identified to correlate with the history of questioned C1 fracture from outside hospital .
+2) Extensive degenerative change of the cervical spine ."
+2016-03-22 Femur & R knee X-ray :
+1) Comminuted intertrochanteric fracture of the right femur , with avulsion of the lesser trochanter , displacement and angulation .
+2) No other definite fractures identified. degenerative changes of the lumbosacral spine ."
+2016-04-01 Flexion extension xrays of cervical spine :
+Mild degree of instability at level C3-C4 as described .
+Possibility of arch element in this region cannot be excluded .
+Brief Hospital Course :
+A/P :
+75 yo F s/p MIx4 , numerous cath , PAF , Inducible VTach s/p AICD and pacer with severe COPD / restrictive lung disease s/p fall with intertrochanteric fracture .
+As per CMED CCU , pt requires emergent repair of intertrochanteric fracture to preserve neurovascular function .
+Pt is a moderate risk for a needed emergent non-cardiac procedure .
+Pt is medically cleared for procedure  , likely has some mile rate related ischemia .
+1. Cards :
+--- Pre-op B-blocker with goal HR < 70
+--- No real utility in MIBI / cath prior to procedure gien previous caths with no significant lesions to be intervened on .
+--- V-Tach : pt has AICD in place , however b-blocker should contorl Vtach for now .
+--- B-blocker IV , Dilt PRN for PAF
+--- Hold coumadin for afib given hx of upper GIB and surgery in AM
+--- Continue ASA , plavix
+--- ROMI , check AM ECG
+2. COPD / Restrictive lung disease :
+--- Nebs / MDI PRN
+--- no need for steroids now
+--- expect prolonged wean given previous history of prolonged wean s/p colonic resection
+--- incentive spirometry for atelectasis
+3. Hip fracture :
+--- pain control with diluadid , tylenol
+--- lovenox tonight x1 , hold AM dose per CMED CCU
+--- Pt to OR in early AM
+4. Anemia :
+--- iron studies
+--- TSH
+--- no need fortransfusion currently , keep Hct > 30
+5. Hypokalemia :
+--- 60IV K now
+--- continue PO K
+--- check lytes in PM
+6. Cellulitis :
+--- continue unasyn
+--- hold off on X-rays for now
+7. DM :
+--- RISS - tight glucose control pre-op
+8. PPx :
+--- Protonix , Lovenox , R boot as per CMED CCU
+9. Diet :
+NPO
+10. Code :
+Full --> DNR / DNI
+CMED course :
+ORIF with repair of neck fracture 2016-03-23 .
+Had expected prolonged post-op extubation in PACU given COPD history , as with colon CA resection surgery .
+In PM extubated , transferred to floor 2016-03-23 .
+Late 03-23 found with afib and RVR , given beta blocker with min. response , started dilt. drip .
+Received 2 mg dilaudid for pain o/n .
+On 03-24 AM p/w with respiratory failure , continued tachycardia on dilt. gtt.
+Transferred to unit and urgently intubated .
+Of note , there was a question of misplaced NGT .
+When NGT tube was pulled out , it was noted to have respiratory-like secretions .
+Concern for aspiration of mediations to lungs .
+However , evaluation of CXR revealed NGT coiled in esophagus .
+Pt 's respiratory distress is most likely on setting of aspiration pneumonia vs. pneumonitis in the setting of depressed mental status secondary to post-operative narcotics .
+Pt was pan-cultured and switched from unasyn ( started at OSH for foot ulcer ) to zosyn .
+Vanco was added for possible nosocomial infection .
+CTA was performed which was negative for PE , but revealed bilateral patchy ground glass opacities c/w aspiration vs. pneumonia vs. edema .
+Pt was weaned down on ventilator , minimal secretions noted .
+On 03-27 , pt was noted to have depressed mental status off all sedating medications ; mental status improved over the course of the day .
+Pt was diuresed .
+Atrial fibrillation was rate-controlled on dilt drip .
+Dilt drip was discontinued and metoprolol titrated up .
+Cardiac enzymes were cycled in setting of rapid AF and were flat .
+Initially , pt was noted to be dry with low FeNa and given IVF .
+Then , noted to be volume overloaded and diuresed with lasix .
+Pt had depressed mental status on transfer to CMED in setting of narcotics .
+She was then started on propofol while intubated .
+Head CT was negative for acute bleed , mass effect , or stroke .
+Mental status improved during times when propofol was held .
+On 03-27 , pt was noted to have significantly depressed M.S. off propol improved off sedation .
+All sedating medications including prn narcotics were held and mental status cleared somewhat .
+s/p hip fx repair : started on lovenox for anti-coagulation .
+Given standing NSAID , tylenol for pain control .
+opiates used very sparingly in setting of MS change
+On transfer to floor team from CMED active issues and plan included :
+Resp failure / COPD :
+Initially got steroids upon intubation .
+Off for days now .
+Extubated on 03-31 .
+Still tachypneic and hypoxic on room air .
+Lung sounds fairly clear .
+? COPD vs atelectasis as cause of hypoxia .
+On Blake , Nancy pe less likely
+- atrovent standing .
+prn albuterol only given A fib with RVR
+- inhaled steroids
+- obtaining pcp set of Reginald
+Fever :
+In the ICU .
+Had received unasyn , vanc , zosyn during hospital course for cellulitis and other unclear reasons , including possible vent associated pna .
+No true source found .
+Afebrile > 24 hours off abx .
+- culture if spikes .
+No abx unless source found
+a.fib with RVR - Has ppm , so can have lot of nodal agents .
+Now rate controlled on metop 125 tid and dilt .
+30 QID .
+Titrate prn .
+- continue nodal agents
+- consider anti coag for cva prevention , but wait until ambulating better
+CAD : on asa , b blocker , ace .
+No statin .
+need to clear with family
+Heme - anemic .
+Unclear baseline .
+Possible anemia 03-02 operative blood loss .
+Follow hct daily Goal > 28
+Neck : never had c spine cleared by neurosurg .
+Had fall pta with ? fx on initial CT , neg fx on f/u ct .
+- flex / ext films done
+- will clear with neursurg prior to removing hard collar
+Overnight on pt 's first evening on the floor , she had episode of desaturation with inc O2 requirement ( 4L -> 6L -> sating 91% on NRB ) - CXR with worsening - non responsive to lasix .
+Family meeting held and pt made clear wishes after extubation that she does not want to be intubated again and made DNR / DNI .
+No BIPAP .
+Now pt lethargic and min responsive .
+All four children in pts room and agree on CMO - want to d/c c-collar and start morphine ggt .
+Discussed with night float cover Dr. Dennis COmmander and Dr. Mike French .
+Although Dr. Ray will be covering pt today , Dr. Stephanie Wilson spoke with family this morning and has noted that pt is CMO .
+EP was called to deactivate pt dual chamber ICD as per family wishes .
+On exam , pt lethargic , responsive to pain but not voice , with NRB in place ; obvious inc wob .
+IV in R foot for access .
+Family at bedside .
+afebrile ;
+BP : 159-161-139-98 ( after morphine )/ 69 HR : 148 --> 88 ; rr : 28-40 O2 : 94% NRB
+As above , made CMO after meeting with NF team and family and reconfirmed with primary medical team on 04-02 .
+Start morphine ggt and titrate to comfort .
+D/c 'ed all lab draws / vitals .
+Prn nebs for comfort .
+Family at bedside and aware and in agreement of plan .
+Morhpine ggt titrated up to 18 mg / hr by monday morning and pt expired 04-04 at 7:40 am .
+Medications on Admission :
+MEDICATION :
+1. Coumadin 2 mg once daily ( stopped recently due to risk of GI bleed )
+2. Zoloft 100 mg once daily
+3. Toprol 100 mg BID
+4. Lasix 40 mg BID
+5. AS 81 mg once daily
+6. Plavix 75 mg once daily
+7. KCl 40 mEq once daily
+8. Prandin 0.5 mg once daily
+9. Unasyn 3 gIV Q8hours
+ALLERGIES :
+Morphine -> confusion / delerium .
+Discharge Disposition :
+Expired
+Discharge Diagnosis : n/a
+Discharge Condition : n/a
+Discharge Instructions : n/a
+Followup Instructions : n/a
+Ruby Eric MD 73-490
+Completed by : Verna Richard MD 01-822 2016-04-04 @ 2005
+Signed electronically by : DR. Brandon Mangum on : WED 2016-04-13 3:17 PM
+( End of Report )

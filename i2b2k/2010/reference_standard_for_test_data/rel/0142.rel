@@ -1,0 +1,81 @@
+c="a 5 x 7 cm necrotic area" 80:3 80:9||r="PIP"||c="some pus" 80:16 80:17
+c="re-staging" 51:0 51:0||r="TeRP"||c="a decrease in the pretracheal nodes" 51:6 51:11
+c="re-staging" 51:0 51:0||r="TeRP"||c="some lymphangitic spread" 51:15 51:17
+c="re-staging" 51:0 51:0||r="TeRP"||c="some pneumonitis" 51:19 51:20
+c="their assessment" 120:6 120:7||r="TeRP"||c="hypovolemia" 120:16 120:16
+c="their assessment" 120:6 120:7||r="TeRP"||c="siadh" 120:20 120:20
+c="hypovolemia" 120:16 120:16||r="PIP"||c="siadh" 120:20 120:20
+c="iv antibiotics" 100:18 100:19||r="TrAP"||c="cellulitis" 100:16 100:16
+c="iv antibiotics" 100:18 100:19||r="TrAP"||c="here rythematous induration" 100:11 100:13
+c="blood clots in the urine" 53:18 53:22||r="PIP"||c="a uti" 53:15 53:16
+c="allergic" 65:2 65:2||r="PIP"||c="a rash" 65:8 65:9
+c="pain" 105:8 105:8||r="PIP"||c="her left arm lesion" 105:10 105:13
+c="bone scan" 46:6 46:7||r="TeRP"||c="metastatic disease" 46:16 46:17
+c="bone scan" 46:6 46:7||r="TeRP"||c="mediastinal recurrence" 46:3 46:4
+c="her blood pressure" 133:22 133:24||r="TeRP"||c="elevated" 133:26 133:26
+c="head and liver ct" 46:9 46:12||r="TeRP"||c="metastatic disease" 46:16 46:17
+c="head and liver ct" 46:9 46:12||r="TeRP"||c="mediastinal recurrence" 46:3 46:4
+c="oxygen" 140:9 140:9||r="TrAP"||c="the pulmonary embolus" 140:2 140:4
+c="chest wall nodules" 45:14 45:16||r="PIP"||c="tumor recurrences" 45:22 45:23
+c="the complications" 143:0 143:1||r="PIP"||c="the hyponatremia" 143:7 143:8
+c="the complications" 143:0 143:1||r="PIP"||c="pulmonary embolus" 143:10 143:11
+c="the complications" 143:0 143:1||r="PIP"||c="the elevatd blood pressure" 143:14 143:17
+c="complications" 48:0 48:0||r="PIP"||c="myelosuppression" 48:4 48:4
+c="complications" 48:0 48:0||r="PIP"||c="mucositis" 48:6 48:6
+c="local and metastatic recurrence" 38:8 38:11||r="PIP"||c="her tumor" 38:13 38:14
+c="chest x-ray" 43:0 43:1||r="TeRP"||c="diffuse interstitial infiltrates" 43:3 43:5
+c="surgical drainage" 36:7 36:8||r="TrAP"||c="a large hematoma" 36:3 36:5
+c="fine needle aspiration" 27:0 27:2||r="TeRP"||c="atypical cells" 27:9 27:10
+c="ccss support" 22:25 22:26||r="TrAP"||c="a metastatic adenocarcinoma of the breast" 22:9 22:14
+c="fluid restriction" 137:24 137:25||r="TrAP"||c="some mild edema in the lower extremities" 137:12 137:18
+c="fluid restriction" 137:24 137:25||r="TrAP"||c="significant edema in both arms" 137:4 137:8
+c="a temperature" 54:9 54:10||r="TeRP"||c="fever" 54:7 54:7
+c="the right modified radical mastectomy" 31:0 31:4||r="TrAP"||c="a 5.5 cm poorly differentiated , grade iii out of iii infiltrating ductal carcinoma" 31:6 31:19
+c="augmentin" 65:4 65:4||r="TrCP"||c="allergic" 65:2 65:2
+c="augmentin" 65:4 65:4||r="TrCP"||c="a rash" 65:8 65:9
+c="ua" 96:0 96:0||r="TeRP"||c="trace protein" 96:2 96:3
+c="ua" 96:0 96:0||r="TeRP"||c="trace ketones" 96:5 96:6
+c="ua" 96:0 96:0||r="TeRP"||c="positive for bilirubin and nitrogen" 96:8 96:12
+c="ua" 96:0 96:0||r="TeRP"||c="4 to 6 wbcs" 96:15 96:18
+c="ua" 96:0 96:0||r="TeRP"||c="1+ bacteria" 96:20 96:21
+c="chemotherapy" 98:19 98:19||r="TrAP"||c="metastatic breast cell ca" 98:12 98:15
+c="bone scan" 29:0 29:1||r="TeRP"||c="increased radio chaser uptake in the breast bilaterally" 29:15 29:22
+c="bone scan" 29:0 29:1||r="TeRP"||c="degenerative joint disease in the shoulders and lumbar spine" 29:3 29:11
+c="some physical therapy" 148:10 148:12||r="TrAP"||c="very weak" 148:2 148:3
+c="chest x-ray" 97:0 97:1||r="TeRP"||c="pneumonia" 97:17 97:17
+c="chest x-ray" 97:0 97:1||r="TeRP"||c="small left pleural effusion" 97:9 97:12
+c="chest x-ray" 97:0 97:1||r="TeRP"||c="a left paratracheal adenopathy" 97:4 97:7
+c="systemic chemotherapy" 38:19 38:20||r="TrAP"||c="her tumor" 38:13 38:14
+c="systemic chemotherapy" 38:19 38:20||r="TrAP"||c="local and metastatic recurrence" 38:8 38:11
+c="a mass on the right pectoralis muscle" 33:3 33:9||r="PIP"||c="metastatic cancer" 33:15 33:16
+c="radiation therapy" 38:22 38:23||r="TrAP"||c="her tumor" 38:13 38:14
+c="radiation therapy" 38:22 38:23||r="TrAP"||c="local and metastatic recurrence" 38:8 38:11
+c="the left simple mastectomy" 34:0 34:3||r="TrAP"||c="5.5 cm poorly differentiated infiltrating ductal and intraductal carcinoma" 34:6 34:14
+c="the left simple mastectomy" 34:0 34:3||r="TrAP"||c="extensive lymphatic vessel invasion" 34:16 34:19
+c="some fluid" 121:11 121:12||r="TrAP"||c="her hyponatremia" 121:5 121:6
+c="the keflex" 99:0 99:1||r="TrNAP"||c="the diarrhea" 99:7 99:8
+c="keflex" 98:43 98:43||r="TrAP"||c="an erythema on her left chest wall" 98:45 98:51
+c="a wedge shaped infiltrate in the right upper lobe" 126:19 126:27||r="PIP"||c="hampton &apos;s hump" 126:32 126:34
+c="chest x-ray" 126:14 126:15||r="TeCP"||c="increased shortness of breath" 126:9 126:12
+c="chest x-ray" 126:14 126:15||r="TeCP"||c="a wedge shaped infiltrate in the right upper lobe" 126:19 126:27
+c="mycostatin powder tp" 145:14 145:16||r="TrAP"||c="the rash in her left groin area" 145:22 145:28
+c="pbse" 22:23 22:23||r="TrAP"||c="a metastatic adenocarcinoma of the breast" 22:9 22:14
+c="bilateral breast masses" 26:8 26:10||r="PIP"||c="carcinoma" 26:14 26:14
+c="high dose chemotherapy" 22:19 22:21||r="TrAP"||c="a metastatic adenocarcinoma of the breast" 22:9 22:14
+c="a vq scan" 127:1 127:3||r="TeRP"||c="pe" 127:12 127:12
+c="mammography" 26:2 26:2||r="TeRP"||c="bilateral breast masses" 26:8 26:10
+c="ahead ct" 114:10 114:11||r="TeCP"||c="her clouded thinking" 114:21 114:23
+c="ahead ct" 114:10 114:11||r="TeCP"||c="altered mental status" 114:25 114:27
+c="her liver transaminases" 116:2 116:4||r="TeRP"||c="elevated" 116:6 116:6
+c="the dilaudid" 113:24 113:25||r="TrAP"||c="pain" 113:34 113:34
+c="further work-up" 116:12 116:13||r="TeCP"||c="elevated" 116:6 116:6
+c="the morphine" 114:34 114:35||r="TrCP"||c="altered mental status" 114:25 114:27
+c="the morphine" 114:34 114:35||r="TrCP"||c="her clouded thinking" 114:21 114:23
+c="a head ct" 115:5 115:7||r="TeRP"||c="enhancing lesions" 115:12 115:13
+c="metastatic breast cancer" 58:2 58:4||r="PIP"||c="fever" 58:8 58:8
+c="metastatic breast cancer" 58:2 58:4||r="PIP"||c="neutropenia" 58:10 58:10
+c="alt" 94:0 94:0||r="TeRP"||c="elevated" 94:2 94:2
+c="pvsc" 98:23 98:23||r="TrAP"||c="metastatic breast cell ca" 98:12 98:15
+c="cmsap" 98:21 98:21||r="TrAP"||c="metastatic breast cell ca" 98:12 98:15
+c="xrt" 98:25 98:25||r="TrAP"||c="metastatic breast cell ca" 98:12 98:15
+c="the fentanyl patch" 113:8 113:10||r="TrAP"||c="her pain" 113:15 113:16

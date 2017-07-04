@@ -1,0 +1,59 @@
+669952543
+CTMC
+98431395
+329475
+2/8/1990 12:00:00 AM
+Discharge Summary
+Unsigned
+DIS
+Admission Date :
+02/08/1990
+Report Status :
+Unsigned
+Discharge Date :
+02/13/1990
+ADMISSION DIAGNOSIS :
+VULVAR CANCER .
+HISTORY OF PRESENT ILLNESS :
+The patient is a 43-year-old gravida II para II white female referred by Dr. Ca Shuff for evaluation .
+She was in her usual state of good health until December when she was seen emergently for treatment of a perforated colon cancer .
+That area was resected with no evidence of metastatic disease .
+She has had subsequent CEA&apos;s and scans which were negative .
+A tumor was noted on her vulva which was biopsied and revealed squamous cell carcinoma in situ .
+ALLERGIES :
+NO KNOWN DRUG ALLERGIES .
+MEDICATIONS :
+None .
+PAST SURGICAL HISTORY :
+As above with colostomy .
+PHYSICAL EXAMINATION :
+On admission included HEENT exam which was normal .
+Chest was clear .
+Heart revealed a regular rate and rhythm .
+Abdomen was soft and nontender .
+Vulva and right labia replaced by reddish lesion , somewhat raised in the center extending from adjacent to the cuterus to the posterior forchette .
+Otherwise , her pelvic exam was negative .
+IMPRESSION :
+STAGE II SQUAMOUS CELL CARCINOMA OF THE VULVA .
+HOSPITAL COURSE :
+The plan was for right radical vulvectomy .
+1. Vulvectomy :
+The patient on 2/8/90 underwent a right radical vulvectomy with excellent results and negative margins on frozen section .
+Her postoperative course was unremarkble .
+She was kept on bedrest for two days and then was ambulating and voiding well without trouble on postoperative day number three when the Foley catheter was discontinued .
+She has been doing Betadine paint and blow drying the area several times a day and after each bowel movement and urine without incident .
+DISPOSITION :
+The discharge is to home .
+The patient will follow-up with Dr. Friednantflirt .
+She will have AH for support .
+________________________________ YT844/9769 LAKO SCARVTWI , M.D. TH0
+D :
+02/12/90
+Batch :
+7753
+Report :
+Y6201H2
+T :
+02/13/90
+Dicatated By :
+RORIEZAILA KOTEKAYSKOTEKAYSCOA , M.D. SE85

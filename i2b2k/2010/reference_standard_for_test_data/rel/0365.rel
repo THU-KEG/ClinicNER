@@ -1,0 +1,11 @@
+c="the stent" 13:23 13:24||r="TrCP"||c="narrowing" 13:21 13:21
+c="five vessel coronary artery bypass graft" 11:29 11:34||r="TrAP"||c="coronary artery disease" 11:16 11:18
+c="coronary artery disease" 11:16 11:18||r="PIP"||c="three myocardial infarctions" 11:22 11:24
+c="multiple percutaneous transluminal coronary angioplasties" 11:41 11:45||r="TrAP"||c="coronary artery disease" 11:16 11:18
+c="stent" 11:55 11:55||r="TrAP"||c="coronary artery disease" 11:16 11:18
+c="amiodarone" 56:26 56:26||r="TrIP"||c="atrial fibrillation" 56:15 56:16
+c="a catheterization" 11:49 11:50||r="TeCP"||c="coronary artery disease" 11:16 11:18
+c="coronary artery bypass graft" 71:7 71:10||r="TrAP"||c="mitral valve regurgitation" 71:1 71:3
+c="a repeat catheterization" 13:12 13:14||r="TeCP"||c="chest pain" 13:8 13:9
+c="a repeat catheterization" 13:12 13:14||r="TeCP"||c="narrowing" 13:21 13:21
+c="mitral valve annuloplasty" 71:13 71:15||r="TrAP"||c="mitral valve regurgitation" 71:1 71:3

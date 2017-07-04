@@ -1,0 +1,19 @@
+c="blood" 58:18 58:18||r="TrAP"||c="a 2000 cc. blood loss" 58:7 58:11
+c="the procedure" 58:3 58:4||r="TrCP"||c="a 2000 cc. blood loss" 58:7 58:11
+c="the electrocardiogram" 52:0 52:1||r="TeRP"||c="trigeminy" 52:5 52:5
+c="workup" 24:7 24:7||r="TeRP"||c="a large liver mass" 24:9 24:12
+c="workup" 24:7 24:7||r="TeRP"||c="dyspnea" 24:5 24:5
+c="workup" 24:7 24:7||r="TeRP"||c="fatigue" 24:3 24:3
+c="a large liver mass" 24:9 24:12||r="PIP"||c="poorly differentiated neoplasm" 24:20 24:22
+c="a large liver mass" 24:9 24:12||r="PIP"||c="metastatic rectal discontinued" 24:26 24:28
+c="a chest x-ray" 51:0 51:2||r="TeRP"||c="right hemidiaphragmatic elevation" 51:4 51:6
+c="the neurological examination" 50:0 50:2||r="TeRP"||c="a peripheral neuropathy" 50:6 50:8
+c="the neurological examination" 50:0 50:2||r="TeRP"||c="decreased sensation in the lower extremities" 50:10 50:15
+c="the neurological examination" 50:0 50:2||r="TeRP"||c="decreased strength in the upper and lower extremities" 50:17 50:24
+c="a peripheral neuropathy" 50:6 50:8||r="PIP"||c="decreased sensation in the lower extremities" 50:10 50:15
+c="a peripheral neuropathy" 50:6 50:8||r="PIP"||c="decreased strength in the upper and lower extremities" 50:17 50:24
+c="an apr" 23:10 23:11||r="TrAP"||c="rectal carcinoma" 23:15 23:16
+c="cardiac examination" 42:0 42:1||r="TeRP"||c="frequent ectopic beats" 42:5 42:7
+c="radiation therapy" 23:22 23:23||r="TrAP"||c="rectal carcinoma" 23:15 23:16
+c="5fu" 23:25 23:25||r="TrAP"||c="rectal carcinoma" 23:15 23:16
+c="pulse" 40:5 40:5||r="TeRP"||c="irregular" 40:8 40:8

@@ -1,0 +1,182 @@
+Admission Date :
+2017-06-12
+Discharge Date :
+2017-06-14
+Date of Birth :
+1946-06-16
+Sex :
+F
+Service :
+MEDICINE
+Allergies :
+Penicillins / Keflex / Sulfa ( Sulfonamides ) / Nickel / Erythromycin Ethylsuccinate
+Attending : Michael Y. R. Xiang , M.D.
+Chief Complaint :
+Disconnected pigtail catheter
+Major Surgical or Invasive Procedure :
+Removal of catheter
+History of Present Illness :
+70 y/o F w/ tracheobronchomalacia , COPD , PMR , recurrent pneumonias who was recently discharged from Hallmark Health System to Pocasset Mental Health Center
+06-07 after tracheobronchoplasty / tracheostomy and pigtail catheter placement for pleural effusions .
+Since discharge pt has continued at rehab on ps vent settings but pigtail catheter fell out today so pt was referred here for monitoring .
+On ROS , she notes feeling poorly , nausea , and diarrhea since d/c .
+She has pleuritic chest pain which she has had since she arrested during her admission here and had CPR .
+Per husband she has no cardiac history , and had a stress test ( unclr how recent ) that was normal
+Past Medical History :
+Past CMED Hx :
+Tracheobronchomalacia
+PMR s/p TAH
+COPD
+AFib post op
+Recent UTI rx w/aztreonam
+MRSA pna rx w/vanc
+Anxiety
+Hx resp arrest post-op
+husb
+Social History :
+Soc Hx : lives in Va with her husband , has been up here since April s/p month long hospitalization , no tob/etoh
+Family History : nc
+Physical Exam :
+VS :
+GEN :
+NAD
+HEENT :
+PERRLA , EOMI
+RESP :
+CTA - ant
+CV :
+RRR , nl s1 , s2 , no m/r/g
+abd : soft , nt,nd , nabs
+extrem :
+1+ edema blt
+Neuro :
+CNII - XII intact
+Pertinent Results :
+ECG : rate 66 , sinus w/PAC 's , QT 476 , TWI in V1-6 ( deep in v2-4 )
+CXR :
+IMPRESSION :
+Interval resolution of the right pleural effusion and no evidence of pneumothorax .
+A small left pleural effusion ?
+No changes in the position or alignment of multiple lines and tubes
+PATIENT / TEST INFORMATION :
+Indication :
+Congestive heart failure .
+Left ventricular function .
+Height : ( in ) 62
+Weight ( lb ) : 180
+BSA ( m2 ) : 1.83 m2
+BP ( mm Hg ) : 115/48
+HR ( bpm ) : 60
+Status : Inpatient
+Date / Time : 2017-06-13 at 15:47
+Test : TTE ( Complete )
+Doppler : Full doppler and color doppler
+Contrast : None
+Tape Number : 2005W251-0:21
+Test Location : West Echo Lab
+Technical Quality : Suboptimal
+REFERRING DOCTOR : DR. Gregory ERNST
+DR. Grace ERNST
+MEASUREMENTS :
+Left Atrium - Four Chamber Length : 5.1 cm ( nl <= 5.2 cm )
+Right Atrium - Four Chamber Length : * 6.2 cm ( nl <= 5.0 cm )
+Left Ventricle - Septal Wall Thickness : 0.8 cm ( nl 0.6 - 1.1 cm )
+Left Ventricle - Inferolateral Thickness : 0.8 cm ( nl 0.6 - 1.1 cm )
+Left Ventricle - Diastolic Dimension : 5.3 cm ( nl <= 5.6 cm )
+Left Ventricle - Ejection Fraction : >= 40% ( nl >= 55% )
+Aortic Valve - Peak Velocity : 1.4 m / sec ( nl <= 2.0 m / sec )
+Mitral Valve - E Wave : 1.1 m / sec
+Mitral Valve - A Wave : 1.0 m / sec
+Mitral Valve - E/A Ratio : 1.10
+TR Gradient ( + RA = PASP ) : * 36 mm Hg ( nl <= 25 mm Hg )
+INTERPRETATION :
+Findings :
+This study was compared to the prior study of 2017-06-01 .
+LEFT ATRIUM :
+Normal LA size .
+LEFT VENTRICLE :
+Wall thickness and cavity dimensions were obtained from 2D images .
+Normal LV wall thicknesses and cavity size .
+Suboptimal technical quality , a focal LV wall motion abnormality cannot be fully excluded .
+No resting LVOT gradient .
+RIGHT VENTRICLE :
+Normal RV chamber size and free wall motion .
+AORTA :
+Normal aortic root diameter .
+Focal calcifications in aortic root .
+AORTIC VALVE :
+Normal aortic valve leaflets .
+No AR .
+MITRAL VALVE :
+Normal mitral valve leaflets .
+Mild ( 1+ ) MR .
+TRICUSPID VALVE :
+Mild PA systolic hypertension .
+PERICARDIUM :
+No pericardial effusion .
+GENERAL COMMENTS :
+Suboptimal image quality - poor echo windows .
+Based on 1997 AHA endocarditis prophylaxis recommendations , the echo findings indicate a low risk ( prophylaxis not recommended ).
+Clinical decisions regarding the need for prophylaxis should be based on clinical and echocardiographic data .
+Conclusions :
+The left atrium is normal in size .
+Left ventricular wall thicknesses and cavity size are normal .
+Due to suboptimal technical quality , a focal wall motion abnormality cannot be fully excluded .
+Overall systolic function is good ( LVEF > 40% ).
+Right ventricular chamber size and free wall motion are normal .
+The aortic valve leaflets appear structurally normal with good leaflet excursion .
+No aortic regurgitation is seen .
+The mitral valve leaflets are structurally normal .
+Mild ( 1+ ) mitral regurgitation is seen .
+There is mild pulmonary artery systolic hypertension .
+There is no pericardial effusion .
+IMPRESSION :
+Good global biventricular systolic function .
+Mild mitral regurgitation .
+The prior study of 2017-06-01 ( tape reviewed ) was of very suboptimal technical quality and not directly comparable to the current study .
+If more definitive information regarding ventricualr fuynction is needed , a cardiac MRI ( ( 951 ) 247-0244 ) or radionuclide study is suggested .
+Based on 1997 AHA endocarditis prophylaxis recommendations , the echo findings indicate a low risk ( prophylaxis not recommended ).
+Clinical decisions regarding the need for prophylaxis should be based on clinical and echocardiographic data .
+Electronically signed by Lisa John , MD on 2017-06-13 18:41 .
+Oak Bluffs PHYSICIAN : Gregory,Domingo J .
+Brief Hospital Course:
+Pleural effusion : s/p pigtail cath drain .
+Imaging indicated that the pleural effusions had resolved .
+Thoracics agreed to no need for pigtail placement .
+CHF :
+Patient was seen by CHF ( echo results are detailed above ) .
+They recommended continuing beta-blocker and titarting ace as tolerated .
+Patient should be kept euvolemic once peripheral edema resolves ( may use lasix to decrease edema ).
+She will need a repeat echo in 3-6 months ( since this echo showed a question of focal wall motion abnormality ).
+Also , patient was started on amiodarone and digoxin was held secondary to high levels ( please restart when level less than 2 )
+Diarrhea :
+Stool c. diff neg x1 .
+She will need two more specimens .
+COPD : cont nebs .
+PAF : started on amio , cont b-blocker , and patient was started on coumadin - levels ( inr ) should be monitored .
+Nutrition :
+Patient should be started on tube feeds at rehab
+Rash :
+Patient developed a diffuse erythematous rash , though to be an ID reaction to a recent fungal infection .
+She has been satrted on benadryl and hydrocort for sx relief .
+Please monitor this ( may need dermatology consult ).
+Also a drug reaction is in the ddx but unlikely as rash started at rehab prior to receiving drugs here .
+Medications on Admission :
+Meds at Pocasset Mental Health Center :
+SQ heparin , MVI , nystatin , colace , albuterol , atrovent , amiodarone 400 bid , pulmicort , digoxin , metoprolol 12.5 tid , reglan
+Discharge Disposition :
+Extended Care
+Discharge Diagnosis : tracheobronchomalecia chf
+PAF
+COPD
+Discharge Condition : deconditioned but stable
+Discharge Instructions :
+Please call your doctor or come to Robert if you develop fevers , chills , cp , nausea or vomiting , or any other concerning sx
+Followup Instructions :
+Call Dr. Pederson office for appointment in 2-3 weeks -( 869 ) 263-1570.
+you will need a repeat echo within 3-6 months
+Please call your PCP for an appointment within 1 week - number to call is ( 489 ) 489 0229 ext 7499
+ARMIN ERNST MD 57-915
+Completed by : Neva Rhonda MD 77-523 2017-06-14 @ 1112
+Signed electronically by : DR. Rhonda ERNST on : FRI 2017-06-16 1:44 PM
+( End of Report )

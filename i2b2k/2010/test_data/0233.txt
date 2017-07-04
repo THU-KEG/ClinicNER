@@ -1,0 +1,101 @@
+Admission Date :
+2017-09-13
+Discharge Date :
+2017-09-15
+Date of Birth :
+1972-05-09
+Sex :
+F
+Service :
+NSU
+HISTORY OF PRESENT ILLNESS :
+The patient is a 45 - year-old female here for a diagnostic cerebral angiogram with coiling .
+HOSPITAL COURSE :
+On admission , the patient 's vital signs were stable .
+Her blood pressure was 102/82 .
+Her heart rate was 71 .
+Her SPO2 was 98 percent on room air .
+MEDICATIONS ON ADMISSION :
+1. Plavix 75 mg times 6 doses .
+2. Xanax q.d.
+3. Prozac 20 mg q.d.
+4. Cyclobenzaprine 10 mg q.d.
+5. Aspirin 325 mg times 3 doses .
+6. Vitamin E .
+PAST SURGICAL HISTORY :
+Tubal ligation , 1986 .
+Cystectomy , 1992 and 1998 .
+Breast lesion excision , 1989 .
+ALLERGIES :
+TETRACYCLINE .
+SOCIAL HISTORY :
+The patient uses alcohol socially ; was a smoker , used tobacco , she quit 4 years ago ; denies using recreational drug .
+PAST MEDICAL HISTORY :
+The patient had complaint of headaches in the past .
+She has fibromyalgia and a history of slurred speech .
+Her last menstrual period was on 2017-08-29 .
+HOSPITAL COURSE :
+On 2017-09-13 , the patient was brought to the operating room and underwent a coiling with stent placement of the left carotid ophthalmic aneurysm .
+The patient underwent coiling and stent placement without complications .
+She was discharged to the PACU in stable condition .
+Postoperative check , the patient 's vital signs were stable .
+Her temperature was 96.3 degrees , blood pressure was 128/63 .
+Her pulse was 61 , respirations 12 , and her O2 saturation was 98 percent on room air .
+Her labs showed a white blood count of 7.7 , hematocrit of 33.3 , and platelets were 305 .
+Her coags , her PT was 14.5 , PTT was 143.4 , and her INR was 1.3 .
+Her electrolytes were all within normal limits .
+On physical exam , the patient was awake , alert , and oriented times 3 .
+She had a symmetric smile .
+Her extraocular movements were full .
+Her pupils were 3 to 2 bilaterally , briskly reactive .
+The visual fields were intact .
+Her strength was 05-31 throughout except for right was not tested due to the angiocele in her groin .
+Angiocele was intact without hematoma , and she exhibited strong pedal pulses on the right side .
+The assessment at that time was she was neurologically stable .
+The plan was q. 1-hour neuro checks .
+She was started on a heparin drip at 800 per hour .
+Her PTT goes 50 to 60 at that time .
+She was cleared to take sips of clear fluids and was to remain flat for 4 hours .
+On postoperative day 1 , the patient was alert and oriented times 3 .
+She exhibited no drift .
+Her IPs were full at 5/5 .
+She had no hematoma in her groin site .
+Visual fields were full , her pupils were round and reactive bilaterally .
+Her vital signs were stable with a temperature of 97.8 degrees , blood pressure was 104 to 121 over 50s .
+Pulse was 60 to 70 .
+Respirations were 15 , and she was saturating at 96 percent on room air .
+Her PTT at that time was 67.8 .
+She was started on aspirin 325 mg q.d. and Plavix 75 mg q.d.
+On 2017-09-14 , she was transferred to the regular floor at Far 5 .
+Postoperative day 2 , the patient was stable without events , all vital signs were stable .
+She was moving all extremities and exhibiting good strength .
+Her visual fields were intact .
+Her extraocular movements were full .
+Angio site was clean , dry , and intact without bleeding or drainage .
+She was to be discharged today and encouraged to ambulate on her own .
+Discharge condition for this patient was good .
+She was ambulating on her own and tolerating a p.o. diet .
+She was discharged to home in stable condition .
+MEDICATIONS ON DISCHARGE :
+1. Plavix 75 mg q.d.
+2. Aspirin 325 mg q.d.
+DISCHARGE INSTRUCTIONS :
+She is to continue taking medications as prescribed .
+She is to undergo no strenuous activity until follow-up in 2 weeks .
+FINAL DIAGNOSIS :
+She is status post coiling with stent placement for left carotid ophthalmic aneurysm .
+RECOMMENDED FOLLOW-UP :
+She is following up with Dr. Mcmaster on 2017-09-29 at 11:30 a.m.
+She is also to follow up with her primary care physician to review her hypertensive medications .
+SURGICAL INTERVENTION :
+Coiling with a stent placement for left carotid artery aneurysm .
+CONDITION ON DISCHARGE :
+She is neurologically stable .
+Helen Cynthia , New York 10969
+Dictated By : Scott T Little , M.D.
+MEDQUIST36
+D : 2017-09-15 09:28:45
+T : 2017-09-15 15:37:05
+Job # : 23470
+Signed electronically by : DR. Mae Behlmer on : MON 2017-10-09 5:18 AM
+( End of Report )

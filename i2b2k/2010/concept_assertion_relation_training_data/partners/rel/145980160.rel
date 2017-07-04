@@ -1,0 +1,14 @@
+c="repeat exam" 23:0 23:1||r="TeRP"||c="a firm left-sided lobe" 23:6 23:9
+c="a nodule" 22:20 22:21||r="PIP"||c="prominence on the left" 22:12 22:15
+c="a nodule" 22:20 22:21||r="PIP"||c="an asymmetric prostate" 22:8 22:10
+c="transrectal ultrasound" 24:0 24:1||r="TeRP"||c="a hypoechoic left-sided mass in the peripheral zone" 24:3 24:10
+c="an ekg" 75:17 75:18||r="TeRP"||c="anterolateral changes" 75:23 75:24
+c="a biopsy" 25:0 25:1||r="TeRP"||c="moderately to poorly differentiated grade iii-iv adenocarcinoma on the left" 25:3 25:12
+c="diaphoresis" 75:9 75:9||r="PIP"||c="tachycardia" 75:11 75:11
+c="diabeta" 30:10 30:10||r="TrAP"||c="non-insulin diabetes mellitus" 30:2 30:4
+c="his urinalysis" 59:0 59:1||r="TeRP"||c="marked occult blood" 59:3 59:5
+c="motrin" 32:4 32:4||r="TrCP"||c="allergic" 32:2 32:2
+c="a repeat ekg" 77:0 77:2||r="TeCP"||c="changes" 77:5 77:5
+c="physical exam" 22:4 22:5||r="TeRP"||c="an asymmetric prostate" 22:8 22:10
+c="physical exam" 22:4 22:5||r="TeRP"||c="prominence on the left" 22:12 22:15
+c="physical exam" 22:4 22:5||r="TeRP"||c="a nodule" 22:20 22:21

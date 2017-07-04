@@ -1,0 +1,67 @@
+268157859 YC
+35980943
+4198660
+5/30/2005 12:00:00 AM
+s / p total thyoidectomy
+DIS
+Admission Date :
+05/30/2005
+Report Status :
+Discharge Date :
+05/31/2005
+****** DISCHARGE ORDERS ******
+KOTEBITZWEERTS , LIXYNA N
+306-08-68-0 K78
+Room :
+58W-275
+Service :
+GGI
+DISCHARGE PATIENT ON :
+05/31/05 AT 02:00 PM
+CONTINGENT UPON
+Not Applicable
+WILL D / C ORDER BE USED AS THE D / C SUMMARY :
+YES
+Attending :
+TLAND , JR , VOTRIBRENDEVE N. , M.D.
+DISPOSITION :
+Home
+DISCHARGE MEDICATIONS :
+ROCALTROL ( CALCITRIOL ) 0.5 MCG PO QD Starting Today ( 05/31 )
+Instructions :
+Start on day of surgery and continue throughout hospitalization .
+SYNTHROID ( LEVOTHYROXINE SODIUM ) 125 MCG PO QD
+Instructions :
+( typical dose is 1 mcg per lb. )
+OXYCODONE 5-10 MG PO Q4H PRN Pain ADVAIR DISKUS 100/50 ( FLUTICASONE PROPIONATE/... ) 1 PUFF INH BID CALCIUM CARBONATE 2,400 MG PO QID Starting Today ( 05/31 )
+DIET :
+No Restrictions
+ACTIVITY :
+Resume regular exercise
+FOLLOW UP APPOINTMENT ( S ) :
+Dr. Tland , 462-352-5678 1-2 weeks please call for appointment if not made ,
+ALLERGY :
+NKA ADMIT DIAGNOSIS :
+total thyroidectomy
+PRINCIPAL DISCHARGE DIAGNOSIS ;
+Responsible After Study for Causing Admission ) s / p total thyoidectomy
+OTHER DIAGNOSIS ;
+Conditions , Infections , Complications , affecting Treatment / Stay asthma
+OPERATIONS AND PROCEDURES :
+05/30/05 TLAND , JR , VOTRIBRENDEVE N. , M.D. TOTAL THYROIDECTOMY
+OTHER TREATMENTS / PROCEDURES ( NOT IN O.R. )
+none
+BRIEF RESUME OF HOSPITAL COURSE :
+40F with hurtle cell tumor of thyroid had total thyroidectomy without complication .
+POD# 1 pt was tolerating regular diet , ambulating , afebrile , and calcium was stable .
+Incicsion was clean dry and intact and pt was discharged home in stable condition
+ADDITIONAL COMMENTS :
+Keep incision clean and dry , may shower Wed .
+Do not drive if taking narcotics Call doctor if fever &gt; 101.5 , worsening pain , swelling , or redness of wound , numbness or tingling in extremities or face or any other concerns .
+DISCHARGE CONDITION :
+Stable
+TO DO / PLAN :
+No dictated summary
+ENTERED BY :
+LILLETLANDTRIEV , ROSEEN ERTONDON ( BZ30 ) 05/31/05 09:05 AM
+****** END OF DISCHARGE ORDERS ******

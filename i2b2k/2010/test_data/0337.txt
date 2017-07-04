@@ -1,0 +1,212 @@
+Admission Date :
+2015-09-30
+Discharge Date :
+2015-10-02
+Date of Birth :
+1958-01-16
+Sex :
+F
+Service :
+MEDICAL ICU
+CHIEF COMPLAINT :
+Change in mental status .
+HISTORY OF PRESENT ILLNESS :
+This is a 57-year-old nursing home resident female , who had been in her usual state of
+health until about three weeks ago when the daughter noted she was sleeping more .
+Per record , she has had multiple episodes in the last week of changes in mental status .
+EMTs called many times .
+The patient would awake prior to arrival and not need transfer .
+The patient was seen at the Leonard Morse/Metrowest Medical Center on 09-28 .
+No localizing etiology of delta MS .
+That evening she was unresponsive and the patient was brought to Amesbury Hospital Hospital .
+There her oxygen she was sating 65% on room air , increased to 98% with a nonrebreather mask .
+There an ABG was done which showed an ABG of 7.42 , 62 , and 55 .
+She had a head CT that was negative .
+Chest x-ray that was questionable left lower lobe infiltrate .
+Lumbar puncture was performed and the micro cultures are still pending .
+She was seen by Psychiatry at the outside hospital , but noted there was no psychoses , but delirium .
+The patient 's mental status waxed and waned there .
+She also had a K of 6.0 and given 30 of Kayexalate , 5 of Haldol , 2 mg of Ativan given for
+agitation , and 2 mg of ceftriaxone was given for a temperature of 101.3 with a concern for meningitis as a LP was done prior .
+Patient was transferred to the Kindred Hospital Melendez the patient 's primary care provider was here .
+She is currently being seen by Addison Gilbert Hospital Group .
+On arrival to Mass. Eye & Ear Infirmary , she was unresponsive with an oxygen saturation of 72% on 6 liters .
+She was placed on 50% vent mask , which improved her oxygenation to 97% .
+Patient was placed on BiPAP .
+Original ABG here before BiPAP was 7.19 , 102 , and 92 .
+After being placed on BiPAP , her blood pressure decreased to the 80s .
+She responded to 1 liter of IV fluids , normal saline and blood pressure remained stable .
+Patient had peripheral IV x1 placed and right femoral line placed in the Matthew .
+When laying flat , her sats decreased to 50% on 30% FIO2 , PEEP of 10 , and pressure support of 5 .
+Her ABG at the time was 7.24 , 91 , and 38 .
+Once the patient sat up , her sats improved and her airway was no longer obstructed .
+After a history on BiPAP about a half an hour , her ABG was 7.29 , 79 , and 106 on 30% pressure support of 5 and PEEP of 10 .
+Patient was intermittently awaking .
+She denied any pain and was not answering questions at the time .
+PAST MEDICAL HISTORY :
+1. Obstructive-sleep apnea ?
+2. Morbid obesity .
+3. Congestive heart failure , unknown EF .
+4. Hypertension .
+5. Diabetes mellitus .
+6. Depression .
+7. Nursing home resident .
+8. Dyspnea on exertion .
+9. History of fibroids .
+10. Hypercholesterolemia .
+SOCIAL HISTORY :
+She is a nursing home resident .
+Does not ambulate .
+Denies alcohol or tobacco use .
+MEDICATIONS ON TRANSFER FROM NURSING HOME :
+1. Lasix 40 q.d.
+2. Senna two tablets q.6h.
+3. Metoprolol 25 mg b.i.d.
+4. Metformin 1,000 mg b.i.d.
+5. Colace .
+6. Niferex one tablet b.i.d.
+7. Cozaar 25 mg q.d.
+8. Ranitidine 150 mg p.o. q.d.
+9. Peroxetine 40 mg p.o. q.d.
+10. Insulin :
+NPH 70 units q.a.m. , 50 units q.p.m. , regular insulin-sliding scale .
+11. SubQ Heparin 5,000 q.8h.
+12. Lactulose .
+13. Multivitamins .
+14. Albuterol inhalers prn .
+ALLERGIES :
+Penicillin :
+Shortness of breath .
+PHYSICAL EXAMINATION :
+Vital signs :
+Heart rate 108 , blood pressure 140/82 , oxygen saturation 96% , respiratory rate of 22 on BiPAP 5/10/30% .
+In general , sleepy but arousable .
+Arousable intermittently to voice .
+HEENT :
+Pupils 3 mm reactive .
+Neck :
+Obese , unable to assess lymphadenopathy or jugular venous distention .
+Lungs :
+Poor effort , no wheezes , rales , or rhonchi .
+Cardiovascular :
+Distant heart sounds , tachycardia , regular rhythm .
+Abdomen is obese , nontender , decreased bowel sounds .
+Extremities :
+Obese , no edema , 2+ pulses .
+Neurologic :
+Responding to commands .
+Moving all extremities well .
+Toes are downgoing .
+PERTINENT LABORATORIES :
+White blood cell count 12.8 ( 79% polys , 13% lymphocytes , 8 monocytes , nucleated RBCs 1% ),hematocrit 31.7 .
+Potassium 5.2 , creatinine 1.3 , BUN 35 , glucose 152 , D dimer 1636 , INR 1.3 .
+Urinalysis :
+Moderate leukocytes , 06-09 RBCs , 21-50 lymphocytes , many bacteria , 06-09 epithelial cells .
+Tox screen negative .
+Urine cultures pending .
+LABORATORIES AT OUTSIDE HOSPITAL :
+White count 11.8 ( 90% polys , 4% lymphocytes , 5% monocytes , 1% basophils , 3% nucleated RBCs ).
+Potassium 6.6 , creatinine 1.4 , alkaline phosphatase 302 , T bilirubin 0.6 , AST 25 , ALT 84 , CK of 15 , troponin 0.01 .
+Chest x-ray :
+Left lower lobe basal opacity .
+EKG :
+Sinus tachycardia at 106 beats per minute , left axis deviation , T-wave inversions in leads I and aVL that are old .
+No QRS widening and no peak T waves .
+This is in comparison to 2015-09-27 EKG .
+Chest x-ray rotated low lung volumes , hazy opacities at bases .
+Echocardiogram in 2010 :
+Mild-to-moderate MR , TR .
+HOSPITAL COURSE :
+1. Hypercarbic respiratory failure issues :
+The patient presented with changes in mental status , pCO2 of 100 , pH of 7.19 , decreasing sats on arrival likely element of obstructive-sleep apnea .
+She was monitored overnight .
+She had admitted to the CMED and had multiple episodes of apnea throughout the night .
+She was placed on pressure support , which improved her saturations and decreased her hypercarbia .
+Patient improved that her mental status with improvement of her oxygenation and ventilation as well as for correction of her respiratory acidosis .
+Patient was eventually placed on BiPAP on hospital day three , on the date prior to discharge of BiPAP settings of 12/8/5 liters of oxygen with saturations of 96% with a gas of 7.38 , 67 , and 91 with an aim of a goal pCO2 of 67 .
+She only had one episode of apnea on the day prior to discharge .
+2. Delta MS/mental status issues :
+Most likely her waxing and waning mental status and hypercarbia/hypoxia compounded by infection of pneumonia and UTI .
+With improvements of her ventilation and oxygenation and treatment with levofloxacin of her UTI and pneumonia , her mental status greatly improved on hospital day two without further waxing and waning .
+Her daughters came by and visited her , and reported that she was at her baseline mental status on the day prior to discharge .
+B12 , folate , RPR were all sent that were unremarkable as causes for delta MS .
+We are awaiting results of the lumbar puncture from the outside hospital , but on hospital day two .
+Those cultures are still pending at the time .
+Patient was also given multivites .
+3. Fever issues :
+The patient initially presented with T max of 101.3 at outside hospital with increasing white blood cell counts and a positive urinalysis .
+A chest x-ray with bilateral patchy infiltrates likely pneumonia and UTI .
+Upon calling the outside hospital , the urine was growing out Klebsiella , and patient was given a 10 day course of levofloxacin to cover both the pneumonia and UTI .
+Blood cultures and urine cultures are still pending at this hospital visit and the CSF fluid from Whitter Rehabilitation Hospital needs to be further evaluated .
+Patient on the day of discharge was afebrile with a decreasing white count x48 hours .
+4. Acute renal failure issues :
+Creatinine initially presented at 1.3 .
+Patient is known to have a baseline of 1.0 , most likely hypovolemia and prerenal .
+A FENa was sent , was 0.3% .
+Patient was gently hydrated and IV fluids started up on a p.o. diet regimen .
+On hospital day two , her creatinine returned to 0.8 , and she remained with a creatinine of 0.8 for the remainder of her hospital stay .
+Patient's K was followed , and trended back down to normal on the day of discharge at 3.9 .
+5. Elevated transaminases :
+Patient had no right upper quadrant pain .
+Stewart sign was negative .
+A right upper quadrant ultrasound was performed that showed no hepatic or biliary pathology likely due to acute phase stress changes given the fact that she had no clinical symptoms .
+There is no need to followup these transaminases .
+6. Congestive heart failure history :
+Patient was stable without evidence of CHF on chest x-ray .
+Followed her sats likely due to obstructive-sleep apnea and hypoventilation .
+Patient was restarted on her beta blocker and .......- receptor blocker on hospital day two given that her creatinine had stabilized .
+Patient had no further cardiac issues at this time .
+She was on telemetry without any episodes of any rhythm abnormalities .
+7. CMED CCU :
+The patient had some vaginal bleeding x2 days .
+Patient had a history of fibroids during this hospitalization .
+Followed her examination .
+Her hematocrit remained stable throughout this course .
+Patient is strongly encouraged to followup with her outside primary care provider to followup for the vaginal bleeding given her history of fibroids and question metaplasia of the endometrium .
+8. Heme :
+Her hematocrit remained stable .
+She had a history of nucleated RBCs likely secondary to stress and hypoxia during this admission .
+Hemolysis laboratories were negative .
+Patient was restarted on her iron supplementation .
+Reticulocyte count was performed that was negative .
+9. FEN :
+She was NPO with a decrease in her mental status .
+We slowly advanced her diet as her mental status improved and repleted her electrolytes , and started on her p.o. medications on hospital day two .
+10. Diabetes :
+Patient had q.i.d. fingersticks with a Humalog sliding scale and NPH doses were cut in half while she was NPO , and they were brought back to her normal doses on the day of discharge with a full diet .
+11. Code status :
+Full .
+Two daughters came by and requested to be health care proxies as patient approved .
+Documentation is in her medical chart .
+12. Prophylaxis :
+The patient was on subQ Heparin for DVT and ranitidine for GI prophylaxis .
+DISPOSITION:
+The patient is to be discharged today to Lahey Clinic - North Shore Hospital for long-term pulmonary ........ therapy and further evaluation of her obstructive-sleep apnea .
+DISCHARGE CONDITION :
+Patient was stable with complete clearance of her mental status , advancement of her diet ,
+blood pressure , and heart rate remained stable , and her oxygen saturations were well above 90% during the daytime on 2 liters nasal cannula and at night on the BiPAP settings
+described above .
+Physical Therapy consult is pending today .
+DISCHARGE MEDICATIONS :
+1. NPH 70 units q.a.m. , 50 units q.p.m.
+2. Humalog sliding scale .
+3. SubQ Heparin 5,000 units t.i.d.
+4. Ranitidine 150 mg p.o. b.i.d.
+5. Multivitamin x1 .
+6. Losartan 25 mg p.o. q.d.
+7. Iron supplementation 150 mg p.o. q.d.
+8. Levofloxacin day four of 10 to be completed for a full 10-day course , 500 mg p.o. q.d.
+9. Metoprolol 25 mg p.o. b.i.d.
+10. Colace 100 mg p.o. b.i.d.
+Mark Nibbe , M.D.
+87-896
+Dictated By : Jeffrey N. Elvington , M.D.
+MEDQUIST36
+D :
+2015-10-02 08:19
+T :
+2015-10-02 08:20
+JOB # :
+15790
+Signed electronically by : DR. Mark Nibbe on : TUE 2015-10-06 9:46 PM
+( End of Report )

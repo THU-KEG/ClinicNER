@@ -1,0 +1,9 @@
+c="her blood pressure" 75:12 75:14||r="TeRP"||c="somewhat labile" 75:16 75:17
+c="staples" 102:2 102:2||r="TrAP"||c="incision" 102:0 102:0
+c="scattered rhonchi" 98:0 98:1||r="PIP"||c="diminished breath sounds in the bases" 98:3 98:8
+c="cardiac catheterization" 15:8 15:9||r="TeCP"||c="her aortic stenosis" 15:13 15:15
+c="echocardiogram" 14:1 14:1||r="TeRP"||c="aortic stenosis" 14:6 14:7
+c="aortic valve replacement" 110:5 110:7||r="TrAP"||c="aortic stenosis" 110:1 110:2
+c="a #21 mosaic porcine valve" 110:9 110:13||r="TrAP"||c="aortic stenosis" 110:1 110:2
+c="an lvedp" 17:16 17:17||r="TeRP"||c="severe aortic stenosis" 17:12 17:14
+c="pa pressure" 17:4 17:5||r="TeRP"||c="moderate pulmonary hypertension" 17:0 17:2

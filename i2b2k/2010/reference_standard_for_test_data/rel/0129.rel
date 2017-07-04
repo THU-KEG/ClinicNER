@@ -1,0 +1,30 @@
+c="cad" 41:0 41:0||r="PIP"||c="myocardial infarction" 41:13 41:14
+c="blood loss anemia" 135:0 135:2||r="PIP"||c="gi bleeding" 135:4 135:5
+c="hydroxyzine hcl" 155:1 155:2||r="TrAP"||c="itching" 155:10 155:10
+c="a cough" 22:2 22:3||r="PIP"||c="white sputum" 22:6 22:7
+c="the bleeding" 135:7 135:8||r="PIP"||c="an avm" 135:12 135:13
+c="coagulopathy" 38:0 38:0||r="PIP"||c="hit" 38:2 38:2
+c="coronary artery bypass graft" 41:4 41:7||r="TrAP"||c="cad" 41:0 41:0
+c="the fundal avms" 124:0 124:2||r="PIP"||c="bleeding" 124:8 124:8
+c="the fundal avms" 124:0 124:2||r="PIP"||c="bleeding" 124:16 124:16
+c="apl from the fundus" 144:22 144:25||r="TrAP"||c="avm 's" 144:5 144:6
+c="rectal examination" 28:0 28:1||r="TeRP"||c="guiaiac positive maroon stool" 28:5 28:8
+c="chronic gi bleeding" 35:0 35:2||r="PIP"||c="documented avms" 35:4 35:5
+c="sinus bradycardia" 98:0 98:1||r="PIP"||c="markedly prolonged p-r interval" 98:3 98:6
+c="sinus bradycardia" 98:0 98:1||r="PIP"||c="wenckebach type" 98:8 98:9
+c="markedly prolonged p-r interval" 98:3 98:6||r="PIP"||c="wenckebach type" 98:8 98:9
+c="the previous tracing" 102:2 102:4||r="TeRP"||c="multiple abnormalities" 102:7 102:8
+c="the previous tracing" 102:2 102:4||r="TeRP"||c="major change" 102:14 102:15
+c="gi bleeding" 18:14 18:15||r="PIP"||c="arteriovenous malformations" 18:18 18:19
+c="gi bleeding" 18:14 18:15||r="PIP"||c="maroon stool" 18:24 18:25
+c="gi bleeding" 18:14 18:15||r="PIP"||c="a hematocrit drop" 18:27 18:29
+c="ef" 47:1 47:1||r="TeCP"||c="chf" 47:0 47:0
+c="baseline creatinine" 34:8 34:9||r="TeRP"||c="cri" 34:0 34:0
+c="baseline hct" 36:2 36:3||r="TeRP"||c="anemia" 36:0 36:0
+c="platelet transfusions" 147:11 147:12||r="TrAP"||c="chronic thrombocytopenia" 147:0 147:1
+c="an ng lavage" 27:0 27:2||r="TeRP"||c="bilious return" 27:8 27:9
+c="nitroglycerin" 170:1 170:1||r="TrAP"||c="chest pain" 170:19 170:20
+c="insulin" 33:2 33:2||r="TrAP"||c="dm2" 33:0 33:0
+c="the metoprolol" 149:0 149:1||r="TrNAP"||c="acute bleeding phase" 149:5 149:7
+c="acute blood loss anemia" 179:0 179:3||r="PIP"||c="rectal bleeding" 179:5 179:6
+c="colonoscopy" 137:17 137:17||r="TeRP"||c="bleeding" 137:13 137:13

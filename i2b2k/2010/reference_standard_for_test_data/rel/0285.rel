@@ -1,0 +1,39 @@
+c="lorazepam" 117:1 117:1||r="TrAP"||c="seizure" 117:23 117:23
+c="lorazepam" 117:1 117:1||r="TrAP"||c="aggitation" 117:21 117:21
+c="pnuemonia" 111:0 111:0||r="PIP"||c="aspiration" 111:3 111:3
+c="complications" 57:3 57:3||r="PIP"||c="ms" 57:5 57:5
+c="breast cancer" 100:18 100:19||r="PIP"||c="bilateral small pleural effusion" 100:1 100:4
+c="breast cancer" 100:18 100:19||r="PIP"||c="malignant" 100:10 100:10
+c="bilateral small pleural effusion" 100:1 100:4||r="PIP"||c="malignant" 100:10 100:10
+c="metastatic disease in left arm , brachial plexus" 45:1 45:8||r="PIP"||c="left arm paresis" 45:11 45:13
+c="metastatic lesions" 97:21 97:22||r="PIP"||c="confluent" 97:8 97:8
+c="metastatic lesions" 97:21 97:22||r="PIP"||c="right upper lobe lung opacities" 97:1 97:5
+c="right upper lobe lung opacities" 97:1 97:5||r="PIP"||c="confluent" 97:8 97:8
+c="evaluation" 24:12 24:12||r="TeCP"||c="tachycardic" 24:7 24:7
+c="infectious etiology" 97:13 97:14||r="PIP"||c="confluent" 97:8 97:8
+c="infectious etiology" 97:13 97:14||r="PIP"||c="right upper lobe lung opacities" 97:1 97:5
+c="midline shift" 104:8 104:9||r="PIP"||c="large brain mets" 104:4 104:6
+c="right middle lobe lung nodule" 96:1 96:5||r="PIP"||c="metastatic disease" 96:9 96:10
+c="drugs" 12:8 12:8||r="TrCP"||c="known allergies" 12:5 12:6
+c="local recurrence" 19:11 19:12||r="PIP"||c="paralysis of l arm" 19:15 19:18
+c="tamoxifen" 42:10 42:10||r="TrCP"||c="vaginal bleeding" 42:7 42:8
+c="airway protection" 31:9 31:10||r="TrAP"||c="lethargy" 31:5 31:5
+c="airway protection" 31:9 31:10||r="TrAP"||c="ms changes" 31:2 31:3
+c="imaging" 21:4 21:4||r="TeCP"||c="mets" 21:6 21:6
+c="significant surrounding vasogenic edema" 89:18 89:21||r="PIP"||c="three discrete lesions" 89:0 89:2
+c="workup" 26:3 26:3||r="TeCP"||c="cns mets" 26:5 26:6
+c="moderate surrounding edema" 91:2 91:4||r="PIP"||c="associated mass effect on the lateral ventricles" 91:16 91:22
+c="moderate surrounding edema" 91:2 91:4||r="PIP"||c="rightward shift of the normally midline structures" 91:8 91:14
+c="head ct" 88:0 88:1||r="TeRP"||c="diffuse metastatic disease" 88:4 88:6
+c="levophed" 32:11 32:11||r="TrAP"||c="hypotensive" 32:3 32:3
+c="dopamine" 32:7 32:7||r="TrAP"||c="hypotensive" 32:3 32:3
+c="metastatic breast ca" 104:0 104:2||r="PIP"||c="large brain mets" 104:4 104:6
+c="mastectomy" 19:6 19:6||r="TrAP"||c="breast ca" 19:3 19:4
+c="breast ca" 19:3 19:4||r="PIP"||c="local recurrence" 19:11 19:12
+c="metastatic disease in left axilla ensheathing nerve plexus" 40:19 40:26||r="PIP"||c="lymphedema" 40:7 40:7
+c="metastatic disease in left axilla ensheathing nerve plexus" 40:19 40:26||r="PIP"||c="left arm ( distal > proximal ) weakness" 40:9 40:16
+c="metastatic disease" 99:13 99:14||r="PIP"||c="mildly enhancing" 99:7 99:8
+c="metastatic disease" 99:13 99:14||r="PIP"||c="multiple hypodense liver lesions" 99:1 99:4
+c="multiple hypodense liver lesions" 99:1 99:4||r="PIP"||c="mildly enhancing" 99:7 99:8
+c="workup" 21:2 21:2||r="TeCP"||c="mets" 21:6 21:6
+c="morphine concentrate" 115:1 115:2||r="TrAP"||c="pain" 115:19 115:19

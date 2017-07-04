@@ -1,0 +1,90 @@
+377932938
+CTMC
+39243271
+492022
+4/24/1995 12:00:00 AM
+Discharge Summary
+Signed
+DIS
+Admission Date :
+04/24/1995
+Report Status :
+Signed
+Discharge Date :
+05/19/1995
+CAUSE OF DEATH :
+MULTISYSTEM ORGAN FAILURE .
+SEPSIS .
+TIME OF DEATH :
+5/19/95 at 3:15 a.m.
+HISTORY OF PRESENT ILLNESS :
+Mr. Stone is a 59-year-old gentleman with severe cardiomyopathy , aortic stenosis , alcoholic cirrhosis , and rectal cancer , who was scheduled for a resection of his rectal adenocarcinoma but was found to be in severe congestive heart failure and admitted to the Medicine team for improvement of his heart failure .
+He has a long history of alcohol abuse with cirrhosis and dilated cardiomyopathy , presumably due to alcohol .
+He has mitral regurgitation , tricuspid regurgitation , and an aortic valve area of 1.1 cm. squared with a peak gradient of 36 to 54 .
+He has also had atrial fibrillation since 1990 , which has been rate controlled on Digoxin .
+He was recently diagnosed with adenocarcinoma of the colon following an episode of bright red blood per rectum and 3.5-cm. sessile lesion at 27 cm. , which was biopsied through a colonoscopy , which revealed adenocarcinoma .
+PAST MEDICAL HISTORY :
+Alcoholic cardiomyopathy with an ejection fraction of 20% .
+Adenocarcinoma of the colon .
+Cirrhosis .
+Atrial fibrillation since 1990 .
+Recurrent urinary tract infections .
+Mitral valve regurgitation of 4+ .
+Tricuspid regurgitation .
+Aortic stenosis .
+Cellulitis and sepsis in 1992 .
+Hyponatremia .
+Peripheral vascular disease .
+ADMISSION MEDICATIONS :
+Lasix 40 mg. b.i.d. Tagamet 400 mg. b.i.d. Lisinopril 10 mg. q. day .
+Digoxin 0.25 mg. q. day .
+Cipro 250 mg. b.i.d.
+ALLERGIES :
+Sulfa medications .
+PHYSICAL EXAMINATION :
+His temperature was 99 .
+Blood pressure was 104/66 .
+Heart rate was 110 .
+Oxygen saturation was 97% on room air .
+He had jugular venous distention to the level of the jaw in the upright position .
+His heart rate was irregularly with a 2/6 holosystolic murmur .
+His chest revealed bilateral basilar rales to one-halfway up the chest .
+His abdomen was soft and nontender with a positive fluid wave and a liver edge 3 cm. below the costal margin .
+HOSPITAL COURSE :
+He was admitted to the Medicine Service and diuresed with Lasix and started on Captopril with the Lisinopril discontinued .
+After aggressive diuresis on the Medical Service , he was deemed stable for surgery .
+After many discussions between Dr. Leickgrend , the patient , and his family , concerning the severely high risk , given the patient &apos;s conditions , it was decided to proceed with the operation .
+On 4/27/95 , he was taken to the Operating Room where he underwent a sigmoid colectomy under general endotracheal anesthesia .
+His fluids were very strongly restricted , and he only received 500 cc. of crystalloid in the Operating Room with 400 cc. of blood loss and 500 cc. of ascites evacuated .
+He was taken to the Post-Surgical Intensive Care Unit , intubated and stable .
+He continued to have rapid atrial fibrillation and had much difficulty weaning from the ventilator .
+He was finally extubated on 5/10/95 , and despite respiratory rates in the 30s and very coarse , rhonchorous breath sounds , the patient continued to have acceptable oxygen saturation and acceptable blood gases on minimal oxygen .
+His status , however , remained volatile , and in keeping his volume status somewhat on the dry side to optimize his pulmonary status , he became relatively oliguric and hypernatremic .
+He required some fluid boluses with D-5-W to improve his renal function , intravascular volume , and electrolyte balance .
+On 5/14/95 , he returned to the Surgical Intensive Care Unit for very aggressive pulmonary toilet .
+On 5/15/95 , he was taken to the Angio Suite for an attempted transhepatic internal jugular porta caval shunt .
+His portal systemic gradient was only 3 mm. , going from 26 to 23 , so no shunt was placed .
+On 5/17 , he spiked a temperature to 103 with rigors and shaking chills .
+His respiratory status decompensated acutely , and he required reintubation emergently .
+At that time , multiple discussions were held with the family , and they decided to enact a Do Not Resuscitate order .
+Mr. Stone &apos;s renal function continued to deteriorate as well his liver function with rising bilirubin and increasing creatinine .
+His urine output remained very low .
+His white blood cell count rose to 22,000 with a 50% bandemia .
+A Swan-Ganz catheter revealed an SVR of 350 , and he was started on Neo-Synephrine and Epinephrine prior to the Do Not Resuscitate order .
+Throughout the day on 5/18/95 , his blood pressure continued to fall in the 80s , then 70s , then 60s , and at 3:15 a.m. on 5/19/95 , despite multiple pressors , his blood pressure dropped down to 50 ; he then went into ventricular fibrillation , followed by flat line .
+At that time , he had no spontaneous respirations and no audible heart tones .
+He had no carotid pulses , no gag reflex , and no pupillary reflex , and his pupils were fixed and dilated .
+He was pronounced dead at 3:15 a.m.
+The family was contacted and were present at his bedside .
+A postmortem autopsy was requested and denied by the family .
+Dictated By :
+NILA S. KAYSCHIRD , M.D. EW96
+Attending :
+RA LEICKGREND , M.D. RJ12 OY792/4208
+Batch :
+0953
+Index No. SIZYJJSHQ
+D :
+05/19/95
+T :
+05/22/95

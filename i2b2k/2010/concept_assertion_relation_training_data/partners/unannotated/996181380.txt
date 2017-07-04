@@ -1,0 +1,29 @@
+996181380
+BH
+0239706
+601883
+6/16/2004 12:00:00 AM
+ED Discharge Summary
+Unsigned
+DIS
+Report Status :
+Unsigned
+ED DISCHARGE NOTIFICATION
+JUNK , KACHOLERA
+MRN :
+0239706
+Age :
+84y
+REGISTRATION DATE :
+06/16/2004 02:29 AM
+PRELIMINARY REPORT
+This is to notify you that your patient , JUNK , KACHOLERA arrived in the Emergency Department at Bri Health on 06/16/2004 02:29 AM .
+The patient presented with a chief complaint of HEAD BLEED .
+Following evaluation and treatment , the patient &apos;s disposition at the end ofthe visit was ADMITTED AS AN INPATIENT TO BRI HEALTH .
+The patient &apos;s preliminary admitting physician is GRAMSELLRIELL , SHANABE L and the preliminary diagnosis is INTRACRANIAL HEMORRHAGE .
+Please note this information may have been updated on the inpatient unit .
+If you need additional information please call 442-025-0303 .
+PCP Name :
+NIQUE , TOYA N
+Provider Number :
+40906

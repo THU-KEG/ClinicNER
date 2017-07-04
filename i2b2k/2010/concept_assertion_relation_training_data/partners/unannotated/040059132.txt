@@ -1,0 +1,99 @@
+040059132
+FIH
+4026509
+25202/z56k
+895332
+6/23/1993 12:00:00 AM
+CORONARY ARTERY DISEASE .
+Unsigned
+DIS
+Report Status :
+Unsigned
+ADMISSION DATE :
+6/23/93
+DISCHARGE DATE :
+7/2/93
+PRINCIPAL DIAGNOSIS :
+coronary artery disease .
+ASSOCIATED DIAGNOSIS :
+congestive heart failure , atrial fibrillation , H / O protein reaction , elevated cholesterol , obesity , sleep apnea , chronic lung disease and pleural effusions .
+PRINCIPAL PROCEDURE :
+6/24/93 , coronary artery bypass surgery X 2 .
+OTHER PROCEDURES :
+6/24/93 , left internal mammary artery to anterior descending X 1 .
+MEDICATIONS ON DISCHARGE :
+Digoxin .25 mg. po q d , Captopril 12.5 mg. po bid , Coumadin 2.5 mg. po q PM , Lasix 20 mg. po q d , potassium chloride 20 mEq , PO q d , iron sulfate 300 mg. po q d , X 1 month , aspirin 80 mg. po q d , Verapamil 80 mg. po tid .
+CONDITION ON DISCHARGE :
+stable .
+HISTORY OF PRESENT ILLNESS :
+Pauci May is a sixty three year old patient referred by Dr. Laymie Aslinke for significant coronary artery disease .
+He developed acute pulmonary edema on May 27 , 1993 , and was admitted to Sonpathcermu Jords Hospital , and found to be in rapid atrial fibrillation .
+He denied any angina .
+He had a gaited cardiac blood pool scan that showed an ejection fraction of 31% .
+His pulmonary function tests showed FEV1 of 2.1 , and he was found to have intermittent obstructive sleep apnea .
+An echocardiogram showed a dilated left atrium with mitral anular calcification .
+He was discharged home but readmitted on May 21 with recurrent congestive heart failure .
+A Thallium Stress Test showed equivocal ST segment changes with fixed apical and inferior defects .
+His coronary risk factors include cigarette smoking , obesity , a family history of coronary disease , and elevated serum cholesterol .
+He also has a history of atrial fibrillation with sinus pauses during sleep apnea .
+On June 4 , 1993 , he underwent cardiac catheterization .
+He was found to have an occluded right coronary artery , 70% distal left main lesion , 80% proximal ramus lesion , and his left ventricular ejection shows preserved function except for akinesis of the inferior wall .
+His ejection fraction was 50% , a carotid duplex study showed plaqueing but no critical lesions .
+PAST MEDICAL HISTORY :
+As above .
+SOCIAL HISTORY :
+He has a wife Pandeprob and lives in Ashing .
+He did smoke up to three pack per day .
+He has three children .
+He is retired .
+PHYSICAL EXAMINATION :
+Six foot , 250 pounds .
+He is a well appearing male , in no distress .
+HIs blood pressure was 140/70 , pulse 80 and irregular .
+His neck veins were not distended .
+His carotids showed bilateral bruits .
+His lungs are clear .
+His cardiac exam shows a 1/6 systolic ejection murmur .
+His abdomen is obese , but benign .
+His peripheral pulses are intact .
+He has no peripheral edema .
+His Neurological exam is nonfocal .
+LABORATORY DATA :
+sodium 140 , potassium 4.4 , chloride 104 , CO2 30 , calcium 9.3 , phosphorous 1.2 , BUN 9 , creatinine 1.3 , glucose 183 .
+Uric acid 8.4 , bilirubin 0.7 , alkaline phosphatase 72 , amylase 46 , SGOT 20 , and his Digoxin level was 1.0 .
+hematocrit 38% , white blood cell count 7700 , MCV 86 , PT and PTT were normal .
+urinalysis was unremarkable .
+His chest X-ray was normal with bilateral pleural thickening .
+His electrocardiogram showed atrial fibrillation .
+There were nonspecific ST and T wave changes .
+HOSPITAL COURSE :
+The patient was admitted to Hellworthston Hospital .
+There , he stabilized , and was seen in consultation by Cardiology and Anesthesiology .
+There was concern over his sleep apnea , but he appeared to have primarily cardiac disease and therefore because of the left main stenosis , it was reasonable to proceed .
+On June 24 , 1993 , Dr. Lenni Breutzoln performed triple coronary bypass surgery .
+He placed a left internal mammary artery graft to the left anterior descending , single saphenous vein to the posterior descending artery with 170 cc. per minute flow and a single saphenous vein to the circumflex with 140 cc. per minute flow .
+He weaned easily off cardiopulmonary bypass .
+He had no hemodynamic difficulties .
+He was able to wean from the ventilator , but he did have marginal oxygenation throughout .
+He did revert back to atrial fibrillation .
+He was extubated within forty eight hours .
+He was transferred out of the Surgical Intensive Care Unit on June 26 .
+He reverted back to atrial fibrillation that required Digoxin , and Verapamil to control .
+He could not be converted back to normal sinus rhythm even with a trial of Quinaglute .
+He also had anemia and he was seen in consultation by the Nutrition Service .
+He was advised to have an ideal body weight of 178 pounds , and clearly a 2300 calorie diet was appropriate for him .
+Weight reduction would be important in the long term management of his coronary disease .
+He was treated with Digoxin and Diuretics along with Ace inhibitors because of his depressed left ventricular function .
+He was able to ambulate although somewhat slowly because of his rapid atrial fibrillation .
+It was considered to obtain a pulmonary consultation on a formal basis , but it was then felt that he would do better by healing fully from his surgery , because he really had little in the way of pulmonary complications , despite the history of sleep apnea of an obstructive basis .
+Primary in his long term management is cardiac rehabilitation with weight reduction .
+He will be followed closely in 23 Hwy , Hamp by Dr. Laymie Aslinke .
+MAY A , M.D.
+TR :
+ot / bmot
+DD :
+7/1/93
+TD :
+07/02/93
+CC :
+Dr. Daizsmaellille Dr. Lenni Breutzoln , Reos 0

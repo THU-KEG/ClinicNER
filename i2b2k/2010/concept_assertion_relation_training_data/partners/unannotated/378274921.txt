@@ -1,0 +1,113 @@
+378274921
+PUOMC
+0641514
+28078/70a4
+712822
+5/1/1994 12:00:00 AM
+GASTRIC OUTLET OBSTRUCTION .
+Unsigned
+DIS
+Report Status :
+Unsigned
+ADMISSION DATE :
+05-01-94
+DISCHARGE DATE :
+05-22-94
+PRINCIPAL DIAGNOSIS :
+Gastric outlet obstruction .
+ASSOCIATED DIAGNOSIS :
+1. Obstructive jaundice .
+2. metastatic adenocarcinoma to the liver .
+3. biliary obstruction .
+SPECIAL PROCEDURES AND OPERATIONS :
+Esophagogastroduodenoscopy , 05/05/94 .
+Gastrojejunostomy , 05/08/94 .
+HISTORY OF PRESENT ILLNESS :
+The patient is a 111y year old female who presented initially to the Medical service on 05/01 complaining of weight loss , nausea , vomiting and abdominal distention .
+She reported that she was remarkably healthy until the latter part of 12/93 , when her granddaughter noticed her to be jaundiced .
+Since that time she had yellow colored stools .
+On 01/24 she was taken to the Rys Memorial Hospital hospital , where she was diagnosed with choledocholithiasis .
+An ERCP showed stones in the common bile duct but they could not be recovered .
+Therefore she was transferred to Ph University Of Medical Center and admitted there from 01/25 - 02/03 .
+An ERCP was repeated and it was noted that she had a severely dilated common bile duct which contained stones .
+The distal portion of the duct was narrowed and a papillotomy was performed , which drained pus from the common bile duct .
+The stones were then removed .
+The distal narrowing was dilated and cytology was sent , revealing markedly atypical cells with inflammation .
+She was discharged home .
+Approximately one month prior to admission she developed anorexia , increased abdominal girth , weight loss of 15 lb , and nausea and vomiting .
+She presented to the emergency room , where a nasogastric tube was placed and drained approximately 400 of green-brown , thick fluid .
+She was admitted for workup of her symptoms .
+PAST MEDICAL HISTORY :
+As above ; appendectomy in 1916 , hysterectomy in 1941 , mastoid surgery in 1970 , shingles of right arm in 1994 .
+MEDICATIONS ON ADMISSION :
+Aspirin daily .
+ALLERGIES :
+She has no known drug allergies .
+SOCIAL HISTORY :
+The patient lives with her children in Co Darburg and is quite active .
+She is originally from Tbalt .
+She does not smoke and has rare alcohol intake .
+FAMILY HISTORY :
+Her son died of prostate cancer .
+Her mother died of an unspecified tumor .
+PHYSICAL EXAMINATION :
+The patient was a pleasant elderly female in no acute distress .
+Vital signs :
+temperature 98.4 , blood pressure 116/60 , pulse 76 , respirations 18 .
+HEENT :
+sclerae anicteric , pupils equal , round , reactive to light and accommodation , extra ocular movements intact , oropharynx mildly dry .
+The neck was supple with shotty lymphadenopathy , 2+ carotids without bruits .
+Cardiac :
+regular rate and rhythm without murmur .
+Chest :
+a few bibasilar crackles ; otherwise clear to auscultation .
+Abdomen :
+distended , bowel sounds present , tympanitic to percussion anteriorly , dull to percussion laterally .
+No guarding or rebound .
+Extremities :
+no edema .
+Breasts :
+no masses , lesions or nipple discharge .
+No axillary lymphadenopathy .
+Neurological :
+alert and oriented x 3 .
+Cranial nerves II-XII intact .
+LABORATORY DATA :
+White count 13.8 , hematocrit 33 , platelet count 353,000 .
+Sodium 141 , potassium 3.8 , chloride 94 , bicarbonate 31 , BUN 19 , creatinine 1.0 , glucose 218 , alkaline phosphatase 634 , LDH 212 , SGOT 30 , bilirubin 0.8 direct , total bilirubin 1.2 .
+Sed rate 100 .
+PT 11.8 , PTT 23.9 .
+KUB :
+Large , approximately 30 cm stomach filled with fluid .
+Chest x-ray :
+clear lungs .
+EKG :
+left bundle branch block , left anterior descending , normal sinus rhythm at 90 , non-specific ST-T wave changes .
+HOSPITAL COURSE :
+The patient was admitted to the hospital for workup of a presumed obstructive process .
+The patient was seen in consultation by the Gastroenterology service and it was decided that an esophagogastroduodenoscopy would be performed .
+Prior to this study , however , a CT examination of the abdomen was obtained which showed a mass in the porta causing biliary ductal dilatation proximally and gastric outlet obstruction .
+On 05/05 an esophagogastroduodenoscopy was performed , which showed gastric outlet obstruction , a deformed pylorus and a duodenal mass encasing and obstructing the lumen .
+It appeared that there was a large tumor mass obstructing the duodenum and pylorus area , and therefore it was decided that she would benefit from a gastrojejunostomy for drainage of her stomach .
+The General Surgery service was involved at this stage , and on 05/08 a posterior gastrojejunostomy with wedge liver biopsy was performed to facilitate gastric drainage .
+Pathology of the liver biopsy revealed metastatic , moderately differentiated adenocarcinoma .
+The patient did well postoperatively and had prompt return of bowel function .
+However , on postoperative day #5 it was noticed that she had become acutely jaundiced , and her total bilirubin was found to be 7.2 with a direct bilirubin of 4.9 .
+It was obvious that she had now obstructed her biliary tree , as her urine became dark and her stools clay colored .
+After discussion with her family , it was decided that a stent would not be placed for biliary decompression and the patient was confirmed as a do not resuscitate status .
+The patient &apos;s subsequent hospital course was fairly uneventful .
+She complained of fatigue but had a decent appetite .
+As she has an obstructing cancer of the biliary tree and further palliative procedures were deferred , her life expectancy is rather limited .
+The best course of action was placement in a nursing facility , as her family was unable to care for her at home .
+CONDITION ON DISCHARGE :
+Stable .
+STA THEN , M.D.
+DICTATING FOR :
+LIASUN THEN , M.D.
+TR :
+dpi / bmot
+DD :
+05-21-94
+TD :
+05/21/94
+CC :

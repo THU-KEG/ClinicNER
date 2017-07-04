@@ -1,0 +1,7 @@
+c="back pian" 28:0 28:1||t="problem"||a="present"
+c="back pain" 32:0 32:1||t="problem"||a="present"
+c="loss of sensation" 40:15 40:17||t="problem"||a="hypothetical"
+c="back pain" 30:7 30:8||t="problem"||a="present"
+c="severe pain" 36:20 36:21||t="problem"||a="hypothetical"
+c="severe or significantly worsening symptoms" 40:7 40:11||t="problem"||a="hypothetical"
+c="weakness" 40:13 40:13||t="problem"||a="hypothetical"

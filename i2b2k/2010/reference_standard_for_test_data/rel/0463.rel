@@ -1,0 +1,13 @@
+c="gastric ulcerations" 26:14 26:15||r="PIP"||c="an non-steroidal anti-inflammatory drugs gastropathy" 26:18 26:22
+c="dialysis" 25:12 25:12||r="TrAP"||c="apparent fluid overload" 25:14 25:16
+c="his gastrointestinal bleeding issues" 26:0 26:3||r="PIP"||c="gastric ulcerations" 26:14 26:15
+c="his gastrointestinal bleeding issues" 26:0 26:3||r="PIP"||c="an non-steroidal anti-inflammatory drugs gastropathy" 26:18 26:22
+c="an upper endoscopy" 26:7 26:9||r="TeRP"||c="gastric ulcerations" 26:14 26:15
+c="an upper endoscopy" 26:7 26:9||r="TeRP"||c="his gastrointestinal bleeding issues" 26:0 26:3
+c="a respiratory rate" 34:13 34:15||r="TeRP"||c="acutely short of breath" 34:8 34:11
+c="short of breath" 25:5 25:7||r="PIP"||c="apparent fluid overload" 25:14 25:16
+c="an extensive work-up" 30:0 30:2||r="TeCP"||c="any metabolic abnormalities" 30:6 30:8
+c="dialysis" 19:7 19:7||r="TrAP"||c="end stage renal disease" 19:2 19:5
+c="oxygen saturations" 34:19 34:20||r="TeRP"||c="acutely short of breath" 34:8 34:11
+c="one positive blood culture" 32:2 32:5||r="PIP"||c="vancomycin resistant enterococcus" 32:7 32:9
+c="lactulose" 31:4 31:4||r="TrIP"||c="hepatic encephalopathy" 31:6 31:7

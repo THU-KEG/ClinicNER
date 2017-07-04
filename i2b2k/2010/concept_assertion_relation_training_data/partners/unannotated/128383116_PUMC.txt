@@ -1,0 +1,90 @@
+128383116 PUMC
+4224833
+18549
+8273842
+11/29/2003 12:00:00 AM
+OB Discharge Summary
+Signed
+DIS
+Report Status :
+Signed
+OB EMR L and D
+DISCHARGE SUMMARY NAME :
+HILDERINEMI MAMAR PINK
+UNIT NUMBER :
+892-69-30
+ADMISSION DATE :
+20031129
+DISCHARGE DATE :
+20031201
+PRINCIPAL DISCHARGE DIAGNOSIS :
+Normal Vaginal Delivery
+ASSOCIATED DIAGNOSES :
+Anemia ; Cocaine Use ; Current Smoker , history of ; Infant Large For Gestational Age ; Rib Injury , history of ; Streptococcal Infection
+PRINCIPAL PROCEDURE OR OPERATION :
+Spontaneous Vertex Vaginal Delivery
+ASSOCIATED PROCEDURES OR OPERATIONS :
+POSTPARTUM DIAGNOSTIC PROCEDURES :
+None
+POSTPARTUM THERAPEUTIC PROCEDURES :
+None
+HISTORY AND REASON FOR HOSPITALIZATION :
+Early Labor / Rule Out Labor
+PHYSICAL EXAMINATION :
+HEIGHT
+66
+BREASTS
+NORMAL soft nontender no masses plans to bottle feed
+NIPPLES
+NORMAL everted
+CHEST
+NORMAL hr 48 BPM
+ABDOMEN
+NORMAL nontender no roganmeagley
+EXTREM
+NORMAL scar on l calf
+VULVA
+NORMAL old scar from lac or epis no lesions
+VAGINA
+NORMAL pink
+CERVIX
+ant , NO lesions No cmt tenderness
+OS
+NORMAL closed
+ADNEXAE
+NORMAL non tender
+UTERUS
+NORMAL retroverted
+UTERINE SIZE IN WEEKS
+NORMAL 9
+HOSPITAL COURSE ( include complications if any ) :
+This 23 year old Gravida 3 Para 2002 was admitted to the Bap Spald Hospital Obstetrical service on 11/29/2003 at 11:45 pm for the indication ( s ) :
+early labor / rule out labor .
+She delivered a 3350 gram male infant on 11/29/2003 at 02:58 pm with apgar scores of 8 and 9 at one and five minutes respectively at 40.4 weeks gestation via spontaneous vertex vaginal delivery .
+During her labor she encountered the following complication ( s ) :
+none .
+During her delivery she encountered the following complication ( s ) :
+loose x 1 , nuchal cord .
+Postpartum she encountered the following complication ( s ) :
+none .
+She was discharged on 12/01/2003 at 04:46 pm in stable condition .
+DISCHARGE ORDERS ( medications instructions to patient , follow-up care ) :
+DISCHARGE ACTIVITY :
+No Restrictions
+DISCHARGE DIET :
+No Restrictions
+POSTPARTUM DISPOSITION :
+Home With Self-Care ( Routine Discharge )
+POSTPARTUM CARE SITE :
+Ston Community Hospital
+POSTPARTUM RETURN APPOINTMENT ( DAYS ) :
+42
+BREAST FEEDING AT DISCHARGE :
+No
+POSTPARTUM RH IMMUNE GLOBULIN :
+Not Indicated
+POSTPARTUM MEASLES / MUMPS/RUBELLA VACCINE :
+Not Indicated
+MEDICATION ( S ) ON DISCHARGE :
+Multivitamins And Folate Electronically Signed :
+Ca Labor , CNM 12/01/2003 4:48:51 PM
