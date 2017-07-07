@@ -1,3 +1,5 @@
 *.pyc
 *.crfsuite
 *.DS_Store
+*.npy
+

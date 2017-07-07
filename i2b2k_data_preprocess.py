@@ -14,12 +14,16 @@ train_outputpath = os.path.join(base_dir,'train.txt')
 test_outputpath = os.path.join(base_dir,'test.txt')
 category_outputpath = os.path.join(base_dir,'category.txt')
 
+
 category2mentions = {}
+#vocabulary
+vocab = {}
 error = 0
 
 #preprocess data and output in CONLL BIO format
 def rawdata2bio(text_dir, label_dir, outputpath):
 	print text_dir
+	print 'process %s... to BIO format, output %s'%(text_dir, outputpath)
 	writebuf = []
 	for p,d,fs in os.walk(text_dir):
 		for f in fs:
@@ -31,13 +35,24 @@ def rawdata2bio(text_dir, label_dir, outputpath):
 			textlines = open(txtpath,'r').readlines()
 			labellines = open(labelpath,'r').readlines()
 			generateBIO(textlines,labellines,writebuf,tokenizer = naiveTokenize)
+			createVocab(textlines)
 	out = open(outputpath,'w')
 	out.writelines(writebuf)
+
 def naiveTokenize(sent):
-	tokens = sent.split()
+	tokens = sent.lower().split()
 	tagged = nltk.pos_tag(tokens)
 	#print tagged
 	return [[i[0],i[1],'O'] for i in tagged]
+
+def createVocab(textlines,tokenizer=naiveTokenize):
+	tokens = [tokenizer(line.strip()) for line in textlines]
+	for tokenline in tokens:
+		for token in tokenline:
+			if token[0] in vocab:
+				vocab[token[0]]+=1
+			else:
+				vocab[token[0]]=1
 
 def generateBIO(textlines,labellines,writebuf,tokenizer = naiveTokenize):
 	global error
@@ -82,24 +97,24 @@ def generateBIO(textlines,labellines,writebuf,tokenizer = naiveTokenize):
 			writebuf.append('\n')
 
 
-def main():
-	rawdata2bio(train_txtdir,train_labeldir, train_outputpath)
-	rawdata2bio(test_txtdir,test_labeldir, test_outputpath)
+rawdata2bio(train_txtdir,train_labeldir, train_outputpath+'.beth.txt')
+rawdata2bio(test_txtdir,test_labeldir, test_outputpath)
 
+train_dir = os.path.join(base_dir,'concept_assertion_relation_training_data/partners/')
+train_labeldir = os.path.join(train_dir,'concept')
+train_txtdir = os.path.join(train_dir,'txt')
+rawdata2bio(train_txtdir,train_labeldir, train_outputpath+'.partners.txt')
+#print category2mentions,len(category2mentions)
+#print category2mentions.keys()
+print 'error number:%s'%error
 
-	train_dir = os.path.join(base_dir,'concept_assertion_relation_training_data/partners/')
-	train_labeldir = os.path.join(train_dir,'concept')
-	train_txtdir = os.path.join(train_dir,'txt')
-	rawdata2bio(train_txtdir,train_labeldir, train_outputpath+'.partners.txt')
-
-	#print category2mentions,len(category2mentions)
-	#print category2mentions.keys()
-	print 'error number:%s'%error
-
-	out = open(category_outputpath,'w')
+with open(category_outputpath,'w') as out:
 	for key in category2mentions:
 		out.write(key+'\t'+':::'.join([i for i in category2mentions[key]])+'\n')
 
-if __name__=='__main__':
-	main()
+vocab_path = os.path.join(base_dir,'vocab.txt')
+with open('vocab.txt','w') as out:
+	vocab_list = sorted(vocab, key=vocab.get, reverse=True)
+	for w in vocab_list:
+		out.write(w+'\n')
 
