@@ -82,7 +82,7 @@ def prepare_pretrained_embedding(fname, word2id):
 
 def main():
     vocab_path = os.path.join(base_dir,'vocab.txt')
-    embedding_file_name = 'vectors_word10.dat'
+    embedding_file_name = 'GoogleNews-vectors-negative300.bin'
     embedding_path = os.path.join('word2vec', embedding_file_name)
     if os.path.exists(embedding_path):
         word2id, _ = initialize_vocabulary(vocab_path)
