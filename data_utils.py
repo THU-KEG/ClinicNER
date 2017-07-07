@@ -80,6 +80,10 @@ def prepare_pretrained_embedding(fname, word2id):
     print 'Generated embeddings with shape ' + str(embedding.shape)
     return embedding
 
+
+def initialize_category(fname):
+    category2mentions
+
 def main():
     vocab_path = os.path.join(base_dir,'vocab.txt')
     embedding_file_name = 'GoogleNews-vectors-negative300.bin'

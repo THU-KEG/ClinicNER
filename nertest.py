@@ -20,8 +20,8 @@ vocab_path = os.path.join(base_dir,'vocab.txt')
 
 word2id,_ = data_utils.initialize_vocabulary(vocab_path)
 embedding = np.load(embedding_path)
-print word2id
-print 'embedding',embedding[word2id['the']]
+#print word2id
+#print 'embedding',embedding[word2id['the']]
 
 
 def word2vecFeatures(word):
@@ -37,6 +37,7 @@ def word2vecFeatures(word):
 def word2features(sent, i):
     word = sent[i][0]
     postag = sent[i][1]
+    ###basic features
     features = {
         'bias':1.0,
         'word.lower=' + word.lower():1.0,
@@ -48,8 +49,6 @@ def word2features(sent, i):
         'postag=' + postag:1.0,
         'postag[:2]=' + postag[:2]:1.0
     }
-    newfeatures = word2vecFeatures(word.lower())
-    features = dict(features,**newfeatures)
     if i > 0:
         word1 = sent[i-1][0]
         postag1 = sent[i-1][1]
@@ -79,7 +78,9 @@ def word2features(sent, i):
         features = dict(features,**newfeatures)
     else:
         features['EOS'] = 1.0
-                
+    ### word2vec features
+    #newfeatures = word2vecFeatures(word.lower())
+    #features = dict(features,**newfeatures)        
     return features
 
 
@@ -109,7 +110,7 @@ for xseq, yseq in zip(X_train, y_train):
 trainer.set_params({
     'c1': 1.0,   # coefficient for L1 penalty
     'c2': 1e-3,  # coefficient for L2 penalty
-    'max_iterations': 50,  # stop earlier
+    'max_iterations': 100,  # stop earlier
 
     # include transitions that are possible, but not observed
     'feature.possible_transitions': True
@@ -150,4 +151,13 @@ def bio_classification_report(y_true, y_pred):
         target_names = tagset,
     )
 y_pred = [tagger.tag(xseq) for xseq in X_test]
+print y_pred[0],y_test[0],test_sents[0]
+#output result
+assert len(y_pred) == len(test_sents)
+with open(os.path.join(base_dir,'result.txt'),'w') as f:
+    buflines =[]
+    for no in xrange(0,len(y_pred)):
+        buflines.extend(['\t'.join(list(i[0])+[i[1]])+'\n' for i in zip(test_sents[no],y_pred[no])])
+        buflines.extend(['\n'])
+    f.writelines(buflines)
 print(bio_classification_report(y_test, y_pred))
