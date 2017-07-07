@@ -79,8 +79,8 @@ def word2features(sent, i):
     else:
         features['EOS'] = 1.0
     ### word2vec features
-    #newfeatures = word2vecFeatures(word.lower())
-    #features = dict(features,**newfeatures)        
+    newfeatures = word2vecFeatures(word.lower())
+    features = dict(features,**newfeatures)        
     return features
 
 

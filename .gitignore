@@ -2,4 +2,4 @@
 *.crfsuite
 *.DS_Store
 *.npy
-
+result*.txt
