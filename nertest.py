@@ -1,19 +1,39 @@
 from itertools import chain
+import os
 import nltk
 from sklearn.metrics import classification_report, confusion_matrix
 from sklearn.preprocessing import LabelBinarizer
 import sklearn
 import pycrfsuite
 import i2b2k_data
-
+import numpy as np
+import data_utils
 print(sklearn.__version__)
-#print nltk.corpus.conll2002.fileids()
-#train_sents = list(nltk.corpus.conll2002.iob_sents('esp.train'))
-train_sents = i2b2k_data.iob_sents('train')
-#test_sents = list(nltk.corpus.conll2002.iob_sents('esp.testb'))
-test_sents = i2b2k_data.iob_sents('test')
-print train_sents[0]
 
+train_sents = i2b2k_data.iob_sents('train')
+test_sents = i2b2k_data.iob_sents('test')
+
+base_dir = 'i2b2k/2010'
+embedding_file_name = 'GoogleNews-vectors-negative300.bin.emb.npy'
+embedding_path = os.path.join(base_dir, embedding_file_name)
+vocab_path = os.path.join(base_dir,'vocab.txt')
+
+word2id,_ = data_utils.initialize_vocabulary(vocab_path)
+embedding = np.load(embedding_path)
+print word2id
+print 'embedding',embedding[word2id['the']]
+
+
+def word2vecFeatures(word):
+    if word in word2id:
+        features = {}
+        vec = embedding[word2id[word]]
+        for i in xrange(0,len(vec)):
+            features['vec%d'%i] = float(vec[i])
+        return features
+    else:
+        raise ValueError("Vocabulary %s not found.", word)
+    
 def word2features(sent, i):
     word = sent[i][0]
     postag = sent[i][1]
@@ -28,6 +48,8 @@ def word2features(sent, i):
         'postag=' + postag:1.0,
         'postag[:2]=' + postag[:2]:1.0
     }
+    newfeatures = word2vecFeatures(word.lower())
+    features = dict(features,**newfeatures)
     if i > 0:
         word1 = sent[i-1][0]
         postag1 = sent[i-1][1]
@@ -72,8 +94,8 @@ def sent2tokens(sent):
 
 X_train = [sent2features(s) for s in train_sents]
 y_train = [sent2labels(s) for s in train_sents]
-print X_train[0]
-print y_train[0]
+#print X_train[0]
+#print y_train[0]
 
 X_test = [sent2features(s) for s in test_sents]
 y_test = [sent2labels(s) for s in test_sents]

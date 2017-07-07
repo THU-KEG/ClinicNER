@@ -80,12 +80,15 @@ def prepare_pretrained_embedding(fname, word2id):
     print 'Generated embeddings with shape ' + str(embedding.shape)
     return embedding
 
-vocab_path = os.path.join(base_dir,'vocab.txt')
-embedding_file_name = 'vectors_word10.dat'
-embedding_path = os.path.join('word2vec', embedding_file_name)
-if os.path.exists(embedding_path):
-    word2id, _ = initialize_vocabulary(vocab_path)
-    embedding = prepare_pretrained_embedding(embedding_path, word2id)
-    np.save(os.path.join(base_dir, embedding_file_name+'.emb.npy'), embedding)
-else:
-    print "Pretrained embeddings file %s not found." % embedding_path
+def main():
+    vocab_path = os.path.join(base_dir,'vocab.txt')
+    embedding_file_name = 'vectors_word10.dat'
+    embedding_path = os.path.join('word2vec', embedding_file_name)
+    if os.path.exists(embedding_path):
+        word2id, _ = initialize_vocabulary(vocab_path)
+        embedding = prepare_pretrained_embedding(embedding_path, word2id)
+        np.save(os.path.join(base_dir, embedding_file_name+'.emb.npy'), embedding)
+    else:
+        print "Pretrained embeddings file %s not found." % embedding_path
+if __name__ == '__main__':
+    main()
