@@ -14,7 +14,8 @@ train_sents = i2b2k_data.iob_sents('train')
 test_sents = i2b2k_data.iob_sents('test')
 
 base_dir = 'i2b2k/2010'
-embedding_file_name = 'GoogleNews-vectors-negative300.bin.emb.npy'
+embedding_files = ['GoogleNews-vectors-negative300.bin.emb.npy','glove.840B.300d.txt.emb.npy']
+embedding_file_name = embedding_files[1]
 embedding_path = os.path.join(base_dir, embedding_file_name)
 vocab_path = os.path.join(base_dir,'vocab.txt')
 
