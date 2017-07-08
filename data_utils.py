@@ -49,13 +49,33 @@ def _load_bin_vec(fname, vocab):
             if word in vocab:
                 word_vecs[word] = np.fromstring(f.read(binary_len), dtype='float32')
             else:
-            	print word
                 f.read(binary_len)
             cnt +=1
             if cnt%10000 == 0:
             	print '%d lines...'%cnt
     return (word_vecs, layer1_size)
-
+def _load_glove_vec(fname, vocab):
+    """
+    load word  vectors from glove model using glove-python.
+    dependency: https://github.com/maciejkula/glove-python
+    """
+    print 'load bin...'
+    word_vecs = {}
+    cnt = 0
+    l = open(fname,'r').readline()
+    embedding_size = len(l.strip().split()) -1
+    print 'embedding vector size: %d'%(embedding_size)
+    with open(fname, "r") as f:
+        l = f.readline()
+        stemp = l.strip().split(' ',1)
+        assert len(stemp) == 2
+        word = stemp[0]
+        if word in vocab:
+            word_vecs[stemp[0]] = np.fromstring(' '.join(stemp[1:]),sep = ' ')
+        cnt+=1
+        if cnt%10000==0:
+            print '%d lines...'%cnt
+    return (word_vecs,embedding_size)
 
 def _add_random_vec(word_vecs, vocab, emb_size=300):
 	print 'add random...'
@@ -70,9 +90,9 @@ def _add_random_vec(word_vecs, vocab, emb_size=300):
 	return word_vecs
 
 
-def prepare_pretrained_embedding(fname, word2id):
+def prepare_pretrained_embedding(fname, word2id,load_method=_load_bin_vec):
     print 'Reading pretrained word vectors from file ...'
-    word_vecs, emb_size = _load_bin_vec(fname, word2id)
+    word_vecs, emb_size = load_method(fname, word2id)
     word_vecs = _add_random_vec(word_vecs, word2id, emb_size)
     embedding = np.zeros([len(word2id), emb_size])
     for w,idx in word2id.iteritems():
@@ -112,8 +132,6 @@ def caculate_category_center(category2mentions,word2id,embeddings):
     return category2center
 
 
-
-
 def _caculate_mention_vec(mention,word2id,embeddings):
     vec_size = len(embeddings[0])
     mention_vec = np.zeros(vec_size)
@@ -131,12 +149,14 @@ def _caculate_mention_vec(mention,word2id,embeddings):
 
 
 def main():
+    embedding_files = ['GoogleNews-vectors-negative300.bin','glove.840B.300d.txt']
     vocab_path = os.path.join(base_dir,'vocab.txt')
-    embedding_file_name = 'GoogleNews-vectors-negative300.bin'
+    embedding_file_name = embedding_files[1]
+    load_method = _load_glove_vec
     embedding_path = os.path.join('word2vec', embedding_file_name)
     if os.path.exists(embedding_path):
         word2id, _ = initialize_vocabulary(vocab_path)
-        embedding = prepare_pretrained_embedding(embedding_path, word2id)
+        embedding = prepare_pretrained_embedding(embedding_path, word2id,load_method)
         np.save(os.path.join(base_dir, embedding_file_name+'.emb.npy'), embedding)
     else:
         print "Pretrained embeddings file %s not found." % embedding_path
