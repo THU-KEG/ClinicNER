@@ -59,22 +59,22 @@ def _load_glove_vec(fname, vocab):
     load word  vectors from glove model using glove-python.
     dependency: https://github.com/maciejkula/glove-python
     """
-    print 'load bin...'
+    print 'load glove...'
     word_vecs = {}
     cnt = 0
     l = open(fname,'r').readline()
     embedding_size = len(l.strip().split()) -1
     print 'embedding vector size: %d'%(embedding_size)
     with open(fname, "r") as f:
-        l = f.readline()
-        stemp = l.strip().split(' ',1)
-        assert len(stemp) == 2
-        word = stemp[0]
-        if word in vocab:
-            word_vecs[stemp[0]] = np.fromstring(' '.join(stemp[1:]),sep = ' ')
-        cnt+=1
-        if cnt%10000==0:
-            print '%d lines...'%cnt
+        for l in f:
+            stemp = l.strip().split(' ',1)
+            assert len(stemp) == 2
+            word = stemp[0]
+            if word in vocab:
+                word_vecs[stemp[0]] = np.fromstring(' '.join(stemp[1:]),sep = ' ')
+            cnt+=1
+            if cnt%10000==0:
+                print '%d lines...'%cnt
     return (word_vecs,embedding_size)
 
 def _add_random_vec(word_vecs, vocab, emb_size=300):
