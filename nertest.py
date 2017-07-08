@@ -23,8 +23,31 @@ embedding = np.load(embedding_path)
 #print word2id
 #print 'embedding',embedding[word2id['the']]
 
+print 'calculate cagegory center....'
+category2mentions = data_utils.initialize_category(os.path.join(base_dir,'category.txt'))
+category2center = data_utils.caculate_category_center(category2mentions, word2id, embedding)
+#print category2center
 
-def word2vecFeatures(word):
+
+def cateogry_center_features(category2center,word):
+    if word in word2id:
+        features = {}
+        vec = embedding[word2id[word]]
+        for k in category2center:
+            euclidean_distance = np.linalg.norm(vec - category2center[k])
+            cosine_sim = _cal_consine_sim(vec, category2center[k])
+            features['%sCenterDis'% k] = euclidean_distance
+            features['%sCosineSim'% k] = cosine_sim
+        return features
+    else:
+        raise ValueError("Vocabulary %s not found.", word)
+
+def _cal_consine_sim(vec1,vec2):
+    norm1 = np.linalg.norm(vec1)
+    norm2 = np.linalg.norm(vec2)
+    return np.dot(vec1, vec2)/(norm1*norm2)
+
+def word2vec_features(word):
     if word in word2id:
         features = {}
         vec = embedding[word2id[word]]
@@ -33,16 +56,33 @@ def word2vecFeatures(word):
         return features
     else:
         raise ValueError("Vocabulary %s not found.", word)
-    
+def _word_shape_transfer(word):
+    buf = []
+    for i in word:
+        i = i.encode('utf-8')
+        if not str.isalpha(i):
+            buf.append(i)
+        else:
+            if str.isupper(i):
+                buf.append('X')
+            else:
+                buf.append('x')
+    return ''.join(buf)
 def word2features(sent, i):
     word = sent[i][0]
+    wordshape = _word_shape_transfer(word)
     postag = sent[i][1]
     ###basic features
     features = {
         'bias':1.0,
         'word.lower=' + word.lower():1.0,
+        'word[-4:]=' + word[-4:]:1.0,
         'word[-3:]=' + word[-3:]:1.0,
         'word[-2:]=' + word[-2:]:1.0,
+        'word[0:1]=' + word[0:1]:1.0,
+        'word[0:2]=' + word[0:2]:1.0,
+        'word[0:3]=' + word[0:3]:1.0,
+        'wordshaple=%s' % wordshape:1.0,
         'word.isupper=%s' % word.isupper():1.0,
         'word.istitle=%s' % word.istitle():1.0,
         'word.isdigit=%s' % word.isdigit():1.0,
@@ -51,12 +91,14 @@ def word2features(sent, i):
     }
     if i > 0:
         word1 = sent[i-1][0]
+        word1shape = _word_shape_transfer(word1)
         postag1 = sent[i-1][1]
         newfeatures = {
             '-1:word.lower=' + word1.lower():1.0,
             '-1:word.istitle=%s' % word1.istitle():1.0,
             '-1:word.isupper=%s' % word1.isupper():1.0,
             '-10:word.lower=' + word1.lower()+'_'+word.lower():1.0,
+            #'s-1s0=%s'%(word1shape+'_'+wordshape):1.0,
             '-1:postag=' + postag1:1.0,
             '-1:postag[:2]=' + postag1[:2]:1.0
         }
@@ -66,12 +108,14 @@ def word2features(sent, i):
         
     if i < len(sent)-1:
         word1 = sent[i+1][0]
+        word1shape = _word_shape_transfer(word1)
         postag1 = sent[i+1][1]
         newfeatures = {
             '+1:word.lower=' + word1.lower():1.0,
             '+1:word.istitle=%s' % word1.istitle():1.0,
             '+1:word.isupper=%s' % word1.isupper():1.0,
             '01:word.lower=' +word.lower()+'_'+word1.lower():1.0,
+            #'s0s1=%s' % (wordshape+'_'+word1shape):1.0,
             '+1:postag=' + postag1:1.0,
             '+1:postag[:2]=' + postag1[:2]:1.0
         }
@@ -79,8 +123,12 @@ def word2features(sent, i):
     else:
         features['EOS'] = 1.0
     ### word2vec features
-    newfeatures = word2vecFeatures(word.lower())
-    features = dict(features,**newfeatures)        
+    newfeatures = word2vec_features(word.lower())
+    features = dict(features,**newfeatures)
+
+    ### cateogry features
+    newfeatures = cateogry_center_features(category2center,word.lower())
+    features = dict(features,**newfeatures)
     return features
 
 
@@ -108,8 +156,8 @@ for xseq, yseq in zip(X_train, y_train):
     trainer.append(xseq, yseq)
 
 trainer.set_params({
-    'c1': 1.0,   # coefficient for L1 penalty
-    'c2': 1e-3,  # coefficient for L2 penalty
+    'c1': 0.5,   # coefficient for L1 penalty
+    'c2': 1e-4,  # coefficient for L2 penalty
     'max_iterations': 100,  # stop earlier
 
     # include transitions that are possible, but not observed

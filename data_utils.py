@@ -82,7 +82,53 @@ def prepare_pretrained_embedding(fname, word2id):
 
 
 def initialize_category(fname):
-    category2mentions
+    category2mentions ={}
+    with open(fname,'r') as f:
+        for line in f:
+            stemp = line.split('\t')
+            category2mentions[stemp[0].strip()] = [i.strip() for i in stemp[1].split(':::')]
+            assert len(category2mentions[stemp[0].strip()]) > 0
+    return category2mentions
+
+
+def caculate_category_center(category2mentions,word2id,embeddings):
+    assert word2id != None 
+    category2center = {}
+    vec_size = len(embeddings[0])
+    for k in category2mentions.keys():
+        cnt = 0
+        err = 0
+        vec = np.zeros(vec_size)
+        for m in category2mentions[k]:
+            m_vec = _caculate_mention_vec(m,word2id,embeddings)
+            if m_vec is None:
+                err+=1
+            else:
+                vec = vec + m_vec
+                cnt +=1
+        vec/=cnt
+        category2center[k] = vec
+        print 'category:%s  cnt:%d  err:%d' % (k,cnt,err)
+    return category2center
+
+
+
+
+def _caculate_mention_vec(mention,word2id,embeddings):
+    vec_size = len(embeddings[0])
+    mention_vec = np.zeros(vec_size)
+    cnt  = 0
+    for w in mention.split():
+        cnt +=1
+        w = w.lower().strip()
+        if w in word2id:
+            mention_vec+=embeddings[word2id[w]]
+        else:
+            return None
+            #raise ValueError("Vocabulary %s not found. in mention %s" % (w,mention))
+    mention_vec/=cnt
+    return mention_vec
+
 
 def main():
     vocab_path = os.path.join(base_dir,'vocab.txt')
