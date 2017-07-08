@@ -99,8 +99,8 @@ def word2features(sent, i):
             '-1:word.istitle=%s' % word1.istitle():1.0,
             '-1:word.isupper=%s' % word1.isupper():1.0,
             '-10:word.lower=' + word1.lower()+'_'+word.lower():1.0,
-            #'s-1s0=%s'%(word1shape+'_'+wordshape):1.0,
             '-1:postag=' + postag1:1.0,
+            '-1:isdigit=%s' % word.isdigit():1.0,
             '-1:postag[:2]=' + postag1[:2]:1.0
         }
         features = dict(features,**newfeatures)
@@ -116,7 +116,7 @@ def word2features(sent, i):
             '+1:word.istitle=%s' % word1.istitle():1.0,
             '+1:word.isupper=%s' % word1.isupper():1.0,
             '01:word.lower=' +word.lower()+'_'+word1.lower():1.0,
-            #'s0s1=%s' % (wordshape+'_'+word1shape):1.0,
+            '+1:isdigit=%s' % word1.isdigit():1.0,
             '+1:postag=' + postag1:1.0,
             '+1:postag[:2]=' + postag1[:2]:1.0
         }

@@ -149,9 +149,9 @@ def _caculate_mention_vec(mention,word2id,embeddings):
 
 
 def main():
-    embedding_files = ['GoogleNews-vectors-negative300.bin','glove.840B.300d.txt']
+    embedding_files = ['GoogleNews-vectors-negative300.bin','glove.840B.300d.txt','mimic_glove.txt']
     vocab_path = os.path.join(base_dir,'vocab.txt')
-    embedding_file_name = embedding_files[1]
+    embedding_file_name = embedding_files[2]
     load_method = _load_glove_vec
     embedding_path = os.path.join('word2vec', embedding_file_name)
     if os.path.exists(embedding_path):
