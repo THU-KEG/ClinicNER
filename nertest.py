@@ -178,8 +178,8 @@ def sent2tokens(sent):
     return [token for token, postag, label in sent]
 
 print 'prepare train data..'
-X_train = [sent2features(s) for s in train_sents[:10]]
-y_train = [sent2labels(s) for s in train_sents[:10]]
+X_train = [sent2features(s) for s in train_sents]
+y_train = [sent2labels(s) for s in train_sents]
 #print X_train[0]
 #print y_train[0]
 
@@ -200,7 +200,7 @@ trainer.set_params({
     # include transitions that are possible, but not observed
     'feature.possible_transitions': True
 })
-trainer.train('i2b2k2010-esp.crfsuite')
+trainer.train('i2b2k2010-esp.crfsuite')# train the model and save it in this file 
 
 
 del X_train,y_train
