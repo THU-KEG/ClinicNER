@@ -16,8 +16,7 @@ ClinicNER experiments
 >git clone
 >python nertest.py
 
-##Some results
-
+## Some results
 - accuracy:  91.11%; 
 - ALLprecision:  81.64%; recall:  76.20%; FB1:  78.83
 - PROBLEM: precision:  79.55%; recall:  77.61%; FB1:  78.57  12285
