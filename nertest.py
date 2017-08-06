@@ -57,6 +57,17 @@ def word2vec_features(word):
         return features
     else:
         raise ValueError("Vocabulary %s not found.", word)
+
+def word2vec_features_with_name(word,name):
+    if word in word2id:
+        features = {}
+        vec = embedding[word2id[word]]
+        for i in xrange(0,len(vec)):
+            features['%s%d'%(name,i)] = float(vec[i])
+        return features
+    else:
+        raise ValueError("Vocabulary %s not found.", word)
+
 def _word_shape_transfer(word):
     buf = []
     for i in word:
@@ -104,9 +115,21 @@ def word2features(sent, i):
             '-1:postag[:2]=' + postag1[:2]:1.0
         }
         features = dict(features,**newfeatures)
+        w2vfeatures = word2vec_features_with_name(word1.lower(),"prefixw2v")
+        features = dict(features,**w2vfeatures)
     else:
         features['BOS'] = 1.0
-        
+
+    if i > 1:
+        word1 = sent[i-2][0]
+        word1shape = _word_shape_transfer(word1)
+        postag1 = sent[i-1][1]
+        newfeatures = {
+            '-2:word.lower=' + word1.lower():1.0,
+            '-2:postag=' + postag1:1.0,
+        }
+        w2vfeatures = word2vec_features_with_name(word1.lower(),"prefix-2w2v")
+        features = dict(features,**w2vfeatures)
     if i < len(sent)-1:
         word1 = sent[i+1][0]
         word1shape = _word_shape_transfer(word1)
@@ -121,8 +144,20 @@ def word2features(sent, i):
             '+1:postag[:2]=' + postag1[:2]:1.0
         }
         features = dict(features,**newfeatures)
+        w2vfeatures = word2vec_features_with_name(word1.lower(),"suffixw2v")
+        features = dict(features,**w2vfeatures)
     else:
         features['EOS'] = 1.0
+    if i < len(sent)-2:
+        word1 = sent[i+2][0]
+        word1shape = _word_shape_transfer(word1)
+        postag1 = sent[i+2][1]
+        newfeatures = {
+            '+2:word.lower=' + word1.lower():1.0,
+            '+2:postag=' + postag1:1.0,
+        }
+        w2vfeatures = word2vec_features_with_name(word1.lower(),"suffix-2w2v")
+        features = dict(features,**w2vfeatures)
     ### word2vec features
     newfeatures = word2vec_features(word.lower())
     features = dict(features,**newfeatures)
@@ -142,22 +177,23 @@ def sent2labels(sent):
 def sent2tokens(sent):
     return [token for token, postag, label in sent]
 
-X_train = [sent2features(s) for s in train_sents]
-y_train = [sent2labels(s) for s in train_sents]
+print 'prepare train data..'
+X_train = [sent2features(s) for s in train_sents[:10]]
+y_train = [sent2labels(s) for s in train_sents[:10]]
 #print X_train[0]
 #print y_train[0]
 
-X_test = [sent2features(s) for s in test_sents]
-y_test = [sent2labels(s) for s in test_sents]
 
+print 'train data size:%d'%(len(X_train))
 
 trainer = pycrfsuite.Trainer(verbose=True)
 
 for xseq, yseq in zip(X_train, y_train):
     trainer.append(xseq, yseq)
 
+
 trainer.set_params({
-    'c1': 0.5,   # coefficient for L1 penalty
+    'c1': 0.1,   # coefficient for L1 penalty
     'c2': 1e-4,  # coefficient for L2 penalty
     'max_iterations': 100,  # stop earlier
 
@@ -167,8 +203,15 @@ trainer.set_params({
 trainer.train('i2b2k2010-esp.crfsuite')
 
 
+del X_train,y_train
+
+print 'prepare test data..'
+X_test = [sent2features(s) for s in test_sents]
+y_test = [sent2labels(s) for s in test_sents]
+
 
 ##############################test################
+print 'begin tagger..'
 tagger = pycrfsuite.Tagger()
 tagger.open('i2b2k2010-esp.crfsuite')
 example_sent = test_sents[0]
