@@ -16,9 +16,9 @@ ClinicNER experiments
 
 ## Some results
 - accuracy:  91.11%; 
-- ALLprecision:  81.64%; recall:  76.20%; FB1:  78.83
-- PROBLEM: precision:  79.55%; recall:  77.61%; FB1:  78.57  12285
-- TEST: precision:  83.12%; recall:  74.46%; FB1:  78.55  8264
+- ALL:       precision:  81.64%; recall:  76.20%; FB1:  78.83
+- PROBLEM:   precision:  79.55%; recall:  77.61%; FB1:  78.57  12285
+- TEST:      precision:  83.12%; recall:  74.46%; FB1:  78.55  8264
 - TREATMENT: precision:  83.20%; recall:  76.03%; FB1:  79.45  8538
 
 
